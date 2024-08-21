@@ -25,3 +25,66 @@ LOD Guide by Ungeziefi: https://themidnightride.moddinglinked.com/lod.html
 Fallout 4 Load Order Survival Guide by oddlittleturtle: https://oddlittleturtle.com/load-order/load-order-survival-guide/
 Load Order Framework Basic Template by oddlittleturtle: https://oddlittleturtle.com/load-order/load-order-templates/
 FO4Check_Previsbines Script Guide by PJMail: https://www.nexusmods.com/fallout4/articles/4299
+Munitions Features and Information for Mod Authors by codeblackcrash: https://www.nexusmods.com/fallout4/articles/4135
+Patching New Ammo Types by eclix: https://www.nexusmods.com/fallout4/articles/4101
+Creating Patches by henkspamadres: https://www.nexusmods.com/fallout4/articles/2061
+SCOURGE – Patching by GELLUXRUM: https://fallout.wiki/wiki/Mod:SCOURGE/Patching
+Extending the Bus by pra: https://www.nexusmods.com/fallout4/articles/4913
+Hot Diggity by FishFiend: https://docs.google.com/document/d/1o6HJDiFDcC-GHyfTLG02ABfEy-O3j1kB__NcKs4lLFI/edit#heading=h.ik1mokpdi0sm
+Installing the User Interface for a FallUI Complex Item Sorter Build by 4estGimp: https://www.nexusmods.com/fallout4/articles/2956
+
+If you'd like to support me...
+
+Patreon: https://www.patreon.com/kcissicknasty
+Buy-Me-a-Coffee: https://buymeacoffee.com/kcissicknasty
+Check out my band, ADA: https://open.spotify.com/artist/7D5hStnbyJ8lcvg1Fgc4jR
+If you need someone to voice act for your mod, email me at: kcissicknasty@gmail.com
+
+Credits-
+
+Livelynightmare
+Exoclyps
+rsm000rsm
+MadMAX713
+4estGimp
+RascalArt
+Otellino
+kinggath
+StamperDoesMods
+haplessAccreditation
+shreddah4
+TheCapitalWastelandProject
+bombasticmori
+bp42s
+GePalladium
+DoubleYouC
+registrator2000
+Fudgyduff
+fadingsignal
+m8r98a4f2
+codeblackcrash
+micalov
+Xeniu
+Ungeziefi
+MunkySpunk
+Transient3292
+Arthmoor
+Glitchfinder
+icodei
+shad0wshayd3
+BlahBlahDEEBBlahBlah
+Wanaming0
+Zorkaz
+theninjew
+Nukem
+kassent
+Antonix35
+TommInfinite
+Zzyxzz
+perchik71
+GELLUXRUM
+LarannKiar
+SoleVaultBoy
+PK0
+ousnius
+alandtse
