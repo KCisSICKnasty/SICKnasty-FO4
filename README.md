@@ -15,6 +15,7 @@ FO4 Crash Log Auto Scanner and Setup Integrity Checker (CLASSIC): https://www.ne
 BA2 Archive Version Patcher: https://www.nexusmods.com/fallout4/mods/56255
 Unpackrr – Avoid BA2 Limit (now with BA2 Health Check) - Batch BA2 Unpacker Evolved: https://www.nexusmods.com/fallout4/mods/82082
 Batch Plugin Cleaner for Mod Organizer – Multi-Game Edition: https://www.nexusmods.com/fallout4/mods/85067
+DDS Texture Scanner: https://www.nexusmods.com/fallout4/mods/71588
 
 Reading Material-
 
