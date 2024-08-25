@@ -8,7 +8,6 @@ Creation Kit Platform Extended for Fallout 4: https://www.nexusmods.com/fallout4
 LOOT: https://loot.github.io/
 BodySlide and Outfit Studio: https://www.nexusmods.com/fallout4/mods/25
 Vault-Tec Enhanced FaceGen System (VEFS): https://www.nexusmods.com/fallout4/mods/86374
-PJM’s Precombine – Previs Patching Scripts: https://www.nexusmods.com/fallout4/mods/69978
 DynDOLOD/TexGen: https://www.nexusmods.com/skyrimspecialedition/mods/DynDOLOD-3/68518
 xLODGen: https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-116-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
 FO4 Crash Log Auto Scanner and Setup Integrity Checker (CLASSIC): https://www.nexusmods.com/fallout4/mods/56255
@@ -16,6 +15,10 @@ BA2 Archive Version Patcher: https://www.nexusmods.com/fallout4/mods/56255
 Unpackrr – Avoid BA2 Limit (now with BA2 Health Check) - Batch BA2 Unpacker Evolved: https://www.nexusmods.com/fallout4/mods/82082
 Batch Plugin Cleaner for Mod Organizer – Multi-Game Edition: https://www.nexusmods.com/fallout4/mods/85067
 DDS Texture Scanner: https://www.nexusmods.com/fallout4/mods/71588
+
+Scripts-
+PJM’s Precombine – Previs Patching Scripts: https://www.nexusmods.com/fallout4/mods/69978
+Injector Scripts - Leveled Item - Legendaries - INNR - Form List: https://www.nexusmods.com/fallout4/mods/37808
 
 Reading Material-
 
