@@ -19,6 +19,8 @@ DDS Texture Scanner: https://www.nexusmods.com/fallout4/mods/71588
 Scripts-
 PJM’s Precombine – Previs Patching Scripts: https://www.nexusmods.com/fallout4/mods/69978
 Injector Scripts - Leveled Item - Legendaries - INNR - Form List: https://www.nexusmods.com/fallout4/mods/37808
+Pra's Fo4Edit Scripts - Automatic Patch Generation: https://www.nexusmods.com/fallout4/mods/28898
+Complex Patchers - Construction and Crafting Converter - Cars Don't Explode - Weapon Range Disabler: https://www.nexusmods.com/fallout4/mods/66438
 
 Reading Material-
 
