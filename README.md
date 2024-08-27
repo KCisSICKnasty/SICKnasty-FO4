@@ -2,6 +2,11 @@
  
 Tools-
 
+Mod Organizer 2 - ModdingLinked Edition: https://www.nexusmods.com/site/mods/874
+Bethini Pie (Performance INI Editor): https://www.nexusmods.com/site/mods/631
+Fallout 4 Script Extender (F4SE) v0.6.23: https://www.nexusmods.com/fallout4/mods/42147?tab=files&file_id=253313
+xSE PluginPreloader F4: https://www.nexusmods.com/fallout4/mods/33946
+Simple Fallout 4 Downgrader: https://www.nexusmods.com/fallout4/mods/81933
 xEdit: https://github.com/TES5Edit/TES5Edit/releases/
 Creation Kit: https://store.steampowered.com/app/1946160/Fallout_4_Creation_Kit/
 Creation Kit Platform Extended for Fallout 4: https://www.nexusmods.com/fallout4/mods/51165
@@ -39,6 +44,10 @@ SCOURGE – Patching by GELLUXRUM: https://fallout.wiki/wiki/Mod:SCOURGE/Patchin
 Extending the Bus by pra: https://www.nexusmods.com/fallout4/articles/4913
 Hot Diggity by FishFiend: https://docs.google.com/document/d/1o6HJDiFDcC-GHyfTLG02ABfEy-O3j1kB__NcKs4lLFI/edit#heading=h.ik1mokpdi0sm
 Installing the User Interface for a FallUI Complex Item Sorter Build by 4estGimp: https://www.nexusmods.com/fallout4/articles/2956
+
+Utilities-
+
+
 
 If you'd like to support me...
 
