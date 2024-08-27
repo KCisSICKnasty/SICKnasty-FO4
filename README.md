@@ -21,6 +21,7 @@ PJM’s Precombine – Previs Patching Scripts: https://www.nexusmods.com/fallou
 Injector Scripts - Leveled Item - Legendaries - INNR - Form List: https://www.nexusmods.com/fallout4/mods/37808
 Pra's Fo4Edit Scripts - Automatic Patch Generation: https://www.nexusmods.com/fallout4/mods/28898
 Complex Patchers - Construction and Crafting Converter - Cars Don't Explode - Weapon Range Disabler: https://www.nexusmods.com/fallout4/mods/66438
+MXPF - Mator's xEdit Patching Framework: https://www.nexusmods.com/skyrim/mods/68617
 
 Reading Material-
 
