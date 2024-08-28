@@ -12,6 +12,7 @@ Creation Kit: https://store.steampowered.com/app/1946160/Fallout_4_Creation_Kit/
 Creation Kit Platform Extended for Fallout 4: https://www.nexusmods.com/fallout4/mods/51165
 LOOT: https://loot.github.io/
 BodySlide and Outfit Studio: https://www.nexusmods.com/fallout4/mods/25
+OCBP for Fallout 4 3.1.2: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
 Vault-Tec Enhanced FaceGen System (VEFS): https://www.nexusmods.com/fallout4/mods/86374
 DynDOLOD/TexGen: https://www.nexusmods.com/skyrimspecialedition/mods/DynDOLOD-3/68518
 xLODGen: https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-116-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
