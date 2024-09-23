@@ -2,3 +2,9 @@ Settings you must change manually in game:
 
 Power Armor Handling Improvements - Retain Armor Buffs:
 -Backpacks of the Commonwealth - Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
+
+All Weapons HD (A.W.H.D.):
+-Fallout4Prefs.ini - Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
+-Fallout4Custom.ini - [Archive]
+		      bInvalidateOlderFiles=1s
+		      ResourceDataDirsFinal=
