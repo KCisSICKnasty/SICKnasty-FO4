@@ -1,0 +1,4 @@
+Settings you must change manually in game:
+
+Power Armor Handling Improvements - Retain Armor Buffs:
+-Backpacks of the Commonwealth - Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
