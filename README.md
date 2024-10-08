@@ -1,108 +1,28 @@
-# SICKnasty
+# SICKnasty - FO4
  
-Tools-
+Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas.
+FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into
+the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I
+remembered...I got a PC for a reason.
 
-Mod Organizer 2 - ModdingLinked Edition: https://www.nexusmods.com/site/mods/874
-Bethini Pie (Performance INI Editor): https://www.nexusmods.com/site/mods/631
-Fallout 4 Script Extender (F4SE) v0.6.23: https://www.nexusmods.com/fallout4/mods/42147?tab=files&file_id=253313
-xSE PluginPreloader F4: https://www.nexusmods.com/fallout4/mods/33946
-Simple Fallout 4 Downgrader: https://www.nexusmods.com/fallout4/mods/81933
-xEdit: https://github.com/TES5Edit/TES5Edit/releases/
-Creation Kit: https://store.steampowered.com/app/1946160/Fallout_4_Creation_Kit/
-Creation Kit Platform Extended for Fallout 4: https://www.nexusmods.com/fallout4/mods/51165
-LOOT: https://loot.github.io/
-BodySlide and Outfit Studio: https://www.nexusmods.com/fallout4/mods/25
-OCBP for Fallout 4 3.1.2: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
-Vault-Tec Enhanced FaceGen System (VEFS): https://www.nexusmods.com/fallout4/mods/86374
-DynDOLOD/TexGen: https://www.nexusmods.com/skyrimspecialedition/mods/DynDOLOD-3/68518
-xLODGen: https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-116-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
-FO4 Crash Log Auto Scanner and Setup Integrity Checker (CLASSIC): https://www.nexusmods.com/fallout4/mods/56255
-BA2 Archive Version Patcher: https://www.nexusmods.com/fallout4/mods/56255
-Unpackrr – Avoid BA2 Limit (now with BA2 Health Check) - Batch BA2 Unpacker Evolved: https://www.nexusmods.com/fallout4/mods/82082
-Batch Plugin Cleaner for Mod Organizer – Multi-Game Edition: https://www.nexusmods.com/fallout4/mods/85067
-DDS Texture Scanner: https://www.nexusmods.com/fallout4/mods/71588
-VRAMr: https://www.nexusmods.com/fallout4/mods/80305
+Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
-Scripts-
-PJM’s Precombine – Previs Patching Scripts: https://www.nexusmods.com/fallout4/mods/69978
-Injector Scripts - Leveled Item - Legendaries - INNR - Form List: https://www.nexusmods.com/fallout4/mods/37808
-Pra's Fo4Edit Scripts - Automatic Patch Generation: https://www.nexusmods.com/fallout4/mods/28898
-Complex Patchers - Construction and Crafting Converter - Cars Don't Explode - Weapon Range Disabler: https://www.nexusmods.com/fallout4/mods/66438
-MXPF - Mator's xEdit Patching Framework: https://www.nexusmods.com/skyrim/mods/68617
+This list was made fully with survival mode in mind. It wont hit as hard in normal game. It's okay though, because you can tweak survival mode however you want thanks to
+Unlimited Survival Mode - F4SE! So, don't be a scaredy cat!
 
-Reading Material-
+It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special.
 
-Tome of xEdit by TES5Edit Team: https://tes5edit.github.io/docs/index.html
-Basics of xEdit by Ungeziefi: https://moddinglinked.com/xedit.html#setup
-LOD Generation Instructions by DoubleYouC: https://www.nexusmods.com/fallout4/articles/4162
-LOD Guide by Ungeziefi: https://themidnightride.moddinglinked.com/lod.html
-Fallout 4 Load Order Survival Guide by oddlittleturtle: https://oddlittleturtle.com/load-order/load-order-survival-guide/
-Load Order Framework Basic Template by oddlittleturtle: https://oddlittleturtle.com/load-order/load-order-templates/
-FO4Check_Previsbines Script Guide by PJMail: https://www.nexusmods.com/fallout4/articles/4299
-Munitions Features and Information for Mod Authors by codeblackcrash: https://www.nexusmods.com/fallout4/articles/4135
-Patching New Ammo Types by eclix: https://www.nexusmods.com/fallout4/articles/4101
-Creating Patches by henkspamadres: https://www.nexusmods.com/fallout4/articles/2061
-SCOURGE – Patching by GELLUXRUM: https://fallout.wiki/wiki/Mod:SCOURGE/Patching
-Extending the Bus by pra: https://www.nexusmods.com/fallout4/articles/4913
-Hot Diggity by FishFiend: https://docs.google.com/document/d/1o6HJDiFDcC-GHyfTLG02ABfEy-O3j1kB__NcKs4lLFI/edit#heading=h.ik1mokpdi0sm
-Installing the User Interface for a FallUI Complex Item Sorter Build by 4estGimp: https://www.nexusmods.com/fallout4/articles/2956
+For perks, a full overall that stitches together True Perks, VAFS, MAIM, and True Damage. I carry over almost everything from VAFS so the mechanic wins, but keep the
+requirements that True Perks puts in place so there's no mixup. Anything that touches damage is nerfed with changes carried over from True Damage. Any MAIM conflicts are
+taken care of. All of this is done with the SICKnastyPERKmodule.
 
-Utilities-
+Since True Damage makes bullets hurt a lot more, why not more bullets? Munitions & Co. give us tons of new ammunition. Thanks to DJINDO, the new ammo types will play well with
+TD also! I'd use Reaper's RobCo mod, but I prefer seeing everything worked out in xEdit for this one specifically. Same reason we're not using the True Damage Easy Load Order
+mod.
 
+"But True Damage makes the game so hard..." Get Power Armor. Thanks to Bastion, you're now literally covered. Damage wont go through until the piece is broken, and then you'll
+only take damage in the specific spot. We've got some nifty mods to make Bastion smart, so Power Armor is more of a necessity.
 
-
-If you'd like to support me...
-
-Patreon: https://www.patreon.com/kcissicknasty
-Buy-Me-a-Coffee: https://buymeacoffee.com/kcissicknasty
-Check out my band, ADA: https://open.spotify.com/artist/7D5hStnbyJ8lcvg1Fgc4jR
-If you need someone to voice act for your mod, email me at: kcissicknasty@gmail.com
-
-Credits-
-
-Livelynightmare
-Exoclyps
-rsm000rsm
-MadMAX713
-4estGimp
-RascalArt
-Otellino
-kinggath
-StamperDoesMods
-haplessAccreditation
-shreddah4
-TheCapitalWastelandProject
-bombasticmori
-bp42s
-GePalladium
-DoubleYouC
-registrator2000
-Fudgyduff
-fadingsignal
-m8r98a4f2
-codeblackcrash
-micalov
-Xeniu
-Ungeziefi
-MunkySpunk
-Transient3292
-Arthmoor
-Glitchfinder
-icodei
-shad0wshayd3
-BlahBlahDEEBBlahBlah
-Wanaming0
-Zorkaz
-theninjew
-Nukem
-kassent
-Antonix35
-TommInfinite
-Zzyxzz
-perchik71
-GELLUXRUM
-LarannKiar
-SoleVaultBoy
-PK0
-ousnius
-alandtse
+Warsaw's Improved factions series serves as a base for a ton of the weapon and armor mods on this list. I've more or less included everything that they can interact with that
+doesn't conflict. Raider Overhaul & Raider Gangs Extended, Super Mutant Redux & Forced Evolution, More Feral Ghouls & Feral Ghoul Expansion Pack, We Are the Minutemen & You
+and What Army 2...You name it, bud. If the faction exists, it's been overhauled.
