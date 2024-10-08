@@ -8,3 +8,5 @@ All Weapons HD (A.W.H.D.):
 -Fallout4Custom.ini - [Archive]
 		      bInvalidateOlderFiles=1s
 		      ResourceDataDirsFinal=
+
+(Still trying to compile this. If you notice any steps I should have listed, please let me know!)
