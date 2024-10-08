@@ -26,3 +26,7 @@ only take damage in the specific spot. We've got some nifty mods to make Bastion
 Warsaw's Improved factions series serves as a base for a ton of the weapon and armor mods on this list. I've more or less included everything that they can interact with that
 doesn't conflict. Raider Overhaul & Raider Gangs Extended, Super Mutant Redux & Forced Evolution, More Feral Ghouls & Feral Ghoul Expansion Pack, We Are the Minutemen & You
 and What Army 2...You name it, bud. If the faction exists, it's been overhauled.
+
+I'll continue updating this as I update the mod list, but this is the culmination of months spent in front of xEdit and MO2. If there's a bug, please let me know and I'll fix
+it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay at home
+dad, so I've got nothing but time to answer questions and resolve issues! (:
