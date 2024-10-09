@@ -32,5 +32,7 @@ it in an update! In a way, you're helping me run this like a beta. I was nervous
 dad, so I've got nothing but time to answer questions and resolve issues! (:
 
 Patreon: https://www.patreon.com/kcissicknasty
+
 Buy-Me-a-Coffee: https://buymeacoffee.com/kcissicknasty
+
 My band, ADA: https://open.spotify.com/artist/7D5hStnbyJ8lcvg1Fgc4jR
