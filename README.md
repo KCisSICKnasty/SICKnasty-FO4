@@ -30,3 +30,7 @@ and What Army 2...You name it, bud. If the faction exists, it's been overhauled.
 I'll continue updating this as I update the mod list, but this is the culmination of months spent in front of xEdit and MO2. If there's a bug, please let me know and I'll fix
 it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay at home
 dad, so I've got nothing but time to answer questions and resolve issues! (:
+
+Patreon: https://www.patreon.com/kcissicknasty
+Buy-Me-a-Coffee: https://buymeacoffee.com/kcissicknasty
+My band, ADA: https://open.spotify.com/artist/7D5hStnbyJ8lcvg1Fgc4jR
