@@ -1,3 +1,17 @@
+Settings you must change manually in Mod Organizer 2:
+
+High FPS Physics Fix:
+-set line 26 to true
+-set line 37 to true
+-set line 51 to 3.0
+
+Buffout 4 NG with PDB support:
+-set line 26 to false
+-set line 27 to false
+-set line 31 to false
+-set line 33 to false
+-set line 34 to false
+
 Settings you must change manually in game:
 
 Power Armor Handling Improvements - Retain Armor Buffs:
