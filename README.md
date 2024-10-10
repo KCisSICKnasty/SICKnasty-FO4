@@ -20,7 +20,7 @@ Since True Damage makes bullets hurt a lot more, why not more bullets? Munitions
 TD also! I'd use Reaper's RobCo mod, but I prefer seeing everything worked out in xEdit for this one specifically. Same reason we're not using the True Damage Easy Load Order
 mod.
 
-"But True Damage makes the game so hard..." Get Power Armor. Thanks to Bastion, you're now literally covered. Damage wont go through until the piece is broken, and then you'll
+"But True Damage & MAIM make the game so hard..." Get Power Armor. Thanks to Bastion, you're now literally covered. Damage wont go through until the piece is broken, and then you'll
 only take damage in the specific spot. We've got some nifty mods to make Bastion smart, so Power Armor is more of a necessity.
 
 Warsaw's Improved factions series serves as a base for a ton of the weapon and armor mods on this list. I've more or less included everything that they can interact with that
