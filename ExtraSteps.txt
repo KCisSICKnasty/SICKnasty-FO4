@@ -14,6 +14,10 @@ I've included the Creation Club content that the NextGen update includes, but I'
 It's in Stock Game/mods, a folder called "[NoDelete] Creation Club Content". I couldn't compile the list without excluding it, so if running the downgrader and such gives you
 the content in Stock Game/Data, you can safely delete that folder and tell me so I know it's un-needed. (:
 
+Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
+Drag the zip file into MO2. Enable the mod and plugin.
+THIS IS REQUIRED!!! The Complex Sorter plugin-part2 requires it and a Random Encounter Framework patch for Combat Drones is already included for you!
+
 Settings you must change manually in Mod Organizer 2:
 
 High FPS Physics Fix:
