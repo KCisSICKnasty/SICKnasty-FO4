@@ -1,10 +1,18 @@
-Drag files in [NoDelete] Root Files (the contents, not the actual folder) into Stock Game Root folder and delete the [NoDelete] Root Files folder after.
-Drag files in [NoDelete] Data Files (the contents, not the actual folder) into Stock Game/Data folder and delete the [NoDelete] Data Files folder after.
+NOTE: SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! We require the NextGen content, but then use Simple Fallout 4 Downgrader to roll back the update
+and keep the content. GOG is not supported, sorry! :(
 
-Setting up F4SE, PluginPreloader, etc.:
+Setting up MO2, BethiniPie, etc.:
 
 Just use The Midnight Ride: https://themidnightride.moddinglinked.com/utilities.html
-I can't put it any better.
+I can't put it any better. Follow it for the initial installs, but ignore anything about downloading mods into MO2 (you're here because you're downloading a list, right?).
+NOTE: The Midnight Ride is the golden standard, in my opinion, for setting up your game to be modded. I'd recommend giving it a look over so you can at least become more
+familiar with how to do things in MO2. I won't explain those things here because it would just be me repeating what's said there.
+
+Drag files in [NoDelete] Root Files (the contents, not the actual folder) into Stock Game Root folder and delete the [NoDelete] Root Files folder after.
+Drag files in [NoDelete] Data Files (the contents, not the actual folder) into Stock Game/Data folder and delete the [NoDelete] Data Files folder after.
+I've included the Creation Club content that the NextGen update includes, but I'm pretty sure it's un-needed since you'll be launching the game and getting it yourself.
+It's in Stock Game/mods, a folder called "[NoDelete] Creation Club Content". I couldn't compile the list without excluding it, so if running the downgrader and such gives you
+the content in Stock Game/Data, you can safely delete that folder and tell me so I know it's un-needed. (:
 
 Settings you must change manually in Mod Organizer 2:
 
@@ -20,6 +28,8 @@ Buffout 4 NG with PDB support:
 -set line 33 to false
 -set line 34 to false
 
+Make F4SE an executable in MO2. Details on that found in The Midnight Ride.
+
 Settings you must change manually in game:
 
 Power Armor Handling Improvements - Retain Armor Buffs:
@@ -32,6 +42,14 @@ All Weapons HD (A.W.H.D.):
 		      ResourceDataDirsFinal=
 
 The cherry on top:
+
+Download Flacon's 4k loose files:
+
+pt. 1- https://www.nexusmods.com/fallout4/mods/3747?tab=files&file_id=321379
+pt. 2- https://www.nexusmods.com/fallout4/mods/3747?tab=files&file_id=321311
+pt. 3- https://www.nexusmods.com/fallout4/mods/3747?tab=files&file_id=321323
+
+Extract all 3 to Stock Game/Data folder. (We use the loose files because we're already at max ba2)
 
 Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
 Follow the video on the mod description page and enjoy better performance.
