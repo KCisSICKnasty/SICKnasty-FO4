@@ -23,4 +23,9 @@ All Weapons HD (A.W.H.D.):
 		      bInvalidateOlderFiles=1s
 		      ResourceDataDirsFinal=
 
+The cherry on top:
+
+Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
+Follow the video on the mod description page and enjoy better performance.
+
 (Still trying to compile this. If you notice any steps I should have listed, please let me know!)
