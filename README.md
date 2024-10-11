@@ -7,6 +7,10 @@ remembered...I got a PC for a reason.
 
 Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
+IMPORTANT!!! MAKE SURE YOU READ THE EXTRA STEPS BEFORE MOVING FORWARD WITH ANYTHING!!! This list started off with The Midnight Ride for a stable base to build off of. I
+followed the instructions there to install MO2, BethiniPie, and all the other tools you'll need outside of what's included here. For redundancy sake, I wont cover any of the
+install steps or anything there since it would just be me repeating it (literally, copy and pasting). This modlist assumes that you've followed that.
+
 SPECIFICS:
 
 This list was made fully with survival mode in mind. It wont hit as hard in normal game. It's okay though, because you can tweak survival mode however you want thanks to
@@ -29,12 +33,14 @@ Warsaw's Improved factions series serves as a base for a ton of the weapon and a
 doesn't conflict. Raider Overhaul & Raider Gangs Extended, Super Mutant Redux & Forced Evolution, More Feral Ghouls & Feral Ghoul Expansion Pack, We Are the Minutemen & You
 and What Army 2...You name it, bud. If the faction exists, it's been overhauled.
 
+My patches are all esp flagged esl plugins made in xEdit. Most of them are self explanatory (SICKnastyPERKmodule contains all perk related patches, SICKnastyGASMASKmodule
+forwards the gasmasks from Gasmasks of the Wasteland into inventories and carries over any NPC changes, etc.).
+
 I'll continue updating this README as I get things in order, but this is the culmination of months spent in front of xEdit, Nexus, Discord, and MO2. If there's a bug, please let me
 know and I'll fix it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay
 at home dad, so I've got nothing but time to answer questions and resolve issues! (:
 
 Once you've installed the modlist, head here for the Complex Sorter files and the LODGen Output: https://www.nexusmods.com/fallout4/mods/88357
-IMPORTANT!!! MAKE SURE YOU READ THE EXTRA STEPS BEFORE MOVING FORWARD WITH ANYTHING!!!
 
 Patreon: https://www.patreon.com/kcissicknasty
 
