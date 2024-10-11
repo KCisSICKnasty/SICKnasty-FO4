@@ -31,6 +31,8 @@ I'll continue updating this as I update the mod list, but this is the culminatio
 it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay at home
 dad, so I've got nothing but time to answer questions and resolve issues! (:
 
+Once you've installed the modlist, head here for the Complex Sorter files and the LODGen Output: https://www.nexusmods.com/fallout4/mods/88357
+
 Patreon: https://www.patreon.com/kcissicknasty
 
 Buy-Me-a-Coffee: https://buymeacoffee.com/kcissicknasty
