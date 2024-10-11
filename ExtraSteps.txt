@@ -1,16 +1,10 @@
-Creation Club content:
+Drag files in [NoDelete] Root Files (the contents, not the actual folder) into Stock Game Root folder and delete the [NoDelete] Root Files folder after.
+Drag files in [NoDelete] Data Files (the contents, not the actual folder) into Stock Game/Data folder and delete the [NoDelete] Data Files folder after.
 
-For some reason, this didn't want to carry over during compiling. So you'll have to re-add it to the Fallout 4 data folder. Super easy!
-
-1. In the "mods" folder (SICKnasty - Portable/mods), you'll find another folder called: "[NoDelete] Creation Club Content"
-2. Drag the CONTENTS of the folder (not the actual folder) into the Stock Game/Data folder
-3. Delete the "[NoDelete] Creation Club Content" folder in "mods" so the files are now ONLY in the Data folder
-
-The game now has Creation Club content again.
-
-Setting up F4SE:
+Setting up F4SE, PluginPreloader, etc.:
 
 Just use The Midnight Ride: https://themidnightride.moddinglinked.com/utilities.html
+I can't put it any better.
 
 Settings you must change manually in Mod Organizer 2:
 
