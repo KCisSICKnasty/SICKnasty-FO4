@@ -1,12 +1,12 @@
-The X-02 Creation Club content:
+Creation Club content:
 
 For some reason, this didn't want to carry over during compiling. So you'll have to re-add it to the Fallout 4 data folder. Super easy!
 
-1. In the "mods" folder (SICKnasty - Portable/mods), you'll find another folder called: "[NoDelete] X-02"
-2. Drag the contents of the folder (3 files) into the Stock Game/Data folder
-3. Delete the "[NoDelete] X-02" folder in "mods" so the files are now ONLY in the Data folder
+1. In the "mods" folder (SICKnasty - Portable/mods), you'll find another folder called: "[NoDelete] Creation Club Content"
+2. Drag the CONTENTS of the folder (not the actual folder) into the Stock Game/Data folder
+3. Delete the "[NoDelete] Creation Club Content" folder in "mods" so the files are now ONLY in the Data folder
 
-The game now has the X-02 creation content again.
+The game now has Creation Club content again.
 
 Setting up F4SE:
 
