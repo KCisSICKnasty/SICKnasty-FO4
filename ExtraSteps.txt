@@ -1,3 +1,7 @@
+Setting up F4SE:
+
+Just use The Midnight Ride: https://themidnightride.moddinglinked.com/utilities.html
+
 Settings you must change manually in Mod Organizer 2:
 
 High FPS Physics Fix:
