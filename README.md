@@ -11,6 +11,12 @@ IMPORTANT!!! MAKE SURE YOU READ THE EXTRA STEPS BEFORE MOVING FORWARD WITH ANYTH
 followed the instructions there to install MO2, BethiniPie, and all the other tools you'll need outside of what's included here. For redundancy sake, I wont cover any of the
 install steps or anything there since it would just be me repeating it (literally, copy and pasting). This modlist assumes that you've followed that.
 
+REQUIREMENTS:
+
+-Fallout 4 (Steam copy)
+-Mod Organizer 2
+-Wabbajack
+
 SPECIFICS:
 
 This list was made fully with survival mode in mind. It wont hit as hard in normal game. It's okay though, because you can tweak survival mode however you want thanks to
