@@ -18,6 +18,10 @@ Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3t
 Drag the zip file into MO2. Enable the mod and plugin.
 THIS IS REQUIRED!!! The Complex Sorter plugin-part2 requires it and a Random Encounter Framework patch for Combat Drones is already included for you!
 
+Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/NdkkPPBf2P
+You can find the download in #complex-sorter-support in the upper right under pins.
+*Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after, so.
+
 Settings you must change manually in Mod Organizer 2:
 
 High FPS Physics Fix:
