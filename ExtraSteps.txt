@@ -9,7 +9,8 @@ for a response in WJ Discord. Luckily, a wonderful user pointed out a great temp
 -Download the Installer on Nexus
 -When complete, open 2 Explorer windows: one for Stock Game/data (in your instance folder) and another for your Fallout 4/data folder (your installed game)
 -Copy all Next Gen Creation Club content files from Fallout 4/data and paste them into Stock Game/data
--Navigate to The Midnight Ride (link below) for the opening install so you can download Fallout 4 Script Extender and Simple Fallout 4 Downgrader
+-Navigate to The Midnight Ride (link below) so you can download everything that doesn't say to install via mod manager (F4SE, Simple Fallout 4 Downgrader, etc.)
+-After everything is done, you'll need to manually download Overlay Framework Save Bug Fix here: https://www.nexusmods.com/fallout4/mods/70251
 
 Setting up MO2, BethiniPie, etc.:
 
