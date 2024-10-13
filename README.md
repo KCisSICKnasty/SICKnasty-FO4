@@ -48,6 +48,10 @@ at home dad, so I've got nothing but time to answer questions and resolve issues
 
 Once you've installed the modlist, head here for the Complex Sorter files and the LODGen Output: https://www.nexusmods.com/fallout4/mods/88357
 
+Load Order Library: https://loadorderlibrary.com/lists/sicknasty-fo4
+
+Discord: https://discord.gg/W9HRjDFVzX
+
 Patreon: https://www.patreon.com/kcissicknasty
 
 Buy-Me-a-Coffee: https://buymeacoffee.com/kcissicknasty
