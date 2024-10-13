@@ -8,11 +8,9 @@ I can't put it any better. Follow it for the initial installs, but ignore anythi
 NOTE: The Midnight Ride is the golden standard, in my opinion, for setting up your game to be modded. I'd recommend giving it a look over so you can at least become more
 familiar with how to do things in MO2. I won't explain those things here because it would just be me repeating what's said there.
 
+In "Mods" folder:
 Drag files in [NoDelete] Creation Club Content (the contents, not the actual folder) into Stock Game Root folder and delete the [NoDelete] Creation Club Content folder after.
 Drag files in [NoDelete] Root Files (the contents, not the actual folder) into Stock Game/Data folder and delete the [NoDelete] Root Files folder after.
-I've included the Creation Club content that the NextGen update includes, but I'm pretty sure it's un-needed since you'll be launching the game and getting it yourself.
-It's in Stock Game/mods, a folder called "[NoDelete] Creation Club Content". I couldn't compile the list without excluding it, so if running the downgrader and such gives you
-the content in Stock Game/Data, you can safely delete that folder and tell me so I know it's un-needed. (:
 
 Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 Drag the zip file into MO2. Enable the mod and plugin.
