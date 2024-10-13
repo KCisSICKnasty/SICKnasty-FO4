@@ -1,20 +1,29 @@
 NOTE: SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! We require the NextGen content, but then use Simple Fallout 4 Downgrader to roll back the update
 and keep the content. GOG is not supported, sorry! :(
 
+Stock Game folder demands your attention:
+
+In "Mods" folder-
+Drag files in [NoDelete] Creation Club Content (the contents, not the actual folder) into Stock Game/data folder and delete the [NoDelete] Creation Club Content folder after.
+Drag files in [NoDelete] Root Files (the contents, not the actual folder) into Stock Game root folder (the one that has fallout4.exe) and delete the [NoDelete] Root Files
+folder after.
+
 Setting up MO2, BethiniPie, etc.:
 
 Just use The Midnight Ride: https://themidnightride.moddinglinked.com/utilities.html
-I can't put it any better. Follow it for the initial installs, but ignore anything about downloading mods into MO2 (you're here because you're downloading a list, right?).
-NOTE: The Midnight Ride is the golden standard, in my opinion, for setting up your game to be modded. I'd recommend giving it a look over so you can at least become more
-familiar with how to do things in MO2. I won't explain those things here because it would just be me repeating what's said there.
 
-In "Mods" folder:
-Drag files in [NoDelete] Creation Club Content (the contents, not the actual folder) into Stock Game Root folder and delete the [NoDelete] Creation Club Content folder after.
-Drag files in [NoDelete] Root Files (the contents, not the actual folder) into Stock Game/Data folder and delete the [NoDelete] Root Files folder after.
+I can't put it any better. Follow it for the initial installs, but ignore anything about downloading mods into MO2 (you're here because you're downloading a list, right?).
+The Midnight Ride is the golden standard, in my opinion, for setting up your game to be modded. I'd recommend giving it a look over so you can at least be familiar with how
+to do things in MO2. I won't explain those things here because it would just be me repeating what's said there. TMR website is where I learned and it should be where you learn
+too! (:
+
+Off-Site Downloads:
 
 Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 Drag the zip file into MO2. Enable the mod and plugin.
-Download my resource files from here: 
+
+Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
+Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) and enable it.
 
 Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/NdkkPPBf2P
 You can find the download in #complex-sorter-support in the upper right under pins.
@@ -49,6 +58,8 @@ All Weapons HD (A.W.H.D.):
 
 The cherry on top:
 
+Download my resource files from here: https://www.nexusmods.com/fallout4/mods/88357
+
 Download Flacon's 4k loose files:
 
 pt. 1- https://www.nexusmods.com/fallout4/mods/3747?tab=files&file_id=321379
@@ -59,5 +70,7 @@ Extract all 3 to Stock Game/Data folder. (We use the loose files because we're a
 
 Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
 Follow the video on the mod description page and enjoy better performance.
+
+Looking to tweak your Complex Sorter Output yourself? Here's the guide I followed by 4estGimp: https://www.nexusmods.com/fallout4/mods/51307?tab=files&file_id=328617
 
 (Still trying to compile this. If you notice any steps I should have listed, please let me know!)
