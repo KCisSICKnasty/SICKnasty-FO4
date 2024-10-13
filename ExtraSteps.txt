@@ -3,10 +3,13 @@ and keep the content. GOG is not supported, sorry! :(
 
 Stock Game folder demands your attention:
 
-In "Mods" folder-
-Drag files in [NoDelete] Creation Club Content (the contents, not the actual folder) into Stock Game/data folder and delete the [NoDelete] Creation Club Content folder after.
-Drag files in [NoDelete] Root Files (the contents, not the actual folder) into Stock Game root folder (the one that has fallout4.exe) and delete the [NoDelete] Root Files
-folder after.
+For now, Wabbajack isn't compiling the Creation Club Content or any of the root files I want to give you for the list. I feel like it's such an easy fix, but I'm stuck waiting
+for a response in WJ Discord. Luckily, a wonderful user pointed out a great temporary fix that will at least get MO2 to stop showing Missing Masters errors so you can play!
+
+-Download the Installer on Nexus
+-When complete, open 2 Explorer windows: one for Stock Game/data (in your instance folder) and another for your Fallout 4/data folder (your installed game)
+-Copy all Next Gen Creation Club content files from Fallout 4/data and paste them into Stock Game/data
+-Navigate to The Midnight Ride (link below) for the opening install so you can download Fallout 4 Script Extender and Simple Fallout 4 Downgrader
 
 Setting up MO2, BethiniPie, etc.:
 
