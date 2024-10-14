@@ -7,8 +7,6 @@ remembered...I got a PC for a reason.
 
 Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
-IMPORTANT!!! MAKE SURE YOU READ THE EXTRA STEPS BEFORE MOVING FORWARD WITH ANYTHING!!!
-
 REQUIREMENTS:
 
 -Fallout 4 (Steam copy)*
