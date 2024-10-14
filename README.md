@@ -7,9 +7,11 @@ remembered...I got a PC for a reason.
 
 Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
-IMPORTANT!!! MAKE SURE YOU READ THE EXTRA STEPS BEFORE MOVING FORWARD WITH ANYTHING!!! This list started off with The Midnight Ride for a stable base to build off of. I
-followed the instructions there to install MO2, BethiniPie, and all the other tools you'll need outside of what's included here. For redundancy sake, I wont cover any of the
-install steps or anything there since it would just be me repeating it (literally, copy and pasting). This modlist assumes that you've followed that.
+IMPORTANT!!! MAKE SURE YOU READ THE EXTRA STEPS BEFORE MOVING FORWARD WITH ANYTHING!!!
+
+This list started off with The Midnight Ride for a stable base to build off of. I followed the instructions there to install MO2, BethiniPie, and all the other tools you'll
+need outside of what's included here. For redundancy sake, I wont cover any of the install steps or anything there since it would just be me repeating it (literally, copy
+and pasting). This modlist assumes that you've at least looked at that.
 
 REQUIREMENTS:
 
