@@ -4,9 +4,9 @@ and keep the content. GOG is not supported, sorry! :(
 This mod list is VERY big. The BA2 limit was hit a long time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for
 the game to load? Why is the game not letting me start?"
 
-We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for, what I'd like to call, "watching the Audio load".
+We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load".
 Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it.
-When that finishes, only then may you click start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside
+When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside
 to this is you gotta "watch the Audio load". But it's cool, right?
 
 Setting up MO2, BethiniPie, etc.:
@@ -30,7 +30,7 @@ Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collectiv
 You can find the download in #complex-sorter-support in the upper right under pins.
 *Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after, so.
 
-Settings you must change manually in Mod Organizer 2:
+Settings you must check in Mod Organizer 2 (double click and navigate to txt file):
 
 High FPS Physics Fix:
 -set line 26 to true
@@ -44,6 +44,12 @@ Buffout 4 NG with PDB support:
 -set line 33 to false
 -set line 34 to false
 
+All Weapons HD (A.W.H.D.):
+-Fallout4Prefs.ini - Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
+-Fallout4Custom.ini - [Archive]
+		      bInvalidateOlderFiles=1s
+		      ResourceDataDirsFinal=
+
 Make F4SE an executable in MO2. Details on that found in The Midnight Ride.
 
 Settings you must change manually in game:
@@ -51,23 +57,20 @@ Settings you must change manually in game:
 Power Armor Handling Improvements - Retain Armor Buffs:
 -Backpacks of the Commonwealth - Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
 
-All Weapons HD (A.W.H.D.):
--Fallout4Prefs.ini - Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
--Fallout4Custom.ini - [Archive]
-		      bInvalidateOlderFiles=1s
-		      ResourceDataDirsFinal=
+MAIM Speed:
+-Set Hotkeys to your preference
+-Turn on scroll wheel and configure if you would like
+
+VAFS Redux:
+-Set activation hotkey
+-Set criticals hotkey
+
+Nuclear Winter:
+-Turn on
 
 The cherry on top:
 
 Download my resource files from here: https://www.nexusmods.com/fallout4/mods/88357
-
-Download Flacon's 4k loose files:
-
-pt. 1- https://www.nexusmods.com/fallout4/mods/3747?tab=files&file_id=321379
-pt. 2- https://www.nexusmods.com/fallout4/mods/3747?tab=files&file_id=321311
-pt. 3- https://www.nexusmods.com/fallout4/mods/3747?tab=files&file_id=321323
-
-Extract all 3 to Stock Game/Data folder. (We use the loose files because we're already at max ba2)
 
 Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
 Follow the video on the mod description page and enjoy better performance.
