@@ -3,20 +3,18 @@ and keep the content. GOG is not supported, sorry! :(
 
 Stock Game folder demands your attention:
 
-For now, Wabbajack isn't compiling the Creation Club Content or any of the root files I want to give you for the list. I feel like it's such an easy fix, but I'm stuck waiting
-for a response in WJ Discord. Luckily, a wonderful user pointed out a great temporary fix that will at least get MO2 to stop showing Missing Masters errors so you can play!
+For now, Wabbajack isn't compiling the NG Creation Club Content. I feel like it's such an easy fix, but I'm baffled. Luckily, a wonderful user pointed out a great temporary
+fix that will at least get MO2 to stop showing Missing Masters errors so you can play!
 
 -Download the Installer on Nexus
 -When complete, open 2 Explorer windows: one for Stock Game/data (in your instance folder) and another for your Fallout 4/data folder (your installed game)
 -Copy all Next Gen Creation Club content files from Fallout 4/data and paste them into Stock Game/data
--Navigate to The Midnight Ride (link below) so you can download everything that doesn't say to install via mod manager (F4SE, Simple Fallout 4 Downgrader, etc.)
--After everything is done, you'll need to manually download Overlay Framework Save Bug Fix here: https://www.nexusmods.com/fallout4/mods/70251
 
 Setting up MO2, BethiniPie, etc.:
 
 Just use The Midnight Ride: https://themidnightride.moddinglinked.com/utilities.html
 
-I can't put it any better. Follow it for the initial installs, but ignore anything about downloading mods into MO2 (you're here because you're downloading a list, right?).
+I can't put it any better. Follow it for the initial installs, but ignore everything after "Mod Organizer Downloads" (you're here because you're downloading a list, right?).
 The Midnight Ride is the golden standard, in my opinion, for setting up your game to be modded. I'd recommend giving it a look over so you can at least be familiar with how
 to do things in MO2. I won't explain those things here because it would just be me repeating what's said there. TMR website is where I learned and it should be where you learn
 too! (:
