@@ -1,14 +1,13 @@
 NOTE: SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! We require the NextGen content, but then use Simple Fallout 4 Downgrader to roll back the update
 and keep the content. GOG is not supported, sorry! :(
 
-Stock Game folder demands your attention:
+This mod list is VERY big. The BA2 limit was hit a long time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for
+the game to load? Why is the game not letting me start?"
 
-For now, Wabbajack isn't compiling the NG Creation Club Content. I feel like it's such an easy fix, but I'm baffled. Luckily, a wonderful user pointed out a great temporary
-fix that will at least get MO2 to stop showing Missing Masters errors so you can play!
-
--Download the Installer on Nexus
--When complete, open 2 Explorer windows: one for Stock Game/data (in your instance folder) and another for your Fallout 4/data folder (your installed game)
--Copy all Next Gen Creation Club content files from Fallout 4/data and paste them into Stock Game/data
+We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for, what I'd like to call, "watching the Audio load".
+Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it.
+When that finishes, only then may you click start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside
+to this is you gotta "watch the Audio load". But it's cool, right?
 
 Setting up MO2, BethiniPie, etc.:
 
