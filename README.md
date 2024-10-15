@@ -37,6 +37,10 @@ The Midnight Ride is the golden standard, in my opinion, for setting up your gam
 to do things in MO2. I won't explain those things here because it would just be me repeating what's said there. TMR website is where I learned and it should be where you learn
 too! (:
 
+MOST IMPORTANTLY, NAVIGATE TO STOCK GAME FOLDER AND LAUNCH: fo4downgrader.exe
+
+It will say "Patch successful!" and then you may continue!
+
 Off-Site Downloads:
 
 Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
