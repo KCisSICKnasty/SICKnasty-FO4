@@ -15,7 +15,7 @@ REQUIREMENTS:
 -The Midnight Ride**
 -Patience***
 
-*ICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! It requires the NextGen content, but then uses Simple Fallout 4 Downgrader to roll back the update
+*SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! It requires the NextGen content, but then uses Simple Fallout 4 Downgrader to roll back the update
 and keep the content. GOG is not supported, sorry! :(
 
 **This list started off with The Midnight Ride for a stable base to build off of. I followed the instructions there to install MO2, BethiniPie, and all the other tools you'll
@@ -97,6 +97,23 @@ Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
 Follow the video on the mod description page and enjoy better performance.
 
 Looking to tweak your Complex Sorter Output yourself? Here's the guide I followed by 4estGimp: https://www.nexusmods.com/fallout4/mods/51307?tab=files&file_id=328617
+
+Plugins that are disabled FOR A REASON!!!
+-UniqueReplacer - WastelandK9Armor.esp
+-UniqueReplacer - LunarSSRecon.esp
+-UniqueReplacer - JustSweeper.esp
+-Dogmeat's Backpack.esp
+-0_Vault120_NordhagenHaven_PRP.esp
+-Forever Radiation Lite.esp
+-FR L XXXLNukes Patch.esp
+-Tumba_Gunner_Collection_Smuggler.esp
+-3dscopes-replacer-bullpupbozar.esp
+-3dscopes-replacer-classicsniper.esp
+-LOD Fixes and Additons.esp
+-AnubisPlayer.esp
+-AnubisPlayerVoice.esp
+
+DO NOT RE-ENABLE OR YOU WILL EXPERIENCE MOODINESS!!!
 
 THE DEEP DIVE:
 
