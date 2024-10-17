@@ -80,3 +80,15 @@ SICKnastyTYPOmodule
 Car Alarm
 Car Alarms - Extras and Enhanced
 VAFS Redux - SFX Replacer
+
+1.1.3
+-Updated the installer:
+Reflects new additions & updates
+-Updated the following mods:
+X-Cell Fallout 4
+VAFS Redux - Bullet Time and Manual Critical (removed the VAFS DLC plugin)
+-Added the following mods:
+Backpacks of the Commonwealth (CBBE slidersets)
+Classy Chassis Outfits - Cait's Corset
+Classy Chassis Outfits - Heather Casdin Replacer
+MTM 3BBB CBP OCBP OCBPC Physics Preset - CBBE - Fusion Girl - Wonder Body - Enhanced Vanilla Bodies - JaneBod Extended - Vanilla - More
