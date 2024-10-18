@@ -102,3 +102,14 @@ New "reading material" folder included with all PDF or txt files included with a
 Holotape Display Shelves - Automatron Support
 Community Fixes Merged
 Institute Power Armor Redux...Redux (ITO patch)
+
+1.1.5
+-Updated the installer:
+Reflects new additions & updates
+-Added the following mods:
+HUD Plus Plus
+-Updated the following mods:
+ZP's Fire and Smoke (optional update patch)
+Institute Teleportation for Survival Mode (Commonwealth Settlements ONLY version)
+Shadow Boost FO4 (ini file included)
+MCM Settings Manager (optional Fix file included)
