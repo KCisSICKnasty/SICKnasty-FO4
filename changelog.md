@@ -92,3 +92,13 @@ Backpacks of the Commonwealth (CBBE slidersets)
 Classy Chassis Outfits - Cait's Corset
 Classy Chassis Outfits - Heather Casdin Replacer
 MTM 3BBB CBP OCBP OCBPC Physics Preset - CBBE - Fusion Girl - Wonder Body - Enhanced Vanilla Bodies - JaneBod Extended - Vanilla - More
+
+1.1.4
+-Updated the installer:
+Reflects new additions & updates
+-Added the followings mods:
+New "reading material" folder included with all PDF or txt files included with any mod in the list
+-Updated the following mods:
+Holotape Display Shelves - Automatron Support
+Community Fixes Merged
+Institute Power Armor Redux...Redux (ITO patch)
