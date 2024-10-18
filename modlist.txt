@@ -28,7 +28,6 @@
 +SICKnastyUNIQUEmodule
 +FOLIP - After Generation
 +FO4LODGen Output
-+SICKnastyVRAMRoutput
 +TexGen_Output
 +FOLIP - Before Generation
 +SICKnastyM8Rtweaks
@@ -173,6 +172,7 @@
 +Caves Of The Commonwealth - Labyrinth Entrance Fix
 +Caves Of The Commonwealth (eXoPatch - The Mechanical Settler)
 +Caves Of The Commonwealth
++The Harbor Bee Monorail
 +Castle to Spectacle Island Ferry
 +Boat From Warwick Homestead To The Castle
 +Subway Runner - Revival - NPC Addon
@@ -496,6 +496,7 @@
 +CoA Overhaul CBBE Patch
 +Classy Chassis Outfits - Heather Casdin Replacer
 +Classy Chassis Outfits - Cait's Corset
++Vanilla Apparel Remesh Project
 +Caliente's Beautiful Bodies Enhancer (with Dismemberment)
 +Caliente's Beautiful Bodies Enhancer
 +BodySlide and Outfit Studio (America Rising 2)
@@ -510,6 +511,7 @@
 +See-Through-Scopes
 +Immersive Power Armor HUD
 +Condition Boy - Now with Condition Girl
++HUD Plus Plus
 -HUD & Scopes_separator
 +FALLOUT Brotherhood - Storyteller - Sorter Patch
 +eXoSorter Interface (Book Collector)
@@ -620,6 +622,7 @@
 +Make Like A Tree
 +Targeted Textures
 -Retextures_separator
++ZP's Fire and Smoke UPDATE
 +ZP's Fire and Smoke
 +No Interior Fog
 +Fallout 4 - Hot Coffee
@@ -1037,10 +1040,12 @@
 +Crafting Highlight Fix
 +Extended Dialogue Interface
 +Perchik71 - In Game MOD Explorer (MCM)
-+MCM Booster - Cache tweak 4 Scourge
-+MCM Booster
++MCM Booster NG cache tweak for SCOURGE
++MCM Booster NG v1.1-beta2.7z
++MCM_Booster_v1.1-beta2
 +Smokeable Cigars - MCM Settings Menu
 +Remote Explosives MCM Control
++Fix - Existing setting files for MCM Settings Manager
 +Mod Configuration Menu (Settings Manager)
 +Mod Configuration Menu
 -User Interface_separator
@@ -1143,6 +1148,7 @@
 +Actor Velocity Framework
 +Console Util
 +Discord Rich Presence REMAKE (F4SE)
++ShadowBoostFO4 ini
 +Shadow Boost FO4
 +NetLink
 +SUP F4SE

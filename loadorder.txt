@@ -544,6 +544,7 @@ Dank_ECO-WestTek.esp
 ConditionBoy.esp
 GasMask_Overlay_Patch.esp
 CBBE.esp
+VARP.esp
 SouthOfTheSea-Atomic.esp
 IAF-SlowTime-SotSAtomic.esp
 SouthOfTheSea-Atomic-Ashland.esp
@@ -973,7 +974,6 @@ UniqueRaiderPatrols1.esp
 UniqueRaiderPatrols2.esp
 Magazine Perks Tab.esp
 Tina De Luca and Doctor Penske Face Gen Data.esp
-institutefasttravelforsurvival.esp
 SICKnastyUFO4Pmodule.esp
 SICKnastyCFMmodule.esp
 SICKnastyAMMOmodule.esp
@@ -1009,6 +1009,8 @@ UniqueReplacer - SynthArmor.esp
 WW-Fixes-ECO-INNR.esp
 UniqueReplacers - BoST51C.esp
 UniqueReplacer - ClassicCommando.esp
+institutefasttravelforsurvivalCWSettlements.esp
+CastleToIslandMonorail.esp
 prp.esp
 0_Vault120.esp
 0_Vault120_PRP.esp
