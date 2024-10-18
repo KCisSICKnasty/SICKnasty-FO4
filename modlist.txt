@@ -23,10 +23,12 @@
 +4estGimp - T51C Power Armor Compacted
 +4estGimp - Tribal Power Armour Compacted
 -ESLified Patch Hub_separator
-+SICKnastyUNIQUEmodule
 +SICKnastyWATMmodule
++no more drone outside vault 111
++SICKnastyUNIQUEmodule
 +FOLIP - After Generation
 +FO4LODGen Output
++SICKnastyVRAMRoutput
 +TexGen_Output
 +FOLIP - Before Generation
 +SICKnastyM8Rtweaks
@@ -38,7 +40,6 @@
 +SICKnastyLOOTmodule
 +SICKnastySROmodule
 +SICKnastyTABSmodule
-+SICKnastyIDmodule
 +SICKnastyLFAWmodule
 +SICKnastyLLmodule
 +SICKnastyDOGMEATmodule
@@ -49,6 +50,8 @@
 +SICKnastyRAILROADmodule
 +SICKnastyBOSmodule
 +SICKnastyINSTITUTEmodule
++SICKnastySUPERMUTANTmodule
++SICKnastyGUNNERmodule
 +SICKnastyNIGHTSTRIKERmodule
 +SICKnastyWEATHERmodule
 +SICKnastyDAMAGEmodule
@@ -87,6 +90,12 @@
 +Far Better FarHarbor Extended Fake Interiors Patch
 +Far Better Far Harbor (Exploration Expanded)
 -Landscape Overhauls_separator
++Unique Replacers Project - Legendary Unique Armor And Power Armor - AIO
++Unique Replacers Project - Vendor Legendary Weapons - AIO
++Unique Replacers Project - Unique Legendary Weapons - AIO
++URP Justice - RiotShotgun
++South of the Sea - Heavy Weapons Pack
+-URP_separator
 +TRUE DAMAGE (LString Fallout Bow)
 +TRUE DAMAGE (Crossbows of the Commonwealth)
 +Dak's Shoulder Mounted Machinegun (M2) - True Damage patch
@@ -94,72 +103,6 @@
 +RobCo (TRUE DAMAGE - Sim Settlements 2)
 +TRUE DAMAGE (Criticals)
 +Weapons Level List Patches
-+URP TessasFist - TribalPowerArmor
-+URP SynthMk234 - SynthCombatArmor
-+URP SpecialAgent - EvilDetective
-+URP Recon - SecretService
-+URP OverseersArmguards - VTAArmguards
-+URP Mantis - NCRVeteranRanger
-+URP HonorVengence - T60 Capes
-+URP ExemplarsVisionaries - T51C
-+URP Devestators - MaskAndWestTecGoggles
-+URP Destroyers - AssaultronArmor
-+URP CommandoSteadfast - ClassicCombatArmor
-+URP Champions - WearableSuperMutantArmor
-+URP BlackOps - Stealth Suit
-+URP ApocalypseArmor - WastelandRonin
-+URP ProtectorsArmguards - DCSecurity
-+URP MeleeWeapons - AnotherOnes Vanilla Weapons
-+URP WazerWifle - FusionZapGun
-+URP Wastelander's Friend - Varmint Revolver
-+URP VirgilsRifle - PBW LAER
-+URP TinkerTomsSpecial - BoltAction556
-+URP ThroatSlicer - ZombieButcher
-+URP ThePartyStarter - TinkerersTeslaCannon
-+URP SwansPowerFist - GravityFist
-+URP SurvivorsSpecial - PBWPlasmaDefender
-+URP Spray and Pray - HomemadeSMG
-+URP Splattercannon - SigSauer12.7
-+URP Skipper's Sidearm - MetriLolife
-+URP SentinelsPlasmacaster - P94 Plasma Rifle
-+URP SeargentAsh - TheQuadDuplet
-+URP RighteousAuthority - BreakActionLaser
-+URP Reckoning - MurderingChainsaw
-+URP Reba - VarmingRifle
-+URP RadicalConversion - RadiumPistol
-+URP Protectron'sGaze - TinkerersRaygun
-+URP ProblemSolver - MaresLeg
-+URP PickmansBlade - SelectBalisong
-+URP Overseer's Guardian - 10mm Security SMG
-+URP Old Reliable - VintageRevolverRifle
-+URP Old Faithful - HandmadeEnergyPistol
-+URP LuckyEddy - VintageRepeater
-+URP LimitlessPotential - ChargerPistol
-+URP LeFusilTerribles -PipeRevolverShotgun
-+URP LastMinute - HeavySupportGauss
-+URP Kiloton - UradiumRifle
-+URP KellogsGun - DesertEagle
-+URP Justice - RiotShotgun
-+URP Harvester - Autoaxe
-+URP GoodIntentions - ShoulderMountedMachineGun
-+URP Gainer - HuntingRevolver
-+URP Fishcatcher - Quadrent
-+URP FinalJudgement - TinkerersPlasmaCaster
-+URP Experiment 18A - Institute Plasma Incinerator
-+URP EddiesPeace
-+URP DefendersHarpoonGun - MakeshiftNailGun
-+URP DecembersChild - ColtSCAMP
-+URP Death From Above - MW JOKR
-+URP Chao's Revenge - Dadao
-+URP Bloodletter - Kukri
-+URP BigBoy - M79GrenadeLauncher
-+URP AX90 Fury - PBW Plasma Pistol
-+URP AutomaticLaserMusket - PAHW Laser Musket
-+URP Ashmaker - GatlingGunRatrunnersArsenal
-+URP ArturosSilence - PJAR
-+URP Aeternus - Cryolance
-+URP AdmiralsFriend - ThatGun
-+South of the Sea - Heavy Weapons Pack
 +AnotherOne Vanilla Weapon Replacer - ESL-flagged plugin (fix)
 +AnotherOne Vanilla Weapon Replacer
 +All Tapes To Top - Munitions
@@ -197,6 +140,11 @@
 +Munitions - An Ammo Expansion (4K Textures)
 +Munitions
 +S.R.O. (Syringer Overhaul)
++Forever Radiation - XXLNukes Patch
++Yangtze More Destructive Nuclear Missiles
++XXL Nuka-Nuke Patch
++XXL Nukes (Nuclear Explosions Overhaul)
++Forever Radiation
 -Weapon & Armor Overhauls_separator
 +Fourville - Vault 4 Bobble Girl
 +Bobble Girl
@@ -329,22 +277,14 @@
 +4estGimp - MidWest PA Revolution CIS INNR ini
 +dp midwest rev 8k
 +MidWest Power Armor Revolution
++Institute Power Armor Redux...Redux - Torso Fix
 +Institute Power Armor Redux...Redux - ITO Patch
-+Institute Power Armor Redux...Redux - Synth PA FOMOD
 +Institute Power Armor Redux...Redux
 +Institute Power Armor Redux
 +M150s Institute Power Armor HD Reboot
 +m150's Institute Power Armor 1st Person Arms Edit
 +InstitutePowerArmor
 -Power Armor_separator
-+Gunner Outfit Pack - No Craft
-+Gunner Outfit Pack - CBBE Pre-Generated
-+4estGimp - Gunner Outfit Pack NPC LL Integration Update
-+Gunner Outfit Pack - NPC Leveled List Integration
-+Gunner Outfit Pack - Heavy Outfit 1stPerson pipboy fix
-+Gunner Outfit Pack - ESP Only
-+Gunner Outfit Pack (STANDALONE)
--Gunner Outfit Pack_separator
 +West-Tek Optics Pack - Tweaks
 +West-Tek Optics Pack
 +Hellfire X-03 Power Armor (West Tek Tactical Optics)
@@ -418,10 +358,10 @@
 +Classic Combat Armor
 +Backpacks of the Commonwealth - Flyable Personal Vertibird Patch
 +Backpacks of the Commonwealth (eXoPatch - We Are the Minutemen)
++Backpacks of the Commonwealth (CBBE slidersets)
 +Backpacks of the Commonwealth
 -Clothing_separator
 +Desert Eagle - Standalone Handgun
-+Crossbows - ECO Redux - English
 +The Varmint Revolver (Taurus Judge)
 +Zombie Slayer
 +Homemade SMG . A Unique Weapons Concept
@@ -437,6 +377,7 @@
 +The Dadao 2.0 - NEW TEXTURES NEW MODELS NEW SOUNDS
 +M79 Grenade Launcher -- Standalone
 +PJAR - Makeshift Pistol
++5.56mm Pistol Fix
 +5.56mm Pistol
 +Jack's Unofficial Update for P94 Plasma Rifle
 +P94 Plasma Rifle
@@ -542,6 +483,7 @@
 +High Poly Vanilla Clothing and Fan Favorites Overhaul (TWB-CBBE-3BBB) - FAR HARBOR
 +High Poly Vanilla Clothing and Fan Favorites Overhaul (TWB-CBBE-3BBB) - AUTOMATRON
 +High Poly Vanilla Clothing and Fan Favorites Overhaul (TWB-CBBE-3BBB) - VANILLA
++MTM OCBP - OCBPC Physics and Collision Preset
 +3BBB Physics (CBBE - TWB) - Power Armor Fix - Alpha
 +3BBB Physics (CBBE - TWB)
 +Skeletal Adjustments for Caliente's Beautiful Bodies Enhancer
@@ -552,6 +494,8 @@
 +South of the Sea - Atomic Embrace (and CBBE)
 +South of the Sea - CBBE BodySlide
 +CoA Overhaul CBBE Patch
++Classy Chassis Outfits - Heather Casdin Replacer
++Classy Chassis Outfits - Cait's Corset
 +Caliente's Beautiful Bodies Enhancer (with Dismemberment)
 +Caliente's Beautiful Bodies Enhancer
 +BodySlide and Outfit Studio (America Rising 2)
@@ -602,6 +546,8 @@
 +FallUI - Sleep and Wait
 +FallUI - Map
 +Complex Sorter Quest Mods Tagging
++Gunner Outfit Pack and Tumbajamba's Gunner Collection Legendary Integration Patch
++4estGimp - Gunner Outfit Pack NPC LL Integration Update
 +M8r98a4f2's Complex Item Sorter (4estGimp - Enhancements)
 +The NEW FallUI Item Sorter
 +FallUI - Icon Library
@@ -674,6 +620,7 @@
 +Make Like A Tree
 +Targeted Textures
 -Retextures_separator
++ZP's Fire and Smoke
 +No Interior Fog
 +Fallout 4 - Hot Coffee
 +Fallout 4 Particle Patch - No More Glowing Objects
@@ -692,6 +639,9 @@
 +Enhanced Night Sky (Improved Visible Galaxy Framework)
 +Fallout 4 Enhanced Color Correction (Gloom)
 -Weather & Lighting_separator
++Car Alarm - Extras & Enhanced
++Car Alarm - More Durable Vehicles
++Car Alarm
 +Scary Metal Pipe - AttenuatedVolume
 +Scary Metal Pipe (Jumpscare Warning)
 +ZP's Rusty Doors Sounds
@@ -722,6 +672,7 @@
 +Reverb & Ambiance Overhaul
 +Persistent Volume Sliders
 -Audio & SFX_separator
++Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
 +No More Appropriated Creature Names Patch for Mutant Menagerie
 +SCOURGE - Life Finds A Way - Mutant Menagerie
 +Mutant Menagerie - LFAW - Widowmaker Scope Patch
@@ -766,8 +717,8 @@
 +I'm Darlene
 +RobCo - Smarter Companions - LiveLove - Heather
 +Heather Casdin - A Unique Companion Experience by llamaRCA - LighterBunkers_Patch
-+Heather Casdin CBBE Bodyslide with Physics Support
 +Heather Casdin - No More Granny Panties by llamaRCA
++Heather Casdin CBBE Bodyslide with Physics Support
 +Heather Casdin - Repair Mom's Power Armor
 +Heather Casdin - A Unique Companion Experience by llamaRCA
 +Combat Drone
@@ -800,6 +751,7 @@
 +MAIM 2 - Headshots Patch
 +MAIM Speed
 +MAIM - Wounds Bleeding Pain Meds and Headshots
++VAFS Redux - SFX Replacer
 +VAFS Redux - Alternate VFX
 +VAFS Redux - Awareness Perk Info Fix
 +VAFS Redux - Awareness Script Fix
@@ -928,7 +880,7 @@
 +Vault-Tec Workshop Overhaul Redux
 +More Power Armor Display Stations
 +VertiCall 4 Settlements - Buildable Working Tacticool Vertibird Landing Pads
-+Holotape Display Shelves (Automatron)
++Holotape Display Shelves - Automatron Support
 +Holotape Display Shelves
 -Workshop_separator
 -Dreadsharks Of The Commonwealth
@@ -964,12 +916,25 @@
 +Radical - COA Addons
 +Church of Atom Overhaul
 -Faction Overhaul - CoA_separator
++Gunner Outfit Pack - No Craft
++Gunner Outfit Pack - CBBE Pre-Generated
++Gunner Outfit Pack - NPC Leveled List Integration
++Gunner Outfit Pack - Heavy Outfit 1stPerson pipboy fix
++Gunner Outfit Pack - ESP Only
++Gunner Outfit Pack (STANDALONE)
++Tumbajamba's Gunner Armor Collection - Munitions
++Tumbajamba's Gunner Armor Collection - CBBE
++Tumbajamba's Gunner Armor Collection
+-Faction Overhaul - Gunner_separator
 +Unique Raider Gangs And Patrols 2 - Nightmare Edition
 +Unique Raider Gangs And Patrols
 +4estGimp - Raider Overhaul ONE
 +4estGimp - Raider Gangs Extended Edit
 +Raider Gang Extended DLC Compatibility Update
 -Faction Overhaul - Raiders_separator
++Npc18's Brotherhood Armour Collection CBBE Bodyslides
++Tumbajamba's Brotherhood Armor Collection
+-Faction Overhaul - BoS_separator
 +PROJECT JAVELIN - Courser Loredump (Unofficial)
 +PROJECT JAVELIN - Courser Replacer
 +PROJECT JAVELIN - Cyber Jackal Race
@@ -1027,36 +992,22 @@
 +You And What Army 2 - Atomic World Patch
 +You And What Army 2 - Mutant Menagerie - Life Finds a Way Patch
 +You And What Army 2
++Tumbajamba's Minutemen Armor Collection - CBBE
++Tumbajamba's Minutemen Armor Collection
 -Faction Overhaul - Minuteman_separator
 +[Faction] Improved Guards
 +[Faction] Improved Nuka Raiders
++[Faction] Improved Hostile Factions
 +[Faction] Improved Railroad
 +[Faction] Improved Institute
 +[Faction] Improved BoS
 +[Faction] Improved AR2 Enclave
 -Improved Series_separator
 +We Are The Minutemen - An Alias Introduction
-+Alias - Yao Guai
-+Alias - Fog Crawlers (Legendary)
-+Alias - Feral Ghouls (Legendary)
-+Alias - Deathclaws (legendary)
-+Alias - Wildlife (Legendary)
-+Alias - Triggermen
-+Alias - Synths
-+Alias - Super Mutants
-+Alias - Robots (legendary)
-+Alias - Robots
-+Alias - Raiders
-+Alias - Introduction Needed - Settlers
-+Alias - Settlers
-+Alias - Gunners
-+Alias - Fog Crawlers
-+Alias - Feral Ghouls
-+Alias - Deathclaws
 +Alias - Introduction Needed - BoS
-+Alias - Brotherhood
++Alias - Introduction Needed - Settlers
 +Alias Framework Expanded
-+Alias - Framework
++The Alias Project - All In One
 -Alias_separator
 +Northern Foothills Rocks Fix
 +Optimized Vanilla Tree LODs
@@ -1101,6 +1052,7 @@
 +Chew 4 Glue
 +Natural resistances
 +Even More Immersive Burning Molotovs and Flamers
++Holster To Throw
 +Immersive Burning Molotovs and Flamers!
 +No Attack Messages
 +Slow Motion Dismemberment
@@ -1162,6 +1114,7 @@
 +Wetness Shader Fix
 +Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
 +Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person) - SWAT-Walking Addon
++Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person) - Fixed Vanilla Sighted Additive Animations
 +Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)
 +3rd Person Behavior Fixes
 +Reload Fix
@@ -1221,9 +1174,10 @@
 *Creation Club: ccFSVFO4007-Halloween
 *Creation Club: ccOTMFO4001-Remnants
 *Creation Club: ccSBJFO4003-Grenade
-*DLC: Automatron
 *DLC: Contraptions Workshop
-*DLC: Far Harbor
-*DLC: Nuka-World
 *DLC: Vault-Tec Workshop
 *DLC: Wasteland Workshop
+*DLC: Nuka-World
+*DLC: Far Harbor
+*DLC: Automatron
+-Base Game_separator
