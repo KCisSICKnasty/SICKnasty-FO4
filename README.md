@@ -43,10 +43,11 @@ Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3t
 	Drag the zip file into MO2. Enable the mod and plugin.
 
 Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
+	*Note: You'll have to make an account. OCBP is required for 3BBB.
 	Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) and enable it.
 
-Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/NdkkPPBf2P
-	You can find the download in #complex-sorter-support in the upper right under pins.
+Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
+Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
 	*Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.
 
 Settings you must check in Mod Organizer 2 (double click and navigate to txt file):
