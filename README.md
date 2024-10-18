@@ -18,10 +18,6 @@ REQUIREMENTS:
 *SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! It requires the NextGen content, but then uses Simple Fallout 4 Downgrader to roll back the update
 and keep the content. GOG is not supported, sorry! :(
 
-**This list started off with The Midnight Ride for a stable base to build off of. I followed the instructions there to install MO2, BethiniPie, and all the other tools you'll
-need outside of what's included here. For redundancy sake, I wont cover any of the install steps or anything there since it would just be me repeating it (literally, copy
-and pasting). This modlist assumes that you've at least looked at that. If you ever decide to start your own list, I cannot recommend it enough for the base.
-
 ***This mod list is VERY big. The BA2 limit was hit a long time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever
 for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what
 I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for
@@ -73,7 +69,7 @@ All Weapons HD (A.W.H.D.): (this requires going into your game folder, which you
 		      bInvalidateOlderFiles=1s
 		      ResourceDataDirsFinal=
 
-Make F4SE an executable in MO2. Details on that found in The Midnight Ride. Make the executable the one in the Stock Game folder.
+Make F4SE an executable in MO2. Details on that found in The Midnight Ride. Make the executable of fallout4.exe the one in the Stock Game folder.
 
 Settings you must change manually in game:
 
@@ -100,8 +96,6 @@ Download my resource files from here: https://www.nexusmods.com/fallout4/mods/88
 Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
 Follow the video on the mod description page and enjoy better performance.
 
-Looking to tweak your Complex Sorter Output yourself? Here's the guide I followed by 4estGimp: https://www.nexusmods.com/fallout4/mods/51307?tab=files&file_id=328617
-
 Plugins that are disabled FOR A REASON!!!
 -UniqueReplacer - WastelandK9Armor.esp
 -UniqueReplacer - LunarSSRecon.esp
@@ -118,6 +112,11 @@ Plugins that are disabled FOR A REASON!!!
 -AnubisPlayerVoice.esp
 
 DO NOT RE-ENABLE OR YOU WILL EXPERIENCE MOODINESS!!!
+
+Reading material:
+
+If any mod includes a PDF or a txt file, you can find that neatly tucked into a folder called "reading material". I encourage taking a look at those whenever you have some
+free time!
 
 THE DEEP DIVE:
 
@@ -140,6 +139,20 @@ only take damage in the specific spot. We've got some nifty mods to make Bastion
 Warsaw's Improved factions series serves as a base for a ton of the weapon and armor mods on this list. I've more or less included everything that they can interact with that
 doesn't conflict. Raider Overhaul & Raider Gangs Extended, Super Mutant Redux & Forced Evolution, More Feral Ghouls & Feral Ghoul Expansion Pack, We Are the Minutemen & You
 and What Army 2...You name it, bud. If the faction exists, it's been overhauled.
+
+Weapon and Armor mods are plentiful, but I cannot stand chem bench clutter & am not interested in 500 ARs from the real world or CoD. Therefore, any mod that adds a new weapon
+or piece of armor/clothing is ran through URP (Unique Replacers Project). This series of mods replaces FO4's vanilla uniques with mods. The mods it uses are stripped of any
+crafting capabilities or LL injections, making finding the unique it has replaced the only way to obtain it. This gives a lot of variety to the unique weapons & makes it more
+exciting when you find them.
+
+The only weapons in the list not touched by URP are those included in the WOP (Weapon Overhaul Project). This includes Combined Arms & the Expansion pack, the Service Rifle,
+the Wattz Laser Gun, the M1 Garand, the weapons added by Point Lookout, & the 22LR Pistol. The only armor/clothing in the list not touched by URP are included because they
+probably interact well with Gasmasks of the Wasteland.
+
+Speaking of which, there's 2 new resources you need to manage & conditions you need to keep track of. Gasmasks of the Wasteland makes wearing a gas mask a necessity when
+traversing the Commonwealth with replacable filters you'll need to keep on hand. Nuclear Winter (WHICH DOES NOT ADD WEATHER TO THE GAME!!!) makes your body temperature
+something you'll actually need to keep track of (with realism, so if it's December, well...Boston sucks in the winter...). Keep your character properly dressed and make sure
+you keep those hands warm!
 
 My patches are all esp flagged esl plugins made in xEdit. Most of them are self explanatory (SICKnastyPERKmodule contains all perk related patches, SICKnastyGASMASKmodule
 forwards the gasmasks from Gasmasks of the Wasteland into inventories and carries over any NPC changes, etc.).
