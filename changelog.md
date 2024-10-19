@@ -11,6 +11,7 @@ Initial Re-Release
 Updated the installer
 
 Updated the following mods:
+
 -eXoSorter Interface
 -Unique Replacers Project - Legendary Unique Armor And Power Armor (Mk234 Synth Combat Armor)
 -Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
@@ -22,6 +23,7 @@ Updated the following mods:
 -Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)
 
 Added the following mods:
+
 -Tumbajamba's Minutemen Armor Collection
 -Tumbajamba's Minutemen Armor Collection - CBBE
 -Tumbajamba's Brotherhood Armor Collection
@@ -35,6 +37,7 @@ Added the following mods:
 Updated the installer
 
 Updated the following mods:
+
 -Icon Expansion Pack for FIS
 -Alias - Unique Dynamic name generation for NPCs
 -Unique Replacers Project - Unique Legendary Weapons
@@ -46,6 +49,7 @@ Updated the following mods:
 Updated the installer
 
 Removed the following mods:
+
 -ECO Redux Armory﻿ (Crossbows)
 -Sprint Overhaul﻿ 
 Updated the following mods:
@@ -53,6 +57,7 @@ Updated the following mods:
 -ITO institute Technology Overhaul Full - Version 2
 
 Added the following mods:
+
 -Holster To Throw
 -ZP's Fire and Smoke
 -Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
@@ -62,12 +67,15 @@ Added the following mods:
 Updated the installer
 
 Removed the following mods:
+
 -Unique Replacers Project - Vendor Legendary Weapons (URP TinkerTomsSpecial - BoltAction556 is included in AIO, but named differently)
 
 Updated the following mods:
+
 -Improved Brotherhood of Steel (enabled compatibility patches for Tumbajamba's Brotherhood Armor Collection)
 
 Added the following mods:
+
 ﻿-Improved Hostile Factions
 -Forever Radiation
 -XXL Nukes (Nuclear Explosions Overhaul)
@@ -79,10 +87,12 @@ Added the following mods:
 Updated the installer
 
 Updated the following mods:
+
 -Better Lootable Vehicles of the Commonwealth
 -ITO institute Technology Overhaul Full - Version 2
 
 Added the following mods:
+
 -Car Alarm
 -Car Alarms - Extras and Enhanced
 -VAFS Redux - SFX Replacer
@@ -92,10 +102,12 @@ Added the following mods:
 Updated the installer
 
 Updated the following mods:
+
 -X-Cell Fallout 4
 -VAFS Redux - Bullet Time and Manual Critical (removed the VAFS DLC plugin)
 
 Added the following mods:
+
 -Backpacks of the Commonwealth (CBBE slidersets)
 -Classy Chassis Outfits - Cait's Corset
 -Classy Chassis Outfits - Heather Casdin Replacer
@@ -106,6 +118,7 @@ Added the following mods:
 Updated the installer
 
 Updated the following mods:
+
 -Holotape Display Shelves - Automatron Support
 -Community Fixes Merged
 -Institute Power Armor Redux...Redux (ITO patch)
@@ -115,6 +128,7 @@ Updated the following mods:
 Updated the installer
 
 Updated the following mods:
+
 -ZP's Fire and Smoke (optional update patch)
 -Institute Teleportation for Survival Mode (Commonwealth Settlements ONLY version)
 -Shadow Boost FO4 (ini file included)
@@ -122,6 +136,7 @@ Updated the following mods:
 -MCM Booster (v1.1 beta2 available in Collective Modding Discord)﻿
 
 Added the following mods:
+
 -HUD Plus Plus
 -MCM Booster NG (& optional cache tweak for SCOURGE)
 -Vanilla Apparel Remesh Project
