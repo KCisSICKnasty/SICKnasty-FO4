@@ -161,3 +161,41 @@ Added the following mods:
 - The Harbor Bee Monorail
 - Armor and clothing sound replacer
 - Weapon grabbing sound replacer
+
+1.2.1
+
+Updated the installer
+
+Updated the following mods:
+
+- ITO institute Technology Overhaul Full - Version 2
+- Institute Power Armor Redux...Redux
+
+Added the following mods:
+
+- Marine Wet suit Material Fix
+- Marine Combat Armor Material Fix
+- Precious Metal Bars
+- Library and Subway Tokens HD remastered.
+- Institute terminal keyboard text
+- Automatron workstation terminal with keyboard text
+- Improvised Terminal Keys with Text
+- Shaw Memorial Restoration
+- Halffaces - Ancient Pottery
+- Halffaces - Charming Halloween smile
+- Halffaces - Coffee Cup
+- Halffaces - Fly swatter (or ping-pong paddle)
+- Halffaces - Globes All-in-One
+- Halffaces - Kitchen Bar
+- HFs - a little nicer Bread Box
+- HFs - Appliances
+- HFs - Burnt Books
+- HFs - Dentist's kit
+- HFs - Dog Manor
+- HFs - Gentleman's set
+- HFs - Grill
+- HFs - Lightbulb
+- HFs - Potted Plants
+- HFs - Sign Wet Floor
+- HFs - Some dining stuffs
+- Awareness Legendary Mutation Message
