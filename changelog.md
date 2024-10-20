@@ -1,12 +1,12 @@
-1.0.0
+__1.0.0__
 
 Initial Release
 
-1.0.1
+__1.0.1__
 
 Initial Re-Release
 
-1.0.2
+__1.0.2__
 
 Updated the installer
 
@@ -32,7 +32,7 @@ Added the following mods:
 - Tumbajamba's Gunner Armor Collection - CBBE
 - Gunner Outfit Pack and Tumbajamba's Gunner Collection Legendary Integration Patch
 
-1.0.3
+__1.0.3__
 
 Updated the installer
 
@@ -44,7 +44,7 @@ Updated the following mods:
 - Unique Replacers Project - Vendor Legendary Weapons
 - Unique Replacers Project - Legendary Unique Armor And Power Armor
 
-1.1.0
+__1.1.0__
 
 Updated the installer
 
@@ -62,7 +62,7 @@ Added the following mods:
 - ZP's Fire and Smoke
 - Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
 
-1.1.1
+__1.1.1__
 
 Updated the installer
 
@@ -82,7 +82,7 @@ Added the following mods:
 - XXL Nuka-Nuke Patch
 - Yangtze More Destructive Nuclear Missiles﻿
 
-1.1.2
+__1.1.2__
 
 Updated the installer
 
@@ -97,7 +97,7 @@ Added the following mods:
 - Car Alarms - Extras and Enhanced
 - VAFS Redux - SFX Replacer
 
-1.1.3
+__1.1.3__
 
 Updated the installer
 
@@ -113,7 +113,7 @@ Added the following mods:
 - Classy Chassis Outfits - Heather Casdin Replacer
 - MTM 3BBB CBP OCBP OCBPC Physics Preset - CBBE - Fusion Girl - Wonder Body - Enhanced Vanilla Bodies - JaneBod Extended - Vanilla - More
 
-1.1.4
+__1.1.4__
 
 Updated the installer
 
@@ -123,7 +123,7 @@ Updated the following mods:
 - Community Fixes Merged
 - Institute Power Armor Redux...Redux (ITO patch)
 
-1.1.5
+__1.1.5__
 
 Updated the installer
 
