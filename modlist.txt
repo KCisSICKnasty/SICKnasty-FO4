@@ -119,8 +119,6 @@
 +Dak's Weapon Rebalance (Damage Overhaul and Leveled Lists) - Dak's Ammo Rebalance
 +Vanillafied - The Zap Gun
 +Vanillafied - Syringer Rifle Overhaul
-+4estGimp - CROSS CryoLance CIS INNR ini
-+Vanillafied - Cross Cryolance
 +T60 Shoulder Cape Right Arm
 +T-60 Shoulder Cape
 +Run and Breathe Underwater with Power Armor
@@ -173,7 +171,6 @@
 +Caves Of The Commonwealth (eXoPatch - The Mechanical Settler)
 +Caves Of The Commonwealth
 +The Harbor Bee Monorail
-+Castle to Spectacle Island Ferry
 +Boat From Warwick Homestead To The Castle
 +Subway Runner - Revival - NPC Addon
 +Subway Runner - Revival
@@ -309,7 +306,10 @@
 +CROSS Crit Gore-verhaul
 +4estGimp - CROSS TechMask CIS INNR ini
 +CROSS Institute Tech Mask FIX
++CROSS wasteland ronin CBBE Uni-boob patch
 +CROSS_Wasteland_Ronin
++4estGimp - CROSS CryoLance CIS INNR ini
++Vanillafied - Cross Cryolance
 +CROSS_Cryolance
 -CROSS_separator
 +ECO Atom's Glory Threads
@@ -565,15 +565,39 @@
 +WAVE
 +WETTER
 +WET
++Bloody Mess (Enhanced Blood Textures Mod ADD-ON)
++Enhanced Blood Textures
++Gore Overhaul 3.0 -Reload- Cuts and Bruises
 +Glowing Glass Fix
 +Ultimate Window Overhaul
 +Savrenx Dogmeat HD V2
++HFs - Some dining stuffs
++HFs - Sign Wet Floor
++HFs - Potted Plants
++HFs - Lightbulb
++HFs - Grill
++HFs - Gentleman's set
++HFs - Dog Manor
++HFs - Dentist's kit
++HFs - Burnt Books
++HFs - Appliances
++HFs - a little nicer Bread Box
++Halffaces - Kitchen Bar
++Halffaces - Globes All-in-One
++Halffaces - Fly swatter (or ping-pong paddle)
++Halffaces - Coffee Cup
++Halffaces - Charming Halloween smile
++Halffaces - Ancient Pottery
++Improvised Terminal Keys with Text
++Automatron workstation terminal with keyboard text
++Institute terminal keyboard text
 +Workbench Replacer - Rain Fix
 +Workbench Replacer - HIGH - DESATURATED
 +Workbench Replacer HD
 +Retexture for the Fabulous Fire Extinguisher (Replacer)
 +Fabulous Fire Extinguisher (Replacer)
 +Sweet Roll 5000 - Xtreme Sweetroll Mesh and Texture Replacer
++Shaw Memorial Restoration
 +It has been a long road - More than roads Retexture
 +Vehicle Retextures - Left To Rot
 +Retextures - Commonwealth ground dirt and decal
@@ -586,6 +610,9 @@
 +Delightful Dead Fish - HD Retextures for the Commonwealth and Far Harbor DLC
 +Protectron HD 4K - 4k Normal and Specular Maps
 +Protectron HD 4K
++Library and Subway Tokens HD remastered
++Precious Metal Bars - contraptions collision fix
++Precious Metal Bars
 +HD prewar money - contraptions collision fix
 +HD prewar money weathered 4k
 +Drinking Water Retexture - Purified - Institute - Dirty - Drugged - Deezers
@@ -608,12 +635,10 @@
 +Holotape Visual Improvement (Attack of the Lobotomites)
 +Holotape Visual Improvement (America Rising 2)
 +Holotape Visual Improvement
++Better Chem Variants
 +HD Chems Project (Psycho and Med-X)
 +HD Chems Project (Jet and X-Cell)
 +HD Chems Project (Buffout and Rad X)
-+Bloody Mess (Enhanced Blood Textures Mod ADD-ON)
-+Enhanced Blood Textures
-+Gore Overhaul 3.0 -Reload- Cuts and Bruises
 +Leafblower Junkjet
 +All Weapons HD (A.W.H.D.)
 +Enhanced Vanilla Armor and Clothing - EVAC
@@ -622,6 +647,7 @@
 +Make Like A Tree
 +Targeted Textures
 -Retextures_separator
++ZP's Fire and Smoke UPDATE 02
 +ZP's Fire and Smoke UPDATE
 +ZP's Fire and Smoke
 +No Interior Fog
@@ -642,6 +668,8 @@
 +Enhanced Night Sky (Improved Visible Galaxy Framework)
 +Fallout 4 Enhanced Color Correction (Gloom)
 -Weather & Lighting_separator
++Weapon grabbing sound replacer
++Armor and clothing sound replacer
 +Car Alarm - Extras & Enhanced
 +Car Alarm - More Durable Vehicles
 +Car Alarm
@@ -677,7 +705,6 @@
 -Audio & SFX_separator
 +Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
 +No More Appropriated Creature Names Patch for Mutant Menagerie
-+SCOURGE - Life Finds A Way - Mutant Menagerie
 +Mutant Menagerie - LFAW - Widowmaker Scope Patch
 +Mutant Menagerie - Loose Files
 +Mutant Menagerie - Life Finds A Way
@@ -687,6 +714,7 @@
 +Commonwealth Encounter Pack
 +Climb the Commonwealth 'The Rooftops' Patch (ESL)
 +Climb the Commonwealth
++Awareness Legendary Mutation Message
 +Legendary Mutation Messages Fix - Cut Content Restored
 -Content_separator
 +gt_AttachmentPack - SeeThruScopes-Replacer_Patch
@@ -795,6 +823,7 @@
 +SCOURGE - Point Lookout
 +SCOURGE - NightstrikerCreatureMod
 +SCOURGE - More Feral Ghouls
++SCOURGE - Life Finds A Way - Mutant Menagerie
 +SCOURGE - In the Flesh
 +SCOURGE - Forced Evolution
 +SCOURGE - Floaters
@@ -1108,6 +1137,8 @@
 +Extended Fake Interiors (Enclave Remnants)
 +Extended Fake Interiors (DLC)
 +Extended Fake Interiors
++Marine Combat Armor Material Fix
++Marine Wet suit Material Fix
 +NPC Drinking Fix
 +Godrays Performance Fix Redux - ESPless
 +Weapon Debris Crash Fix

@@ -85,6 +85,7 @@ Munitions - Vanilla Ammo Addon.esl
 Gas Mask Hotkeys.esl
 dpjetandxcell.esl
 dppsychoandmedx.esl
+shaw memorial.esl
 F4MS.esl
 PRCH.esl
 Climb_The_Commonwealth.esl
@@ -112,7 +113,6 @@ MidwestPARevolution.esl
 UltracitePA.esl
 3dscopes-nightvision.esl
 BoatFromWarwickToTheCastle.esl
-CastleSpectacleFerry.esl
 EssentialNPCsExpanded.esl
 InstitutePowerArmor.esp
 MSTP_InstitutePowerArmor.esp
@@ -291,6 +291,7 @@ ITO-Addon.esp
 ITOworldedits.esp
 ITO-LockFeature.esp
 ITOSynthNPC.esp
+ITOInstitutePowerArmor.esp
 ImprovedInstITO2Patch.esp
 ITOmunitionsPatch.esp
 Raider Gang Extended NPC (Fixed & Cleaned).esp
@@ -377,6 +378,7 @@ The Attachment Pack - Implementation WMF Patch.esp
 Attach Pack Mod Description Fixes.esp
 Attach Pack Implementation - IWMD Patch.esp
 Legendary Mutation Messages Fix.esp
+AwareLegendaryMutationMessage.esp
 TruePerks.esp
 WW-TruePerks-BetterComapanions.esp
 WW-Fixes-TruePerks.esp
@@ -497,6 +499,7 @@ CourserJAVELIN.esp
 JackalCourserLoredump.esp
 AWHD4KFull.esp
 DWR-DrinkableWaterRetexture.esp
+BetterChemVariants.esp
 Holotape Visual Improvement.esp
 WW-Fixes-HolotapeVisualImprovement.esp
 Holotape Visual Improvement - Attack of The Lobotomites Patch.esp
@@ -694,7 +697,6 @@ T60 Shoulder Cape -  RAA.esp
 T-51C Power Armor.esp
 FO4TribalPowerArmor.esp
 Institute Power Armor Redux...Redux - INNR(ECO).esp
-ITOinstitutePApatch.esp
 Institute Power Armor Redux...Redux Torso Fix.esp
 UltracitePA_BOS.esp
 ImprovedBoSNWUltracitePatch.esp
@@ -1033,10 +1035,6 @@ FarHarborStory_Patch.esp
 PRPCotCPatch.esp
 Settlement_Lobotomites.esp
 [Leader] Lobotomites.esp
-FaceGen Output.esp
-Seasons - Patch.esp
-FOLIP - Before Generation.esp
-FOLIP - After Generation.esp
 WW-WMF-ECO-INNR.esp
 SICknastyUNIQUEmodule.esp
 no more drone outside vault 111.esp
@@ -1045,6 +1043,10 @@ Dank_ECO-Munitions_INNR_CS.esp
 SICKnastyWATMmodule.esp
 4estGimp - CR-ECO_SMR.esp
 4estGimp - CR-ECO_ChurchOfAtom.esp
+FaceGen Output.esp
+Seasons - Patch.esp
+FOLIP - Before Generation.esp
+FOLIP - After Generation.esp
 PuddleReflectionFix.esp
 Wasteland Wonderglue.esp
 M8r Complex Sorter.esp
