@@ -140,3 +140,24 @@ Added the following mods:
 - HUD Plus Plus
 - MCM Booster NG (& optional cache tweak for SCOURGE)
 - Vanilla Apparel Remesh Project
+
+1.2.0
+
+Updated the installer
+
+Removed the following mods:
+
+- Castle to Spectacle Island Ferry
+
+Updated the following mods:
+
+- ITO institute Technology Overhaul Full - Version 2
+- ZP's Fire and Smoke (optional update patch 2)
+- Institute Power Armor Redux...Redux (& ITO patch)
+
+Added the following mods:
+
+- Better Chem Variants
+- The Harbor Bee Monorail
+- Armor and clothing sound replacer
+- Weapon grabbing sound replacer
