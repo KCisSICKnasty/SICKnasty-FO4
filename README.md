@@ -9,11 +9,11 @@ Many wild failures as I learned first hand how modding worked later, we've lande
 
 REQUIREMENTS:
 
--Fallout 4 (Steam copy)*
--Mod Organizer 2
--Wabbajack
--The Midnight Ride**
--Patience***
+- Fallout 4 (Steam copy)*
+- Mod Organizer 2
+- Wabbajack
+- The Midnight Ride**
+- Patience***
 
 *SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! It requires the NextGen content, but then uses Simple Fallout 4 Downgrader to roll back the update
 and keep the content. GOG is not supported, sorry! :(
@@ -40,34 +40,43 @@ It will say "Patch successful!" and then you may continue!
 Off-Site Downloads:
 
 Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
+
 	Drag the zip file into MO2. Enable the mod and plugin.
 
 Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
+
 	*Note: You'll have to make an account. OCBP is required for 3BBB.
+	
 	Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) and enable it.
 
 Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
+
 Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
+	
 	*Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.
 
 Settings you must check in Mod Organizer 2 (double click and navigate to txt file):
 
 High FPS Physics Fix:
--set line 26 to true
--set line 37 to true
--set line 51 to 3.0
+- set line 26 to true
+- set line 37 to true
+- set line 51 to 3.0
 
 Buffout 4 NG with PDB support:
--set line 26 to false
--set line 27 to false
--set line 31 to false
--set line 33 to false
--set line 34 to false
+- set line 26 to false
+- set line 27 to false
+- set line 31 to false
+- set line 33 to false
+- set line 34 to false
 
 All Weapons HD (A.W.H.D.): (this requires going into your game folder, which you can do through the folder icon at the top of your modlist in MO2)
--Fallout4Prefs.ini - Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
--Fallout4Custom.ini - [Archive]
+
+- Fallout4Prefs.ini - Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
+
+- Fallout4Custom.ini - [Archive]
+
 		      bInvalidateOlderFiles=1s
+
 		      ResourceDataDirsFinal=
 
 Make F4SE an executable in MO2. Details on that found in The Midnight Ride. Make the executable of fallout4.exe the one in the Stock Game folder.
@@ -75,18 +84,18 @@ Make F4SE an executable in MO2. Details on that found in The Midnight Ride. Make
 Settings you must change manually in game:
 
 Power Armor Handling Improvements - Retain Armor Buffs:
--Backpacks of the Commonwealth - Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
+
+- Backpacks of the Commonwealth - Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
 
 MAIM Speed:
--Set Hotkeys to your preference
--Turn on scroll wheel and configure if you would like
+
+- Set Hotkeys to your preference
+- Turn on scroll wheel and configure if you would like
 
 VAFS Redux:
--Set activation hotkey
--Set criticals hotkey
 
-Nuclear Winter:
--Turn on
+- Set activation hotkey
+- Set criticals hotkey
 
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
 
@@ -95,22 +104,25 @@ The cherry on top:
 Download my resource files from here: https://www.nexusmods.com/fallout4/mods/88357
 
 Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
+
 Follow the video on the mod description page and enjoy better performance.
 
 Plugins that are disabled FOR A REASON!!!
--UniqueReplacer - WastelandK9Armor.esp
--UniqueReplacer - LunarSSRecon.esp
--UniqueReplacer - JustSweeper.esp
--Dogmeat's Backpack.esp
--0_Vault120_NordhagenHaven_PRP.esp
--Forever Radiation Lite.esp
--FR L XXXLNukes Patch.esp
--Tumba_Gunner_Collection_Smuggler.esp
--3dscopes-replacer-bullpupbozar.esp
--3dscopes-replacer-classicsniper.esp
--LOD Fixes and Additons.esp
--AnubisPlayer.esp
--AnubisPlayerVoice.esp
+
+- UniqueReplacer - WastelandK9Armor.esp
+- UniqueReplacer - LunarSSRecon.esp
+- UniqueReplacer - JustSweeper.esp
+- Dogmeat's Backpack.esp
+- 0_Vault120_NordhagenHaven_PRP.esp
+- Forever Radiation Lite.esp
+- FR L XXXLNukes Patch.esp
+- Tumba_Gunner_Collection_Smuggler.esp
+- 3dscopes-replacer-bullpupbozar.esp
+- 3dscopes-replacer-classicsniper.esp
+- LOD Fixes and Additons.esp
+- AnubisPlayer.esp
+- AnubisPlayerVoice.esp
+- Horrorghouls2.2.esl
 
 DO NOT RE-ENABLE OR YOU WILL EXPERIENCE MOODINESS!!!
 
