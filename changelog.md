@@ -199,3 +199,23 @@ Added the following mods:
 - HFs - Sign Wet Floor
 - HFs - Some dining stuffs
 - Awareness Legendary Mutation Message
+
+1.2.2
+
+Updated the installer
+
+Removed the following mods:
+
+- MCM Booster NG
+
+Updated the following mods:
+
+- ITO institute Technology Overhaul Full - Version 2
+- Gunner Outfit Pack and Tumbajamba's Gunner Collection Legendary Integration Patch
+
+Added the following mods:
+
+- MCM Booster - SCOURGE Cache tweak
+- Bobrov's Pick - Alcohol Overhaul
+- Put Ur Gun In - Immersive Weapon Switch
+- No Console Spam
