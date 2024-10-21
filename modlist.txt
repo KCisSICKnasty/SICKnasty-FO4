@@ -471,6 +471,9 @@
 +Uneducated Shooter - QE Leaning and Gun Inertia
 +Low Profile Loader
 -Animations_separator
++Pure Opulence - 1st Person view wrist gap fix
++Pure Opulence - Skin Override bug Mitigation
++Pure Opulence - 8K - For HiPoly Face REDUX
 +Wasteland Salon (Hair Texture Improvement Mod)
 +The Eyes of Beauty Fallout Edition - Remastered
 +HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) - 2K Detailed Large UV Pack (CBBE)
@@ -876,6 +879,7 @@
 +Better Vertibird (eXoPatch -LiTE)
 +Better Chems - Maim Patch
 +Better Chems
++Bobrov's Pick - Alcohol Overhaul
 +Addiction Overhaul
 +Nuka Cola Bubblegum
 +Hit Those Explosives
@@ -1051,6 +1055,17 @@
 +HD LOD Textures
 +FO4LODGen Resources
 -LOD_separator
++Put Ur Gun In - Immersive Weapon Switch
++Sprint Stuttering Fix
++Sprint Jump AP Fix
++Armor Penetration Bug Fix - F4SE
++Magic Effect and Spell Engine Fixes - F4SE
++Empty Vendor List Bug Fix - F4SE
++Companion Shoots At Player Fix - F4SE
++Companion Jump Fall Pose Fix - F4SE - Garden of Eden SE
++Hostile NPC Respawn Fix - F4SE - Garden of Eden SE
++No Console Spam
+-F4SE Plugins_separator
 +Customizable Character Rim Lighting - ESPless
 +Magazine Perks Tab v1.00
 +PipboyTabs
@@ -1069,8 +1084,7 @@
 +Crafting Highlight Fix
 +Extended Dialogue Interface
 +Perchik71 - In Game MOD Explorer (MCM)
-+MCM Booster NG cache tweak for SCOURGE
-+MCM Booster NG v1.1-beta2.7z
++MCM Booster - SCOURGE Cache tweak
 +MCM_Booster_v1.1-beta2
 +Smokeable Cigars - MCM Settings Menu
 +Remote Explosives MCM Control
@@ -1127,7 +1141,6 @@
 -Tweaks_separator
 +Tina De Luca and Doctor Penske FACE FIX
 +Vanilla Resonating Lights Fix
-+Sprint Jump AP Fix
 +Leveled Item Fixes
 +Jet Script Bug Fix
 +Conduit Connection Fix
@@ -1154,13 +1167,6 @@
 +Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)
 +3rd Person Behavior Fixes
 +Reload Fix
-+Armor Penetration Bug Fix - F4SE
-+Magic Effect and Spell Engine Fixes - F4SE
-+Empty Vendor List Bug Fix - F4SE
-+Companion Shoots At Player Fix - F4SE
-+Companion Jump Fall Pose Fix - F4SE - Garden of Eden SE
-+Hostile NPC Respawn Fix - F4SE - Garden of Eden SE
-+Sprint Stuttering Fix
 +Buffout 4 NG with PDB support
 +Weapon Mod Fixes
 +Misc anim tweaks and fixes

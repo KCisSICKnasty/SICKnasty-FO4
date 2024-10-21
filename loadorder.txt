@@ -75,8 +75,8 @@ SubwayRunnnerDynamicLighting.esp
 AshlandStationSettlement.esp
 ENGINE_RespondToPain.esp
 AnubisRace.esp
+AlcoholOverhaulESL.esp
 BaseIDforUniques.esm
-Horrorghouls2.2.esl
 HiPolyFacesCompanionPlugin.esl
 IDEKsLogisticsStation2.esl
 HoloDisplay.esl
@@ -109,6 +109,7 @@ CROSS_Wasteland_Ronin.esl
 GrafAssaultronArmorNoAwkcrDlc01.esl
 Tumba_Gunner_Collection.esp
 Tumba_Gunner_Collection_Legendaries.esp
+Tumba_Gunner_Collection_VanillaUniques.esp
 MidwestPARevolution.esl
 UltracitePA.esl
 3dscopes-nightvision.esl
@@ -555,6 +556,7 @@ CF_AtomicWarlord_CBBE.esp
 LooksMenu.esp
 LooksMenu Customization Compendium.esp
 HiPolyFaces.esp
+PureOpulence.esp
 RaiderOverhaul.esp
 Radical-RaiderMaterial.esp
 Raider Overhaul ONE - IAF [Patch].esp
