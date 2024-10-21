@@ -219,3 +219,44 @@ Added the following mods:
 - Bobrov's Pick - Alcohol Overhaul
 - Put Ur Gun In - Immersive Weapon Switch
 - No Console Spam
+
+1.2.3
+
+Updated the installer
+
+Removed the following mods:
+
+- Perchik71 - In Game MOD Explorer (MCM)
+
+Updated the following mods:
+
+- ﻿Community Fixes Merged
+- Jetpacks FAO v5
+- Ashland Station - Quest-Dungeon-Settlement
+
+Added the following mods:
+
+- Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless)
+- Elevator Direction Indicator
+- Bengal - long lasting Flare
+- PROTIVOGAZ Project - GP5
+- Halffaces - Couches (Lite version)
+- Halffaces - Federalist Chair replacer
+- Halffaces - Federalist Chair Office replacer
+- Halffaces - Ottoman butt support
+- Halffaces - a little nicer ugly tables
+- Halffaces - a little nicer Wood Basket
+- Halffaces - Wooden Barrel
+- Halffaces - Woodbox replacer
+- Halffaces - a little nicer Metal Buckets
+- Halffaces - Old Rusty Trashcan
+- HFs - Ugly Stools Redone (Lite version)
+- HFs - a little nicer Benches
+- Halffaces - a little nicer Federalist Tables
+- ZP's Feral Sounds
+- ZP's Frost and Shock
+- Avon M53A1 Gas Mask
+- Fallout 4 High Heels System
+- Accessible Bridges
+- Accessible Bridges - UFO4P Patch
+
