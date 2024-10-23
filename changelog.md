@@ -141,7 +141,7 @@ Added the following mods:
 - MCM Booster NG (& optional cache tweak for SCOURGE)
 - Vanilla Apparel Remesh Project
 
-1.2.0
+__1.2.0__
 
 Updated the installer
 
@@ -162,7 +162,7 @@ Added the following mods:
 - Armor and clothing sound replacer
 - Weapon grabbing sound replacer
 
-1.2.1
+__1.2.1__
 
 Updated the installer
 
@@ -200,7 +200,7 @@ Added the following mods:
 - HFs - Some dining stuffs
 - Awareness Legendary Mutation Message
 
-1.2.2
+__1.2.2__
 
 Updated the installer
 
@@ -220,7 +220,7 @@ Added the following mods:
 - Put Ur Gun In - Immersive Weapon Switch
 - No Console Spam
 
-1.2.3
+__1.2.3__
 
 Updated the installer
 
@@ -260,3 +260,45 @@ Added the following mods:
 - Accessible Bridges
 - Accessible Bridges - UFO4P Patch
 
+__2.0.0__
+
+Updated the installer
+
+Updated the following mods:
+
+- CROSS Crit Gore-verhaul
+- Pip-Boy W.S.
+- Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton
+- MAIM - Wounds Bleeding Pain Meds and Headshots
+- Food Sanitizer
+- Sim Settlements 2 - Chapter 3
+- Alternative Activation Prompts
+- Ultracite Power Armor
+- Children of Ug-Qualtoth
+- Subversion - The Institute-Railroad Alliance Alternate Ending
+- Northern Foothills Rocks Fix
+- Church of Atom Overhaul
+- Synth Overhaul - C.A.S.T
+- Super Mutant Equality a Super Mutant Weapon Expansion
+- You And What Army 2
+
+Added the following mods:
+
+- PrivateProfileRedirector F4 - Faster game start (INI file cacher)
+- Auto Gamepad Switch
+- Navmesh Fix for Airship - Player Home and Settlement By Korodic
+- VertiCall - Milton General Helipad
+- VertiCall - Cambridge PD Helipad
+- Medford Memorial Helipad
+- The Wilderness Vertibird altitude fix
+- Fix Automatron Headlight and ShockClaw effects
+- T-49 Power Armor - Visor Fix
+- Attack of the Lobotomites - Lesser Loot Patch
+- Atomic World - No False Cave at Angler's Rest
+- Better Ammo Boxes
+- Retextures for Turrets - Seen some shit
+- Far Harbor architecture pieces
+- Retexture - Corroded airplanes - Seen some oxidation
+- Retexture Lockpick interface and Screwdriver - Seen some shit
+- Seen some shit - Pulowski Shelter Retexture
+- Retexture - Capsules seen some shit
