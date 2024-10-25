@@ -24,7 +24,23 @@ I'd like to call, "watching the Audio load". Once the main menu opens, and you c
 "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in
 Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?
 
-Setting up MO2, BethiniPie, etc.:
+Wabbajack installation: (copy & pasted from The Midnight Ride website)
+
+- Download the latest Wabbajack.
+- Create a new folder anywhere outside of any default Windows folders, and the game folder itself. (Example: C:\Modding\Wabbajack)
+- Place the downloaded Wabbajack.exe in this folder, then run it.
+- Click Browse Modlists, then tick the Show Unofficial Lists box in the corner.
+- Locate "SICKnasty - FO4" in the gallery and click the download button in the corner.
+- In Installation Location select an empty folder that is NOT the following: the Steam folder, any default Windows folders, the game folder, the folder where you put Wabbajack.exe. (Example: C:\Modding\SICKnasty - FO4)
+- Begin the installation.
+- Accept the Nexus Mods API request. (If you are not a Premium user you will need to manually click download for each mod.)
+- Once complete, the installation will show a green Installation Complete screen.
+- If you see a red Installation Failed screen, try log-in again through the Wabbajack settings, then reinstall the list to the same folder.
+
+Setting up MO2: (copy & pasted from The Midnight Ride website)
+
+- Launch ModOrganizer.exe from your Installation Location.
+- If you see a pop-up called Register?, select Yes.
 
 Just use The Midnight Ride: https://themidnightride.moddinglinked.com/utilities.html
 
