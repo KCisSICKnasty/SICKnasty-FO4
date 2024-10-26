@@ -302,3 +302,75 @@ Added the following mods:
 - Retexture Lockpick interface and Screwdriver - Seen some shit
 - Seen some shit - Pulowski Shelter Retexture
 - Retexture - Capsules seen some shit
+
+__2.1.0__
+
+Updated the installer
+
+Removed the following mods:
+
+- MAIM - Wounds Bleeding Pain Meds and Headshots
+﻿- MAIM - Fallout Chem Names Patch
+- True Perks - MAIM Patch
+﻿- MAIM 2 - Headshots Patch
+﻿- Submersible Power Armor Big Daddies in Vault 120
+﻿- Immersive Legendary Mutations
+﻿- Nick Valentine Reborn - Compatibility Fix
+- Bobrov's Pick - Alcohol Overhaul
+- ZP's Geiger Counter Sounds﻿
+
+Updated the following mods:
+
+- More Feral Ghouls eXopansion Patch
+- Workshop Framework
+- ZP's Frost and Shock
+- Sim Settlements 2
+- Sim Settlements 2 - Chapter 2
+- Sim Settlements 2 - Chapter 3
+- eXoSorter Interface
+- Simple Creation Club Delayed NG
+- Power Armor Handling Improvements - Retain Armor Buffs
+- Better Chems - Maim Patch
+- NPCs Use (MAIM) Items
+- Institute Power Armor Redux...Redux
+- Slow Motion Dismemberment
+- Extended Fake Interiors - Commonwealth buildings fixes
+- Sim Settlements 2 - Previsibines Expansion Pack
+- ITO institute Technology Overhaul Full - Version 2
+- PreWar Binoculars - Call in Fire Support addon
+
+Added the following mods:
+
+- MAIM 3.02﻿
+- Munitions - 40mm and 25mm Grenade Casing Fix
+- BH Army Binoculars - PreWar Binoculars Replacer
+- Helipads from Hap
+- Lootable Crates
+- Lootable Crates - Reduced Loot
+- Ultimate Hacking
+- HFs - Drive-In Speaker
+- MAIM3 and True Perks Compatibility Patch
+- Fallout 4 Wheel Menu
+- Wheel Menu - FallUIified
+- Attachment Pack - Turrets
+- SICKnasty - Patches (Fallout names for MAIM 3 items)
+- SICKnasty - Patches (No more Combat Drone outside Vault 111)
+- Pool Table HD Variants
+- Realistic Pool Balls HD
+- Scary Clown Monkey Trap HD
+- Diamond City Lights
+- Very Minor PipBoy Fixes
+- Commonwealth Broadcasting Services
+- KiLoader for Fallout 4
+- Angel's Companion Tagging
+- Angel's OMOD Tagging
+- Essential Caravan Brahmin - ESPless
+- Consistent and Custom Companion Names - ESPless
+- MAIM 3 (Beta) - No Hangover
+- Jolly Item Sounds
+- Not Great Not Terrible - Scarier Geiger Counter Sounds
+- Rat Runners Plushies
+- Combat AI Empowered
+- Combat AI Empowered - Combat Game Settings Upgrade - (sneak - detection - projectile range - patrol etc.)
+- Combat AI Empowered - Reduce Grenade Spam
+- Combat AI Empowered - Tweaked Accuracy and Behavior
