@@ -42,43 +42,40 @@ Setting up MO2: (copy & pasted from The Midnight Ride website)
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
-Just use The Midnight Ride: https://themidnightride.moddinglinked.com/utilities.html
-
-I can't put it any better. Follow it for the initial installs, but ignore everything after "Mod Organizer Downloads" (you're here because you're downloading a list, right?).
-The Midnight Ride is the golden standard, in my opinion, for setting up your game to be modded. I'd recommend giving it a look over so you can at least be familiar with how
-to do things in MO2. I won't explain those things here because it would just be me repeating what's said there. TMR website is where I learned and it should be where you learn
-too! (:
-
 MOST IMPORTANTLY, NAVIGATE TO STOCK GAME FOLDER AND LAUNCH: fo4downgrader.exe
 
 It will say "Patch successful!" and then you may continue!
 
 Off-Site Downloads:
 
-Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
+- Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 
-	Drag the zip file into MO2. Enable the mod and plugin.
+Drag the zip file into MO2. Enable the mod and plugin.
 
-Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
+- Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
 
-	*Note: You'll have to make an account. OCBP is required for 3BBB.
+Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) and enable it.
+
+__Note: You'll have to make an account before the site will let you click install. OCBP is required for 3BBB.__
+
+- Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
+
+- Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
+
+- Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.com/channels/955873856931897404/1104870314476851281/1104870314476851281
 	
-	Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) and enable it.
-
-Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
-
-Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
-	
-	*Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.
+__Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.__
 
 Settings you must check in Mod Organizer 2 (double click and navigate to txt file):
 
 High FPS Physics Fix:
+
 - set line 26 to true
 - set line 37 to true
 - set line 51 to 3.0
 
 Buffout 4 NG with PDB support:
+
 - set line 26 to false
 - set line 27 to false
 - set line 31 to false
@@ -87,13 +84,15 @@ Buffout 4 NG with PDB support:
 
 All Weapons HD (A.W.H.D.): (this requires going into your game folder, which you can do through the folder icon at the top of your modlist in MO2)
 
-- Fallout4Prefs.ini - Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
+- Fallout4Prefs.ini- Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
 
-- Fallout4Custom.ini - [Archive]
+- Fallout4Custom.ini-
 
-		      bInvalidateOlderFiles=1s
+[Archive]
 
-		      ResourceDataDirsFinal=
+bInvalidateOlderFiles=1s
+
+ResourceDataDirsFinal=
 
 Make F4SE an executable in MO2. Details on that found in The Midnight Ride. Make the executable of fallout4.exe the one in the Stock Game folder.
 
