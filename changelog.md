@@ -8,8 +8,6 @@ Initial Re-Release
 
 __1.0.2__
 
-Updated the installer
-
 Updated the following mods:
 
 - eXoSorter Interface
@@ -34,8 +32,6 @@ Added the following mods:
 
 __1.0.3__
 
-Updated the installer
-
 Updated the following mods:
 
 - Icon Expansion Pack for FIS
@@ -45,8 +41,6 @@ Updated the following mods:
 - Unique Replacers Project - Legendary Unique Armor And Power Armor
 
 __1.1.0__
-
-Updated the installer
 
 Removed the following mods:
 
@@ -63,8 +57,6 @@ Added the following mods:
 - Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
 
 __1.1.1__
-
-Updated the installer
 
 Removed the following mods:
 
@@ -84,8 +76,6 @@ Added the following mods:
 
 __1.1.2__
 
-Updated the installer
-
 Updated the following mods:
 
 - Better Lootable Vehicles of the Commonwealth
@@ -98,8 +88,6 @@ Added the following mods:
 - VAFS Redux - SFX Replacer
 
 __1.1.3__
-
-Updated the installer
 
 Updated the following mods:
 
@@ -125,8 +113,6 @@ Updated the following mods:
 
 __1.1.5__
 
-Updated the installer
-
 Updated the following mods:
 
 - ZP's Fire and Smoke (optional update patch)
@@ -142,8 +128,6 @@ Added the following mods:
 - Vanilla Apparel Remesh Project
 
 __1.2.0__
-
-Updated the installer
 
 Removed the following mods:
 
@@ -163,8 +147,6 @@ Added the following mods:
 - Weapon grabbing sound replacer
 
 __1.2.1__
-
-Updated the installer
 
 Updated the following mods:
 
@@ -202,8 +184,6 @@ Added the following mods:
 
 __1.2.2__
 
-Updated the installer
-
 Removed the following mods:
 
 - MCM Booster NG
@@ -221,8 +201,6 @@ Added the following mods:
 - No Console Spam
 
 __1.2.3__
-
-Updated the installer
 
 Removed the following mods:
 
@@ -261,8 +239,6 @@ Added the following mods:
 - Accessible Bridges - UFO4P Patch
 
 __2.0.0__
-
-Updated the installer
 
 Updated the following mods:
 
@@ -304,8 +280,6 @@ Added the following mods:
 - Retexture - Capsules seen some shit
 
 __2.1.0__
-
-Updated the installer
 
 Removed the following mods:
 
@@ -374,3 +348,56 @@ Added the following mods:
 - Combat AI Empowered - Combat Game Settings Upgrade - (sneak - detection - projectile range - patrol etc.)
 - Combat AI Empowered - Reduce Grenade Spam
 - Combat AI Empowered - Tweaked Accuracy and Behavior
+
+__2.1.1__ (WIP)
+
+Updated:
+
+- Community Fixes Merged
+- Wattz Laser Gun (Legacy)
+- Heavy Support Weapons Pack
+- Far Better Far Harbor - Exploration Expanded
+- Lootable Vertibirds
+- Lightweight Lighting and True Storms Integration Patch
+- Remote Explosives - C4 with Detonators and More
+- K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat
+- Recruitable Settlers - Unbroken
+
+Added:
+
+- Gunner Power Armor Paint
+- Power Armor Decals HD
+- Fixed Protectron Textures
+- Fixed Textures for Mirelurk Egg Omelette
+- SavrenX Detailed Hair
+- SavrenX HD Gorilla
+- SavrenX Organic Super Mutant
+- Proper Flyers and Posters
+- Combined Arms - Expansion Pack See Through Scopes patch
+- Service Rifle - Reload Sound Fix
+- M1 Garand - A WWII Classic - STS Patch
+- M1 Garand and SVT-40 - Lower Reload SFX Volume
+- Crapmaster Junk Overhaul
+- Power Attack AP Cost Fix
+- Drumlin Bunker
+- Flickering Roof Mesh Fix
+- Nightstick Baton Unarmed and Melee
+- Coastal Cottage Navmesh Update
+- County Crossing Updated Navmesh
+- Egret Tours Navmesh Update
+- Greentop Nursery Navmesh Update
+- Kingsport Lighthouse Updated Navmesh
+- Murkwater Construction Updated Navmesh
+- Red Rocket Navmesh Update
+- Sanctuary Navmesh Update
+- Starlight DriveIn Navmesh Update
+- The Slog Navmesh Update
+- Rain of Brass - Shell Casings
+- Long Loading Times Fix
+- Simple Quick Start
+- Merged RootBehavior
+- Point Lookout Precombine Overrides Fixer
+- Explosive Barrels
+- Highly volatile - Texture replacer
+- Rsiyo's Location Pack
+- Bradberton Interiors
