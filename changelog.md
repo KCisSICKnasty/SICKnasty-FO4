@@ -8,7 +8,7 @@ Initial Re-Release
 
 __1.0.2__
 
-Updated the following mods:
+Updated:
 
 - eXoSorter Interface
 - Unique Replacers Project - Legendary Unique Armor And Power Armor (Mk234 Synth Combat Armor)
@@ -20,7 +20,7 @@ Updated the following mods:
 - More Feral Ghouls eXopansion Patch
 - Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)
 
-Added the following mods:
+Added:
 
 - Tumbajamba's Minutemen Armor Collection
 - Tumbajamba's Minutemen Armor Collection - CBBE
@@ -32,7 +32,7 @@ Added the following mods:
 
 __1.0.3__
 
-Updated the following mods:
+Updated:
 
 - Icon Expansion Pack for FIS
 - Alias - Unique Dynamic name generation for NPCs
@@ -42,15 +42,17 @@ Updated the following mods:
 
 __1.1.0__
 
-Removed the following mods:
+Removed:
 
-- ECO Redux Armory﻿ (Crossbows)
+- ECO Redux Armory﻿
 - Sprint Overhaul﻿ 
-Updated the following mods:
+
+Updated:
+
 - Previsibines Repair Pack Stable Branch - PRP
 - ITO institute Technology Overhaul Full - Version 2
 
-Added the following mods:
+Added:
 
 - Holster To Throw
 - ZP's Fire and Smoke
@@ -58,15 +60,12 @@ Added the following mods:
 
 __1.1.1__
 
-Removed the following mods:
-
-- Unique Replacers Project - Vendor Legendary Weapons (URP TinkerTomsSpecial - BoltAction556 is included in AIO, but named differently)
-
-Updated the following mods:
+Updated:
 
 - Improved Brotherhood of Steel (enabled compatibility patches for Tumbajamba's Brotherhood Armor Collection)
+- Unique Replacers Project - Vendor Legendary Weapons
 
-Added the following mods:
+Added:
 
 ﻿- Improved Hostile Factions
 - Forever Radiation
@@ -76,12 +75,12 @@ Added the following mods:
 
 __1.1.2__
 
-Updated the following mods:
+Updated:
 
 - Better Lootable Vehicles of the Commonwealth
 - ITO institute Technology Overhaul Full - Version 2
 
-Added the following mods:
+Added:
 
 - Car Alarm
 - Car Alarms - Extras and Enhanced
@@ -89,12 +88,12 @@ Added the following mods:
 
 __1.1.3__
 
-Updated the following mods:
+Updated:
 
 - X-Cell Fallout 4
 - VAFS Redux - Bullet Time and Manual Critical (removed the VAFS DLC plugin)
 
-Added the following mods:
+Added:
 
 - Backpacks of the Commonwealth (CBBE slidersets)
 - Classy Chassis Outfits - Cait's Corset
@@ -103,9 +102,7 @@ Added the following mods:
 
 __1.1.4__
 
-Updated the installer
-
-Updated the following mods:
+Updated:
 
 - Holotape Display Shelves - Automatron Support
 - Community Fixes Merged
@@ -113,7 +110,7 @@ Updated the following mods:
 
 __1.1.5__
 
-Updated the following mods:
+Updated:
 
 - ZP's Fire and Smoke (optional update patch)
 - Institute Teleportation for Survival Mode (Commonwealth Settlements ONLY version)
@@ -121,7 +118,7 @@ Updated the following mods:
 - MCM Settings Manager (optional Fix file included)
 - MCM Booster (v1.1 beta2 available in Collective Modding Discord)﻿
 
-Added the following mods:
+Added:
 
 - HUD Plus Plus
 - MCM Booster NG (& optional cache tweak for SCOURGE)
@@ -129,17 +126,17 @@ Added the following mods:
 
 __1.2.0__
 
-Removed the following mods:
+Removed:
 
 - Castle to Spectacle Island Ferry
 
-Updated the following mods:
+Updated:
 
 - ITO institute Technology Overhaul Full - Version 2
 - ZP's Fire and Smoke (optional update patch 2)
 - Institute Power Armor Redux...Redux (& ITO patch)
 
-Added the following mods:
+Added:
 
 - Better Chem Variants
 - The Harbor Bee Monorail
@@ -148,12 +145,12 @@ Added the following mods:
 
 __1.2.1__
 
-Updated the following mods:
+Updated:
 
 - ITO institute Technology Overhaul Full - Version 2
 - Institute Power Armor Redux...Redux
 
-Added the following mods:
+Added:
 
 - Marine Wet suit Material Fix
 - Marine Combat Armor Material Fix
@@ -184,16 +181,16 @@ Added the following mods:
 
 __1.2.2__
 
-Removed the following mods:
+Removed:
 
 - MCM Booster NG
 
-Updated the following mods:
+Updated:
 
 - ITO institute Technology Overhaul Full - Version 2
 - Gunner Outfit Pack and Tumbajamba's Gunner Collection Legendary Integration Patch
 
-Added the following mods:
+Added:
 
 - MCM Booster - SCOURGE Cache tweak
 - Bobrov's Pick - Alcohol Overhaul
@@ -202,17 +199,17 @@ Added the following mods:
 
 __1.2.3__
 
-Removed the following mods:
+Removed:
 
 - Perchik71 - In Game MOD Explorer (MCM)
 
-Updated the following mods:
+Updated:
 
 - ﻿Community Fixes Merged
 - Jetpacks FAO v5
 - Ashland Station - Quest-Dungeon-Settlement
 
-Added the following mods:
+Added:
 
 - Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless)
 - Elevator Direction Indicator
@@ -240,7 +237,7 @@ Added the following mods:
 
 __2.0.0__
 
-Updated the following mods:
+Updated:
 
 - CROSS Crit Gore-verhaul
 - Pip-Boy W.S.
@@ -258,7 +255,7 @@ Updated the following mods:
 - Super Mutant Equality a Super Mutant Weapon Expansion
 - You And What Army 2
 
-Added the following mods:
+Added:
 
 - PrivateProfileRedirector F4 - Faster game start (INI file cacher)
 - Auto Gamepad Switch
@@ -281,7 +278,7 @@ Added the following mods:
 
 __2.1.0__
 
-Removed the following mods:
+Removed:
 
 - MAIM - Wounds Bleeding Pain Meds and Headshots
 ﻿- MAIM - Fallout Chem Names Patch
@@ -293,7 +290,7 @@ Removed the following mods:
 - Bobrov's Pick - Alcohol Overhaul
 - ZP's Geiger Counter Sounds﻿
 
-Updated the following mods:
+Updated:
 
 - More Feral Ghouls eXopansion Patch
 - Workshop Framework
@@ -313,7 +310,7 @@ Updated the following mods:
 - ITO institute Technology Overhaul Full - Version 2
 - PreWar Binoculars - Call in Fire Support addon
 
-Added the following mods:
+Added:
 
 - MAIM 3.02﻿
 - Munitions - 40mm and 25mm Grenade Casing Fix
@@ -349,25 +346,26 @@ Added the following mods:
 - Combat AI Empowered - Reduce Grenade Spam
 - Combat AI Empowered - Tweaked Accuracy and Behavior
 
-__2.1.1__
+2.1.1
 
 Removed:
 
 - PrivateProfileRedirector F4 - Faster game start (INI file cacher) 
 - Far Harbor architecture pieces 
 - Desert Eagle - Standalone Handgun﻿ 
+- Freeze Intimidation Overhaul﻿ 
 
 Updated:
 
 - Community Fixes Merged
 - Wattz Laser Gun (Legacy)
 - Heavy Support Weapons Pack
-- Far Better Far Harbor - Exploration Expanded
-- Lootable Vertibirds
-- Lightweight Lighting and True Storms Integration Patch
-- Remote Explosives - C4 with Detonators and More
-- K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat
-- Recruitable Settlers - Unbroken
+- Far Better Far Harbor - Exploration Expanded 
+- Lootable Vertibirds 
+- Lightweight Lighting and True Storms Integration Patch 
+- Remote Explosives - C4 with Detonators and More 
+- K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat 
+- Recruitable Settlers - Unbroken 
 - Cannibal Toast's PRP Patch Compendium 
 - The Riot Shotgun - Fallout New Vegas 
 - DegenerateDak ESLified Patch Hub 
@@ -375,6 +373,7 @@ Updated:
 - Unique Replacers Project - Unique Legendary Weapons 
 - Vanilla Uniques Framework 
 - SICKnasty - Patches (Fallout names for MAIM 3 items) 
+- True Perks ﻿
 
 Added:
 
@@ -386,12 +385,13 @@ Added:
 - SavrenX HD Gorilla
 - SavrenX Organic Super Mutant
 - Proper Flyers and Posters
+- Combined Arms - Dirty Power Armor 3rd Person Fix
 - Combined Arms - Expansion Pack See Through Scopes patch
 - Service Rifle - Reload Sound Fix
 - M1 Garand - A WWII Classic - STS Patch
 - M1 Garand and SVT-40 - Lower Reload SFX Volume
 - Crapmaster Junk Overhaul
-- Children of Ug Qualtoth VATS enabled
+- Power AiO (Regrouped)
 - Power Attack AP Cost Fix
 - Drumlin Bunker
 - Flickering Roof Mesh Fix
@@ -401,21 +401,20 @@ Added:
 - Egret Tours Navmesh Update
 - Greentop Nursery Navmesh Update
 - Kingsport Lighthouse Updated Navmesh
-- Murkwater Construction Updated Navmesh
+- Murkwater Construction Updated Navmesh 
 - Red Rocket Navmesh Update
-- Sanctuary Navmesh Update
-- Starlight DriveIn Navmesh Update
-- The Slog Navmesh Update
-- Rain of Brass - Shell Casings
-- Long Loading Times Fix
-- Simple Quick Start
-- Merged RootBehavior
-- Point Lookout Precombine Overrides Fixer
-- Explosive Barrels
-- Highly volatile - Texture replacer
-- Rsiyo's Location Pack
-- Bradberton Interiors
-- Power AiO (Regrouped)
+- Sanctuary Navmesh Update 
+- Starlight DriveIn Navmesh Update 
+- The Slog Navmesh Update 
+- Rain of Brass - Shell Casings 
+- Long Loading Times Fix 
+- Simple Quick Start 
+- Merged RootBehavior 
+- Point Lookout Precombine Overrides Fixer 
+- Explosive Barrels 
+- Highly volatile - Texture replacer 
+- Rsiyo's Location Pack 
+- Bradberton Interiors 
 - Decayed Army Fatigues Fix 
 - Simple Attack Reaction Speed (Fix) 
 - Fixed High-Tech Benches 
@@ -435,4 +434,3 @@ Added:
 - America Rising 2 Lt Fritz Dismemberment Fix 
 - America Rising Enclave Underarmor Retexture 
 - America Rising 2 - New Enclave Gas Mask 
-
