@@ -56,19 +56,19 @@ Off-Site Downloads:
 
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 
-_Drag the zip file into MO2. Enable the mod & plugin._
+	_Drag the zip file into MO2. Enable the mod & plugin._
 
 - Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
 
-_Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) & enable it._
+	__Note: You'll have to make an account before the site will let you click install. OCBP is required for 3BBB.__
 
-__Note: You'll have to make an account before the site will let you click install. OCBP is required for 3BBB.__
+	_Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) & enable it._
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
 - Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
 - Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.com/channels/955873856931897404/1104870314476851281/1104870314476851281
 	
-__Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.__
+	__Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.__
 
 Launching Fallout 4:
 
@@ -78,9 +78,9 @@ Launching Fallout 4:
 
 Settings you must change manually in game:
 
-Power Armor Handling Improvements - Retain Armor Buffs:
-
 - Backpacks of the Commonwealth - Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
+
+	_Required for Power Armor Handling Improvements - Retain Armor Buffs to work._
 
 MAIM Speed:
 
@@ -93,12 +93,6 @@ VAFS Redux:
 - Set criticals hotkey
 
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
-
-The cherry on top:
-
-Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
-
-Follow the video on the mod description page and enjoy better performance.
 
 Plugins that are disabled FOR A REASON!!!
 
