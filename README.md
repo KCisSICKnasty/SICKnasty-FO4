@@ -42,59 +42,39 @@ Setting up MO2: (copy & pasted from The Midnight Ride website)
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
-MOST IMPORTANTLY, NAVIGATE TO STOCK GAME FOLDER AND LAUNCH: fo4downgrader.exe
+Downgrading: (copy & pasted from The Midnight Ride website)
 
-It will say "Patch successful!" and then you may continue!
+- In the Stock Game folder, double-click on fo4downgrader.exe to run it.
+- A command prompt window will open & it should say: "Patching successful"
+- Close the command prompt & backups with _downgradeBackup appended to their name should appear in the Stock Game folder.
+
+__Download my resource files from here: https://www.nexusmods.com/fallout4/mods/88357__
+
+NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities".
 
 Off-Site Downloads:
 
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 
-Drag the zip file into MO2. Enable the mod and plugin.
+_Drag the zip file into MO2. Enable the mod & plugin._
 
 - Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
 
-Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) and enable it.
+_Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) & enable it._
 
 __Note: You'll have to make an account before the site will let you click install. OCBP is required for 3BBB.__
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
-
 - Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
-
 - Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.com/channels/955873856931897404/1104870314476851281/1104870314476851281
 	
 __Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.__
 
-Settings you must check in Mod Organizer 2 (double click and navigate to txt file):
+Launching Fallout 4:
 
-High FPS Physics Fix:
-
-- set line 26 to true
-- set line 37 to true
-- set line 51 to 3.0
-
-Buffout 4 NG with PDB support:
-
-- set line 26 to false
-- set line 27 to false
-- set line 31 to false
-- set line 33 to false
-- set line 34 to false
-
-All Weapons HD (A.W.H.D.): (this requires going into your game folder, which you can do through the folder icon at the top of your modlist in MO2)
-
-- Fallout4Prefs.ini- Navigate to the very bottom and you will see the line [Launcher]. Directly underneath this, add the following line: bEnableFileSelection=1
-
-- Fallout4Custom.ini-
-
-[Archive]
-
-bInvalidateOlderFiles=1s
-
-ResourceDataDirsFinal=
-
-Make F4SE an executable in MO2. Details on that found in The Midnight Ride. Make the executable of fallout4.exe the one in the Stock Game folder.
+- In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
+- F4SE should be an executable in this menu. Click it.
+- Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
 
 Settings you must change manually in game:
 
@@ -115,8 +95,6 @@ VAFS Redux:
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
 
 The cherry on top:
-
-Download my resource files from here: https://www.nexusmods.com/fallout4/mods/88357
 
 Download VRAMr here- https://www.nexusmods.com/fallout4/mods/80305
 
@@ -141,10 +119,10 @@ Plugins that are disabled FOR A REASON!!!
 
 DO NOT RE-ENABLE OR YOU WILL EXPERIENCE MOODINESS!!!
 
-Reading material:
+Modders Resources:
 
-If any mod includes a PDF or a txt file, you can find that neatly tucked into a folder called "reading material". I encourage taking a look at those whenever you have some
-free time!
+Included in a separate folder called "modders resources", you will find various files and walkthroughs for every mod in the list. Should you decide to take up the modding
+reigns and make your own patch, they're all included for you. (:
 
 THE DEEP DIVE:
 
