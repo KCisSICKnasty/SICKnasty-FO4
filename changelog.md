@@ -349,7 +349,13 @@ Added the following mods:
 - Combat AI Empowered - Reduce Grenade Spam
 - Combat AI Empowered - Tweaked Accuracy and Behavior
 
-__2.1.1__ (WIP)
+__2.1.1__
+
+Removed:
+
+- PrivateProfileRedirector F4 - Faster game start (INI file cacher) 
+- Far Harbor architecture pieces 
+- Desert Eagle - Standalone Handgun﻿ 
 
 Updated:
 
@@ -362,6 +368,13 @@ Updated:
 - Remote Explosives - C4 with Detonators and More
 - K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat
 - Recruitable Settlers - Unbroken
+- Cannibal Toast's PRP Patch Compendium 
+- The Riot Shotgun - Fallout New Vegas 
+- DegenerateDak ESLified Patch Hub 
+- Unique Replacers Project - Vendor Legendary Weapons 
+- Unique Replacers Project - Unique Legendary Weapons 
+- Vanilla Uniques Framework 
+- SICKnasty - Patches (Fallout names for MAIM 3 items) 
 
 Added:
 
@@ -378,6 +391,7 @@ Added:
 - M1 Garand - A WWII Classic - STS Patch
 - M1 Garand and SVT-40 - Lower Reload SFX Volume
 - Crapmaster Junk Overhaul
+- Children of Ug Qualtoth VATS enabled
 - Power Attack AP Cost Fix
 - Drumlin Bunker
 - Flickering Roof Mesh Fix
@@ -401,3 +415,24 @@ Added:
 - Highly volatile - Texture replacer
 - Rsiyo's Location Pack
 - Bradberton Interiors
+- Power AiO (Regrouped)
+- Decayed Army Fatigues Fix 
+- Simple Attack Reaction Speed (Fix) 
+- Fixed High-Tech Benches 
+- HighTech Audio Distortion and Crackle Fix 
+- Vault Doorway Endcap Snap Fix 
+- WBGF - Wire Barrel Gobo Fix 
+- Baka MaxPapyrusOps 
+- VATS Freeze Fix 
+- Fixed Alpha Maps 
+- NVIDIA Reflex Support 
+- Doombased Desert Eagle - Reborn 
+- Doombased desert eagle reborn - munitions patch 
+- Angler gunk restored 
+- Robot Meat Brain 
+- ClickLight - Highlight Objects Clicked in Console (FO4) 
+- America Rising 2 - CC Speak of the Devil Patch 
+- America Rising 2 Lt Fritz Dismemberment Fix 
+- America Rising Enclave Underarmor Retexture 
+- America Rising 2 - New Enclave Gas Mask 
+
