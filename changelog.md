@@ -346,7 +346,7 @@ Added:
 - Combat AI Empowered - Reduce Grenade Spam
 - Combat AI Empowered - Tweaked Accuracy and Behavior
 
-2.1.1
+__2.1.1__
 
 Removed:
 
@@ -434,3 +434,109 @@ Added:
 - America Rising 2 Lt Fritz Dismemberment Fix 
 - America Rising Enclave Underarmor Retexture 
 - America Rising 2 - New Enclave Gas Mask 
+
+2.2.0
+
+Removed:
+
+- SS2 - XDI Compatibility Patch 
+- XDI - America Rising 2 (AR2) Patch 
+
+Updated:
+
+- Better Notes - Patches - Locations and New Lands 
+- SICKnasty - Patches (Fallout names for MAIM 3 items) 
+- Leveled Item Fixes (LIF) 
+- DegenerateDak ESLified Patch Hub 
+- Better Notes - Patches - Quests 
+- Unique Replacers Project - Unique Legendary Weapons 
+- ITO institute Technology Overhaul Full - Version 2
+- Vanilla Uniques Framework 
+- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More 
+- Equipment and Crafting Overhaul (ECO) - Redux 
+- You And What Army 2 
+
+Added:
+
+- Wolfmark's XDI Fix 
+- Extended Dialogue Interface - Wolfmark Fix Preconfigured 
+- Unique Faces - AiO 
+- We Have Names (and more) - All In One 
+- Cut Content NPCs - All in One 
+- Diverse Wasteland - The Diverse Series All-in-One 
+- Diverse Enclave - America Rising 2 
+- Bug Fix - Caravan Guard Under Armor 
+- Bug Fix - Norwegian Ghoul 
+- Lost Soul Expanded 
+- Lost Soul Quest Tweak - No Faction Hostility 
+- Graphics Gone Stupid 
+- Attachment Pack - Double Stack Magazines 
+- Modern Replacer - Ashtray 
+- Modern Replacer - Cloth 
+- Modern Replacer - Copper 
+- Modern Replacer - Cork 
+- Modern Replacer - Dish Rag 
+- Modern Replacer - Fiber Optic 
+- Modern Replacer - Gears 
+- Modern Replacer - Rubber 
+- Modern Replacer - Screws 
+- Modern Replacer - Soap 
+- Modern Replacer - Springs 
+- Modern Replacer - Wood Blocks 
+- switched off Desk Fans 
+- Improved Minutemen 
+- C.R.P Minutemen Radio Relay Network 
+- C.R.P Railroad HQ lived in (new update) 
+- C.R.P Commonwealth Provisional Goverment - Nuclear Commision 
+- C.R.P Commonwealth Provisional Goverment - Rationing Site 
+- C.R.P Commonwealth Provisional Goverment - Cannery (longneck lukowski's cannery Ext) 
+- C.R.P Minutemen Merchant Marines 
+- C.R.P Concord Militia (SS2 Friendly) 
+- C.R.P Drumlin Diner Trade post 
+- C.R.P Roads Well Traveled 
+- Face Fixes - C.R.P Minutemen Radio Relay Network 
+- Less shitty industrial wall lights 
+- Guard Post Animation Tweak - No More Finger Guns 
+- Duffle Bag Retexure 
+- Better Nuka-Cola Machine 
+- Robot Armor Retextured (4K and 2K) 
+- Mechanist Armor Retextured 
+- Steamer Trunks Retextured 
+- Power Armor Frame 4K UHD 
+- Power Armor Jetpack HD 
+- X-01 4K UHD 
+- T-60 4k UHD 
+- T51 4K UHD 
+- T-45 4K UHD 
+- 3D Super Mutant Chains 
+- Cannabis Commonwealth 
+- Cannabis Commonwealth - No AWKCR-AE and SKE patch 
+- People Live In - Federal Ration Stockpile 
+- People Live In - Harbormaster Hotel 
+- People Live In - Unmarked Raider Camps Pack 1 
+- People Live In - Unmarked Raider Camps Pack 2 
+- Mystic Rogue's Super Duper Quest and Add-On Pack 
+- Dead Bodies Plus (Vanilla replacement) and EXTRAS 
+- Commonwealth Broadcasting Services 
+- Concrete Sledgehammer 
+- Rhino M1 Redux 
+- The Rolling Block Rifle (Cowboy Sniper Rifle) 
+- The Wild Key Chase - Quest and Location mod 
+- Unique Replacers Project - Mod Added Legendaries 
+- CBBE Ghoul RearHead Fix 
+- Institute p90 SMG 
+- AR2 Candid Objectives 
+- T6M's Pipe Shotguns (Ashot-Duplet-Preved) 
+- SICKnasty - Patches (Fallout names for Cannabis Commonwealth strains) 
+- SICKnasty - Patches (True Damage Crits for Pure Opulence) 
+- SICKnasty - Patches (Modern Crapmaster Replacers) 
+- No Combat Pause 
+- Cut Content - Companions React to Murder 
+- Cut Content - Red and Green Batting Helmets 
+- Cutting Room Floor - Nuka World Hair Dyes 
+- Cutting Room Floor - Hallucinated Kellogg Encounter 
+- Gasmask fix 
+- Gunner leathers restored 
+- Metal helmet restored 
+- Cut Cat Colors - Black Cats and Brown Tabbies 
+- Retextured First Aid Kits - Ephla's Unique First Aid 
