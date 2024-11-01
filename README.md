@@ -54,6 +54,12 @@ NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex S
 
 Off-Site Downloads:
 
+- Download Wolfmark's XDI Fix here: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
+
+	_In MO2, right click "Extended Dialogue Interface" and then click "Open in Explorer". Drag the XDI.dll file from the download into the Extended Dialogue Interface folder and let it replace it.
+
+	__Note: This fix in combination with DankRafft's mod allows us to use Extended Dialogue Interface without the need for individual patches.__
+
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 
 	_Drag the zip file into MO2. Enable the mod & plugin._
@@ -123,36 +129,42 @@ THE DEEP DIVE:
 This list was made fully with survival mode in mind. It wont hit as hard in normal game. It's okay though, because you can tweak survival mode however you want thanks to
 Unlimited Survival Mode - F4SE! So, don't be a scaredy cat!
 
-It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special.
+It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special. The SICKnasty core, if you will.
 
-For perks, a full overall that stitches together True Perks, VAFS, MAIM, and True Damage. I carry over almost everything from VAFS so the mechanic wins, but keep the
+- For perks, a full overall that stitches together True Perks, VAFS, MAIM, and True Damage. I carry over almost everything from VAFS so the mechanic wins, but keep the
 requirements that True Perks puts in place so there's no mixup. Anything that touches damage is nerfed with changes carried over from True Damage. Any MAIM conflicts are
 taken care of. All of this is done with the SICKnastyPERKmodule.
 
-Since True Damage makes bullets hurt a lot more, why not more bullets? Munitions & Co. give us tons of new ammunition. Thanks to DJINDO, the new ammo types will play well with
+- Since True Damage makes bullets hurt a lot more, why not more bullets? Munitions & Co. give us tons of new ammunition. Thanks to DJINDO, the new ammo types will play well with
 TD also! I'd use Reaper's RobCo mod, but I prefer seeing everything worked out in xEdit for this one specifically. Same reason we're not using the True Damage Easy Load Order
 mod.
 
-"But True Damage & MAIM make the game so hard..." Get Power Armor. Thanks to Bastion, you're now literally covered. Damage wont go through until the piece is broken, and then you'll
+- "But True Damage & MAIM make the game so hard..." Get Power Armor. Thanks to Bastion, you're now literally covered. Damage wont go through until the piece is broken, and then you'll
 only take damage in the specific spot. We've got some nifty mods to make Bastion smart, so Power Armor is more of a necessity.
 
-Warsaw's Improved factions series serves as a base for a ton of the weapon and armor mods on this list. I've more or less included everything that they can interact with that
+- Warsaw's Improved factions series serves as a base for a ton of the weapon and armor mods on this list. I've more or less included everything that they can interact with that
 doesn't conflict. Raider Overhaul & Raider Gangs Extended, Super Mutant Redux & Forced Evolution, More Feral Ghouls & Feral Ghoul Expansion Pack, We Are the Minutemen & You
 and What Army 2...You name it, bud. If the faction exists, it's been overhauled.
 
-Weapon and Armor mods are plentiful, but I cannot stand chem bench clutter & am not interested in 500 ARs from the real world or CoD. Therefore, any mod that adds a new weapon
+- Weapon and Armor mods are plentiful, but I cannot stand chem bench clutter & am not interested in 500 ARs from the real world or CoD. Therefore, any mod that adds a new weapon
 or piece of armor/clothing is ran through URP (Unique Replacers Project). This series of mods replaces FO4's vanilla uniques with mods. The mods it uses are stripped of any
 crafting capabilities or LL injections, making finding the unique it has replaced the only way to obtain it. This gives a lot of variety to the unique weapons & makes it more
 exciting when you find them.
 
-The only weapons in the list not touched by URP are those included in the WOP (Weapon Overhaul Project). This includes Combined Arms & the Expansion pack, the Service Rifle,
+- The only weapons in the list not touched by URP are those included in the WOP (Weapon Overhaul Project). This includes Combined Arms & the Expansion pack, the Service Rifle,
 the Wattz Laser Gun, the M1 Garand, the weapons added by Point Lookout, & the 22LR Pistol. The only armor/clothing in the list not touched by URP are included because they
 probably interact well with Gasmasks of the Wasteland.
 
-Speaking of which, there's 2 new resources you need to manage & conditions you need to keep track of. Gasmasks of the Wasteland makes wearing a gas mask a necessity when
+- Speaking of which, there's 2 new resources you need to manage & conditions you need to keep track of. Gasmasks of the Wasteland makes wearing a gas mask a necessity when
 traversing the Commonwealth with replacable filters you'll need to keep on hand. Nuclear Winter (WHICH DOES NOT ADD WEATHER TO THE GAME!!!) makes your body temperature
 something you'll actually need to keep track of (with realism, so if it's December, well...Boston sucks in the winter...). Keep your character properly dressed and make sure
 you keep those hands warm!
+
+- For visual overhauls, we use HappoMatka's "Seen Some Shit" series, nearly all of Halfface's texture replacers, dpillari's HD suite of mods, Omega4D2's Modern Replacer series
+(but none of the immersion breaking ones), and DoubleYouC's landscape retextures to name a few. All wrapped up in the warm embrace of Lightweight Lighting - Gloomy Edition.
+
+- Weather? You bet. True Storms combined with Seasons Change tag team all of the atmoshpere. I've used the script included with Seasons Change on the entire load order so you'll
+see snow on all of our stuff. You'll hear all kinds of new audio too thanks to the Lost Audio Tweaks suite of mods.
 
 My patches are all esp flagged esl plugins made in xEdit. Most of them are self explanatory (SICKnastyPERKmodule contains all perk related patches, SICKnastyGASMASKmodule
 forwards the gasmasks from Gasmasks of the Wasteland into inventories and carries over any NPC changes, etc.).
