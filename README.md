@@ -12,13 +12,12 @@ REQUIREMENTS:
 - Fallout 4 (Steam copy)*
 - Mod Organizer 2
 - Wabbajack
-- The Midnight Ride**
-- Patience***
+- Patience**
 
 *SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! It requires the NextGen content, but then uses Simple Fallout 4 Downgrader to roll back the update
 and keep the content. GOG is not supported, sorry! :(
 
-***This mod list is VERY big. The BA2 limit was hit a long time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever
+**This mod list is VERY big. The BA2 limit was hit a long time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever
 for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what
 I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for
 "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in
@@ -48,7 +47,25 @@ Downgrading: (copy & pasted from The Midnight Ride website)
 - A command prompt window will open & it should say: "Patching successful"
 - Close the command prompt & backups with _downgradeBackup appended to their name should appear in the Stock Game folder.
 
-__Download my resource files from here: https://www.nexusmods.com/fallout4/mods/88357__
+Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)
+
+- Download Bethini Pie here: https://www.nexusmods.com/site/mods/631
+- Extract the archive anywhere outside of the default Windows folders, such as C:\Modding Tools.
+- In MO2, click on the drop-down in the right pane next to the Run button.
+- Click <Edit...>, then click the + symbol in the top left and Add from file.
+- In the resulting explorer window, navigate to where you installed BethINI Pie and select Bethini.exe.
+- Press Apply in the lower right, then OK.
+- Select BethINI from the drop-down and run it.
+- Click Fallout 4 then press Select Game.
+- Choose a preset you prefer (I choose Ultra)
+- Apply Recommended Tweaks.
+- Set Display Mode to Borderless Windowed.
+- Select the resolution you want to display the game in.
+- Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide).
+- Edit the other settings to your liking.
+- Click File then Save in the top left, then confirm the prompts and close BethINI.
+
+__Download my LOD Output from here: https://www.nexusmods.com/fallout4/mods/88357__
 
 NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities".
 
