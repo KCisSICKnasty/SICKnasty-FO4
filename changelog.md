@@ -601,3 +601,15 @@ Added:
 - Angel's Food Categories 
 - Torso Explosion Missing Legs Fix 
 - KC's SICKnasty Patch Pit 
+
+__2.3.1__
+
+Removed:
+
+- AR2 Candid Objectives 
+- Fallout 4 Point Lookout - Voiced Player Lines Addon 
+- VAFS Redux - Alternate VFX﻿ 
+
+Updated:
+
+- KC's SICKnasty Patch Pit 
