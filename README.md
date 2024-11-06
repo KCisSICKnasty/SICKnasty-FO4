@@ -41,12 +41,6 @@ Setting up MO2: (copy & pasted from The Midnight Ride website)
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
-Downgrading: (copy & pasted from The Midnight Ride website)
-
-- In the Stock Game folder, double-click on fo4downgrader.exe to run it.
-- A command prompt window will open & it should say: "Patching successful"
-- Close the command prompt & backups with _downgradeBackup appended to their name should appear in the Stock Game folder.
-
 Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)
 
 - Download Bethini Pie here: https://www.nexusmods.com/site/mods/631
@@ -80,12 +74,6 @@ Off-Site Downloads:
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 
 	_Drag the zip file into MO2. Enable the mod & plugin._
-
-- Download OCBP for Fallout 4 here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
-
-	__Note: You'll have to make an account before the site will let you click install. OCBP is required for 3BBB.__
-
-	_Drag the zip file into MO2, directly above 3BBB Physics (CBBE - TWB) & enable it._
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
 - Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
