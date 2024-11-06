@@ -435,7 +435,7 @@ Added:
 - America Rising Enclave Underarmor Retexture 
 - America Rising 2 - New Enclave Gas Mask 
 
-2.2.0
+__2.2.0__
 
 Removed:
 
@@ -540,3 +540,64 @@ Added:
 - Metal helmet restored 
 - Cut Cat Colors - Black Cats and Brown Tabbies 
 - Retextured First Aid Kits - Ephla's Unique First Aid 
+
+__2.3.0__
+
+Removed:
+
+- SICKnasty - Patches (True Damage Crits for Pure Opulence) 
+- SICKnasty - Patches (Modern Crapmaster Replacers) 
+- Children of Ug Qualtoth VATS enabled 
+- Useful gas masks 
+- Accessible Bridges 
+- DJIND0's True Damage Munitions Patch 
+- SCOURGE - Zetan﻿﻿﻿﻿
+
+Updated:
+
+- Amazing FollowerTweaks Plus (AFT Plus) 
+- Far Better Far Harbor - Exploration Expanded 
+- Miscellanous Performance Optimization - PRP 
+- Tales from the Commonwealth - eXoPatch 
+- TRUE DAMAGE - Weapon Damage Normalized By Ammo Caliber 
+- Rhino M1 Redux 
+- ITO institute Technology Overhaul Full - Version 2 
+- CBBE Ghoul RearHead Fix 
+- Diverse Enclave - America Rising 2 
+- Angel's Ingestible Sorting Enhancements 
+- Angel's Companion Tagging 
+- Equipment and Crafting Overhaul (ECO) - Redux 
+
+Added:
+
+- HFs - Forgotten rusty trash 
+- Smokeable Cigars - Cigarettes Less OP patch 
+- Immersive Pip-Boy Radio 
+- Tactical Reload 
+- Tactical Reload Patch Repository (DEPRECATED) 
+- Tactical Reload Patch Repository Continued 
+- Tactical Reload Patch Repository - Robco Patcher Edition 
+- Tactical Reload Patch for Doombased Desert Eagle - Reborn 
+- Tactical Reload Patch Repository 4 - eggroll edition 
+- Tactical Reload Repository - Diacute'd 
+- Fawkes' Tactical Reload Patches 
+- No Screenshot Messages 
+- Friendly Fire 
+- Weapons of Fate (Ballistics Overhaul) 
+- Weapons of Fate Redux (RobCo Patcher Edition) 
+- Working Pulowski Shelters 
+- Power Armor Audio Restored 
+- Vanilla Reanimation Series - Double Barrel Shotgun 
+- Accessible Bridges - ESL 
+- CALIBER - COMPLEX 
+- CALIBER COMPLEX Patches 
+- Caliber - Complex Suppressed Weapon Patch 
+- SMR Mutation Club 
+- Drink Up - Prewar Coffee Fix 
+- True Damage - Munitions Updated Patch 
+- Bug Fix - Stan Slavin 
+- Story Encounter Booster 
+- Wade In Water 
+- Angel's Food Categories 
+- Torso Explosion Missing Legs Fix 
+- KC's SICKnasty Patch Pit 
