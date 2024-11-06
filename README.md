@@ -59,7 +59,7 @@ Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)
 - Edit the other settings to your liking.
 - Click File then Save in the top left, then confirm the prompts and close BethINI.
 
-__Download my LOD Output from here: https://www.nexusmods.com/fallout4/mods/88357__
+__Download my LOD Output and loadorder.txt from here: https://www.nexusmods.com/fallout4/mods/88357__
 
 NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities".
 
