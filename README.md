@@ -65,6 +65,8 @@ NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex S
 
 Off-Site Downloads:
 
+- OCBP version 3.1.2 for CBBE
+
 - Download Wolfmark's XDI Fix here: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
 
 	_In MO2, right click "Extended Dialogue Interface" and then click "Open in Explorer". Drag the XDI.dll file from the download into the Extended Dialogue Interface folder and let it replace it.
@@ -79,7 +81,7 @@ Off-Site Downloads:
 - Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
 - Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.com/channels/955873856931897404/1104870314476851281/1104870314476851281
 	
-	__Before you get huffy over having to join a Discord, it's a very useful hub where you can get direct help from your favorite mod's authors. You can also leave after.__
+	__Before you get huffy over having to join a Discord, they are very useful hubs where you can get direct help from your favorite mod's authors. You can also leave after.__
 
 Launching Fallout 4:
 
@@ -105,7 +107,7 @@ VAFS Redux:
 
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
 
-Plugins that are disabled FOR A REASON!!!
+Plugins that are disabled (and hidden) FOR A REASON!!!
 
 - UniqueReplacer - WastelandK9Armor.esp
 - UniqueReplacer - LunarSSRecon.esp
