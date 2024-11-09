@@ -63,7 +63,13 @@ __Download my LOD Output and txt files from here: https://www.nexusmods.com/fall
 
 NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities".
 
-Off-Site Downloads:
+Off-Site Downloads (*Step is included with Wabbajack installer):
+
+- *OCBP for Fallout 4 ver.3.1.2 (CBBE)
+
+- *Companion Ivy ver.6.1 (& CompaionIvy_Nuka)
+
+	__Note: I am not using the mags because 1) I would like people to be able to stream/make content with my list and 2) I did not like what I saw in xEdit...__
 
 - Download Wolfmark's XDI Fix here: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
 
