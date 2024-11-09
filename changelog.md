@@ -613,3 +613,65 @@ Removed:
 Updated:
 
 - KC's SICKnasty Patch Pit 
+
+__2.4__
+
+2.4
+
+Removed:
+
+- Less Annoying Berry Mentats 
+﻿- AR2 Candid Objectives 
+﻿- Crossbows of the Commonwealth 
+
+Updated:
+
+- Equipment and Crafting Overhaul (ECO) - Redux 
+- Tumbajamba's Gunner Armor Collection 
+- Survivalist's Bus 
+- Community Fixes Merged 
+- HFs - Ironing Board 
+- Angel's Ingestible Sorting Enhancements 
+- Children of Ug Qualtoth-SrD-Patch 
+- You And What Army 2 
+- Garden of Eden Papyrus Script Extender 
+- Graphics Gone Stupid 
+- Better Notes - Patches - Locations and New Lands 
+- Emirals Previs Patches for PRP .74 
+- KC's SICKnasty Patch Pit 
+- ITO institute Technology Overhaul Full - Version 2 
+- CBBE Ghoul RearHead Fix 
+- In The Flesh - A Horror Quest Mod 
+- Amazing FollowerTweaks Plus (AFT Plus) 
+- Sim Settlements 2 
+- Sim Settlements 2 - Chapter 2 
+- Sim Settlements 2 - Chapter 3 
+
+Added:
+
+- Perkitin - New Addictive Chem 
+- Basement Living - ESP Marked as Light 
+- Reload Speed Fix 
+- Settlement Dead Zone Fixes 
+- Vault 88 Settler Sandbox Fix 
+- Emirals Wire Fixes 
+- T-51 Decapitation Fix 
+- F4 Killing the bugs 2 
+- Burst-Fire Framework (BFF) 
+- Minuteman Watchtowers 
+- 4estGimp - South of the Sea and Minuteman Watchtowers (Redux) Patch 
+- Minuteman Watchtowers - Atomic World Patch 
+- The Tunnels - For Cave People and Molerats 
+- Even Less Annoying Berry Mentats 
+- CMO - Complete Molotov Overhaul - A Logical Approach 
+- New Grenade Explosion Sound 
+- AR2 Candid (and ESL-ified) Objectives 
+- Crossbows of the Commonwealth (dubbed ESL) 
+- Children of Ug Qualtoth VATS enabled (and ESL-ified) 
+- Real Time Cover Penetration Framework 
+- Bullet Penetration and Ricochet (BPR) 
+- Companion Ivy 6.1 
+- Heavy (though not on the load order) Support weapons munitions 
+- Sell Paint to Abbot 
+- America Rising 2 - Sam Power Armor Removal Patch 
+- Useful (and ESL-ified) gas masks (Option A) 
