@@ -1,5 +1,7 @@
 # SICKnasty - FO4
 
+__CURRENT VERSION: 2.4__
+
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas.
 FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into
 the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I
@@ -43,11 +45,9 @@ Setting up MO2: (copy & pasted from The Midnight Ride website)
 
 Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)
 
-- Download Bethini Pie here: https://www.nexusmods.com/site/mods/631
-- Extract the archive anywhere outside of the default Windows folders, such as C:\Modding Tools.
 - In MO2, click on the drop-down in the right pane next to the Run button.
 - Click <Edit...>, then click the + symbol in the top left and Add from file.
-- In the resulting explorer window, navigate to where you installed BethINI Pie and select Bethini.exe.
+- In the resulting explorer window, navigate to the Bethini Pie folder in your install location.
 - Press Apply in the lower right, then OK.
 - Select BethINI from the drop-down and run it.
 - Click Fallout 4 then press Select Game.
@@ -59,13 +59,11 @@ Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)
 - Edit the other settings to your liking.
 - Click File then Save in the top left, then confirm the prompts and close BethINI.
 
-__Download my LOD Output and loadorder.txt from here: https://www.nexusmods.com/fallout4/mods/88357__
+__Download my LOD Output and txt files from here: https://www.nexusmods.com/fallout4/mods/88357__
 
 NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities".
 
 Off-Site Downloads:
-
-- OCBP version 3.1.2 for CBBE
 
 - Download Wolfmark's XDI Fix here: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
 
