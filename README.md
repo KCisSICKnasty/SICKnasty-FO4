@@ -87,6 +87,8 @@ Off-Site Downloads (*Step is included with Wabbajack installer):
 	
 	__Before you get huffy over having to join a Discord, they are very useful hubs where you can get direct help from your favorite mod's authors. You can also leave after.__
 
+NOTE: For each off-site download, rename them to include "[No Delete]" in the front. This will prevent Wabbajack from deleting them when you update the list.
+
 Launching Fallout 4:
 
 - In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
