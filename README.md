@@ -9,7 +9,7 @@ remembered...I got a PC for a reason.
 
 Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
-REQUIREMENTS:
+__REQUIREMENTS:__
 
 - Fallout 4 (Steam copy)*
 - Mod Organizer 2
@@ -25,7 +25,7 @@ I'd like to call, "watching the Audio load". Once the main menu opens, and you c
 "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in
 Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?
 
-Wabbajack installation: (copy & pasted from The Midnight Ride website)
+__Wabbajack installation: (copy & pasted from The Midnight Ride website)__
 
 - Download the latest Wabbajack.
 - Create a new folder anywhere outside of any default Windows folders, and the game folder itself. (Example: C:\Modding\Wabbajack)
@@ -38,12 +38,12 @@ Wabbajack installation: (copy & pasted from The Midnight Ride website)
 - Once complete, the installation will show a green Installation Complete screen.
 - If you see a red Installation Failed screen, try log-in again through the Wabbajack settings, then reinstall the list to the same folder.
 
-Setting up MO2: (copy & pasted from The Midnight Ride website)
+__Setting up MO2: (copy & pasted from The Midnight Ride website)__
 
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
-Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)
+__Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)__
 
 - In MO2, click on the drop-down in the right pane next to the Run button.
 - Click <Edit...>, then click the + symbol in the top left and Add from file.
@@ -61,15 +61,36 @@ Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)
 
 __Download my LOD Output and txt files from here: https://www.nexusmods.com/fallout4/mods/88357__
 
-NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities".
+_NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities"._
 
-Off-Site Downloads (*Step is included with Wabbajack installer):
+__LoversLab Downloads:__ _Note: LoversLab requires an account in order to download. Don't worry, it's safe. (:_
 
-- *OCBP for Fallout 4 ver.3.1.2 (CBBE)
+- Download OCBP for Fallout 4 ver.3.1.2 (CBBE) here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
+	_Drag the zip file into MO2 under "Body, Face & Hair" separator. Enable the mod._
 
-- *Companion Ivy ver.6.1 (& CompaionIvy_Nuka)
+- Download Companion Ivy ver.6.1 (& CompaionIvy_Nuka) here: https://www.loverslab.com/files/file/11260-meet-companion-ivy/
+
+	_Drag the zip file into MO2 under "Companions" separator. Enable the mod & plugins._
 
 	__Note: I am not using the mags because 1) I would like people to be able to stream/make content with my list and 2) I did not like what I saw in xEdit...__
+
+__Discord Downloads:__ _Note: Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D__
+
+- Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
+	
+	_Drag the zip file into MO2 under "Sorting" separator. Enable the mod._
+
+- Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
+
+	_Drag the zip file into MO2 under "User Interface" separator. Enable the mod._
+
+- Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.com/channels/955873856931897404/1104870314476851281/1104870314476851281
+
+	_Drag the zip file into MO2 under "Sorting" separator. Enable the mod & plugins._
+	
+	__Before you get huffy over having to join a Discord, they are very useful hubs where you can get direct help from your favorite mod authors. You can also leave after.__
+
+__Other Off-Site Downloads:__
 
 - Download Wolfmark's XDI Fix here: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
 
@@ -79,18 +100,13 @@ Off-Site Downloads (*Step is included with Wabbajack installer):
 
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 
-	_Drag the zip file into MO2. Enable the mod & plugin._
+	_Drag the zip file into MO2 under "Companions" separator. Enable the mod & plugin._
 
-- Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/915413649638707251/1147636681860714546
-- Download MCM Booster version: 1.1 beta 2 from the Collective Modding Discord here: https://discord.com/channels/830436661736243230/1031848835993047050/1031849157394169888
-- Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.com/channels/955873856931897404/1104870314476851281/1104870314476851281
-	
-	__Before you get huffy over having to join a Discord, they are very useful hubs where you can get direct help from your favorite mod's authors. You can also leave after.__
+__NOTE: For each off-site download, rename their files to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list.__
 
-NOTE: For each off-site download, rename them to include "[No Delete]" in the front. This will prevent Wabbajack from deleting them when you update the list.
+__Launching Fallout 4:__
 
-Launching Fallout 4:
-
+- Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
 - In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
 - F4SE should be an executable in this menu. Click it.
 - Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
