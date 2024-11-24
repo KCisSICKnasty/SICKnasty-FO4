@@ -616,8 +616,6 @@ Updated:
 
 __2.4__
 
-2.4
-
 Removed:
 
 - Less Annoying Berry Mentats 
@@ -675,3 +673,111 @@ Added:
 - Sell Paint to Abbot 
 - America Rising 2 - Sam Power Armor Removal Patch 
 - Useful (and ESL-ified) gas masks (Option A) 
+
+__2.4.1__
+
+Removed:
+
+- Graphics Gone Stupid
+- T-51 Decapitation Fix 
+
+Updated:
+
+- Unique Faces - AiO
+- Better Lootable Vehicles of the Commonwealth
+- Cut Content NPCs - All in One
+- Improved Institute
+- Diverse Enclave - America Rising 2
+- Flyable Personal Vertibird
+- Magazine Perks Tab v1.00e
+- Church of Atom Overhaul
+- Improved Guards
+- Improved Brotherhood of Steel
+- We Have Names (and more) - All In One
+- Recruitable Settlers - Unbroken
+- Complex Sorter Quest Mods Tagging
+- Hit Those Explosives
+- Angel's Ingestible Sorting Enhancements
+- Garden of Eden Papyrus Script Extender
+- Low Profile Loader
+- Equipment and Crafting Overhaul (ECO) - Redux
+- Npc18's Standalone Synth Combat Armour
+- Ownership Fixes
+- Papyrus Common Library
+- Hit Those Objects
+- Sim Settlements 2 - Previsibines Expansion Pack
+- ITO institute Technology Overhaul Full - Version 2
+- Far Object LOD Improvement Project
+- Assorted Modular Tweaks - ESPless
+- Improved Minutemen
+- Improved Railroad
+- Terminals Lock Up
+- Previsibines Repair Pack Stable Branch - PRP
+- eXoSorter Interface
+- More Feral Ghouls eXopansion Patch
+- Improved Hostile Factions
+- Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
+- SS2 FallUI Icons a CIS Plugin
+- Improved America Rising 2 Enclave
+- KC's SICKnasty Patch Pit
+- Diverse Wasteland - The Diverse Series All-in-One
+- Sim Settlements 2
+- Sim Settlements 2 - Chapter 2
+- The Harbor Bee Monorail
+- Enhanced Movement
+- Community Fixes Merged
+- Sim Settlements 2 - Chapter 3
+- Tumbajamba's Gunner Armor Collection
+
+Added:
+
+- dp Radium Rifle HD
+- XXL Nukes (dubbed ESL)
+- SRD Point Lookout Delay
+- Livewire - eXoPatch
+- Oppressor's Nuka-Cola Bottlecap Project (2K) - Replacer - WIP
+- Oppressor's Basketball (2K) - Replacer
+- Oppressor's Salt Shaker (4K) - Replacer
+- Oppressor's Pepper Mill (4K) - Replacer
+- Oppressor's Flip Lighter (4K) - Replacer
+- Oppressor's Soccer Ball (2K) - Replacer
+- Oppressor's Acid (4K) - Replacer
+- Oppressor's Magnifying Glass (4K) - Replacer
+- Oppressor's Tea Kettle (4K) - Replacer
+- Oppressor's Baseball Glove (4K) - Replacer
+- Oppressor's Typewriter (4K) - Replacer
+- Civil Defense Index - New Magazines
+- Angel's Food Categories
+- MultiXwm
+- Energy Weapons Fixed - Continuous Beams Burst Fire Tri-beam Lasers
+- Facegen fix for Fourville Vlt04ResidentMFace10
+- Automatron - Robots Protected When Created
+- Combat Shutdown Grenade Fixes - F4SE - Garden of Eden SE
+- REPUTATION
+- Grabbing Is Stealing
+- VATS Activation Cost
+- Leather Armor Bugfix - Vanilla and CBBE
+- Give Me That Bottle Rehydrated
+- Sweet Sweep System
+- Trapper Helmets
+- Robot Behavior Animation Tweaks
+- Fallout4.exe Auto-Backup
+- RL_Recruit_Framework
+- KC's Gas Masks of the Wasteland Patches
+- KC's Looted World Patches
+- See Through Scopes - Replacers flagged ESL
+- Dusty with a Chance of Radstorms
+- DiamondTheWall RETEXTURE-4K
+- CC's Improved Roadsigns
+- A Silver Silver Shroud Retexture
+- KC's Leveled Item Fixes Patches (LIFP)
+- HFs - Sanctuary Hills sign
+- Seasons Change - Chessboard Defense Squad
+- Sim Settlements 2 - Lexington Underground Bugfix
+- KC's Energy Weapons Fixed Patches
+- KC's Unofficial Fallout 4 Patch Patches (UFO4PP)
+- X01QuantumGlow
+- Modern Replacer - Bobby Pin
+- KC's Community Fixes Merged Patches
+- The Glowing Nightmare
+- HFs - Large Water Pump
