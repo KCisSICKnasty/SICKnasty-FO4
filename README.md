@@ -1,6 +1,6 @@
 # SICKnasty - FO4
 
-__CURRENT VERSION: 2.4__
+__CURRENT VERSION: 2.4.1__
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas.
 FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into
