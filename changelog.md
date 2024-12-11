@@ -781,3 +781,99 @@ Added:
 - KC's Community Fixes Merged Patches
 - The Glowing Nightmare
 - HFs - Large Water Pump
+
+__2.4.2__
+
+Removed:
+
+- DegenerateDak ESLified Patch Hub
+- 4estGimp - Tribal Power Armour Compacted
+- 4estGimp - T51C Power Armor Compacted
+
+Updated:
+
+- dp Power Armor Frame Revival
+- ITO institute Technology Overhaul Full - Version 2
+- Reaper's Munitions Patches
+- Midnight Cult Fix
+- Simple Creation Club Delayed NG
+- eXoSorter Interface
+- Lighthouse Papyrus Extender
+- Improved Railroad
+- Improved Institute
+- Improved America Rising 2 Enclave
+- Improved Nuka Raiders
+- Improved Brotherhood of Steel
+- Improved Minutemen
+- Improved Hostile Factions
+- Halffaces - Ancient Pottery
+- Previsibines Repair Pack Stable Branch - PRP
+- Super Mutant Equality a Super Mutant Weapon Expansion
+- Npc18's Standalone Synth Combat Armour
+- Tumbajamba's Minutemen - eXospanded
+- We Are The Minutemen - eXoPatch
+- Sim Settlements 2 - Previsibines Expansion Pack
+- WETTER
+- Tales from the Commonwealth - eXoPatch
+- Low Profile Loader
+- Garden of Eden Papyrus Script Extender
+- Emirals Previs Patches for PRP .74
+- REPUTATION
+- Mustard's Party Favors - The Chuck-It Missile
+- Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
+- South of the Sea - Atomic Embrace (and CBBE)
+- The Harbor Bee Monorail
+- Assorted Modular Tweaks - ESPless
+- See Through Scopes - Night Vision
+- America Rising 2 - Armaments
+- Miscellanous Performance Optimization - PRP
+- Halffaces - Old Rusty Trashcan
+- Community Fixes Merged
+- The Glowing Nightmare
+- Magazine Perks Tab v1.00i
+- Less Loot - Assorted Locations and Quest Mod Patches for Survival
+- Seasons Change - Chessboard Defense Squad
+- Livewire - eXoPatch
+- Fourville - eXoPatch
+
+Added:
+
+- unBallistic Gatling Laser (Pure Energy)
+- SavrenX Food and Foodware
+- VTAC REDUX - Vault-Tec Advanced Combat-Armor and Suit -- CBBE - TWB - 3BBB - ATOMIC - MALE - BodySlide
+- MCM Categorizer - Sorter Folder Categories
+- Drumlin Bunker - eXoPatch
+- XXL Nukes (Nuclear Explosions Overhaul) - Fixed Header (Optional ESPFE)
+- Robot Behavior Animation Tweaks
+- HFs - Wooden shelves
+- Croup Manor NavMesh Rebuild - Alkay
+- Perception Bug Fix
+- Footsteps sounds for winter mods
+- Repairable Relay
+- People Live In - USAF Satellite Station Olivia
+- People Live In - Roadside Pines Motel
+- LString Bow Third Person Tweaks
+- We Can Live In - Cambridge Red Rocket
+- We Can Live In - Poseidon Energy Turbine 18-F
+- We Can Live In - Lil' Gentry Playground
+- We Can Live In - Natick Substation
+- We Can Live In - North Point Park
+- We Can Live In - Rock Island Lighthouse
+- We Can Live In - Nahant Red Rocket
+- People Live In - Dark Hollow Pond
+- Nuka-World Recipe Book Retex - UFO4 Patch
+- Facial Expression and Eyetracking Engine Fixes - F4SE
+- The Master Plan
+- Vanilla Extensions
+- Stairs Ladders Ramps
+- Power Armor Third Person Behavior Tweaks
+- Stealthy Takedowns - A 2024 Merry Modding Days Mod
+- ToggleEquip
+- Remnants - Secrets of the Enclave
+- HFs - Coat Rack and Umbrella
+- Pick up Ammo SFX
+- Pick up Ammo SFX - Munitions Unofficial Patch
+- Select Power Bow
+- America Rising 2 - Echoes of the Past Alignment Patch
+- Children of Atom Power Armor
+- 4estGimp - Children of Atom PA CIS INNR ini
