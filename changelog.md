@@ -877,3 +877,41 @@ Added:
 - America Rising 2 - Echoes of the Past Alignment Patch
 - Children of Atom Power Armor
 - 4estGimp - Children of Atom PA CIS INNR ini
+- Eyes and head tracking Angles Blinking expressive natural face morphs
+
+__2.4.3__
+
+Removed:
+
+- Simple Puddle Reflection Flicker Fix (Water and Blood)
+
+Updated:
+
+- ITO institute Technology Overhaul Full - Version 2
+- Less Loot - Assorted Locations and Quest Mod Patches for Survival
+- Hit Those Objects
+- Assorted Modular Tweaks - ESPless
+- Gunner Outfit Pack - CBBE Pre-Generated
+- America Rising 2 - Echoes of the Past Alignment Patch
+- RobCo - Smarter Companions
+- Vault-Tec Workshop Overhaul Redux (VTWOR)
+
+Added:
+
+- More Weathervanes
+- Interior NavCut Fix
+- Terrain Undersides - 2 Million Sunblock
+- General Atomics Galleria Speaking Guard Gutsy Voice Fix
+- Vish's Patch Hub (UFO4P)
+- Settlement Ambush Kit - Shooting Range Inventory Reset Fix
+- Map Marker Fix - Prydwen and Boston Airport Ruins
+- The Midnight Ride Resources
+- Cutting Room Floor - Eyebot Radio Broadcast
+- Children of Atom Power Armor - Stat Buff
+- Sink And Decontamination Arch Locked Behind Perks
+- Water Purifiers Locked Behind Perks
+- Garmin Foretrex 901
+- Garmin Foretrex Rebalance and Addon
+- Remnants - A.T.A.V Automatron parts
+- HUDCaps
+- CapsWidget - Main.ba2
