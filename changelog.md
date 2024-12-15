@@ -932,3 +932,33 @@ Added:
 - female eyelashes retex
 - Fixed Vault Sink
 - ajhakra's Cubemaps
+
+__2.4.5__
+
+Updated:
+
+- Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
+- Wade In Water
+
+Added:
+
+- Ghoulish Rank 4 Fix
+- MGEF Condition Bug Fix
+- Basher Rank 2 and 3 Fix
+- Weird Mattress Fix
+- Molotov Cocktail Nerf
+- Crimsomrider's Fallout 4 Chess (Chessboard Replacer)
+- New Bobblehead Stand
+- Revised Melee Blood
+- Better Nuka World Gang's Flags 2K
+- BloodPack Mesh Fix
+- Railroad HQ Papers Retexture
+- Power Generator ReTexture 2K
+- Raider Power Armor Retexture (by Sakura9)
+- Skull Bandana Retexture (by Sakura9)
+- Moon Retexture - 2K (by Sakura9)
+- Diamond City Power Tower ReTexture
+- Truck Trailer Flatbed (Boxcar Frame) 2K Texture
+- Diamond City Signs Retexture
+- Burnt Magazines and Comics Retexture
+- New Bottle Caps Tin
