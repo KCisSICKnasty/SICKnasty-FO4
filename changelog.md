@@ -915,3 +915,20 @@ Added:
 - Remnants - A.T.A.V Automatron parts
 - HUDCaps
 - CapsWidget - Main.ba2
+
+__2.4.4__
+
+Removed:
+
+- Seasons Change - Chessboard Defense Squad
+
+Updated:
+
+- Leveled Item Fixes (LIF)
+
+Added:
+
+- Jumping Requires AP
+- female eyelashes retex
+- Fixed Vault Sink
+- ajhakra's Cubemaps
