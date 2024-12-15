@@ -1,6 +1,6 @@
 # SICKnasty - FO4
 
-__CURRENT VERSION: 2.4.4__
+__CURRENT VERSION: 2.4.5__
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason.
 
@@ -63,12 +63,14 @@ _NOTE: LoversLab requires an account in order to download. Don't worry, it's saf
 
 - Download OCBP for Fallout 4 ver.3.1.2 (CBBE) here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
 	_Drag the zip file into MO2 under "Body, Face & Hair" separator. Enable the mod._
+	
+	_NOTE: Wabbajack doesn't have a problem hashing this. This is here solely if you need it._
 
 - Download Companion Ivy ver.6.1 (& CompaionIvy_Nuka) here: https://www.loverslab.com/files/file/11260-meet-companion-ivy/
 
 	_Drag the zip file into MO2 under "Companions" separator. Enable the mod & plugins._
 
-	__Note: I am not using the mags because 1) I would like people to be able to stream/make content with my list and 2) I did not like what I saw in xEdit...__
+	_Note: I am not using the mags because 1) I would like people to be able to stream/make content with my list and 2) I did not like what I saw in xEdit..._
 
 _Discord Downloads:__ _Note: Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D_
 
