@@ -1,6 +1,6 @@
 # SICKnasty - FO4
 
-__CURRENT VERSION: 2.4.3__
+__CURRENT VERSION: 2.4.4__
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason.
 
@@ -51,11 +51,15 @@ __Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)__
 - Edit the other settings to your liking.
 - Click File then Save in the top left, then confirm the prompts and close BethINI.
 
-__Download my LOD Output and txt files from here: https://www.nexusmods.com/fallout4/mods/88357__
+__Post Installation Steps:__
 
-_NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities"._
+- Download my LOD Output and txt files from here: https://www.nexusmods.com/fallout4/mods/88357
 
-__LoversLab Downloads:__ _Note: LoversLab requires an account in order to download. Don't worry, it's safe. (:_
+_NOTE: If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities". You will also need to download the "(No Multithreading)" version of Interior NavCut Fix here: https://www.nexusmods.com/fallout4/mods/72904?tab=files&file_id=292234&nmm=1 (replace or remove the version included)_
+
+_LoversLab Downloads:__
+
+_NOTE: LoversLab requires an account in order to download. Don't worry, it's safe. (:_
 
 - Download OCBP for Fallout 4 ver.3.1.2 (CBBE) here: https://www.loverslab.com/files/file/18604-ocbp-for-fallout-4/
 	_Drag the zip file into MO2 under "Body, Face & Hair" separator. Enable the mod._
@@ -66,7 +70,7 @@ __LoversLab Downloads:__ _Note: LoversLab requires an account in order to downlo
 
 	__Note: I am not using the mags because 1) I would like people to be able to stream/make content with my list and 2) I did not like what I saw in xEdit...__
 
-__Discord Downloads:__ _Note: Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D__
+_Discord Downloads:__ _Note: Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D_
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file found in "complex-sorter-support" channel)
 	
@@ -79,24 +83,20 @@ __Discord Downloads:__ _Note: Discord requires an account in order to join serve
 - Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.gg/uqZZpqT9Ze (link found in "official-releases" channel)
 
 	_Drag the zip file into MO2 under "Sorting" separator. Enable the mod & plugins._
-	
-	__Before you get huffy over having to join a Discord, they are very useful hubs where you can get direct help from your favorite mod authors. You can also leave after.__
 
-__Other Off-Site Downloads:__
+_Other Off-Site Downloads:_
 
 - Download Wolfmark's XDI Fix here: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
 
 	_In MO2, right click "Extended Dialogue Interface" and then click "Open in Explorer". Drag the XDI.dll file from the download into the Extended Dialogue Interface folder and let it replace it.
 
-	__Note: This fix in combination with DankRafft's mod allows us to use Extended Dialogue Interface without the need for individual patches.__
+	_Note: This fix in combination with DankRafft's mod allows us to use Extended Dialogue Interface without the need for individual patches._
 
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 
 	_Drag the zip file into MO2 under "Companions" separator. Enable the mod & plugin._
 
 __NOTE: For each off-site download, rename their files to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list.__
-
-__NOTE: Wabbajack can be very finnicky with these offsite downloads. I've had users report Companion Ivy already being included and also that it isn't. If you already have Ivy, you don't need to download it again. Same goes for anything else. If you don't, and Wabbajack is being a jerk about it, then just skip and do it manually in the end. (:__
 
 __Launching Fallout 4:__
 
@@ -105,7 +105,7 @@ __Launching Fallout 4:__
 - F4SE should be an executable in this menu. Click it.
 - Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
 
-Settings you must change manually in game:
+__Settings you must change manually in game:__
 
 - Backpacks of the Commonwealth - Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
 
@@ -123,7 +123,7 @@ VAFS Redux:
 
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
 
-Plugins that are disabled (and hidden) FOR A REASON!!!
+__Plugins that are disabled (and hidden) FOR A REASON!!!__
 
 - UniqueReplacer - WastelandK9Armor.esp
 - UniqueReplacer - LunarSSRecon.esp
@@ -140,9 +140,9 @@ Plugins that are disabled (and hidden) FOR A REASON!!!
 - AnubisPlayerVoice.esp
 - Horrorghouls2.2.esl
 
-DO NOT RE-ENABLE OR YOU WILL EXPERIENCE MOODINESS!!!
+__DO NOT RE-ENABLE OR YOU WILL EXPERIENCE MOODINESS!!!__
 
-THE DEEP DIVE:
+__THE DEEP DIVE:__
 
 This list was made fully with survival mode in mind. It wont hit as hard in normal game. It's okay though, because you can tweak survival mode however you want thanks to
 Unlimited Survival Mode - F4SE! So, don't be a scaredy cat!
