@@ -962,3 +962,19 @@ Added:
 - Diamond City Signs Retexture
 - Burnt Magazines and Comics Retexture
 - New Bottle Caps Tin
+
+__2.4.6__
+
+Removed:
+
+- ajhakra's Cubemaps
+- Oppressor's Flip Lighter (4K) - Replacer
+
+Updated:
+
+- Lost Soul Quest Tweak - No Faction Hostility
+
+Added:
+
+- Rescued Synths Go to Mercer Safehouse
+- RascalArt Mod Patches
