@@ -978,3 +978,48 @@ Added:
 
 - Rescued Synths Go to Mercer Safehouse
 - RascalArt Mod Patches
+
+2.4.7 (coming soon)
+
+Removed:
+
+- Attack of the Lobotomites Settlement Location and City Plan
+- C.R.P Commonwealth Provisional Goverment - Cannery (longneck lukowski's cannery Ext)
+- C.R.P Commonwealth Provisional Goverment - Nuclear Commision
+- C.R.P Commonwealth Provisional Goverment - Rationing Site
+- C.R.P Concord Militia (SS2 Friendly)
+- C.R.P Drumlin Diner Trade post
+- C.R.P Minutemen Merchant Marines
+- C.R.P Minutemen Radio Relay Network
+- C.R.P Railroad HQ lived in (new update)
+- C.R.P Roads Well Traveled
+- FOV Slider and Player Height
+- Smokeable Cigars - Cigarettes Less OP patch
+
+Updated:
+
+- High FPS Physics Fix
+- America Rising 2 - Echoes of the Past Alignment Patch
+- Tales from the Commonwealth - eXoPatch
+- Diverse Wasteland - The Diverse Series All-in-One
+- Buffout 4 NG with PDB support
+- Tumbajamba's Minutemen - eXospanded
+- Survivalist's Bus
+- RascalArt Mod Patches
+- Random Encounter Framework Patch Hub
+- America Rising 2 - Echoes of the Past Alignment Patch
+
+Added:
+
+- Santa's Little Helpers - Merry Modding Days 2024
+- Seasons Change - Chessboard Defense Squad
+- Much Better 3rd Person Animations - MoreLikeVicky's Edition
+- Icicles - A 2024 Merry Modding Days Mod
+- Tumbajamba's Brotherhood - eXospanded
+- HFs - Kitchenware
+- Show All Armors and Outfits - F4SE
+- America Rising 2 Quest Tags
+- Delay Tactical Thinking
+- Game Configuration Menu
+- Mechanist Omega - An Antagonist Quest Mod
+- Simple FOV Slider
