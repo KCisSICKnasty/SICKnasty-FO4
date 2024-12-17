@@ -86,6 +86,22 @@ __NVIDIA USERS ONLY:__
 - Set BudgetMaxFPS to the same value as InGameFPS (line 283).
 - (If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities". You will also need to download the "(No Multithreading)" version of Interior NavCut Fix here: https://www.nexusmods.com/fallout4/mods/72904?tab=files&file_id=292234&nmm=1 (replace or remove the version included))
 
+X-Cell: (copy & pasted from The Midnight Ride website)
+
+- Double-click X-Cell in the left pane of MO2.
+- In the INI-Files tab, open F4SE/Plugins/x-cell.ini
+- Set threads to false (line 8).
+
+Buffout 4 NG with PDB support: (copy & pasted from The Midnight Ride website)
+
+- Double-click Buffout 4 NG with PDB support in the left pane of MO2
+- In the Text Files tab, select F4SE/Plugins/Buffout4.toml
+- Change BSTextureStreamerLocalHeap to false (line 27)
+- Change HavokMemorySystem to false (line 28)
+- Change MemoryManager to false (line 32)
+- Change ScaleformAllocator to false (line 34)
+- Change SmallBlockAllocator to false (line 35)
+
 _LoversLab Downloads: (LoversLab requires an account in order to download. Don't worry, it's safe. (:_
 
 - Download Companion Ivy ver.6.1 (& CompaionIvy_Nuka) here: https://www.loverslab.com/files/file/11260-meet-companion-ivy/
