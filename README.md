@@ -49,7 +49,9 @@ _Setting up MO2: (copy & pasted from The Midnight Ride website)_
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
-_Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)_
+_INI settings:_
+
+Bethini Pie: (copy & pasted from The Midnight Ride website)
 
 - In MO2, click on the drop-down in the right pane next to the Run button.
 - Click <Edit...>, then click the + symbol in the top left and Add from file.
@@ -64,8 +66,6 @@ _Setting up Bethini Pie: (copy & pasted from The Midnight Ride website)_
 - Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide).
 - Edit the other settings to your liking.
 - Click File then Save in the top left, then confirm the prompts and close BethINI.
-
-_INI settings:_
 
 High FPS Physics Fix: (copy & pasted from The Midnight Ride website)
 
