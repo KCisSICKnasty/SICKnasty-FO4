@@ -102,6 +102,12 @@ Buffout 4 NG with PDB support: (copy & pasted from The Midnight Ride website)
 - Change ScaleformAllocator to false (line 34)
 - Change SmallBlockAllocator to false (line 35)
 
+Facial Expression and Eyetracking Engine Fixes - F4SE: (copy & pasted from The Midnight Ride website)
+
+- Double-click Facial Expression and Eyetracking Engine Fixes - F4SE in the left pane of MO2.
+- In the INI-Files tab, open F4SE/Plugins/FacialExpressionAndEyeTrackingEngineFixes.ini
+- Set bBrownFace to 1 (line 5).
+
 _LoversLab Downloads: (LoversLab requires an account in order to download. Don't worry, it's safe. (:_
 
 - Download Companion Ivy ver.6.1 (& CompaionIvy_Nuka) here: https://www.loverslab.com/files/file/11260-meet-companion-ivy/
