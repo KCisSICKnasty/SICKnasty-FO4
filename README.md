@@ -141,6 +141,12 @@ _LOD Output and Load Order:_
 
 __NOTE: All hidden ESPs or BA2s are HIDDEN FOR A REASON!!! Please don't unhide or enable anything hidden or you will experience moodiness.__
 
+_Optional Mods:_
+
+- Mutant Menagerie - Life Finds A Way - No Spider Patch: https://www.nexusmods.com/fallout4/mods/85873?tab=description
+- Controller Controls with Mod Support: https://www.nexusmods.com/fallout4/mods/61159
+- VRAMr: https://www.nexusmods.com/fallout4/mods/80305
+
 __Launching Fallout 4:__
 
 - Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
@@ -149,10 +155,6 @@ __Launching Fallout 4:__
 - Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
 
 __Settings you must change manually in game:__
-
-_Backpacks of the Commonwealth:_
-
-- Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled. (Required for Power Armor Handling Improvements - Retain Armor Buffs to work.)
 
 _MAIM Speed:_
 
@@ -163,6 +165,14 @@ _VAFS Redux:_
 
 - Set activation hotkey
 - Set criticals hotkey
+
+_Backpacks of the Commonwealth: (Note: This is only required if you're not playing on survival difficulty. Which you SHOULD be...)_
+
+- Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled. (Required for Power Armor Handling Improvements - Retain Armor Buffs to work.)
+
+_See Through Scopes:_
+
+- Switch Tactical Reload on.
 
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
 
