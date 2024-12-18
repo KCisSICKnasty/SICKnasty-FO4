@@ -143,13 +143,14 @@ __NOTE: All hidden ESPs or BA2s are HIDDEN FOR A REASON!!! Please don't unhide o
 
 _Optional Mods:_
 
-- Mutant Menagerie - Life Finds A Way - No Spider Patch: https://www.nexusmods.com/fallout4/mods/85873?tab=description
-- Controller Controls with Mod Support: https://www.nexusmods.com/fallout4/mods/61159
-- VRAMr: https://www.nexusmods.com/fallout4/mods/80305
+- Mutant Menagerie - Life Finds A Way - No Spider Patch (for those who are arachnophobic): https://www.nexusmods.com/fallout4/mods/85873?tab=description
+- Controller Controls with Mod Support (for those that prefer to use a controller): https://www.nexusmods.com/fallout4/mods/61159
+- VRAMr (highly recommed following the video guide in this mod's description for better performance tailored to the modlist): https://www.nexusmods.com/fallout4/mods/80305
 
 __Launching Fallout 4:__
 
-- Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
+Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
+
 - In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
 - F4SE should be an executable in this menu. Click it.
 - Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
