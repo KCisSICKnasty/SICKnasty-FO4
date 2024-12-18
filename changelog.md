@@ -979,7 +979,7 @@ Added:
 - Rescued Synths Go to Mercer Safehouse
 - RascalArt Mod Patches
 
-2.4.7 (coming soon)
+__2.4.7__
 
 Removed:
 
