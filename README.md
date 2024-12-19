@@ -166,30 +166,6 @@ _LOD Output and Load Order:_
 
 __NOTE: All hidden ESPs or BA2s are HIDDEN FOR A REASON!!! Please don't unhide or enable anything hidden or you will experience moodiness.__
 
-_Optional Mods:_
-
-- Mutant Menagerie - Life Finds A Way - No Spider Patch (for those who are arachnophobic): https://www.nexusmods.com/fallout4/mods/85873?tab=description
-- Controller Controls with Mod Support (for those that prefer to use a controller): https://www.nexusmods.com/fallout4/mods/61159
-- Ultra Wide Interface (21x9) (for those that would like to use wide screen settings): https://www.nexusmods.com/fallout4/mods/65677
-	- XDI
-	- Vanilla
-	- LooksMenu
-	- Vanilla
-	- Another Mod
-	- FallUI - Inventory
-	- FallUI - Workbench
-	- FallUI - Confirm Boxes
-	- FallUI - Sleep and Wait Menu
-	- Vanilla
-	- Visible (Default)
-	- FallUI - HUD
-	- Another INI settings
-	- MCM Booster
-	- Visible (Default)
-	- Black borders (Default)
-	- Vanilla (Default)
-- VRAMr (highly recommed following the video guide in this mod's description for better performance tailored to the modlist): https://www.nexusmods.com/fallout4/mods/80305
-
 __Launching Fallout 4:__
 
 Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
@@ -222,7 +198,7 @@ Configure anything else to your desire. HUD should be good to go as is, but if t
 
 __THE DEEP DIVE:__
 
-This list was made fully with survival mode in mind. It wont hit as hard in normal game. It's okay though, because you can tweak survival mode however you want thanks to Unlimited Survival Mode - F4SE! So, don't be a scaredy cat! It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special. The SICKnasty core, if you will.
+This list was made with survival mode in mind. It wont hit as hard on any other difficulty. It's okay though, because you can tweak survival mode however you want thanks to Unlimited Survival Mode - F4SE! So, don't be a scaredy cat! It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special. The SICKnasty core, if you will.
 
 - For perks, a full overall that stitches together True Perks, VAFS, MAIM, and True Damage. I carry over almost everything from VAFS so the mechanic wins, but keep the requirements that True Perks puts in place so there's no mixup. Anything that touches damage is nerfed with changes carried over from True Damage. Any MAIM conflicts are taken care of. All of this is done with the SICKnastyPERKmodule.
 - Since True Damage makes bullets hurt a lot more, why not more bullets? Munitions & Co. give us tons of new ammunition. I'd use Reaper's RobCo mod, but I prefer seeing everything worked out in xEdit for this one specifically. Same reason we're not using the True Damage Easy Load Order mod.
@@ -235,6 +211,32 @@ This list was made fully with survival mode in mind. It wont hit as hard in norm
 - My patches are all esp flagged esl plugins made in xEdit. Most of them are self explanatory (SICKnastyPERKmodule contains all perk related patches, SICKnastyGASMASKmodule forwards the gasmasks from Gasmasks of the Wasteland into inventories and carries over any NPC changes, etc.).
 
 I'll continue updating this README as I get things in order, but this is the culmination of months spent in front of xEdit, Nexus, Discord, and MO2. If there's a bug, please let me know and I'll fix it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay at home dad, so I've got nothing but time to answer questions and resolve issues! (:
+
+__Optional Mods:__
+
+- VRAMr (highly recommed following the video guide in this mod's description for better performance tailored to the modlist): https://www.nexusmods.com/fallout4/mods/80305
+- Mutant Menagerie - Life Finds A Way - No Spider Patch (if you're arachnophobic): https://www.nexusmods.com/fallout4/mods/85873?tab=description
+- Controller Controls with Mod Support (for controller users): https://www.nexusmods.com/fallout4/mods/61159
+- PRIME Plus -Hydraulica- (optional 50% and 75% lower volume options): https://www.nexusmods.com/fallout4/mods/52749
+- Ultra Wide Interface (21x9) (for wide screen compatibility): https://www.nexusmods.com/fallout4/mods/65677
+	In the FOMOD, select (in order):
+	- XDI
+	- Vanilla
+	- LooksMenu
+	- Vanilla
+	- Another Mod
+	- FallUI - Inventory
+	- FallUI - Workbench
+	- FallUI - Confirm Boxes
+	- FallUI - Sleep and Wait Menu
+	- Vanilla
+	- Visible (Default)
+	- FallUI - HUD
+	- Another INI settings
+	- MCM Booster
+	- Visible (Default)
+	- Black borders (Default)
+	- Vanilla (Default)
 
 __Ways you can make my day:__
 
