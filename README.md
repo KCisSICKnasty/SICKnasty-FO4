@@ -2,7 +2,7 @@
 
 __CURRENT VERSION: 2.4.7__
 
-__We're back to Wabbajack not giving you the correct version. Just use Simple Fallout 4 Downgrader after you're done: https://www.nexusmods.com/fallout4/mods/81933__
+__Some users are not receiving the correct version of Fallout4.exe in their Stock Game folder. If you get an error about F4SE not working or anything related to a F4SE error, just use Simple Fallout 4 Downgrader after you're done: https://www.nexusmods.com/fallout4/mods/81933__
 
 __I don't know why it's happening again. Wabbajack Support Discord says it's a user problem, but the executable isn't correct on your end and it is on mine so somehow you changed the executable before even opening the list. I have no answers and I'm sorry. :(__
 
