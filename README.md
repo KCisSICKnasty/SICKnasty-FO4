@@ -111,6 +111,30 @@ Facial Expression and Eyetracking Engine Fixes - F4SE: (copy & pasted from The M
 - In the INI-Files tab, open F4SE/Plugins/FacialExpressionAndEyeTrackingEngineFixes.ini
 - Set bBrownFace to 1 (line 5).
 
+Unlimited Survival Mode (F4SE):
+
+- Tweak settings to your liking. (Keep in mind though, many mods I include give you alternative ways to save. There will be redundancy if you re-enable quick save.)
+
+Terminals Lock Up - ESPless:
+
+- Set iEnableNoviceLockUps to 1 (line 13). Ultimate Hacking is in the list.
+
+Assorted Modular Tweaks - ESPless - Config:
+
+- Set iFasterTerminalsMultiplier to 5 (line 32).
+- Set iRemoveIronSightsBlur to 1 (line 36).
+- Set iUncapPickPocketChance to 1 (line 40).
+- Set iLongerPowerLines to 1 (line 67).
+- Set iImprovedRagdolls to 1 (line 74).
+- Set iLessIntrusiveTutorial to 1 (line 86).
+- Set iQuestItemsAreNotJunk to 1 (line 95).
+- Set iHighlightConsoleReference to 1 (line 99).
+- Set iClearConsoleOnLoad to 1 (line 115).
+
+Custom Companion Names: (optional)
+
+- Set any NPCs names to whatever you'd like. Instructions are in the ini file itself.
+
 _LoversLab Downloads: (LoversLab requires an account in order to download. Don't worry, it's safe. (:_
 
 - Download Companion Ivy ver.6.1 (& CompaionIvy_Nuka) here: https://www.loverslab.com/files/file/11260-meet-companion-ivy/
@@ -145,6 +169,24 @@ _Optional Mods:_
 
 - Mutant Menagerie - Life Finds A Way - No Spider Patch (for those who are arachnophobic): https://www.nexusmods.com/fallout4/mods/85873?tab=description
 - Controller Controls with Mod Support (for those that prefer to use a controller): https://www.nexusmods.com/fallout4/mods/61159
+- Ultra Wide Interface (21x9) (for those that would like to use wide screen settings): https://www.nexusmods.com/fallout4/mods/65677
+	- XDI
+	- Vanilla
+	- LooksMenu
+	- Vanilla
+	- Another Mod
+	- FallUI - Inventory
+	- FallUI - Workbench
+	- FallUI - Confirm Boxes
+	- FallUI - Sleep and Wait Menu
+	- Vanilla
+	- Visible (Default)
+	- FallUI - HUD
+	- Another INI settings
+	- MCM Booster
+	- Visible (Default)
+	- Black borders (Default)
+	- Vanilla (Default)
 - VRAMr (highly recommed following the video guide in this mod's description for better performance tailored to the modlist): https://www.nexusmods.com/fallout4/mods/80305
 
 __Launching Fallout 4:__
