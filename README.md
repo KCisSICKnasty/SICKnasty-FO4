@@ -17,6 +17,7 @@ __SERVERisSICKnasty (support server): https://discord.gg/W9HRjDFVzX__
 __REQUIREMENTS:__
 
 - Fallout 4 ver.1.10.984.0 (NG update)*
+- Wabbajack
 - Roughly 306 GB of space
 - Patience**
 
