@@ -1023,3 +1023,54 @@ Added:
 - Game Configuration Menu
 - Mechanist Omega - An Antagonist Quest Mod
 - Simple FOV Slider
+
+__2.4.8__ (Coming soon)
+
+Removed:
+
+Fallout 4 - Point Lookout
+Point Lookout - Essential Fixes and Additions
+Point Lookout - Expressive Player
+Point Lookout Precombine Overrides Fixer
+Sailboat Abode - Point Lookout Patch
+SRD Point Lookout Delay
+Pointlookout Mansion Bug Fixes
+Extended Dialogue Interface
+Extended Dialogue Interface - Wolfmark Fix Preconfigured
+Munitions (Official Patch Repository)
+
+Updated:
+
+Improved Railroad
+Improved Institute
+Improved Nuka Raiders
+Improved Brotherhood of Steel
+Improved Minutemen
+Improved Hostile Factions
+Baka Framework
+To Your Face FO4
+PipboyTabs
+LooksMenu
+Survivalist's Bus
+Livewire - eXoPatch
+The Glowing Nightmare
+Simple FOV Slider
+Feral Ghouls Expansion Pack Performance Textures
+Commonwealth Broadcasting Services
+Miscellanous Performance Optimization - PRP
+
+Added:
+
+Smooth Sun Shadows
+HD Retexture Pack Hellfire Power Armor
+Luxor's Quantum X-01 power armor
+Fallout 4 Northern Springs DLC
+mdkd's Northern Springs bugfixes
+SCOURGE - Northern Springs
+Nordic Europa Research Facility (Dungeon)
+Nordic Europa - Loot Reduction Patch
+Fallout Vermont
+OLD WORLD RADIO - BOSTON
+dp Plasma Gun Lights
+Minutemen Take Over Nuka World Bugfix
+Louder Rainy Sound
