@@ -1060,6 +1060,9 @@ Updated:
 - Miscellanous Performance Optimization - PRP
 - Community Fixes Merged
 - Icicles - A 2024 Merry Modding Days Mod
+- Improved Hit VFX
+- Super Mutant Equality a Super Mutant Weapon Expansion
+- PRIME Plus -Hydraulica-
 
 Added:
 
@@ -1076,3 +1079,5 @@ Added:
 - dp Plasma Gun Lights
 - Minutemen Take Over Nuka World Bugfix
 - Louder Rainy Sound
+- Grenade Sound Options
+- HFs - Plastic bin
