@@ -152,9 +152,6 @@ _Discord Downloads: (Discord requires an account in order to join servers. If yo
 
 _Other Off-Site Downloads:_
 
-- Download Wolfmark's XDI Fix here: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
-- In MO2, right click "Extended Dialogue Interface" and then click "Open in Explorer". Drag the XDI.dll file from the download into the Extended Dialogue Interface folder and let it replace it. (This fix in combination with DankRafft's mod allows us to use Extended Dialogue Interface without the need for individual patches.)
-
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 - Drag the zip file into MO2 under "Companions" separator. Enable the mod & plugin.
 
