@@ -217,7 +217,7 @@ __Optional Mods:__
 - PRIME Plus -Hydraulica- (optional 50% and 75% lower volume options): https://www.nexusmods.com/fallout4/mods/52749
 - Ultra Wide Interface (21x9) (for wide screen compatibility): https://www.nexusmods.com/fallout4/mods/65677
 	In the FOMOD, select (in order):
-	- XDI
+	- Vanilla
 	- Vanilla
 	- LooksMenu
 	- Vanilla
