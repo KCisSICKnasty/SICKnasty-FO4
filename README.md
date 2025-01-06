@@ -10,8 +10,6 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
-__Load Order Library: https://loadorderlibrary.com/lists/sicknasty-fo4__
-
 __SERVERisSICKnasty (support server): https://discord.gg/W9HRjDFVzX__
 
 __REQUIREMENTS:__
@@ -163,58 +161,39 @@ _LOD Output and Load Order:_
 
 __NOTE: All hidden ESPs or BA2s are HIDDEN FOR A REASON!!! Please don't unhide or enable anything hidden or you will experience moodiness.__
 
-__Launching Fallout 4:__
+__Tools:__
 
-Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
+In your installation location is a folder called "tools". Inside are a few easy to use utilities you can use that are optional as well as some documentation on how to do VRAMr, run Complex Sorter, etc..
 
-- In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
-- F4SE should be an executable in this menu. Click it.
-- Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
+_Collective Modding Toolkit-_
 
-__Settings you must change manually in game:__
+Features: (copy & pasted from the Collective Modding Toolkit mod description)
 
-_MAIM Speed:_
+- Downgrades and upgrades Fallout 4 and Creation kit between Old-Gen and Next-Gen with delta patches. (Requires F4SE﻿ 0.6.23, Address Library﻿ AIO/1.10.163, and BASS﻿)
+- Provides counts of data files by type; plugins (Full/Light) and BA2 (General and Textures)
+- Patches BA2 files to either v1 (OG) or v8 (NG)
+- Scans F4SE DLLs for game version support
+- Scans your mod setup for potential issues.
+- Automatically update Complex Sorter INIs for the latest xEdit.
 
-- Set Hotkeys to your preference
-- Turn on scroll wheel and configure if you would like
+_MultiXwm-_
 
-_VAFS Redux:_
+Instructions: (copy & pasted from Personal radio (version with randomizer) mod description)
 
-- Set activation hotkey
-- Set criticals hotkey
+- Use the program to convert your chosen tracks to XWM format. Recommended to use the default program bitrate, or if you want to use wav then use a converter like AIMP and convert XWM to wav 16 bit stereo and 44100 bitrate.  (wav files cause game crashes, this is not the recommended method!!!)
+- The custom music must be added in Data\sound\fx\mus\radio\PersonalRadio where the original blank sound files with TTS voice calling track numbers are. Replace them with own music. You must keep the old file name like 1.xwm or 100 xwm, or they wont play, you can add at least 100 tracks.  or If you hear the automated voice calling numbers instead of your tracks - you have incorrectly replaced the tracks.
+- It is recommended to first store your converted XWM files you want to use for mod in the temporary output file and rename them there and then replace all 100 empty tracks at once.
 
-_Backpacks of the Commonwealth: (Note: This is only required if you're not playing on survival difficulty. Which you SHOULD be...)_
+_Smooth Sun Shadows-_
 
-- Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled. (Required for Power Armor Handling Improvements - Retain Armor Buffs to work.)
+Instructions: (Copy and pasted from Smooth Sun Shadows mod description)
 
-_See Through Scopes:_
-
-- Switch Tactical Reload on.
-
-Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
-
-__THE DEEP DIVE:__
-
-This list was made with survival mode in mind. It wont hit as hard on any other difficulty. It's okay though, because you can tweak survival mode however you want thanks to Unlimited Survival Mode - F4SE! So, don't be a scaredy cat! It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special. The SICKnasty core, if you will.
-
-- For perks, a full overall that stitches together True Perks, VAFS, MAIM, and True Damage. I carry over almost everything from VAFS so the mechanic wins, but keep the requirements that True Perks puts in place so there's no mixup. Anything that touches damage is nerfed with changes carried over from True Damage. Any MAIM conflicts are taken care of. All of this is done with the SICKnastyPERKmodule.
-- Since True Damage makes bullets hurt a lot more, why not more bullets? Munitions & Co. give us tons of new ammunition. I'd use Reaper's RobCo mod, but I prefer seeing everything worked out in xEdit for this one specifically. Same reason we're not using the True Damage Easy Load Order mod.
-- "But True Damage & MAIM make the game so hard..." Get Power Armor. Thanks to Bastion, you're now literally covered. Damage wont go through until the piece is broken, and then you'll only take damage in the specific spot. We've got some nifty mods to make Bastion smart, so Power Armor is more of a necessity.
-- Warsaw's Improved factions series serves as a base for a ton of the weapon and armor mods on this list. I've more or less included everything that they can interact with that doesn't conflict. Raider Overhaul & Raider Gangs Extended, Super Mutant Redux & Forced Evolution, More Feral Ghouls & Feral Ghoul Expansion Pack, We Are the Minutemen & You and What Army 2...You name it, bud. If the faction exists, it's been overhauled.
-- Weapon and Armor mods are plentiful, but I cannot stand chem bench clutter & am not interested in 500 ARs from the real world or CoD. Therefore, most mods that add new weapons or pieces of armor/clothing are ran through URP (Unique Replacers Project). This series of mods replaces FO4's vanilla uniques with mods. The mods it uses are stripped of any crafting capabilities or LL injections, making finding the unique it has replaced the only way to obtain it. This gives a lot of variety to the unique weapons & makes it more exciting when you find them.
-- 2 new very lore friendly resources for you to manage: air quality and body temperature. Gasmasks of the Wasteland makes wearing a gas mask a necessity when traversing the Commonwealth with replacable filters you'll need to keep on hand. Nuclear Winter (WHICH DOES NOT ADD WEATHER TO THE GAME!!!) makes your body temperature something you'll actually need to keep track of (with realism, so if it's December, well...Boston sucks in the winter...). Keep your character properly dressed and make sure you keep those hands warm!
-- For visual overhauls, we use HappoMatka's "Seen Some Shit" series, nearly all of Halfface's texture replacers, dpillari's HD suite of mods, Omega4D2's Modern Replacer series (but none of the immersion breaking ones), and DoubleYouC's landscape retextures to name a few. All wrapped up in the warm embrace of Lightweight Lighting - Gloomy Edition.
-- Weather? You bet. True Storms combined with Seasons Change tag team all of the atmoshpere. I've used the script included with Seasons Change on the entire load order so you'll see snow on all of our stuff. You'll hear all kinds of new audio too thanks to the Lost Audio Tweaks suite of mods.
-- My patches are all esp flagged esl plugins made in xEdit. Most of them are self explanatory (SICKnastyPERKmodule contains all perk related patches, SICKnastyGASMASKmodule forwards the gasmasks from Gasmasks of the Wasteland into inventories and carries over any NPC changes, etc.).
-
-I'll continue updating this README as I get things in order, but this is the culmination of months spent in front of xEdit, Nexus, Discord, and MO2. If there's a bug, please let me know and I'll fix it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay at home dad, so I've got nothing but time to answer questions and resolve issues! (:
+- Double click the install .bat file and that's it. It's installed.
 
 __Optional Mods:__
 
-- VRAMr (highly recommed following the video guide in this mod's description for better performance tailored to the modlist): https://www.nexusmods.com/fallout4/mods/80305
 - Mutant Menagerie - Life Finds A Way - No Spider Patch (if you're arachnophobic): https://www.nexusmods.com/fallout4/mods/85873?tab=description
-- Controller Controls with Mod Support (for controller users): https://www.nexusmods.com/fallout4/mods/61159
-- PRIME Plus -Hydraulica- (optional 50% and 75% lower volume options): https://www.nexusmods.com/fallout4/mods/52749
+- PRIME Plus -Hydraulica- (optional 75% lower volume option if it's still too loud for your liking): https://www.nexusmods.com/fallout4/mods/52749
 - Ultra Wide Interface (21x9) (for wide screen compatibility): https://www.nexusmods.com/fallout4/mods/65677
 	In the FOMOD, select (in order):
 	- Vanilla
@@ -234,6 +213,243 @@ __Optional Mods:__
 	- Visible (Default)
 	- Black borders (Default)
 	- Vanilla (Default)
+
+__Launching Fallout 4:__
+
+Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
+
+- In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
+- F4SE should be an executable in this menu. Click it.
+- Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
+
+__Settings you must change manually in game via MCM:__
+
+_MAIM Speed:_
+
+- Set Hotkeys to your preference
+- Turn on scroll wheel and configure if you would like
+
+_VAFS Redux:_
+
+- Set activation hotkey
+- Set criticals hotkey
+
+_Backpacks of the Commonwealth: (Note: This is only required if you're not playing on survival difficulty. Which you SHOULD be...)_
+
+- Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled. (Required for Power Armor Handling Improvements - Retain Armor Buffs to work.)
+
+_Power Armor Handling Improvements:_
+
+- Turn off the "Helmet off when in dialogue" option as it is buggy.
+
+_See Through Scopes:_
+
+- Switch Tactical Reload on.
+
+Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
+
+__THE DEEP DIVE:__
+
+This list was made with survival mode in mind. It wont hit as hard on any other difficulty. It's okay though, because you can tweak survival mode however you want thanks to Unlimited Survival Mode - F4SE! So, don't be a scaredy cat! It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special. The SICKnasty core, if you will.
+
+_Perks-_
+
+- True Perks
+- VAFS Redux - Bullet Time and Manual Critical
+- TRUE DAMAGE - Weapon Damage Normalized By Ammo Caliber
+- MAIM 3
+- Loaded Out
+- Ultimate Hacking
+- MUTATIONS
+- Magazine Perks Tab v1.00i
+
+_Quests & Worldspaces-_
+
+- America Rising 2
+- Remnants - Secrets of the Enclave
+- Xander's Aid
+- Fallout Vermont
+- The Wilderness
+- Fallout 4 Northern Springs DLC
+- Fourville
+- Attack of the Lobotomites
+- Caves Of The Commonwealth
+- Subversion - The Institute-Railroad Alliance Alternate Ending
+- Children of Ug-Qualtoth
+- The Secret of Huntress Manor - A Far Harbor Story
+- Sim Settlements 2
+- Atomic Radio and Tales from the Commonwealth
+- The Wild Key Chase - Quest and Location mod
+- Boon Island - Isles Of New England
+- Ashland Station - Quest-Dungeon-Settlement
+- Nordic Europa Research Facility (Dungeon)
+- Polaria Systems (Dungeon)
+- Mechanist Omega - An Antagonist Quest Mod
+
+_World Edits-_
+
+- RADS
+- Far Better Far Harbor - Exploration Expanded
+- Rsiyo's Location Pack
+- "People Live In" suite
+- "We Can Live In" suite
+
+_Ambience-_
+
+- True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)
+- Seasons Change - A Merry Modding Days Mod
+- Lightweight Lighting - Gloom Edition
+- Fallout 4 Enhanced Color Correction
+- Reverb and Ambiance Overhaul
+
+_Companions-_
+
+- Better Companions - All In One
+- Amazing FollowerTweaks Plus (AFT Plus)
+- Automatron Expanded Weapons System
+- Combat AI Empowered
+- I'm Darlene
+- Heather Casdin - A Unique Companion Experience by llamaRCA
+- Father Companion - Alternate Ending Option for Fallout 4
+- Capital Wasteland Dogmeat
+- FALLOUT Brotherhood - A Storyteller Quest Mod
+- Ellen - the cartographer
+- The Machine And Her
+
+_Factions-_
+
+- SCOURGE
+- We Are the Minutemen
+- You and What Army 2
+- Church of Atom Overhaul
+- Radical
+- 4estGimp - Super Mutant Redux-No AWKCR
+- Forced Evolution - Super Mutant Addons
+- Super Mutant Equality a Super Mutant Weapon Expansion
+- 4estGimp - Raider Overhaul ONE
+- Raider Gangs Extended
+- Raider Gang Factions - A Raider Gangs Extended Add-On and Expansion
+- ITO institute Technology Overhaul Full - Version 2
+- Courser Crusher
+- PROJECT JAVELIN - Courser Replacer
+- Synth Overhaul - C.A.S.T
+- More Feral Ghouls. A Zombie Mod
+- FGEP - Feral Ghouls Expansion Pack - The Definitive Edition
+- Mutant Menagerie - Life Finds A Way
+- Zetans - Alien invaders in the Commonwealth
+- Dreadsharks of the Commonwealth
+- Institute Centaurs
+- Lamprey Floaters
+- Combat Drones
+- Plutonium Creatures
+- Faction Reinforcements
+
+_Warsaw's Improved Series-_
+
+- Improved America Rising 2
+- Improved Brotherhood of Steel
+- Improved Guards
+- Improved Hostile Factions
+- Improved Institute
+- Improved Minutemen
+- Improved Nuka Raiders
+- Improved Railroad
+
+_Weapons & Ammo-_
+
+- See Through Scopes
+- Vanilla Uniques Framework
+- Tactical Reload
+- Bullet Counted Reload System (BCR)
+- Bullet in the Chamber - Expanded Weapon Mechanics
+- Real Time Cover Penetration Framework
+- Bullet Penetration and Ricochet (BPR)
+- Burst-Fire Framework (BFF)
+- Munitions - Ammo Expansion Project
+- Munitions - Additional Ammo
+- Munitions - Advanced Calibers (MAC)
+- Conversions - Munitions for All Vanilla Weapons
+- CALIBER - COMPLEX
+- Weapons of Fate (Ballistics Overhaul)
+- Easy Ammo Vending Machine
+- The Attachment Pack
+- Pick up Ammo SFX
+- Remote Explosives - C4 with Detonators and More
+- Full Artillery System Overhaul
+- Grenade Retrieval System
+- CMO - Complete Molotov Overhaul - A Logical Approach
+- XXL Nukes (Nuclear Explosions Overhaul)
+- Forever Radiation
+- Mag Poop - Visual Reload Framework
+- Energy Weapons Fixed - Continuous Beams Burst Fire Tri-beam Lasers
+- Unique Replacers Project - Vendor Legendary Weapons
+- Unique Replacers Project - Unique Legendary Weapons
+- Unique Replacers Project - Mod Added Legendaries
+
+_Armor & Clothing-_
+
+- PIP-Pad
+- Garmin Foretrex 901
+- Fallout 2287 - Gas Masks of the Wasteland
+- Fallout 2287 - Nuclear Winter
+- Black Widow Armor and Pipboy (Pip-boy)
+- Bastion - A Power Armor Overhaul
+- More Durable Power Armor Pieces (RobCo Patcher)
+- Power Armor Handling Improvements - Retain Armor Buffs
+- Run and Breathe Underwater with Power Armor
+- Perennial Power Armor - Lightweight Power Armor Rebalance
+- Unique Replacers Project - Legendary Unique Armor And Power Armor
+
+_DankRafft Suite-_
+
+- Leveled Item Fixes (LIF)
+- Equipment and Crafting Overhaul (ECO) - Redux
+- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More
+- Legendary AutoBot (LAB) - Craftable legendary effects for Automatron robots
+- Weapon Overhaul Project (WOP) - Combined Arms - Service Rifle - M1 Garand - Wattz Laser - Point Lookout - 22LR Pistol
+- Looted World
+
+_Texture Packs-_
+
+- High Resolution Texture Pack 2K and 4K - Valius
+- FlaconOil's Complete Retexture Project -in progress-
+- Targeted Textures Extended
+- FO4FI HD Project - Architecture
+- Lucid's Texture Upgrades
+- NMC's Texture Bundle
+- The Natural Bundle - Assorted Textures (2K - 4K)
+- Grime Ash Moss Enhanced (GAME)
+- Rusty Subway Textures
+- SuperAlloys - Enhanced Power Armor Paints and 4k Textures
+
+_Visuals-_
+
+- HappoMatka: https://next.nexusmods.com/profile/HappoMatka
+- Halffaces: https://next.nexusmods.com/profile/Halffaces
+- dpillari: https://next.nexusmods.com/profile/dpillari
+- Omega4D2: https://next.nexusmods.com/profile/Omega4D2
+- Oppressor08: https://next.nexusmods.com/profile/Oppressor08
+- SavrenX: https://next.nexusmods.com/profile/SavrenX
+- mm137: https://next.nexusmods.com/profile/mm137
+- DeviousMeth0ds: https://next.nexusmods.com/profile/DeviousMeth0ds
+
+I'll continue updating this README as I get things in order, but this is the culmination of months spent in front of xEdit, Nexus, Discord, and MO2. If there's a bug, please let me know and I'll fix it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay at home dad, so I've got nothing but time to answer questions and resolve issues! (:
+
+__Need help?__
+
+_SERVERisSICKnasty (support server): https://discord.gg/W9HRjDFVzX_
+
+Start in the #sicknasty-fo4-support channel, and I'll get to you as soon as I can! Make sure to give me as many details as you can on the issue so I can pinpoint the cause!
+
+If your issue involves CTD, that makes things even easier! You can just give me your CLASSIC fed crash log and I can tell you what it means!
+
+- Download FO4 Crash Log Auto Scanner And Setup Integrity Checker (CLASSIC) here: https://www.nexusmods.com/fallout4/mods/56255
+- Follow the instructions in the mod description.
+- Post your most recent crash log AUTOSCAN in the #sicknasty-fo4-crashlogs channel.
+
+_Note: CLASSIC is the only thing I'll disagree with The Midnight Ride on, as it is fully supported by The Collective Modding Discord. The only reason the modlist has ever CTD has been because of BA2 limit, which CLASSIC has correctly diagnosed everytime._
+
+__Load Order Library: https://loadorderlibrary.com/lists/sicknasty-fo4__
 
 __Ways you can make my day:__
 
