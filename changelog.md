@@ -1081,3 +1081,168 @@ Added:
 - Louder Rainy Sound
 - Grenade Sound Options
 - HFs - Plastic bin
+
+2.4.9 (coming soon)
+
+Removed:
+
+CompanionIvy
+Targeted Textures
+A Silver Silver Shroud Retexture
+CC's Improved Roadsigns
+DiamondTheWall RETEXTURE-4K
+SavrenX Food and Foodware﻿
+Fixed Alpha Maps
+Workbench Replacer HD
+Fixed High-Tech Benches
+Gore Overhaul 3.0 -Reload-
+Retexture - Corroded airplanes - Seen some oxidation
+WBGF - Wire Barrel Gobo Fix
+Better Nuka-Cola Machine
+dp Radium Rifle HD
+Skull Bandana Retexture (by Sakura9)
+Diamond City Power Tower ReTexture
+Basher Rank 2 and 3 Fix
+DLC Timing
+Medford Memorial Helipad
+Mystic Rogue's Super Duper Quest and Add-On Pack
+Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless)
+Pip-Boy W.S.
+Pipboy Arm Fix for Grafs Assaultron Armor
+Very Minor PipBoy Fixes
+dp Power Armor Frame Revival
+Power Armor Decals HD
+X-01 4K UHD
+T-60 4k UHD
+T51 4K UHD
+T-45 4K UHD
+Power Armor Jetpack HD
+Luxor's Quantum X-01 power armor
+Protectron HD - 2K and 4K
+Flickering Roof Mesh Fix
+Power Generator ReTexture 2K
+Diamond City Power Tower ReTexture
+Diamond City Signs Retexture
+
+Updated:
+
+America Rising 2 - Echoes of the Past Alignment Patch
+Workshop Framework
+Robot Behavior Animation Tweaks
+Diverse Wasteland - The Diverse Series All-in-One
+Icon Expansion Pack for FIS
+Minuteman Watchtowers - Atomic World Patch
+Far Better Far Harbor - Exploration Expanded
+The Glowing Nightmare
+Simple FOV Slider
+Improved Minutemen
+Improved Institute
+Improved Hostile Factions
+Improved Brotherhood of Steel
+People Live In - Roadside Pines Motel
+Survivalist's Bus
+Community Fixes Merged
+CaptainLaserbeam's Assorted SS2 Patches - DLC Munitions RO SMR WI and more
+4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
+4estGimp - Raider Overhaul ONE
+Slow Motion Dismemberment
+LString Bow Third Person Tweaks
+eXoSorter Interface
+X-Cell
+Smooth Sun Shadows
+Unique Faces - AiO
+Sim Settlements 2
+Sim Settlements 2 - Chapter 2
+Sim Settlements 2 - Chapter 3
+RobCo Patcher
+Diverse Enclave - America Rising 2
+Super Mutant Equality a Super Mutant Weapon Expansion
+Improved Hit VFX
+ITO institute Technology Overhaul Full - Version 2
+ClickLight - Highlight Objects Clicked in Console (FO4)
+We Have Names (and more) - All In One
+Reaper's Smokeables Sorting Enhancements
+Equipment and Crafting Overhaul (ECO) - Redux
+Full Artillery System Overhaul
+Seen some shit - Pulowski Shelter Retexture
+Tumbajamba's Minutemen - eXospanded
+
+Added:
+
+4estGimp - Immersive Companion Inventories - RobCo
+Sim Settlements 2 - eXoPatch
+HFs - Tin Cans - remodels
+Fixed World Map and Globes
+Monsterum -DeathClaw Sounds Rework-
+RADS
+Better Rugs
+Grime Ash Moss Enhanced (GAME)
+Targeted Textures Extended
+Kellogg CBBE Vanilla Mesh Fix
+Barrel Bonanza - Fire Barrel Mesh Replacer
+HD LOD for Atomic World Desperados and Badlands 2
+High Resolution Texture Pack 2K and 4K - Valius
+FO4FI HD Project - Architecture
+NMC's Texture Bundle
+Imposing Gunner Skulls
+Forest Fungus De-Lit
+Glowing Sea De-Lit
+Fallout Texture Overhaul Stars
+Rusty Subway Textures
+The Natural Bundle - Assorted Textures (2K - 4K)
+Collective Modding Toolkit
+Grenade Retrieval System
+Sim Settlements 2 Outfits for Bodyslide
+Sim Settlements 2 Automatron Mod
+SS2 - Vit-O-Matic Sensors for West Tek Tactical Optics
+Armor Workbench No Fire Barrel
+Mag Poop - Visual Reload Framework
+Mag Defecate Patches
+Easy Ammo Vending Machine
+Dogmeat's Backpack
+Dogmeat's Backpack Armor Patch
+Dogmeat's Backpacks of the Commonwealth
+VRAMr
+Combat Pipboy
+PIP-Pad
+Rusty PIP-Pad Retexture
+Modern Replacer - Chembench
+Modern Replacer - Circuitry
+SuperAlloys - Enhanced Power Armor Paints and 4k Textures
+See Through Scopes (STS) T-45 Power Armor Clipping Fix (including SuperAlloys Tesla Coils T-45)
+RandomMainMenu
+Immersive Main Menus
+MUTATION
+SavrenX Synth HD
+The Widow Shotgun
+Black Widow Armor and Pipboy (Pip-boy)
+Black Widow BodySlide Files
+3BBB (CBBE) Conversion - Black Widow Armor
+4estGimp - Widow Shotgun Precombine Fix
+Black Widow Armor Male
+Black Widow Armor and Shotgun - Expansion
+Settlement Menu Manager
+Settlement Menu Manager Patches (SMM)
+OCDecorator - Static Loot
+OCDecorator - SMM-ESLified
+Have a Nuka Sim Settlements 2 plot - A Merry Modding Days Mod
+WWR - Weapons workbench remesh
+Colorful Bottle Lanterns
+CLB Presents Tumbajamba's New Warriors - SS2 Units and Loadouts
+Remnants - Super Mutant Mech Armor
+Lucid's Texture Upgrades
+HD Retexture Pack X-02 Power Armor
+Polaria Systems (Dungeon)
+The Machine And Her
+The Machine and Her Revival
+Plutonium Creatures
+Legendary Bosses - Plutonium Redux
+Very Zen Dark Caves
+HFs - Makeshift Battery remodel
+NPCs Change Clothes
+Modern Replacer - AIO (4k - 2K - 1K)
+Minuteman Watchtowers - Survey Addon
+Nick Valentine Reborn - Compatibility Fix
+Controller Controls with Mod Support
+Nuka Cola Quantum Label Material Fix
+See Through Scopes - Aim Model Alignment Fixes
