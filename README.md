@@ -420,10 +420,15 @@ _Texture Packs-_
 - The Natural Bundle - Assorted Textures (2K - 4K)
 - Grime Ash Moss Enhanced (GAME)
 - Rusty Subway Textures
+- All Weapons HD (A.W.H.D.)
 - SuperAlloys - Enhanced Power Armor Paints and 4k Textures
+- Gloomy Glass - All transparent materials revised
+- Fallout 4 Particle Patch - No More Glowing Objects
+- Ultimate Window Overhaul Redone
 
 _Visuals-_
 
+- DoubleYouC: https://next.nexusmods.com/profile/DoubleYouC
 - HappoMatka: https://next.nexusmods.com/profile/HappoMatka
 - Halffaces: https://next.nexusmods.com/profile/Halffaces
 - dpillari: https://next.nexusmods.com/profile/dpillari
