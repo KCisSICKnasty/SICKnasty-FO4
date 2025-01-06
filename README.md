@@ -255,13 +255,14 @@ This list was made with survival mode in mind. It wont hit as hard on any other 
 _Perks-_
 
 - True Perks
+- Loaded Out - An Encumbrance and Carry Weight Overhaul Mod
 - VAFS Redux - Bullet Time and Manual Critical
 - TRUE DAMAGE - Weapon Damage Normalized By Ammo Caliber
 - MAIM 3
-- Loaded Out
 - Ultimate Hacking
-- MUTATIONS
-- Magazine Perks Tab v1.00i
+- MUTATION
+- Magazine Perks Tab
+- Pain Train & Impact Landing - Buffed And Reworked
 
 _Quests & Worldspaces-_
 
@@ -269,7 +270,8 @@ _Quests & Worldspaces-_
 - Remnants - Secrets of the Enclave
 - Xander's Aid
 - Fallout Vermont
-- The Wilderness
+- The Wilderness - Now with four anomalies and a map
+- The Tunnels - For Cave People and Molerats
 - Fallout 4 Northern Springs DLC
 - Fourville
 - Attack of the Lobotomites
@@ -277,20 +279,31 @@ _Quests & Worldspaces-_
 - Subversion - The Institute-Railroad Alliance Alternate Ending
 - Children of Ug-Qualtoth
 - The Secret of Huntress Manor - A Far Harbor Story
-- Sim Settlements 2
 - Atomic Radio and Tales from the Commonwealth
 - The Wild Key Chase - Quest and Location mod
 - Boon Island - Isles Of New England
 - Ashland Station - Quest-Dungeon-Settlement
 - Nordic Europa Research Facility (Dungeon)
 - Polaria Systems (Dungeon)
+- In The Flesh - A Horror Quest Mod
 - Mechanist Omega - An Antagonist Quest Mod
+- 20 Leagues Under the Sea - Vault 120
+- Flashy(JoeR) - Crime And Punishment
+- CHALLENGES - F4NV
+- REPUTATION
 
 _World Edits-_
 
 - RADS
+- Accessible Bridges - ESL
+- Lootable Crates
+- Atomic World
+- Subway Runner - Revival
+- Abandoned Hub (Underground Railroad ReRedux)
 - Far Better Far Harbor - Exploration Expanded
 - Rsiyo's Location Pack
+- Bradberton Interiors
+- Minuteman Watchtowers
 - "People Live In" suite
 - "We Can Live In" suite
 
@@ -298,9 +311,11 @@ _Ambience-_
 
 - True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)
 - Seasons Change - A Merry Modding Days Mod
+- Icicles - A 2024 Merry Modding Days Mod
 - Lightweight Lighting - Gloom Edition
 - Fallout 4 Enhanced Color Correction
 - Reverb and Ambiance Overhaul
+- LOST Audio Tweaks
 
 _Companions-_
 
@@ -315,16 +330,20 @@ _Companions-_
 - FALLOUT Brotherhood - A Storyteller Quest Mod
 - Ellen - the cartographer
 - The Machine And Her
+- Old Time Religion
 
 _Factions-_
 
 - SCOURGE
+- The Alias Project - All In One
 - We Are the Minutemen
 - You and What Army 2
+- Minutemen Takeover - Nuka World
 - Church of Atom Overhaul
 - Radical
 - 4estGimp - Super Mutant Redux-No AWKCR
 - Forced Evolution - Super Mutant Addons
+- Techno Mutants
 - Super Mutant Equality a Super Mutant Weapon Expansion
 - 4estGimp - Raider Overhaul ONE
 - Raider Gangs Extended
@@ -337,12 +356,29 @@ _Factions-_
 - FGEP - Feral Ghouls Expansion Pack - The Definitive Edition
 - Mutant Menagerie - Life Finds A Way
 - Zetans - Alien invaders in the Commonwealth
-- Dreadsharks of the Commonwealth
+- Dreadsharks Of The Commonwealth
+- Nightstrikers
 - Institute Centaurs
 - Lamprey Floaters
+- Defective Synths
 - Combat Drones
 - Plutonium Creatures
 - Faction Reinforcements
+- NPCs Travel
+
+_Settlements-_
+
+- Workshop Framework
+- Standalone Workbenches
+- Sim Settlements 2
+- Settlement Menu Manager
+- OCDecorator
+- The Master Plan
+- Vault-Tec Workshop Overhaul Redux
+- VertiCall 4 Settlements - Buildable Working Tacticool Vertibird Landing Pads
+- RL_Recruit_Framework
+- Better Settlers
+- Recruitable Settlers
 
 _Warsaw's Improved Series-_
 
@@ -355,7 +391,7 @@ _Warsaw's Improved Series-_
 - Improved Nuka Raiders
 - Improved Railroad
 
-_Weapons & Ammo-_
+_Weapons-_
 
 - See Through Scopes
 - Vanilla Uniques Framework
@@ -376,6 +412,7 @@ _Weapons & Ammo-_
 - Pick up Ammo SFX
 - Remote Explosives - C4 with Detonators and More
 - Full Artillery System Overhaul
+- PreWar Binoculars
 - Grenade Retrieval System
 - CMO - Complete Molotov Overhaul - A Logical Approach
 - XXL Nukes (Nuclear Explosions Overhaul)
@@ -390,15 +427,45 @@ _Armor & Clothing-_
 
 - PIP-Pad
 - Garmin Foretrex 901
+- Gunner Outfit Pack (STANDALONE)
+- NanoSuit
+- Jetpacks FAO v5 - Installer
+- The Pip-Boy Glove
+- West Tek Tactical Gloves
+- Institute Power Armor Redux...Redux
+- Submersible Power Armor Redux
+- K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat
 - Fallout 2287 - Gas Masks of the Wasteland
 - Fallout 2287 - Nuclear Winter
 - Black Widow Armor and Pipboy (Pip-boy)
 - Bastion - A Power Armor Overhaul
+- Enemies Fear Power Armor
 - More Durable Power Armor Pieces (RobCo Patcher)
 - Power Armor Handling Improvements - Retain Armor Buffs
 - Run and Breathe Underwater with Power Armor
 - Perennial Power Armor - Lightweight Power Armor Rebalance
 - Unique Replacers Project - Legendary Unique Armor And Power Armor
+
+_Survival Tweaks-_
+
+- Unlimited Survival Mode (F4SE)
+- Sip Or Save
+- Sit Or Save (Only Sofas)
+- Shelter Or Save
+- Working Pulowski Shelters
+- Smokeable Cigars - Cigarettes - Joints - With HardCore Auto Save
+- Fill Multiple Bottles
+- Flyable Personal Vertibird
+- Campsite
+- Flyable Personal Vertibird
+- Salvage Beacons
+
+_Player Homes-_
+
+- Airship - Player Home and Settlement
+- Survivalist's Bus
+- Sailboat Abode (A Fast Travel Ship)
+- Basement Living - Bunker and Basement Player Homes (with standalone Workshops)
 
 _DankRafft Suite-_
 
@@ -409,8 +476,12 @@ _DankRafft Suite-_
 - Weapon Overhaul Project (WOP) - Combined Arms - Service Rifle - M1 Garand - Wattz Laser - Point Lookout - 22LR Pistol
 - Looted World
 
-_Texture Packs-_
+_Textures-_
 
+- Caliente's Beautiful Bodies Enhancer
+- OCBP
+- 3BBB Physics (CBBE - TWB)
+- HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)
 - High Resolution Texture Pack 2K and 4K - Valius
 - FlaconOil's Complete Retexture Project -in progress-
 - Targeted Textures Extended
@@ -421,12 +492,13 @@ _Texture Packs-_
 - Grime Ash Moss Enhanced (GAME)
 - Rusty Subway Textures
 - All Weapons HD (A.W.H.D.)
+- Holotape Visual Improvement
 - SuperAlloys - Enhanced Power Armor Paints and 4k Textures
 - Gloomy Glass - All transparent materials revised
 - Fallout 4 Particle Patch - No More Glowing Objects
 - Ultimate Window Overhaul Redone
 
-_Visuals-_
+_Mod Author Suites- (nearly every mod by these authors is in the list)_
 
 - DoubleYouC: https://next.nexusmods.com/profile/DoubleYouC
 - HappoMatka: https://next.nexusmods.com/profile/HappoMatka
@@ -437,6 +509,8 @@ _Visuals-_
 - SavrenX: https://next.nexusmods.com/profile/SavrenX
 - mm137: https://next.nexusmods.com/profile/mm137
 - DeviousMeth0ds: https://next.nexusmods.com/profile/DeviousMeth0ds
+- rsm000rsm: https://next.nexusmods.com/profile/rsm000rsm
+- tumbajamba: https://next.nexusmods.com/profile/tumbajamba
 
 I'll continue updating this README as I get things in order, but this is the culmination of months spent in front of xEdit, Nexus, Discord, and MO2. If there's a bug, please let me know and I'll fix it in an update! In a way, you're helping me run this like a beta. I was nervous as all heck to upload this list, but I got the courage to finally do it! I'm a stay at home dad, so I've got nothing but time to answer questions and resolve issues! (:
 
