@@ -1,10 +1,6 @@
 # SICKnasty - FO4
 
-__CURRENT VERSION: 2.4.7__
-
-__Some users are not receiving the correct version of Fallout4.exe in their Stock Game folder. If you get an error about F4SE not working or anything related to a F4SE error, just use Simple Fallout 4 Downgrader after you're done: https://www.nexusmods.com/fallout4/mods/81933__
-
-__I don't know why it's happening again. Wabbajack Support Discord says it's a user problem, but the executable isn't correct on your end and it is on mine so somehow you changed the executable before even opening the list. I have no answers and I'm sorry. :(__
+__CURRENT VERSION: 2.4.9__
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason.
 
@@ -178,7 +174,7 @@ Features: (copy & pasted from the Collective Modding Toolkit's mod description)
 
 _MultiXwm-_
 
-Instructions: (copy & pasted from Personal radio (version with randomizer)'s mod description)
+Features: (copy & pasted from Personal radio (version with randomizer)'s mod description)
 
 - Use the program to convert your chosen tracks to XWM format. Recommended to use the default program bitrate, or if you want to use wav then use a converter like AIMP and convert XWM to wav 16 bit stereo and 44100 bitrate.  (wav files cause game crashes, this is not the recommended method!!!)
 - The custom music must be added in Data\sound\fx\mus\radio\PersonalRadio where the original blank sound files with TTS voice calling track numbers are. Replace them with own music. You must keep the old file name like 1.xwm or 100 xwm, or they wont play, you can add at least 100 tracks.  or If you hear the automated voice calling numbers instead of your tracks - you have incorrectly replaced the tracks.
@@ -206,13 +202,13 @@ _Controller Controls MCM First Aid Kit-_
 
 Features: (copy & pasted from Controller Controls with Mod Support's mod description)
 
-For those who messed up their Keybinds.json while changing something theirselves
-Mo2 Users have to copy MCM folder from this file to their overwrite, everyone else just set it to highest priority and overwrite anything that conflicts
-All mods i covered here (and some more) are there, everything is unassigned
-Slide function from TAEP is still set to B (277)
-No more need to to set a random keyboard key to configurate something i covered in one of my versions
-it also doesnt matter if you dont have the mods covered there (it will make no difference)
-so dont worry and use this lifesaver
+- For those who messed up their Keybinds.json while changing something theirselves
+- Mo2 Users have to copy MCM folder from this file to their overwrite, everyone else just set it to highest priority and overwrite anything that conflicts
+- All mods i covered here (and some more) are there, everything is unassigned
+- Slide function from TAEP is still set to B (277)
+- No more need to to set a random keyboard key to configurate something i covered in one of my versions
+- it also doesnt matter if you dont have the mods covered there (it will make no difference)
+- so dont worry and use this lifesaver
 
 __Optional Mods:__
 
