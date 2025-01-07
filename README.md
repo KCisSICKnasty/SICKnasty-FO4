@@ -130,11 +130,6 @@ Custom Companion Names: (optional)
 
 - Set any NPCs names to whatever you'd like. Instructions are in the ini file itself.
 
-_LoversLab Downloads: (LoversLab requires an account in order to download. Don't worry, it's safe. (:_
-
-- Download Companion Ivy ver.6.1 (& CompaionIvy_Nuka) here: https://www.loverslab.com/files/file/11260-meet-companion-ivy/
-- Drag the zip file into MO2 under "Companions" separator. Enable the mod & plugins. (I am not using the mags because 1) I would like people to be able to stream/make content with my list and 2) I did not like what I saw in xEdit...)
-
 _Discord Downloads: (Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)_
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file found in "complex-sorter-support" channel)
