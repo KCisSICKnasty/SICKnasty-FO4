@@ -268,6 +268,11 @@ _See Through Scopes:_
 
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
 
+_PIP-Pad:_
+
+- Installing before exiting vault 111 causes pipboy open lag. Fixed by open and closing pipboy when leaving vault 111.
+- Using the flashlight before leaving vault 111 will break it. Fixed by open and closing pipboy when leaving vault 111.
+
 __THE DEEP DIVE:__
 
 This list was made with survival mode in mind. It wont hit as hard on any other difficulty. It's okay though, because you can tweak survival mode however you want thanks to Unlimited Survival Mode - F4SE! So, don't be a scaredy cat! It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special. The SICKnasty core, if you will.
@@ -386,6 +391,17 @@ _Factions-_
 - Faction Reinforcements
 - NPCs Travel
 
+_Warsaw's Improved Series-_
+
+- Improved America Rising 2
+- Improved Brotherhood of Steel
+- Improved Guards
+- Improved Hostile Factions
+- Improved Institute
+- Improved Minutemen
+- Improved Nuka Raiders
+- Improved Railroad
+
 _Settlements-_
 
 - Workshop Framework
@@ -399,17 +415,6 @@ _Settlements-_
 - RL_Recruit_Framework
 - Better Settlers
 - Recruitable Settlers
-
-_Warsaw's Improved Series-_
-
-- Improved America Rising 2
-- Improved Brotherhood of Steel
-- Improved Guards
-- Improved Hostile Factions
-- Improved Institute
-- Improved Minutemen
-- Improved Nuka Raiders
-- Improved Railroad
 
 _Weapons-_
 
