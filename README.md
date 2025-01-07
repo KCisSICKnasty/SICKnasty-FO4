@@ -167,7 +167,7 @@ In your installation location is a folder called "tools". Inside are a few easy 
 
 _Collective Modding Toolkit-_
 
-Features: (copy & pasted from the Collective Modding Toolkit mod description)
+Features: (copy & pasted from the Collective Modding Toolkit's mod description)
 
 - Downgrades and upgrades Fallout 4 and Creation kit between Old-Gen and Next-Gen with delta patches. (Requires F4SE﻿ 0.6.23, Address Library﻿ AIO/1.10.163, and BASS﻿)
 - Provides counts of data files by type; plugins (Full/Light) and BA2 (General and Textures)
@@ -178,7 +178,7 @@ Features: (copy & pasted from the Collective Modding Toolkit mod description)
 
 _MultiXwm-_
 
-Instructions: (copy & pasted from Personal radio (version with randomizer) mod description)
+Instructions: (copy & pasted from Personal radio (version with randomizer)'s mod description)
 
 - Use the program to convert your chosen tracks to XWM format. Recommended to use the default program bitrate, or if you want to use wav then use a converter like AIMP and convert XWM to wav 16 bit stereo and 44100 bitrate.  (wav files cause game crashes, this is not the recommended method!!!)
 - The custom music must be added in Data\sound\fx\mus\radio\PersonalRadio where the original blank sound files with TTS voice calling track numbers are. Replace them with own music. You must keep the old file name like 1.xwm or 100 xwm, or they wont play, you can add at least 100 tracks.  or If you hear the automated voice calling numbers instead of your tracks - you have incorrectly replaced the tracks.
@@ -189,6 +189,30 @@ _Smooth Sun Shadows-_
 Instructions: (Copy and pasted from Smooth Sun Shadows mod description)
 
 - Double click the install .bat file and that's it. It's installed.
+
+_Controller Controls Codes-_
+
+Features: (copy & pasted from Controller Controls with Mod Support in the file's description)
+
+- You want to change something yourself?
+- You need those Codes for mods or other things?
+- Dont want to google them erverytime?
+- Here is a .txt file for those codes controller only atm.
+- it provides
+	xInput/Controlmap Hex codes
+	DXscanCodes Hex and Dec (Decimal)
+
+_Controller Controls MCM First Aid Kit-_
+
+Features: (copy & pasted from Controller Controls with Mod Support's mod description)
+
+For those who messed up their Keybinds.json while changing something theirselves
+Mo2 Users have to copy MCM folder from this file to their overwrite, everyone else just set it to highest priority and overwrite anything that conflicts
+All mods i covered here (and some more) are there, everything is unassigned
+Slide function from TAEP is still set to B (277)
+No more need to to set a random keyboard key to configurate something i covered in one of my versions
+it also doesnt matter if you dont have the mods covered there (it will make no difference)
+so dont worry and use this lifesaver
 
 __Optional Mods:__
 
