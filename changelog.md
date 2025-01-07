@@ -1123,6 +1123,7 @@ Removed:
 - Power Generator ReTexture 2K
 - Diamond City Power Tower ReTexture
 - Diamond City Signs Retexture
+- Misc anim tweaks and fixes
 
 Updated:
 
@@ -1166,6 +1167,7 @@ Updated:
 - Full Artillery System Overhaul
 - Seen some shit - Pulowski Shelter Retexture
 - Tumbajamba's Minutemen - eXospanded
+- Tales from the Commonwealth - eXoPatch
 
 Added:
 
@@ -1245,3 +1247,4 @@ Added:
 - Controller Controls with Mod Support
 - Nuka Cola Quantum Label Material Fix
 - See Through Scopes - Aim Model Alignment Fixes
+- Attachment Pack Unofficial Expansion and Refinement
