@@ -1220,7 +1220,6 @@ Added:
 - 3BBB (CBBE) Conversion - Black Widow Armor
 - 4estGimp - Widow Shotgun Precombine Fix
 - Black Widow Armor Male
-- Black Widow Armor and Shotgun - Expansion
 - Settlement Menu Manager
 - Settlement Menu Manager Patches (SMM)
 - OCDecorator - Static Loot
