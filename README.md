@@ -96,6 +96,7 @@ Buffout 4 NG with PDB support: (copy & pasted from The Midnight Ride website)
 - In the Text Files tab, select F4SE/Plugins/Buffout4.toml
 - Change BSTextureStreamerLocalHeap to false (line 27)
 - Change HavokMemorySystem to false (line 28)
+- Change InputSwitch to true (line 30)
 - Change MemoryManager to false (line 32)
 - Change ScaleformAllocator to false (line 34)
 - Change SmallBlockAllocator to false (line 35)
@@ -180,30 +181,6 @@ _Smooth Sun Shadows-_
 Instructions: (Copy and pasted from Smooth Sun Shadows mod description)
 
 - Double click the install .bat file and that's it. It's installed.
-
-_Controller Controls Codes-_
-
-Features: (copy & pasted from Controller Controls with Mod Support in the file's description)
-
-- You want to change something yourself?
-- You need those Codes for mods or other things?
-- Dont want to google them erverytime?
-- Here is a .txt file for those codes controller only atm.
-- it provides
-	xInput/Controlmap Hex codes
-	DXscanCodes Hex and Dec (Decimal)
-
-_Controller Controls MCM First Aid Kit-_
-
-Features: (copy & pasted from Controller Controls with Mod Support's mod description)
-
-- For those who messed up their Keybinds.json while changing something theirselves
-- Mo2 Users have to copy MCM folder from this file to their overwrite, everyone else just set it to highest priority and overwrite anything that conflicts
-- All mods i covered here (and some more) are there, everything is unassigned
-- Slide function from TAEP is still set to B (277)
-- No more need to to set a random keyboard key to configurate something i covered in one of my versions
-- it also doesnt matter if you dont have the mods covered there (it will make no difference)
-- so dont worry and use this lifesaver
 
 __Optional Mods:__
 
