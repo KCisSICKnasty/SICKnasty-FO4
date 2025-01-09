@@ -12,7 +12,7 @@ __REQUIREMENTS:__
 
 - Fallout 4 ver.1.10.984.0 (NG update)*
 - Wabbajack
-- Roughly 306 GB of space
+- Roughly 405 GB of space
 - Patience**
 
 *SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! It requires the NextGen content, but then uses Simple Fallout 4 Downgrader to roll back the update and keep the content. GOG is not supported, sorry! :(
