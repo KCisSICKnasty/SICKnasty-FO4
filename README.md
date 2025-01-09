@@ -107,6 +107,11 @@ Facial Expression and Eyetracking Engine Fixes - F4SE: (copy & pasted from The M
 - In the INI-Files tab, open F4SE/Plugins/FacialExpressionAndEyeTrackingEngineFixes.ini
 - Set bBrownFace to 1 (line 5).
 
+Classic Holstered Weapons System (CHW):
+
+- Download the txt file from here (*NOTE-* you will need to make an account): https://simsettlements.com/site/index.php?threads/i-have-created-a-comprehensive-ss2-compatible-config-file-for-classic-holstered-weapons-chw.31802/
+- Follow spacefiddle's instructions on replacing the [ExcludedForms].
+
 Unlimited Survival Mode (F4SE):
 
 - Tweak settings to your liking. (Keep in mind though, many mods I include give you alternative ways to save. There will be redundancy if you re-enable quick save.)
