@@ -8,18 +8,6 @@ Initial Re-Release
 
 __1.0.2__
 
-Updated:
-
-- eXoSorter Interface
-- Unique Replacers Project - Legendary Unique Armor And Power Armor (Mk234 Synth Combat Armor)
-- Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
-- ITO institute Technology Overhaul Full - Version 2
-- Community Fixes Merged
-- Institute Power Armor Redux...Redux
-- FGEP - A Legendary Addition
-- More Feral Ghouls eXopansion Patch
-- Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)
-
 Added:
 
 - Tumbajamba's Minutemen Armor Collection
@@ -32,25 +20,12 @@ Added:
 
 __1.0.3__
 
-Updated:
-
-- Icon Expansion Pack for FIS
-- Alias - Unique Dynamic name generation for NPCs
-- Unique Replacers Project - Unique Legendary Weapons
-- Unique Replacers Project - Vendor Legendary Weapons
-- Unique Replacers Project - Legendary Unique Armor And Power Armor
-
 __1.1.0__
 
 Removed:
 
 - ECO Redux Armory﻿
 - Sprint Overhaul﻿ 
-
-Updated:
-
-- Previsibines Repair Pack Stable Branch - PRP
-- ITO institute Technology Overhaul Full - Version 2
 
 Added:
 
@@ -59,11 +34,6 @@ Added:
 - Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
 
 __1.1.1__
-
-Updated:
-
-- Improved Brotherhood of Steel (enabled compatibility patches for Tumbajamba's Brotherhood Armor Collection)
-- Unique Replacers Project - Vendor Legendary Weapons
 
 Added:
 
@@ -75,11 +45,6 @@ Added:
 
 __1.1.2__
 
-Updated:
-
-- Better Lootable Vehicles of the Commonwealth
-- ITO institute Technology Overhaul Full - Version 2
-
 Added:
 
 - Car Alarm
@@ -87,11 +52,6 @@ Added:
 - VAFS Redux - SFX Replacer
 
 __1.1.3__
-
-Updated:
-
-- X-Cell Fallout 4
-- VAFS Redux - Bullet Time and Manual Critical (removed the VAFS DLC plugin)
 
 Added:
 
@@ -102,21 +62,7 @@ Added:
 
 __1.1.4__
 
-Updated:
-
-- Holotape Display Shelves - Automatron Support
-- Community Fixes Merged
-- Institute Power Armor Redux...Redux (ITO patch)
-
 __1.1.5__
-
-Updated:
-
-- ZP's Fire and Smoke (optional update patch)
-- Institute Teleportation for Survival Mode (Commonwealth Settlements ONLY version)
-- Shadow Boost FO4 (ini file included)
-- MCM Settings Manager (optional Fix file included)
-- MCM Booster (v1.1 beta2 available in Collective Modding Discord)﻿
 
 Added:
 
@@ -130,12 +76,6 @@ Removed:
 
 - Castle to Spectacle Island Ferry
 
-Updated:
-
-- ITO institute Technology Overhaul Full - Version 2
-- ZP's Fire and Smoke (optional update patch 2)
-- Institute Power Armor Redux...Redux (& ITO patch)
-
 Added:
 
 - Better Chem Variants
@@ -144,11 +84,6 @@ Added:
 - Weapon grabbing sound replacer
 
 __1.2.1__
-
-Updated:
-
-- ITO institute Technology Overhaul Full - Version 2
-- Institute Power Armor Redux...Redux
 
 Added:
 
@@ -185,11 +120,6 @@ Removed:
 
 - MCM Booster NG
 
-Updated:
-
-- ITO institute Technology Overhaul Full - Version 2
-- Gunner Outfit Pack and Tumbajamba's Gunner Collection Legendary Integration Patch
-
 Added:
 
 - MCM Booster - SCOURGE Cache tweak
@@ -202,12 +132,6 @@ __1.2.3__
 Removed:
 
 - Perchik71 - In Game MOD Explorer (MCM)
-
-Updated:
-
-- ﻿Community Fixes Merged
-- Jetpacks FAO v5
-- Ashland Station - Quest-Dungeon-Settlement
 
 Added:
 
@@ -236,24 +160,6 @@ Added:
 - Accessible Bridges - UFO4P Patch
 
 __2.0.0__
-
-Updated:
-
-- CROSS Crit Gore-verhaul
-- Pip-Boy W.S.
-- Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton
-- MAIM - Wounds Bleeding Pain Meds and Headshots
-- Food Sanitizer
-- Sim Settlements 2 - Chapter 3
-- Alternative Activation Prompts
-- Ultracite Power Armor
-- Children of Ug-Qualtoth
-- Subversion - The Institute-Railroad Alliance Alternate Ending
-- Northern Foothills Rocks Fix
-- Church of Atom Overhaul
-- Synth Overhaul - C.A.S.T
-- Super Mutant Equality a Super Mutant Weapon Expansion
-- You And What Army 2
 
 Added:
 
@@ -289,26 +195,6 @@ Removed:
 ﻿- Nick Valentine Reborn - Compatibility Fix
 - Bobrov's Pick - Alcohol Overhaul
 - ZP's Geiger Counter Sounds﻿
-
-Updated:
-
-- More Feral Ghouls eXopansion Patch
-- Workshop Framework
-- ZP's Frost and Shock
-- Sim Settlements 2
-- Sim Settlements 2 - Chapter 2
-- Sim Settlements 2 - Chapter 3
-- eXoSorter Interface
-- Simple Creation Club Delayed NG
-- Power Armor Handling Improvements - Retain Armor Buffs
-- Better Chems - Maim Patch
-- NPCs Use (MAIM) Items
-- Institute Power Armor Redux...Redux
-- Slow Motion Dismemberment
-- Extended Fake Interiors - Commonwealth buildings fixes
-- Sim Settlements 2 - Previsibines Expansion Pack
-- ITO institute Technology Overhaul Full - Version 2
-- PreWar Binoculars - Call in Fire Support addon
 
 Added:
 
@@ -354,26 +240,6 @@ Removed:
 - Far Harbor architecture pieces 
 - Desert Eagle - Standalone Handgun﻿ 
 - Freeze Intimidation Overhaul﻿ 
-
-Updated:
-
-- Community Fixes Merged
-- Wattz Laser Gun (Legacy)
-- Heavy Support Weapons Pack
-- Far Better Far Harbor - Exploration Expanded 
-- Lootable Vertibirds 
-- Lightweight Lighting and True Storms Integration Patch 
-- Remote Explosives - C4 with Detonators and More 
-- K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat 
-- Recruitable Settlers - Unbroken 
-- Cannibal Toast's PRP Patch Compendium 
-- The Riot Shotgun - Fallout New Vegas 
-- DegenerateDak ESLified Patch Hub 
-- Unique Replacers Project - Vendor Legendary Weapons 
-- Unique Replacers Project - Unique Legendary Weapons 
-- Vanilla Uniques Framework 
-- SICKnasty - Patches (Fallout names for MAIM 3 items) 
-- True Perks ﻿
 
 Added:
 
@@ -441,20 +307,6 @@ Removed:
 
 - SS2 - XDI Compatibility Patch 
 - XDI - America Rising 2 (AR2) Patch 
-
-Updated:
-
-- Better Notes - Patches - Locations and New Lands 
-- SICKnasty - Patches (Fallout names for MAIM 3 items) 
-- Leveled Item Fixes (LIF) 
-- DegenerateDak ESLified Patch Hub 
-- Better Notes - Patches - Quests 
-- Unique Replacers Project - Unique Legendary Weapons 
-- ITO institute Technology Overhaul Full - Version 2
-- Vanilla Uniques Framework 
-- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More 
-- Equipment and Crafting Overhaul (ECO) - Redux 
-- You And What Army 2 
 
 Added:
 
@@ -553,21 +405,6 @@ Removed:
 - DJIND0's True Damage Munitions Patch 
 - SCOURGE - Zetan﻿﻿﻿﻿
 
-Updated:
-
-- Amazing FollowerTweaks Plus (AFT Plus) 
-- Far Better Far Harbor - Exploration Expanded 
-- Miscellanous Performance Optimization - PRP 
-- Tales from the Commonwealth - eXoPatch 
-- TRUE DAMAGE - Weapon Damage Normalized By Ammo Caliber 
-- Rhino M1 Redux 
-- ITO institute Technology Overhaul Full - Version 2 
-- CBBE Ghoul RearHead Fix 
-- Diverse Enclave - America Rising 2 
-- Angel's Ingestible Sorting Enhancements 
-- Angel's Companion Tagging 
-- Equipment and Crafting Overhaul (ECO) - Redux 
-
 Added:
 
 - HFs - Forgotten rusty trash 
@@ -600,7 +437,6 @@ Added:
 - Wade In Water 
 - Angel's Food Categories 
 - Torso Explosion Missing Legs Fix 
-- KC's SICKnasty Patch Pit 
 
 __2.3.1__
 
@@ -610,10 +446,6 @@ Removed:
 - Fallout 4 Point Lookout - Voiced Player Lines Addon 
 - VAFS Redux - Alternate VFX﻿ 
 
-Updated:
-
-- KC's SICKnasty Patch Pit 
-
 __2.4__
 
 Removed:
@@ -621,29 +453,6 @@ Removed:
 - Less Annoying Berry Mentats 
 ﻿- AR2 Candid Objectives 
 ﻿- Crossbows of the Commonwealth 
-
-Updated:
-
-- Equipment and Crafting Overhaul (ECO) - Redux 
-- Tumbajamba's Gunner Armor Collection 
-- Survivalist's Bus 
-- Community Fixes Merged 
-- HFs - Ironing Board 
-- Angel's Ingestible Sorting Enhancements 
-- Children of Ug Qualtoth-SrD-Patch 
-- You And What Army 2 
-- Garden of Eden Papyrus Script Extender 
-- Graphics Gone Stupid 
-- Better Notes - Patches - Locations and New Lands 
-- Emirals Previs Patches for PRP .74 
-- KC's SICKnasty Patch Pit 
-- ITO institute Technology Overhaul Full - Version 2 
-- CBBE Ghoul RearHead Fix 
-- In The Flesh - A Horror Quest Mod 
-- Amazing FollowerTweaks Plus (AFT Plus) 
-- Sim Settlements 2 
-- Sim Settlements 2 - Chapter 2 
-- Sim Settlements 2 - Chapter 3 
 
 Added:
 
@@ -680,54 +489,6 @@ Removed:
 
 - Graphics Gone Stupid
 - T-51 Decapitation Fix 
-
-Updated:
-
-- Unique Faces - AiO
-- Better Lootable Vehicles of the Commonwealth
-- Cut Content NPCs - All in One
-- Improved Institute
-- Diverse Enclave - America Rising 2
-- Flyable Personal Vertibird
-- Magazine Perks Tab v1.00e
-- Church of Atom Overhaul
-- Improved Guards
-- Improved Brotherhood of Steel
-- We Have Names (and more) - All In One
-- Recruitable Settlers - Unbroken
-- Complex Sorter Quest Mods Tagging
-- Hit Those Explosives
-- Angel's Ingestible Sorting Enhancements
-- Garden of Eden Papyrus Script Extender
-- Low Profile Loader
-- Equipment and Crafting Overhaul (ECO) - Redux
-- Npc18's Standalone Synth Combat Armour
-- Ownership Fixes
-- Papyrus Common Library
-- Hit Those Objects
-- Sim Settlements 2 - Previsibines Expansion Pack
-- ITO institute Technology Overhaul Full - Version 2
-- Far Object LOD Improvement Project
-- Assorted Modular Tweaks - ESPless
-- Improved Minutemen
-- Improved Railroad
-- Terminals Lock Up
-- Previsibines Repair Pack Stable Branch - PRP
-- eXoSorter Interface
-- More Feral Ghouls eXopansion Patch
-- Improved Hostile Factions
-- Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
-- SS2 FallUI Icons a CIS Plugin
-- Improved America Rising 2 Enclave
-- KC's SICKnasty Patch Pit
-- Diverse Wasteland - The Diverse Series All-in-One
-- Sim Settlements 2
-- Sim Settlements 2 - Chapter 2
-- The Harbor Bee Monorail
-- Enhanced Movement
-- Community Fixes Merged
-- Sim Settlements 2 - Chapter 3
-- Tumbajamba's Gunner Armor Collection
 
 Added:
 
@@ -790,52 +551,6 @@ Removed:
 - 4estGimp - Tribal Power Armour Compacted
 - 4estGimp - T51C Power Armor Compacted
 
-Updated:
-
-- dp Power Armor Frame Revival
-- ITO institute Technology Overhaul Full - Version 2
-- Reaper's Munitions Patches
-- Midnight Cult Fix
-- Simple Creation Club Delayed NG
-- eXoSorter Interface
-- Lighthouse Papyrus Extender
-- Improved Railroad
-- Improved Institute
-- Improved America Rising 2 Enclave
-- Improved Nuka Raiders
-- Improved Brotherhood of Steel
-- Improved Minutemen
-- Improved Hostile Factions
-- Halffaces - Ancient Pottery
-- Previsibines Repair Pack Stable Branch - PRP
-- Super Mutant Equality a Super Mutant Weapon Expansion
-- Npc18's Standalone Synth Combat Armour
-- Tumbajamba's Minutemen - eXospanded
-- We Are The Minutemen - eXoPatch
-- Sim Settlements 2 - Previsibines Expansion Pack
-- WETTER
-- Tales from the Commonwealth - eXoPatch
-- Low Profile Loader
-- Garden of Eden Papyrus Script Extender
-- Emirals Previs Patches for PRP .74
-- REPUTATION
-- Mustard's Party Favors - The Chuck-It Missile
-- Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
-- South of the Sea - Atomic Embrace (and CBBE)
-- The Harbor Bee Monorail
-- Assorted Modular Tweaks - ESPless
-- See Through Scopes - Night Vision
-- America Rising 2 - Armaments
-- Miscellanous Performance Optimization - PRP
-- Halffaces - Old Rusty Trashcan
-- Community Fixes Merged
-- The Glowing Nightmare
-- Magazine Perks Tab v1.00i
-- Less Loot - Assorted Locations and Quest Mod Patches for Survival
-- Seasons Change - Chessboard Defense Squad
-- Livewire - eXoPatch
-- Fourville - eXoPatch
-
 Added:
 
 - unBallistic Gatling Laser (Pure Energy)
@@ -885,17 +600,6 @@ Removed:
 
 - Simple Puddle Reflection Flicker Fix (Water and Blood)
 
-Updated:
-
-- ITO institute Technology Overhaul Full - Version 2
-- Less Loot - Assorted Locations and Quest Mod Patches for Survival
-- Hit Those Objects
-- Assorted Modular Tweaks - ESPless
-- Gunner Outfit Pack - CBBE Pre-Generated
-- America Rising 2 - Echoes of the Past Alignment Patch
-- RobCo - Smarter Companions
-- Vault-Tec Workshop Overhaul Redux (VTWOR)
-
 Added:
 
 - More Weathervanes
@@ -918,14 +622,6 @@ Added:
 
 __2.4.4__
 
-Removed:
-
-- Seasons Change - Chessboard Defense Squad
-
-Updated:
-
-- Leveled Item Fixes (LIF)
-
 Added:
 
 - Jumping Requires AP
@@ -934,11 +630,6 @@ Added:
 - ajhakra's Cubemaps
 
 __2.4.5__
-
-Updated:
-
-- Mutant Menagerie - Life Finds a Way - No Boombugs (or other not-radroaches) in Vault 111 Opening
-- Wade In Water
 
 Added:
 
@@ -970,10 +661,6 @@ Removed:
 - ajhakra's Cubemaps
 - Oppressor's Flip Lighter (4K) - Replacer
 
-Updated:
-
-- Lost Soul Quest Tweak - No Faction Hostility
-
 Added:
 
 - Rescued Synths Go to Mercer Safehouse
@@ -995,19 +682,6 @@ Removed:
 - C.R.P Roads Well Traveled
 - FOV Slider and Player Height
 - Smokeable Cigars - Cigarettes Less OP patch
-
-Updated:
-
-- High FPS Physics Fix
-- America Rising 2 - Echoes of the Past Alignment Patch
-- Tales from the Commonwealth - eXoPatch
-- Diverse Wasteland - The Diverse Series All-in-One
-- Buffout 4 NG with PDB support
-- Tumbajamba's Minutemen - eXospanded
-- Survivalist's Bus
-- RascalArt Mod Patches
-- Random Encounter Framework Patch Hub
-- America Rising 2 - Echoes of the Past Alignment Patch
 
 Added:
 
@@ -1038,31 +712,6 @@ Removed:
 - Extended Dialogue Interface
 - Extended Dialogue Interface - Wolfmark Fix Preconfigured
 - Munitions (Official Patch Repository)
-
-Updated:
-
-- Improved Railroad
-- Improved Institute
-- Improved Nuka Raiders
-- Improved Brotherhood of Steel
-- Improved Minutemen
-- Improved Hostile Factions
-- Baka Framework
-- To Your Face FO4
-- PipboyTabs
-- LooksMenu
-- Survivalist's Bus
-- Livewire - eXoPatch
-- The Glowing Nightmare
-- Simple FOV Slider
-- Feral Ghouls Expansion Pack Performance Textures
-- Commonwealth Broadcasting Services
-- Miscellanous Performance Optimization - PRP
-- Community Fixes Merged
-- Icicles - A 2024 Merry Modding Days Mod
-- Improved Hit VFX
-- Super Mutant Equality a Super Mutant Weapon Expansion
-- PRIME Plus -Hydraulica-
 
 Added:
 
@@ -1124,50 +773,6 @@ Removed:
 - Diamond City Power Tower ReTexture
 - Diamond City Signs Retexture
 - Misc anim tweaks and fixes
-
-Updated:
-
-- America Rising 2 - Echoes of the Past Alignment Patch
-- Workshop Framework
-- Robot Behavior Animation Tweaks
-- Diverse Wasteland - The Diverse Series All-in-One
-- Icon Expansion Pack for FIS
-- Minuteman Watchtowers - Atomic World Patch
-- Far Better Far Harbor - Exploration Expanded
-- The Glowing Nightmare
-- Simple FOV Slider
-- Improved Minutemen
-- Improved Institute
-- Improved Hostile Factions
-- Improved Brotherhood of Steel
-- People Live In - Roadside Pines Motel
-- Survivalist's Bus
-- Community Fixes Merged
-- CaptainLaserbeam's Assorted SS2 Patches - DLC Munitions RO SMR WI and more
-- 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements
-- 4estGimp - Raider Overhaul ONE
-- Slow Motion Dismemberment
-- LString Bow Third Person Tweaks
-- eXoSorter Interface
-- X-Cell
-- Smooth Sun Shadows
-- Unique Faces - AiO
-- Sim Settlements 2
-- Sim Settlements 2 - Chapter 2
-- Sim Settlements 2 - Chapter 3
-- RobCo Patcher
-- Diverse Enclave - America Rising 2
-- Super Mutant Equality a Super Mutant Weapon Expansion
-- Improved Hit VFX
-- ITO institute Technology Overhaul Full - Version 2
-- ClickLight - Highlight Objects Clicked in Console (FO4)
-- We Have Names (and more) - All In One
-- Reaper's Smokeables Sorting Enhancements
-- Equipment and Crafting Overhaul (ECO) - Redux
-- Full Artillery System Overhaul
-- Seen some shit - Pulowski Shelter Retexture
-- Tumbajamba's Minutemen - eXospanded
-- Tales from the Commonwealth - eXoPatch
 
 Added:
 
