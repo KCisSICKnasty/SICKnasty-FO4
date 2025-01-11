@@ -250,6 +250,61 @@ _PIP-Pad:_
 - Installing before exiting vault 111 causes pipboy open lag. Fixed by open and closing pipboy when leaving vault 111.
 - Using the flashlight before leaving vault 111 will break it. Fixed by open and closing pipboy when leaving vault 111.
 
+_Discord Rich Presence REMAKE (F4SE)_ (copy & pasted from mod description)
+
+- After first launch plugin creates an INI file at following path - "Data\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
+- If you are using MO2 - it will be here -  "MO2\overwrite\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
+- In INI file you could specify:
+	- bSimplifiedStatus (0/1)- will replace prepositions for current locations for shorter and neater statuses.Enabled by default.
+	- bShowPlayTime (0/1) - will show time in Discord profile.
+	- bShowName = (0/1) - whether to show Player character name.
+	- bShowLVL (0/1) - whether to show Player current level amount.
+	- bShowCaps (0/1)- whether to show  Player character caps amount.
+	- iMaxCapsToShow (0-99999999) - max caps count to display.
+	- bShowHP (0/1) - whether to show Player character HP.
+	- bShowEventStatuses (0/1) - Will determine whether event statuses will be detected and shown. Enabled by default.
+	- bAllowEventStatusOverride (0/1) - will determine whether event status will override the existing one in case the latter is active.
+	- fEventStatusDuration (1-100) - (in seconds) - how long does event status last. Default duration is 7 seconds.
+	- fUpdateInterval (1-100) - (in seconds) - how often will Discord presence be updated. Default value is 3 seconds.
+	- bDebugMode (0/1) - will enable\disable debug mode. Use only for debugging, disabled by default.
+	- AppID (Discord application ID) - if value is set - plugin will use your Discord app with it's logo instead of author's.
+	- bSwapLines(0/1) - Will swap places of State and Details(so they are like in original version of the mod).
+	- sCustomState(Text) - If not empty, this text will be displayed instead of Current Player state.
+	- sCustomDetails(Text) - If not empty, this text will be displayed instead of Current Player details.
+	- sCustomLargeImageText(Text) - If not empty this text will be displayed when you hover over Fallout image in Discord.
+
+- Translation:
+	- You can customize every text displayed by the plugin.
+	- In the same folder as INI file you can find "Discord_Presence_F4SE_Remake_Translation.ini" which is created alongside INI.You could replace default text displayed by adding setting values to ini.
+	- If values are empty(as they are by default) plugin uses default values.
+	- Translations from original version are incompatible.
+
+- List of default values(can be copied to INI):
+	- s_T_LaunchingGame = Launching game
+	- s_T_MainMenu = In Main menu
+	- s_T_StartedANewGame = Started a new game
+	- s_T_PauseMenu = In Pause Menu
+	- s_T_SleepWaitMenu = Sleeping
+	- s_T_PipboyMenu = In Pipboy Menu
+	- s_T_LevelUpMenu = Leveling up
+	- s_T_DialogueMenu = Talking
+	- s_T_LockpickingMenu = Lockpicking
+	- s_T_TerminalMenu = Using terminal
+	- s_T_BarterMenu = Trading in
+	- s_T_Crafting = Crafting
+	- s_T_VATSMenu = In VATS
+	- s_T_CookingMenu = Cooking
+	- s_T_WorkshopMenu = In Workshop mode
+	- s_T_Fighting = Fighting
+	- s_T_Exploring = Exploring
+	- s_T_In =  in
+	- s_T_With =  with
+	- s_T_LVL = LVL
+	- s_T_HP = HP
+	- s_T_Caps = caps
+	- s_Ev_HackedTerminal = Hacked
+	- s_Ev_BuiltObjectInWorkshop = Built
+
 __THE DEEP DIVE:__
 
 This list was made with survival mode in mind. It wont hit as hard on any other difficulty. It's okay though, because you can tweak survival mode however you want thanks to Unlimited Survival Mode - F4SE! So, don't be a scaredy cat! It's really difficult to try and explain what every single mod does, but I'll point out some of the meat and potatoes that make it special. The SICKnasty core, if you will.
