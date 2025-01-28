@@ -853,3 +853,134 @@ Added:
 - Nuka Cola Quantum Label Material Fix
 - See Through Scopes - Aim Model Alignment Fixes
 - Attachment Pack Unofficial Expansion and Refinement
+
+__2.5.0__
+
+Removed:
+
+- All Weapons HD (A.W.H.D.)
+- Wasteland Salon - Hair Texture Improvement Mod
+- Crossbow of the Commonwealth - Bolt switching
+- Fixed Protectron Textures
+- Louder Rainy Sound
+- Feral Ghouls Expansion Pack Performance Textures
+- SavrenX HD Gorilla
+- MCM Booster 1.1-beta2
+- Faster Workshop (Workshop Lag Fix)
+- MCM Booster - SCOURGE Cache tweak
+- Bullet Counted Reload System - Hunting Shotgun Patch
+- Tactical Reload Patch Repository Continued
+- Tactical Reload Patch for Doombased Desert Eagle - Reborn
+- Oppressor's Nuka-Cola Bottlecap Project (2K) - Replacer - WIP
+- Fallout 4 Enhanced Color Correction
+- Enhanced Vanilla Plants
+- Enhanced Vanilla Rocks
+- Wattz Laser Gun (Legacy)
+- Wattz Laser Gun Animation Fixes
+- HD LOD for Atomic World Desperados and Badlands 2
+- Halffaces - Federalist Chair replacer
+- Halffaces - Federalist Chair Office replacer
+- Controller Controls with Mod Support
+- Auto Gamepad Switch
+- MAIM Speed - Scroll Wheel or Hot Key Controlled Movement Speed
+- Subversion - Institute-Railroad Alliance - Tweaks and Enhancements
+- Sim Settlements 2 - Previsibines Expansion Pack
+- Enhanced Blood Textures
+- Bloody Mess - Enhanced Blood Textures Mod ADD-ON
+- Useful (and ESL-ified) gas masks (Options A or B)
+- See Through Scopes - Replacers flagged ESL
+- Personal Radio (ESL version with randomizer)
+- MMP4APA - Minuteman Paint for ALL Power Armors (ESL-ified Blue)
+- NPCS Travel - Fixes (ESL flagged)
+- West Tek Tactically ESL-ified Gloves
+- Heavy (though not on the load order) Support weapons munitions
+- Children of Ug Qualtoth VATS enabled (and ESL-ified)
+- Crossbows of the Commonwealth (dubbed ESL)
+- AR2 Candid (and ESL-ified) Objectives
+- Big Sister CBBE Bodyslide
+- Enjoy My Patches
+- Rusty Doors Sounds
+- Lightweight Lighting and True Storms Integration Unofficial Update
+- WETTER
+- Have a Nuka Sim Settlements 2 plot - A Merry Modding Days Mod
+- Vanilla Reanimation Series - Double Barrel Shotgun
+- Metal helmet restored
+- Classic Combat Armor
+- Classic combat armor normal map fix
+- Murdering Chainsaw
+- Concrete Sledgehammer
+
+Added:
+
+- West-Tek Optic Smaller Holo Reticle
+- CC's Improved Hair Colors
+- Crossbows of the Commonwealth - Wolfgang's Patches
+- Lee Enfield No.4 Mk.1 - Tactical Bullet Counted Reload Patch
+- Real Lee Enfield Sound
+- Fallout 4 Resound Project - Guns
+- SavrenX Super Mutant HD Armor
+- No Pip-Boy Light
+- Terrifyer - Ghouls
+- PRIME -HI Tech Power Armor Sound Rework-
+- MCM Booster
+- Perchik71 - In Game MOD Explorer (MCM)
+- West Tek Tactical Optics - Night Vision Phosphors
+- Munitions - Ammo Conversions
+- Grease Rat Garbing
+- America Rising 2 - CC Hellfire and X-02 Enclave Power AR2 Armor Paintjobs
+- sattyre's Patches for various Mods
+- Vanillified - Submersible Power Armor Redux
+- Game Visuals Configuration Menu - GVCM
+- Radiant Redundance - Poseidon Offices
+- Modern Replacer - Bottle Caps
+- Extended Dialogue Interface
+- Extended Dialogue Interface - Wolfmark Fix
+- Extended Dialogue Interface - Wolfmark Fix Preconfigured
+- Wattz 3000 mkII Laser gun
+- Wattz - eXoPatch
+- HFs - Vault bed - remodel
+- Crows And Creatures
+- Perfect landscape by Pfuscher
+- Lore-Based Loading Screens
+- Witchs DOGmeat ANIMATION OVERHAUL
+- The Marshland DLC - For Swampmonsters and Toxic People
+- The Marshland DLC and MM - Life finds away crash fix
+- ZP's The Marshland Texture Upscale
+- The Sewers
+- Phase 4 An Institute Expansion
+- New Idles (Standing - Sneaking - HHS Fix)
+- Configurable Hotkeys
+- Clock Widget - Show Real Time While Loading
+- Nuclear Winter Vault-88 and SS2 HQ Compatability
+- Not so RedRocket Retexture with Some parallax action
+- - A Fathers Bunker - Institute Retexture
+- The Danse Dilemma (pka Face Maxson etc.)
+- The Danse Dilemma Plugin Cleanup
+- David Hunter - A Brotherhood Story
+- David Hunter - Typo Patch
+- David Hunter - eXoPatch
+- Keeper of the Commonwealth Radiants
+- Deathclaws HD remastered
+- Immersive Animation Framework - Alcohol Reanimation
+- Dynamic Guard Mats
+- Dynamic Store Mats
+- ARMSTRONG AND DUKE
+- Armstrong and Duke Overhaul
+- Mk 41 Gyrojet Heavy Machine Gun
+- Lee Enfield No.4 Mk.1 - Britain's Finest
+- 4estGimp - Lee Enfield No4 MkI No Meme
+- True Blood
+- HD Architecture - Barricade
+- HD Architecture - Airport
+- KC's Plugins Dubbed ESL
+- Glowing Animals Emit Light
+- Dark Sci Fi Vault Retexture
+- Plasma Jezail - Long Range Plasma Rifle
+- Equalizer PA - Next Gen - Old Gen - Version
+- Wet Body Fix (Specular - Glossiness fix)
+- Flicker Fixer eXofied
+- It's Molly - A Companion Mod
+- HFs - Garage diagnostic cart - remodel
+- Hunter's Abyss
+- CROSS_BrotherhoodRecon
+- 3BBB (CBBE) Conversion - CROSS Brotherhood Recon
