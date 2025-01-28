@@ -252,6 +252,7 @@ _Backpacks of the Commonwealth: (Note: This is only required if you're not playi
 _Power Armor Handling Improvements:_
 
 - Turn off the "Helmet off when in dialogue" option as it is buggy.
+- Turn Realism to "All (but you keep the buffs)"
 
 _See Through Scopes:_
 
