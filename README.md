@@ -63,6 +63,8 @@ _Setting up MO2: (copy & pasted from The Midnight Ride website)_
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
+**REMOVE THE MOD "Sprint Overhaul"!** It is causing an AP bug. Enhanced Movement now covers all sprinting mechanics.
+
 _INI settings:_
 	
 *Bethini Pie: (copy & pasted from The Midnight Ride website)*
