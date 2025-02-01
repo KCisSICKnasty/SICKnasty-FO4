@@ -103,6 +103,13 @@ _INI settings:_
 
 *Buffout 4 NG with PDB support:* **(Buffout4.toml**
 
+- Set Acievements to false (line 24).
+- Set BSTextureStreamerLocalHeap to false (line 27).
+- Set HavokMemorySystem to false (line 28).
+- Set MemoryManager to false (line 32).
+- Set ScaleformAllocator to false (line 34).
+- Set SmallBlockAllocator to false (line 35).
+- Set F4EE to true (line 48).
 - Set InputSwitch to true ([Patches]). (Optional. Automatically swaps inputs between kb+m/controller.)
 
 *High FPS Physics Fix*
