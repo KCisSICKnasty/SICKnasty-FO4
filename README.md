@@ -101,7 +101,7 @@ _INI settings:_
 
 - Set mipbias to true (line 50). (Required for Game Visuals Configuration Menu - GVCM)
 
-*Buffout 4 NG with PDB support:* **(Buffout4.toml**
+*Buffout 4 NG with PDB support:* **(Buffout4.toml)**
 
 - Set Acievements to false (line 24).
 - Set BSTextureStreamerLocalHeap to false (line 27).
@@ -158,6 +158,62 @@ __NOTE: THE FOLLOWING STEPS ARE FOR NVIDIA USERS ONLY!! If you are not a Nvidia 
 *Custom Companion Names: (optional)*
 
 - Set any NPCs names to whatever you'd like. Instructions are in the ini file itself.
+
+*Discord Rich Presence REMAKE (F4SE)* (copy & pasted from mod description)
+
+- After first launch plugin creates an INI file at following path - "Data\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
+- If you are using MO2 - it will be here -  "MO2\overwrite\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
+- In INI file you could specify:
+	- bSimplifiedStatus (0/1)- will replace prepositions for current locations for shorter and neater statuses.Enabled by default.
+	- bShowPlayTime (0/1) - will show time in Discord profile.
+	- bShowName = (0/1) - whether to show Player character name.
+	- bShowLVL (0/1) - whether to show Player current level amount.
+	- bShowCaps (0/1)- whether to show  Player character caps amount.
+	- iMaxCapsToShow (0-99999999) - max caps count to display.
+	- bShowHP (0/1) - whether to show Player character HP.
+	- bShowEventStatuses (0/1) - Will determine whether event statuses will be detected and shown. Enabled by default.
+	- bAllowEventStatusOverride (0/1) - will determine whether event status will override the existing one in case the latter is active.
+	- fEventStatusDuration (1-100) - (in seconds) - how long does event status last. Default duration is 7 seconds.
+	- fUpdateInterval (1-100) - (in seconds) - how often will Discord presence be updated. Default value is 3 seconds.
+	- bDebugMode (0/1) - will enable\disable debug mode. Use only for debugging, disabled by default.
+	- AppID (Discord application ID) - if value is set - plugin will use your Discord app with it's logo instead of author's.
+	- bSwapLines(0/1) - Will swap places of State and Details(so they are like in original version of the mod).
+	- sCustomState(Text) - If not empty, this text will be displayed instead of Current Player state.
+	- sCustomDetails(Text) - If not empty, this text will be displayed instead of Current Player details.
+	- sCustomLargeImageText(Text) - If not empty this text will be displayed when you hover over Fallout image in Discord.
+
+- Translation:
+	- You can customize every text displayed by the plugin.
+	- In the same folder as INI file you can find "Discord_Presence_F4SE_Remake_Translation.ini" which is created alongside INI.You could replace default text displayed by adding setting values to ini.
+	- If values are empty(as they are by default) plugin uses default values.
+	- Translations from original version are incompatible.
+
+- List of default values(can be copied to INI):
+	- s_T_LaunchingGame = Launching game
+	- s_T_MainMenu = In Main menu
+	- s_T_StartedANewGame = Started a new game
+	- s_T_PauseMenu = In Pause Menu
+	- s_T_SleepWaitMenu = Sleeping
+	- s_T_PipboyMenu = In Pipboy Menu
+	- s_T_LevelUpMenu = Leveling up
+	- s_T_DialogueMenu = Talking
+	- s_T_LockpickingMenu = Lockpicking
+	- s_T_TerminalMenu = Using terminal
+	- s_T_BarterMenu = Trading in
+	- s_T_Crafting = Crafting
+	- s_T_VATSMenu = In VATS
+	- s_T_CookingMenu = Cooking
+	- s_T_WorkshopMenu = In Workshop mode
+	- s_T_Fighting = Fighting
+	- s_T_Exploring = Exploring
+	- s_T_In =  in
+	- s_T_With =  with
+	- s_T_LVL = LVL
+	- s_T_HP = HP
+	- s_T_Caps = caps
+	- s_Ev_HackedTerminal = Hacked
+	- s_Ev_BuiltObjectInWorkshop = Built
+
 
 __Discord Downloads:__ *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
@@ -242,87 +298,50 @@ Make sure that the version of Fallout 4 MO2 is pointing to is the version in you
 - F4SE should be an executable in this menu. Click it.
 - Once selected, click "Run". This is how you should run the game each time. (Alternatively, you could make a F4SE shortcut so you don't have to open MO2 to launch the game)
 
-__Settings you must change manually in game via MCM:__
-
-_PIP-Pad:_
+_Note on PIP-Pad:_
 
 - Installing before exiting vault 111 causes pipboy open lag. Fixed by open and closing pipboy when leaving vault 111.
 - Using the flashlight before leaving vault 111 will break it. Fixed by open and closing pipboy when leaving vault 111.
+
+In other words, don't try to open your pipboy before you leave Vault 111. (Not that you should anyway because you don't have one until you leave.)
+
+__Settings you must change manually in game via MCM:__
 
 _VAFS Redux:_
 
 - Set activation hotkey
 - Set criticals hotkey
 
-_Backpacks of the Commonwealth: (Note: This is only required if you're not playing on survival difficulty. Which you SHOULD be...)_
-
-- Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled. (Required for Power Armor Handling Improvements - Retain Armor Buffs to work.)
-
 _Power Armor Handling Improvements:_
 
-- Turn off the "Helmet off when in dialogue" option as it is buggy.
 - Turn Realism to "All (but you keep the buffs)"
+- Turn off the "Helmet off when in dialogue" option as it is buggy.
 
 _See Through Scopes:_
 
 - Switch Tactical Reload on.
 
+_Bullet in the Chamber:_
+
+- Enable Tactical Reload & Bullet Counted Reload patches.
+
+_Garmin Foretrex 901:_
+
+- Set "Watch Check" hotkey.
+
+_Gas Masks of the Wasteland:_
+
+- Enable the mod.
+- Choose desired difficulty. (I recommend the Medium option unless you don't mind never seeing your players face.)
+
+_Nuclear Winter:_
+
+- Enable the mod.
+- Choose "Realism" mode. (Do not choose the default, or you will only see winter weather.)
+- Choose any F4SE option when given.
+- Choose desired difficulty.
+
 Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
-
-_Discord Rich Presence REMAKE (F4SE)_ (copy & pasted from mod description)
-
-- After first launch plugin creates an INI file at following path - "Data\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
-- If you are using MO2 - it will be here -  "MO2\overwrite\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
-- In INI file you could specify:
-	- bSimplifiedStatus (0/1)- will replace prepositions for current locations for shorter and neater statuses.Enabled by default.
-	- bShowPlayTime (0/1) - will show time in Discord profile.
-	- bShowName = (0/1) - whether to show Player character name.
-	- bShowLVL (0/1) - whether to show Player current level amount.
-	- bShowCaps (0/1)- whether to show  Player character caps amount.
-	- iMaxCapsToShow (0-99999999) - max caps count to display.
-	- bShowHP (0/1) - whether to show Player character HP.
-	- bShowEventStatuses (0/1) - Will determine whether event statuses will be detected and shown. Enabled by default.
-	- bAllowEventStatusOverride (0/1) - will determine whether event status will override the existing one in case the latter is active.
-	- fEventStatusDuration (1-100) - (in seconds) - how long does event status last. Default duration is 7 seconds.
-	- fUpdateInterval (1-100) - (in seconds) - how often will Discord presence be updated. Default value is 3 seconds.
-	- bDebugMode (0/1) - will enable\disable debug mode. Use only for debugging, disabled by default.
-	- AppID (Discord application ID) - if value is set - plugin will use your Discord app with it's logo instead of author's.
-	- bSwapLines(0/1) - Will swap places of State and Details(so they are like in original version of the mod).
-	- sCustomState(Text) - If not empty, this text will be displayed instead of Current Player state.
-	- sCustomDetails(Text) - If not empty, this text will be displayed instead of Current Player details.
-	- sCustomLargeImageText(Text) - If not empty this text will be displayed when you hover over Fallout image in Discord.
-
-- Translation:
-	- You can customize every text displayed by the plugin.
-	- In the same folder as INI file you can find "Discord_Presence_F4SE_Remake_Translation.ini" which is created alongside INI.You could replace default text displayed by adding setting values to ini.
-	- If values are empty(as they are by default) plugin uses default values.
-	- Translations from original version are incompatible.
-
-- List of default values(can be copied to INI):
-	- s_T_LaunchingGame = Launching game
-	- s_T_MainMenu = In Main menu
-	- s_T_StartedANewGame = Started a new game
-	- s_T_PauseMenu = In Pause Menu
-	- s_T_SleepWaitMenu = Sleeping
-	- s_T_PipboyMenu = In Pipboy Menu
-	- s_T_LevelUpMenu = Leveling up
-	- s_T_DialogueMenu = Talking
-	- s_T_LockpickingMenu = Lockpicking
-	- s_T_TerminalMenu = Using terminal
-	- s_T_BarterMenu = Trading in
-	- s_T_Crafting = Crafting
-	- s_T_VATSMenu = In VATS
-	- s_T_CookingMenu = Cooking
-	- s_T_WorkshopMenu = In Workshop mode
-	- s_T_Fighting = Fighting
-	- s_T_Exploring = Exploring
-	- s_T_In =  in
-	- s_T_With =  with
-	- s_T_LVL = LVL
-	- s_T_HP = HP
-	- s_T_Caps = caps
-	- s_Ev_HackedTerminal = Hacked
-	- s_Ev_BuiltObjectInWorkshop = Built
 
 __THE DEEP DIVE:__
 
