@@ -220,7 +220,7 @@ __Discord Downloads:__ *(Discord requires an account in order to join servers. I
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file found in "complex-sorter-support" channel)
 - Drag the zip file into MO2 under "Sorting" separator. Enable the mod.
 - Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.gg/uqZZpqT9Ze (link found in "official-releases" channel)
-- Drag the zip file into MO2 under "Sorting" separator. Enable the mod & plugins.
+- Drag the zip file into MO2 under "HUD & Sorting" separator. Enable the mod & plugins.
 
 **NOTE: I've had MAIM 3 added to the whitelist for Wabbajack to recognize it, but have received no support on why the meta file is not working properly, despite being correct. One day, someone will respond and at least one of these 2 downloads wont be required anymore.**
 
