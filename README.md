@@ -14,7 +14,9 @@ __REQUIREMENTS:__
 - Patience**
 
 *SICKNASTY - FO4 WILL ONLY WORK FOR STEAM INSTALLATIONS OF THE GAME!!! It requires the NextGen content, but then uses Simple Fallout 4 Downgrader to roll back the update and keep the content. GOG is not supported, sorry! :(
+
 *You will need a fresh install of Fallout 4. For some reason after installation, despite having the correct version of Address Library, F4SE plugins will not work. I've reached out to WJ support on the issue, but to no avail.
+
 **This mod list is VERY big. The BA2 limit was hit a long time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?
 
 __Uninstalling/Reinstalling the Game: (copy & pasted from The Midnight Ride website)__
