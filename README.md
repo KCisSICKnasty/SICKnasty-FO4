@@ -143,7 +143,7 @@ Features: (copy & pasted from Collective Modding Toolkit's mod description)
 - Patches BA2 files to either v1 (OG) or v8 (NG)
 - Scans F4SE DLLs for game version support
 - Scans your mod setup for potential issues.
-- Automatically update Complex Sorter INIs for the latest xEdit.
+- Automatically update Complex Sorter INIs for the latest xEdit. (**NOTE!!! DO NOT USE THIS FEATURE CURRENTLY AS IT CAN BREAK YOUR ENTIRE INSTALL OF XEDIT!!!)
 
 _STEAM - Boost Lite-_
 
