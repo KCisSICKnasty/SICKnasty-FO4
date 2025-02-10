@@ -134,11 +134,9 @@ _LOD Output and Load Order:_
 
 __Tools:__
 
-In your installation location is a folder called "tools". Inside are a few easy to use utilities you can use that are optional as well as some documentation on how to do VRAMr, run Complex Sorter, etc..
-
 _Collective Modding Toolkit-_
 
-Features: (copy & pasted from the Collective Modding Toolkit's mod description)
+Features: (copy & pasted from Collective Modding Toolkit's mod description)
 
 - Downgrades and upgrades Fallout 4 and Creation kit between Old-Gen and Next-Gen with delta patches. (Requires F4SE﻿ 0.6.23, Address Library﻿ AIO/1.10.163, and BASS﻿)
 - Provides counts of data files by type; plugins (Full/Light) and BA2 (General and Textures)
@@ -146,6 +144,32 @@ Features: (copy & pasted from the Collective Modding Toolkit's mod description)
 - Scans F4SE DLLs for game version support
 - Scans your mod setup for potential issues.
 - Automatically update Complex Sorter INIs for the latest xEdit.
+
+_STEAM - Boost Lite-_
+
+Feature: Reduces the amount of GPU, CPU, & RAM usage from Steam so Fallout 4 can use it.
+
+Instructions:
+
+- In your Steam app, click on "Steam" in the top left corner.
+- In the dropdown menu, click on "Settings".
+- In the left menu, click on "Friends & Chat".
+- Deactivate "Sign in to friends when Steam starts".
+- In the left menu again, click on "Interface".
+- Change "Start Up Location" to Library.
+- Deactivate the following:
+	- Run Steam when my computer starts
+	- Ask which account to use each time Steam starts
+	- Start Steam in Big Picture Mode.
+	- Enable smooth scrolling in web views
+	- Enable GPU accelerated rendering in web views
+	- Enable hardware video decoding, if supported
+- In MO2, right-click on "STEAM - Boost Lite" on the left side under the "Tools" seperator.
+- Select "Open in Explorer".
+- Rename the file extension from ".txt" to ".bat".
+- Make a copy of your new .bat and place it in your Steam root folder.
+- Make another copy and place it somewhere you can regularly access it.
+- Start Steam from this .bat and enjoy!
 
 __Optional Mods:__
 
