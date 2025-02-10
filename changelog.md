@@ -113,6 +113,7 @@ Added:
 - True Grass Crash Fix
 - True Grass - Floating Grass Fix
 - M2 Flamethrower Redux
+- STEAM - Boost Lite
 
 __2.5.0__
 
