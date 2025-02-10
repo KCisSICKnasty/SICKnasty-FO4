@@ -85,9 +85,7 @@ _INI settings:_
 - Edit the other settings to your liking.
 - Click File then Save in the top left, then confirm the prompts and close BethINI.
 
-*Fallout4Custom.ini:*
-
-"A lot of people complaining they see all options at 0 or it does not save or that is a fault of F4SE not properly installed. i had this problem too, but it's solved now. the problem seems related with not "enabling the loading of loose files" properly." -dremen (from the "Posts" section of the mod *Game Configuration Menu*)
+*Fallout4Custom.ini:* (Recommended for Game Configuration Menu)
 
 - Navigate to your Fallout 4 Folder at the following location "Documents\My Games\Fallout4"
 - Open (or create, if missing) Fallout4Custom.ini
@@ -98,124 +96,21 @@ _INI settings:_
 - Also, in the [Launcher] section of the Fallout4Prefs.ini file, add the following line:
 	[Launcher]:
 	bEnableFileSelection=1
-	
-*X-Cell:*
 
-- Set mipbias to true (line 50). (Required for Game Visuals Configuration Menu - GVCM)
+*High FPS Physics Fix* __NOTE: FOLLOWING STEPS FOR NVIDIA USERS ONLY!! THE BASE SETTINGS NEEDED ARE ALREADY DONE FOR YOU!!! If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities". You will also need to download the "(No Multithreading)" version of Interior NavCut Fix here: https://www.nexusmods.com/fallout4/mods/72904?tab=files&file_id=292234&nmm=1 (replace or remove the version included)__
 
-*Buffout 4 NG with PDB support:* **(Buffout4.toml)**
-
-- Set Acievements to false (line 24).
-- Set BSTextureStreamerLocalHeap to false (line 27).
-- Set HavokMemorySystem to false (line 28).
-- Set MemoryManager to false (line 32).
-- Set ScaleformAllocator to false (line 34).
-- Set SmallBlockAllocator to false (line 35).
-- Set F4EE to true (line 48).
-- Set InputSwitch to true ([Patches]). (Optional. Automatically swaps inputs between kb+m/controller.)
-
-*High FPS Physics Fix*
-
-- Set PostloadingMenuSpeed to 3.0 (line 51).
-- Set OneThreadWhileLoading to false (line 84).
-- Set FixOCBPSpeed to false (line 221). (Required for OCBP)
-
-__NOTE: THE FOLLOWING STEPS ARE FOR NVIDIA USERS ONLY!! If you are not a Nvidia user, you will need to disable the Nvidia Reflex Support mod in the left side under "Utilities". You will also need to download the "(No Multithreading)" version of Interior NavCut Fix here: https://www.nexusmods.com/fallout4/mods/72904?tab=files&file_id=292234&nmm=1 (replace or remove the version included)__
-
+- Double click "SICKnasty INI Config" under the "SICKnasty Resources" seperator.
+- Navigate to the "INI" tab.
+- Click on "F4SE\plugins\HighFPSPhysicsFix.ini".
 - Make sure that G-Sync is set to Fullscreen and that Display Specific settings are enabled in the Control Panel, the Windowed option is problematic due to it being a hacky method. Both of the settings are wrongly named so they do not actually directly refer to the display method.
 - If you use fixed refresh rate (meaning no VRR), set InGameFPS (line 58) to your refresh rate - 0.005 or fractions of your refresh rate. For example on 60hz you can lock to 59.995 or 30. Just like on VRR, choose whether to lock to a fraction or RR-0.005 based on which is closest to your lowest FPS.
 - If you set InGameFPS to a value higher than 60, do the following as well:
 - Set DynamicUpdateBudget to true (line 264).
 - Set BudgetMaxFPS to the same value as InGameFPS (line 283).
 
-*Facial Expression and Eyetracking Engine Fixes - F4SE: (copy & pasted from The Midnight Ride website)*
-
-- Set bBrownFace to 1 (line 5).
-
-*Classic Holstered Weapons System (CHW):*
-
-- Download the txt file from here (*NOTE-* you will need to make an account): https://simsettlements.com/site/index.php?threads/i-have-created-a-comprehensive-ss2-compatible-config-file-for-classic-holstered-weapons-chw.31802/
-- Follow spacefiddle's instructions on replacing the [ExcludedForms]. (Required for Sim Settlements 2)
-
-*Unlimited Survival Mode (F4SE):*
-
-- Tweak settings to your liking. (Keep in mind though, many mods I include give you alternative ways to save. There will be redundancy if you re-enable quick save.)
-
-*Terminals Lock Up - ESPless:*
-
-- Set iEnableNoviceLockUps to 1 (line 13). (Required for Ultimate Hacking)
-
-*Assorted Modular Tweaks - ESPless - Config:*
-
-- Set iFasterTerminalsMultiplier to 5 (line 32).
-- Set iRemoveIronSightsBlur to 1 (line 36).
-- Set iUncapPickPocketChance to 1 (line 40).
-- Set iLongerPowerLines to 1 (line 67).
-- Set iImprovedRagdolls to 1 (line 74).
-- Set iLessIntrusiveTutorial to 1 (line 86).
-- Set iQuestItemsAreNotJunk to 1 (line 95).
-- Set iHighlightConsoleReference to 1 (line 99).
-- Set iClearConsoleOnLoad to 1 (line 115).
-
 *Custom Companion Names: (optional)*
 
 - Set any NPCs names to whatever you'd like. Instructions are in the ini file itself.
-
-*Discord Rich Presence REMAKE (F4SE)* (copy & pasted from mod description)
-
-- After first launch plugin creates an INI file at following path - "Data\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
-- If you are using MO2 - it will be here -  "MO2\overwrite\F4SE\Plugins\Discord_Presence_F4SE_Remake.ini"
-- In INI file you could specify:
-	- bSimplifiedStatus (0/1)- will replace prepositions for current locations for shorter and neater statuses.Enabled by default.
-	- bShowPlayTime (0/1) - will show time in Discord profile.
-	- bShowName = (0/1) - whether to show Player character name.
-	- bShowLVL (0/1) - whether to show Player current level amount.
-	- bShowCaps (0/1)- whether to show  Player character caps amount.
-	- iMaxCapsToShow (0-99999999) - max caps count to display.
-	- bShowHP (0/1) - whether to show Player character HP.
-	- bShowEventStatuses (0/1) - Will determine whether event statuses will be detected and shown. Enabled by default.
-	- bAllowEventStatusOverride (0/1) - will determine whether event status will override the existing one in case the latter is active.
-	- fEventStatusDuration (1-100) - (in seconds) - how long does event status last. Default duration is 7 seconds.
-	- fUpdateInterval (1-100) - (in seconds) - how often will Discord presence be updated. Default value is 3 seconds.
-	- bDebugMode (0/1) - will enable\disable debug mode. Use only for debugging, disabled by default.
-	- AppID (Discord application ID) - if value is set - plugin will use your Discord app with it's logo instead of author's.
-	- bSwapLines(0/1) - Will swap places of State and Details(so they are like in original version of the mod).
-	- sCustomState(Text) - If not empty, this text will be displayed instead of Current Player state.
-	- sCustomDetails(Text) - If not empty, this text will be displayed instead of Current Player details.
-	- sCustomLargeImageText(Text) - If not empty this text will be displayed when you hover over Fallout image in Discord.
-
-- Translation:
-	- You can customize every text displayed by the plugin.
-	- In the same folder as INI file you can find "Discord_Presence_F4SE_Remake_Translation.ini" which is created alongside INI.You could replace default text displayed by adding setting values to ini.
-	- If values are empty(as they are by default) plugin uses default values.
-	- Translations from original version are incompatible.
-
-- List of default values(can be copied to INI):
-	- s_T_LaunchingGame = Launching game
-	- s_T_MainMenu = In Main menu
-	- s_T_StartedANewGame = Started a new game
-	- s_T_PauseMenu = In Pause Menu
-	- s_T_SleepWaitMenu = Sleeping
-	- s_T_PipboyMenu = In Pipboy Menu
-	- s_T_LevelUpMenu = Leveling up
-	- s_T_DialogueMenu = Talking
-	- s_T_LockpickingMenu = Lockpicking
-	- s_T_TerminalMenu = Using terminal
-	- s_T_BarterMenu = Trading in
-	- s_T_Crafting = Crafting
-	- s_T_VATSMenu = In VATS
-	- s_T_CookingMenu = Cooking
-	- s_T_WorkshopMenu = In Workshop mode
-	- s_T_Fighting = Fighting
-	- s_T_Exploring = Exploring
-	- s_T_In =  in
-	- s_T_With =  with
-	- s_T_LVL = LVL
-	- s_T_HP = HP
-	- s_T_Caps = caps
-	- s_Ev_HackedTerminal = Hacked
-	- s_Ev_BuiltObjectInWorkshop = Built
-
 
 __Discord Downloads:__ *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
@@ -237,8 +132,6 @@ _LOD Output and Load Order:_
 
 - Download both of the Update files here (following the instructions in the desciptions): https://www.nexusmods.com/fallout4/mods/88357
 
-__NOTE: All hidden ESPs or BA2s are HIDDEN FOR A REASON!!! Please don't unhide or enable anything hidden or you will experience moodiness.__
-
 __Tools:__
 
 In your installation location is a folder called "tools". Inside are a few easy to use utilities you can use that are optional as well as some documentation on how to do VRAMr, run Complex Sorter, etc..
@@ -253,20 +146,6 @@ Features: (copy & pasted from the Collective Modding Toolkit's mod description)
 - Scans F4SE DLLs for game version support
 - Scans your mod setup for potential issues.
 - Automatically update Complex Sorter INIs for the latest xEdit.
-
-_MultiXwm-_
-
-Features: (copy & pasted from Personal radio (version with randomizer)'s mod description)
-
-- Use the program to convert your chosen tracks to XWM format. Recommended to use the default program bitrate, or if you want to use wav then use a converter like AIMP and convert XWM to wav 16 bit stereo and 44100 bitrate.  (wav files cause game crashes, this is not the recommended method!!!)
-- The custom music must be added in Data\sound\fx\mus\radio\PersonalRadio where the original blank sound files with TTS voice calling track numbers are. Replace them with own music. You must keep the old file name like 1.xwm or 100 xwm, or they wont play, you can add at least 100 tracks.  or If you hear the automated voice calling numbers instead of your tracks - you have incorrectly replaced the tracks.
-- It is recommended to first store your converted XWM files you want to use for mod in the temporary output file and rename them there and then replace all 100 empty tracks at once.
-
-_Smooth Sun Shadows-_
-
-Instructions: (Copy and pasted from Smooth Sun Shadows mod description)
-
-- Double click the install .bat file and that's it. It's installed.
 
 __Optional Mods:__
 
@@ -307,43 +186,11 @@ _Note on PIP-Pad:_
 
 In other words, don't try to open your pipboy before you leave Vault 111. (Not that you should anyway because you don't have one until you leave.)
 
-__Settings you must change manually in game via MCM:__
+__MCM:__
 
-_VAFS Redux:_
-
-- Set activation hotkey
-- Set criticals hotkey
-
-_Power Armor Handling Improvements:_
-
-- Turn Realism to "All (but you keep the buffs)"
-- Turn off the "Helmet off when in dialogue" option as it is buggy.
-
-_See Through Scopes:_
-
-- Switch Tactical Reload on.
-
-_Bullet in the Chamber:_
-
-- Enable Tactical Reload & Bullet Counted Reload patches.
-
-_Garmin Foretrex 901:_
-
-- Set "Watch Check" hotkey.
-
-_Gas Masks of the Wasteland:_
-
-- Enable the mod.
-- Choose desired difficulty. (I recommend the Medium option unless you don't mind never seeing your players face.)
-
-_Nuclear Winter:_
-
-- Enable the mod.
-- Choose "Realism" mode. (Do not choose the default, or you will only see winter weather.)
-- Choose any F4SE option when given.
-- Choose desired difficulty.
-
-Configure anything else to your desire. HUD should be good to go as is, but if there are inconsistencies, do let me know!
+- Click on "MCM Settings Manager"
+- Load the Preset "SICKnastyMCMsettings"
+- From here, set any hotkeys you would like (i.e. VAFS, Gasmasks Hotkeys, Dynamic Hotkeys, etc.) and set up your HUD, but I'd advise against adjusting any settings outside from that unless you know what you're doing.
 
 __THE DEEP DIVE:__
 
@@ -409,6 +256,7 @@ This list was made with survival mode in mind. It wont hit as hard on any other 
 - The Marshland DLC - For Swampmonsters and Toxic People
 - Xander's Aid - DLC
 - Hunter's Abyss
+- Maxwell's World
 
 **Gameplay**
 
