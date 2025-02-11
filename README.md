@@ -65,8 +65,6 @@ _Setting up MO2: (copy & pasted from The Midnight Ride website)_
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
-**REMOVE THE MOD "Sprint Overhaul"!** It is causing an AP bug. Enhanced Movement now covers all sprinting mechanics.
-
 _INI settings:_
 	
 *Bethini Pie: (copy & pasted from The Midnight Ride website)*
@@ -115,7 +113,7 @@ _INI settings:_
 __Discord Downloads:__ *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file found in "complex-sorter-support" channel)
-- Drag the zip file into MO2 under "Sorting" separator. Enable the mod.
+- Drag the zip file into MO2 under "HUD & Sorting" separator. Enable the mod.
 - Download MAIM version: 3.02 from the MAIM Hub Discord here: https://discord.gg/uqZZpqT9Ze (link found in "official-releases" channel)
 - Drag the zip file into MO2 under "HUD & Sorting" separator. Enable the mod & plugins.
 
