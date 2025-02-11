@@ -66,8 +66,15 @@ _Setting up MO2: (copy & pasted from The Midnight Ride website)_
 - If you see a pop-up called Register?, select Yes.
 
 _INI settings:_
+
+*Fallout Launcher:*
+
+- In MO2, click on the drop-down in the right pane next to the Run button.
+- Select "Fallout Launcher" and click Run.
+- Within the launcher, select Options and then the Ultra Preset option.
+- Close the launcher. (Do not click start or you will have to repeat everything!)
 	
-*Bethini Pie: (copy & pasted from The Midnight Ride website)*
+*Bethini Pie:*
 
 - In MO2, click on the drop-down in the right pane next to the Run button.
 - Click <Edit...>, then click the + symbol in the top left and Add from file.
