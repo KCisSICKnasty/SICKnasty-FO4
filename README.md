@@ -171,6 +171,19 @@ Instructions:
 - Make another copy and place it somewhere you can regularly access it.
 - Start Steam from this .bat and enjoy!
 
+_Unpackrr_
+
+Feature: User friendly program that lets you unpack BA2 with a button press if you decide to make additions and hit your archive limit.
+
+Instructions:
+
+- In your installation folder, navigate to Tools > Unpackrr
+- Run the .exe file.
+- Click the folder icon to the right of the open text field. ("Fallout 4 mod folder")
+- Choose the folder titled "Mods" in your installation folder.
+- Set the Extraction size threshold to "<1", and unpack the smallest BA2.
+- If still experiencing CTD, repeat and increase threshold to "<2", "<3", etc. until you stop CTD.
+
 __Optional Mods:__
 
 - Mutant Menagerie - Life Finds A Way - No Spider Patch (if you're arachnophobic): https://www.nexusmods.com/fallout4/mods/85873?tab=description
