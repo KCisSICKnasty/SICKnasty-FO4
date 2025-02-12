@@ -108,10 +108,10 @@ _INI settings:_
 - Navigate to the "INI" tab.
 - Click on "F4SE\plugins\HighFPSPhysicsFix.ini".
 - Make sure that G-Sync is set to Fullscreen and that Display Specific settings are enabled in the Control Panel, the Windowed option is problematic due to it being a hacky method. Both of the settings are wrongly named so they do not actually directly refer to the display method.
-- If you use fixed refresh rate (meaning no VRR), set InGameFPS (line 58) to your refresh rate - 0.005 or fractions of your refresh rate. For example on 60hz you can lock to 59.995 or 30. Just like on VRR, choose whether to lock to a fraction or RR-0.005 based on which is closest to your lowest FPS.
+- If you use fixed refresh rate (meaning no VRR), set InGameFPS (line 59) to your refresh rate - 0.005 or fractions of your refresh rate. For example on 60hz you can lock to 59.995 or 30. Just like on VRR, choose whether to lock to a fraction or RR-0.005 based on which is closest to your lowest FPS.
 - If you set InGameFPS to a value higher than 60, do the following as well:
-- Set DynamicUpdateBudget to true (line 264).
-- Set BudgetMaxFPS to the same value as InGameFPS (line 283).
+- Set DynamicUpdateBudget to true (line 291).
+- Set BudgetMaxFPS to the same value as InGameFPS (line 310).
 
 *Custom Companion Names: (optional)*
 
