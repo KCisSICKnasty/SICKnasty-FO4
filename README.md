@@ -129,7 +129,7 @@ __Discord Downloads:__ *(Discord requires an account in order to join servers. I
 _Other Off-Site Downloads:_
 
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
-- Drag the zip file into MO2 under "Companions" separator. Enable the mod & plugin.
+- Drag the zip file into MO2 under "Factions" separator. Enable the mod & plugin.
 
 __NOTE: For each off-site download, rename their files to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.__
 
