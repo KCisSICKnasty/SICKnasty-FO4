@@ -65,6 +65,8 @@ _Setting up MO2: (copy & pasted from The Midnight Ride website)_
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called Register?, select Yes.
 
+__DISABLE CHALLENGES (FNV) before launching the game! There is an incompatibility currently with MAIM 3 since the update. If you cripple a limb, you will trigger Tough Guy infinitely and shoot up a lot of levels before leaving Vault 111. bp42s said they will release a modified version, so when that comes out, simply update and reactivate the mod.__
+
 _INI settings:_
 
 *Fallout Launcher:*
