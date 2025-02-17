@@ -135,9 +135,9 @@ _Other Off-Site Downloads:_
 
 __NOTE: For each off-site download, rename their files to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.__
 
-_LOD Output and Load Order:_
+_LOD Output, Complex Sorter Hotfix, and Load Order:_
 
-- Download both of the Update files here (following the instructions in the desciptions): https://www.nexusmods.com/fallout4/mods/88357
+- Download all 3 of the Update files here (following the instructions in the desciptions): https://www.nexusmods.com/fallout4/mods/88357
 
 __Tools:__
 
