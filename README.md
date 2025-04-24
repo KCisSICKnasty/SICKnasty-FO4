@@ -79,7 +79,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - If you see a pop-up called "Register?", select Yes.
 
 
-	**Setting up xEdit:** ***Optional***
+	**Setting up xEdit:**
 	
 *Note: I've included xEdit in case you decide to make your own patches for the list to upload to Nexus. There are plenty of great xEdit tutorials, such as on The Midnight Ride's website, so I wont go through the basics, but feel free to reach out to me in Discord if you have questions about making patches.*
 
@@ -124,7 +124,7 @@ Included under the "-Optional Mods-" seperator are 3 mods explained below with l
 - Gamepad - Input *(for better controller support)*: https://www.nexusmods.com/fallout4/mods/76116
 - Ultra Wide Interface (21x9) *(for wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
 
-All you have to do is double click the mod in MO2, navigate to the "Filetree" tab, hold the control key down while clicking each file that's hidden, and then selecting "Unhide".
+All you have to do is double click the mod in MO2, navigate to the "Filetree" tab, hold the control key down while clicking each file that's hidden, and then select "Unhide".
 
 
 	**Post Installation Steps:**
@@ -147,6 +147,19 @@ All you have to do is double click the mod in MO2, navigate to the "Filetree" ta
 - Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide).
 - Edit the other settings to your liking.
 - Click File then Save in the top left, then confirm the prompts and close BethINI.
+
+
+*Auto Clean All Fallout 4 DLC and CC Next Gen Edition*
+
+***Feature:*** Exactly what the name of the mod says, except you can add mods to the txt file it includes (which I have).
+
+- In MO2, click on the drop-down in the right pane next to the Run button.
+- Click <Edit...>, then click the + symbol in the top left and Add from file.
+- In the resulting explorer window, navigate to your "FO4Edit 4.1.5f" folder.
+- Highlight "batch_clean_plugins.bat" and then confirm.
+- Press Apply in the lower right, then OK.
+- Select "batch_clean_plugins.bat" from the drop-down and run it.
+- Follow the prompts until all plugins have been cleaned.
 
 
 *Fallout4Prefs.ini*
