@@ -13,6 +13,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	**REQUIREMENTS:**
 
 - Freshly installed Steam copy of Fallout 4 ver.1.10.984.0 (NG update)*
+- Steam copy of Creation Kit
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Roughly 405 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/W9HRjDFVzX
