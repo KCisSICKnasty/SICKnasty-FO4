@@ -19,6 +19,8 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - SERVERisSICKnasty (support server): https://discord.gg/W9HRjDFVzX
 - Patience
 
+***NOTE: The method SICKnasty - FO4 uses for root files is called the "Stock Game" method. What this means is that a version of Fallout 4 and Creation Kit are already included for you in a folder fittingly called "Stock Game" within your installation location. Doing things this way mean that your Steam installation is never touched and uninstalling the list is as simple as deleting your install location.***
+
 
 	**Exclusions:** *(copy & pasted from The Midnight Ride website) NOTE: This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.*
 
