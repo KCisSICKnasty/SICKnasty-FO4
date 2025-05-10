@@ -92,10 +92,15 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Click <Edit...>, then click the + symbol in the top left and Add from file.
 - In the resulting explorer window, navigate to the "FO4Edit 4.1.5f" folder.
 - Open the "Optional" folder, highlight "FO4Edit64.exe", and then confirm.
+- Check "Overwrite Steam AppID" and input: 1946160.
+- Check "Force load libraries".
+- Check "Use applitcation's icon for desktop shortcuts" (to differentiate executables).
 - Press Apply in the lower right, then OK.
 
 
 	**Setting up VEFS:** ***Optional***
+	
+	**SIKE it's not optional. Wabbajack wont compile the FaceGen Output and it's too big for Nexus. Awesome, right? You'll have to run the Quick Face Fix option.**
 	
 - Navigate to your installation folder.
 - Drag the folder titled "Vault-Tec Enhanced FaceGen System - VEFS" from your installation folder into the root of whatever drive you installed the list to. (For example: *C:\SICKnasty - FO4\Vault-Tec Enhanced FaceGen System - VEFS* ---> **C:\Vault-Tec Enhanced FaceGen System - VEFS**)
@@ -103,8 +108,12 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Click <Edit...>, then click the + symbol in the top left and Add from file.
 - In the resulting explorer window, navigate to the "Vault-Tec Enhanced FaceGen System - VEFS" folder.
 - Highlight "FaceGen Generator.bat" and then confirm.
+- Check "Overwrite Steam AppID" and input: 1946160.
+- Check "Force load libraries".
+- Check "Use applitcation's icon for desktop shortcuts" (to differentiate executables).
 - Press Apply in the lower right, then OK.
 	
+	**Launch FaceGen Generator through MO2, load all of your plugins, and when given the prompt, select the far left option "Quick Face Fix". It will run for a short time, and give you a plugin to activate in MO2 when it's done.**
 
 	**Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
@@ -117,7 +126,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 - Drag the zip file into MO2 under "Factions" separator. Enable the mod & plugin.
-- Download all 5 of the Update files here (following the installation instructions in each file desciption as you download them): https://www.nexusmods.com/fallout4/mods/88357
+- Download all 4 of the Update files here (following the installation instructions in each file desciption as you download them): https://www.nexusmods.com/fallout4/mods/88357
 
 
 	**Optional Mods:**
