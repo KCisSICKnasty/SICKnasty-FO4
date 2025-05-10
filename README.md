@@ -117,7 +117,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 - Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
 - Drag the zip file into MO2 under "Factions" separator. Enable the mod & plugin.
-- Download all 4 of the Update files here (following the installation instructions in each file desciption as you download them): https://www.nexusmods.com/fallout4/mods/88357
+- Download all 5 of the Update files here (following the installation instructions in each file desciption as you download them): https://www.nexusmods.com/fallout4/mods/88357
 
 
 	**Optional Mods:**
