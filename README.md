@@ -110,13 +110,14 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 3 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
 - Drag the zip file into MO2 under "HUD & Sorting" separator. Enable the mod.
-- Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
-- Drag the zip file into MO2 under "Factions" separator. Enable the mod & plugin.
-- Download all 3 of the Update files here (following the instructions in each file desciption): https://www.nexusmods.com/fallout4/mods/88357
 
 **NOTE: If Discord is not allowing you to access this file for whatever reason, I'm told by users that the Nexus version works fine. I cannot verify this, however.**
 
 **NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
+
+- Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
+- Drag the zip file into MO2 under "Factions" separator. Enable the mod & plugin.
+- Download all 4 of the Update files here (following the installation instructions in each file desciption as you download them): https://www.nexusmods.com/fallout4/mods/88357
 
 
 	**Optional Mods:**
@@ -131,6 +132,12 @@ All you have to do is double click the mod in MO2, navigate to the "Filetree" ta
 
 
 	**Post Installation Steps:**
+	
+**First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "Stock Game" folder.**
+
+- In MO2, open "Settings".
+- Navigate to the "Paths" tab.
+- Change the bottom path to "Stock Game/Fallout4.exe".
 
 *Bethini Pie*
 
