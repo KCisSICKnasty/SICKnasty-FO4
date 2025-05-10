@@ -113,8 +113,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Check "Use applitcation's icon for desktop shortcuts" (to differentiate executables).
 - Press Apply in the lower right, then OK.
 	
-	**Launch FaceGen Generator through MO2, load all of your plugins, and when given the prompt, select the far left option "Quick Face Fix". It will run for a short time, and give you a plugin to activate in MO2 when it's done.**
-
+	
 	**Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 3 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
@@ -246,6 +245,8 @@ All you have to do is double click the mod in MO2, navigate to the "Filetree" ta
 	- Set ScaleformAllocator to false (line 36)
 	- Set SmallBlockAllocator to false (line 37).
 	- Set F4EE to true (line 50).
+
+**This is where you do the thing with VEFS I mentioned earlier. Launch FaceGen Generator through MO2, load all of your plugins, and when given the prompt, select the far left option "Quick Face Fix". It will run for a short time, and give you a plugin to activate in MO2 when it's done.**
 
 
 *Assorted Modular Tweaks - ESPless* **Optional-ish**
