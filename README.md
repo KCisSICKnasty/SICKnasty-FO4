@@ -314,8 +314,24 @@ Instructions:
 - Start Steam from this .bat and enjoy!
 
 
+	**Personal radio (version with randomizer):** *Optional*
+	
+Feature: Create your own radio station to listen to in game.
+
+Instructions:
+
+- Add "MultiXwm" as an executable in MO2 (located in your installation's "Tools" folder).
+- Launch it, and drag any music files you want in your station into the window.
+- Convert all files to XWM.
+- Rename all files to be numeric values between 1-100 (i.e.: 1.wxm, 2.wxm, 100.wxm, etc.).
+- Once you have all your files converted and renamed, make sure you remember where you save them to.
+- Those files must be added to "Data\sound\fx\mus\radio\PersonalRadio" (let them replace the files there).
+
+
 	**VRAMr:** *Optional*
 	
+Feature: Small performance boost.
+
 This step is ***insanely*** optional, and being entirely honest, the performance gain you'll see is small. However, if you have a good bit of space on your hard drive to spare (and a hefty bit of time to spare), it's still honest performance.
 
 The video tutorial in the mod description (https://www.nexusmods.com/fallout4/mods/80305) does a better job of explaining how to do it than I ever could, but I've also included the pdf guide in your "Tools > Guides" folder and the VRAMr location you'll want to point the executable to is under the "-Tools-" separator. If you're going to do this step, this is the time to do it.
