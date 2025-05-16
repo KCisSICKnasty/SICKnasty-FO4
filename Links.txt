@@ -1,0 +1,19 @@
+Synthesis: https://github.com/Mutagen-Modding/Synthesis/releases
+
+Powershell: https://github.com/powershell/powershell/releases
+
+Combat Drones: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY
+
+xLODGen: https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-130-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
+
+VC Redist: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+HUDCaps Fix: https://drive.google.com/file/d/1wjIGt01fCv8baTih-T4_dYmQUZvXIYkj/view
+
+XDI Wolfmark Fix: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
+
+7-Zip: https://www.7-zip.org/
+
+Everything: https://www.voidtools.com/en-au/downloads/
+
+BlenderKit: https://www.blenderkit.com/get-blenderkit/
