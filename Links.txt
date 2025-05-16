@@ -17,3 +17,5 @@ XDI Wolfmark Fix: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXec
 Everything: https://www.voidtools.com/en-au/downloads/
 
 BlenderKit: https://www.blenderkit.com/get-blenderkit/
+
+TreeSize: https://www.jam-software.com/treesize_free
