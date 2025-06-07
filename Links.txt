@@ -20,4 +20,4 @@ BlenderKit: https://www.blenderkit.com/get-blenderkit/
 
 TreeSize: https://www.jam-software.com/treesize_free
 
-A Vault Dweller's Load Order Survival Guide: https://docs.google.com/document/d/1aknl_ze1hHUCiTBgz55dSzBBsfvG7iGXlRNIGWObyME/edit?tab=t.0
+A Vault Dweller's Load Order Survival Guide: https://oddlittleturtle.com/load-order/
