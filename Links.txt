@@ -1,3 +1,5 @@
+Nexus: https://www.nexusmods.com/
+
 Synthesis: https://github.com/Mutagen-Modding/Synthesis/releases
 
 Powershell: https://github.com/powershell/powershell/releases
@@ -23,3 +25,5 @@ TreeSize: https://www.jam-software.com/treesize_free
 Paint.net: https://www.getpaint.net/
 
 A Vault Dweller's Load Order Survival Guide: https://oddlittleturtle.com/load-order/
+
+Niero's Gumroad Textures: https://niero.gumroad.com/

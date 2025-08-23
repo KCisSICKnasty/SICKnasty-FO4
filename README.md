@@ -1,6 +1,6 @@
-# SICKnasty - FO4
+# The SICKnasty Suite
 
-	**CURRENT VERSION: 3.0.1**
+	**CURRENT VERSION: 1.0.0**
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason. Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
@@ -24,7 +24,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 ***NOTE: You must downgrade your Creation Kit for the list to install. Follow this quick guide: https://www.youtube.com/watch?v=_oOAtu60NMk&ab_channel=Jelly%27sProduction ***
 
-	**Exclusions:** *(copy & pasted from The Midnight Ride website) NOTE: This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.*
+	**Exclusions:** *NOTE: This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.*
 
 - Open Windows Security.
 - Open Virus & threat protection.
@@ -33,7 +33,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Add a Folder exclusion and point it to the Installation Location folder.
 
 
-	**Uninstalling/Reinstalling the Game:** *(copy & pasted from The Midnight Ride website)*
+	**Uninstalling/Reinstalling the Game:**
 
 - Open Steam and go to your Library.
 - Find Fallout 4 in the list.
@@ -46,13 +46,13 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - In your Steam Library, right-click on Fallout 4, and click on Properties in the resulting context menu.
 - In the resulting new window, click on the drop-down at the top of the right pane underneath Automatic Updates.
 - Set it to "Only update this game when I launch it".
-- Run the game from Steam, or through Fallout 4Launcher.exe in the game files if you are using an offline copy.
+- Run the game from Steam, or through Fallout4Launcher.exe in the game files if you are using an offline copy.
 - Click OK to both pop-ups that say Detecting Video Hardware.
 - If there aren't any pop-ups, navigate to Documents\My Games\Fallout 4 and delete all INI files, then retry.
 - Click OK then Exit.
 
 
-	**Wabbajack installation:** *(copy & pasted from The Midnight Ride website)*
+	**Wabbajack installation:**
 
 - Download the latest Wabbajack: https://www.nexusmods.com/site/mods/403
 - Create a new folder anywhere outside of any default Windows folders, and the game folder itself. (Example: C:\Modding\Wabbajack)
@@ -65,55 +65,11 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Once complete, the installation will show a green Installation Complete screen.
 - If you see a red Installation Failed screen, try log-in again through the Wabbajack settings, then reinstall the list to the same folder.
 	
-	
-	**"EMPTY ME INTO STOCK GAME":**
-	
-- Navigate to your install location for the list.
-- Right click the folder titled **"EMPTY ME INTO STOCK GAME"** and in the drop down menu, click **"Open in new window"**.
-- In the new window, highlight all of the folder's contents *(CTRL+A)*.
-- Right click one of the highlighted files and in the drop down menu, click **"Cut"**.
-- Go back to the original window with your install location and open the folder titled **"Stock Game"**.
-- Right click anywhere in the window *(without highlighting a file)* and in the drop down menu, click **"Paste"**.
 
-*This is to hopefully mitigate the "dreaded error" as we've come to call it in Discord. Sometimes, after installing, users have reported an error where upon trying to launch the game through MO2, it will say F4SE is not present. I'm hoping that by manually placing F4SE & Co. into "Stock Game", it will trick MO2 into realizing it is, in fact, present. If you want to see my struggles with Wabbajack support trying to pinpoint this error, I have the screenshots pinned in my Discord along with a fix for this issue. I apologize in advance if this happens to you, because the fix is a doozy. (A full reinstall, essentially...)*
-
-
-	**Setting up Mod Organizer 2:** *(copy & pasted from The Midnight Ride website)*
+	**Setting up Mod Organizer 2:**
 
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called "Register?", select Yes.
-
-
-	**Setting up xEdit:**
-	
-*Note: I've included xEdit in case you decide to make your own patches for the list to upload to Nexus. There are plenty of great xEdit tutorials, such as on The Midnight Ride's website, so I wont go through the basics, but feel free to reach out to me in Discord if you have questions about making patches.*
-
-- Navigate to your installation folder.
-- Drag the folder titled "FO4Edit 4.1.5f" from your installation folder into the root of whatever drive you installed the list to. (For example: *C:\SICKnasty - FO4\FO4Edit 4.1.5f* ---> **C:\FO4Edit 4.1.5f**)
-- In MO2, click on the drop-down in the right pane next to the Run button.
-- Click <Edit...>, then click the + symbol in the top left and Add from file.
-- In the resulting explorer window, navigate to the "FO4Edit 4.1.5f" folder.
-- Open the "Optional" folder, highlight "FO4Edit64.exe", and then confirm.
-- Check "Overwrite Steam AppID" and input: 1946160.
-- Check "Force load libraries".
-- Check "Use applitcation's icon for desktop shortcuts" (to differentiate executables).
-- Press Apply in the lower right, then OK.
-
-
-	**Setting up VEFS:** ***Optional***
-	
-	**SIKE it's not optional. Wabbajack wont compile the FaceGen Output and it's too big for Nexus. Awesome, right? You'll have to run the Quick Face Fix option.**
-	
-- Navigate to your installation folder.
-- Drag the folder titled "Vault-Tec Enhanced FaceGen System - VEFS" from your installation folder into the root of whatever drive you installed the list to. (For example: *C:\SICKnasty - FO4\Vault-Tec Enhanced FaceGen System - VEFS* ---> **C:\Vault-Tec Enhanced FaceGen System - VEFS**)
-- In MO2, click on the drop-down in the right pane next to the Run button.
-- Click <Edit...>, then click the + symbol in the top left and Add from file.
-- In the resulting explorer window, navigate to the "Vault-Tec Enhanced FaceGen System - VEFS" folder.
-- Highlight "FaceGen Generator.bat" and then confirm.
-- Check "Overwrite Steam AppID" and input: 1946160.
-- Check "Force load libraries".
-- Check "Use applitcation's icon for desktop shortcuts" (to differentiate executables).
-- Press Apply in the lower right, then OK.
 	
 	
 	**Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
@@ -124,21 +80,6 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 **NOTE: If Discord is not allowing you to access this file for whatever reason, I'm told by users that the Nexus version works fine. I cannot verify this, however.**
 
 **NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
-
-- Download Combat Drones here: https://storage.icestormng-mods.de/s/EGmEbj6mZ2EK3tY?path=%2F1.1%2FRelease
-- Drag the zip file into MO2 under "Factions" separator. Enable the mod & plugin.
-- Download all 4 of the Update files here (following the installation instructions in each file desciption as you download them): https://www.nexusmods.com/fallout4/mods/88357
-
-
-	**Optional Mods:**
-
-Included under the "-Optional Mods-" seperator are 3 mods explained below with links that further explain them.
-
-- Mutant Menagerie - Life Finds A Way - No Spider Patch *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
-- Gamepad - Input *(for better controller support)*: https://www.nexusmods.com/fallout4/mods/76116
-- Ultra Wide Interface (21x9) *(for wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
-
-All you have to do is double click the mod in MO2, navigate to the "Filetree" tab, hold the control key down while clicking each file that's hidden, and then select "Unhide".
 
 
 	**Post Installation Steps:**
@@ -167,19 +108,6 @@ All you have to do is double click the mod in MO2, navigate to the "Filetree" ta
 - Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide).
 - Edit the other settings to your liking.
 - Click File then Save in the top left, then confirm the prompts and close BethINI.
-
-
-*Auto Clean All Fallout 4 DLC and CC Next Gen Edition*
-
-***Feature:*** Exactly what the name of the mod says, except you can add mods to the txt file it includes (which I have).
-
-- In MO2, click on the drop-down in the right pane next to the Run button.
-- Click <Edit...>, then click the + symbol in the top left and Add from file.
-- In the resulting explorer window, navigate to your "FO4Edit 4.1.5f" folder.
-- Highlight "batch_clean_plugins.bat" and then confirm.
-- Press Apply in the lower right, then OK.
-- Select "batch_clean_plugins.bat" from the drop-down and run it.
-- Follow the prompts until all plugins have been cleaned.
 
 
 *Fallout4Prefs.ini*
@@ -315,20 +243,6 @@ Instructions:
 - Start Steam from this .bat and enjoy!
 
 
-	**Personal radio (version with randomizer):** *Optional*
-	
-Feature: Create your own radio station to listen to in game.
-
-Instructions:
-
-- Add "MultiXwm" as an executable in MO2 (located in your installation's "Tools" folder).
-- Launch it, and drag any music files you want in your station into the window.
-- Convert all files to XWM.
-- Rename all files to be numeric values between 1-100 (i.e.: 1.wxm, 2.wxm, 100.wxm, etc.).
-- Once you have all your files converted and renamed, make sure you remember where you save them to.
-- Those files must be added to "Data\sound\fx\mus\radio\PersonalRadio" (let them replace the files there).
-
-
 	**VRAMr:** *Optional*
 	
 Feature: Small performance boost.
@@ -360,12 +274,11 @@ After making your choices, you'll want to actually open up MCM:
 - In your start menu, choose "MCM". *Note: It will take a very, very long time to load. Even with MCM Booster. It will only be this long the first time you open it on a new save file as it builds the cache.*
 
 
-*Note on PIP-Pad:*
+	**Optional Mods:**
 
-- Installing before exiting vault 111 causes pipboy open lag. Fixed by open and closing pipboy when leaving vault 111.
-- Using the flashlight before leaving vault 111 will break it. Fixed by open and closing pipboy when leaving vault 111.
-
-In other words, **don't try to open your pipboy before you leave Vault 111**. I've disabled the pipboy light for this list, so you shouldn't have to worry about the first one. Should probably not try to, just to be safe.
+- Mutant Menagerie - Life Finds A Way - No Spider Patch *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
+- Gamepad - Input *(for better controller support)*: https://www.nexusmods.com/fallout4/mods/76116
+- Ultra Wide Interface (21x9) *(for wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
 
 
 	**FAQ:**
@@ -388,14 +301,6 @@ In other words, **don't try to open your pipboy before you leave Vault 111**. I'
 
 ***Q:***
 
-	*Why are there so many mods that say they are empty or have their contents hidden in MO2?*
-	
-***A:***
-
-	**Because the contents of the mod have been unpacked and/or repacked into BA2. This cuts down on the number of BA2 since a lot of mods will only have a few files whereas my repacks have a size limit of 20 GB. Packing loose files also cuts down on load times (less audio to watch load) and the less number of BA2 the game has to load will increase your performance! I leave the empty mods there so you can see what is repacked and in what order they've won/lost conflicts. DO NOT REINSTALL OR UNHIDE ANYTHING!!!**
-
-***Q:***
-
 	*"Why cant I use my pipboy light?"*
 
 ***A:***
@@ -409,14 +314,6 @@ In other words, **don't try to open your pipboy before you leave Vault 111**. I'
 ***A:***
 
 	**You can** ***VAFS~*** **In short, VATS is OP and honestly makes combat boring in my opinion since most problems can be solved with a little Luck and VATS. VAFS makes VATS a bullet time mechanic based on Perception rather than a time stop mechanic based on Agility. This makes VATS during combat feel more like an actual combat mechanic rather than a pause button with optional 'press button to insta-kill' mechanic.**
-
-***Q:***
-
-	*"Why does it say I'm cold and what are these HUD elements about 'CBT' and such?"
-	
-***A:***
-
-	**That would be Nuclear Winter. You'll have to start dressing accordingly when traversing the wasteland. Find spots of warmth and always wear fresh Hand Warmers (found as loot). You can adjust the HUD element and severity in MCM if you find the extra resource management to be a bit much.**
 
 ***Q:***
 
