@@ -10,7 +10,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 *For sanity's sake, I'm not doing a "deep dive" on the contents of the list. There are too many mods and trying to explain them all in depth is far too exhausting for both me to maintain and you to read. If you want to know what's in the list, click the above link and have a look at what's under the hood.*
 
 
-	**REQUIREMENTS:**
+**REQUIREMENTS:**
 
 - Freshly installed Steam copy of Fallout 4 ver.1.10.984.0 (NG update)*
 - Steam copy of Creation Kit
@@ -24,7 +24,9 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 ***NOTE: You must downgrade your Creation Kit for the list to install. Follow this quick guide: https://www.youtube.com/watch?v=_oOAtu60NMk&ab_channel=Jelly%27sProduction ***
 
-	**Exclusions:** *NOTE: This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.*
+**Exclusions:**
+
+*NOTE: This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.*
 
 - Open Windows Security.
 - Open Virus & threat protection.
@@ -33,7 +35,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Add a Folder exclusion and point it to the Installation Location folder.
 
 
-	**Uninstalling/Reinstalling the Game:**
+**Uninstalling/Reinstalling the Game:**
 
 - Open Steam and go to your Library.
 - Find Fallout 4 in the list.
@@ -52,7 +54,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Click OK then Exit.
 
 
-	**Wabbajack installation:**
+**Wabbajack installation:**
 
 - Download the latest Wabbajack: https://www.nexusmods.com/site/mods/403
 - Create a new folder anywhere outside of any default Windows folders, and the game folder itself. (Example: C:\Modding\Wabbajack)
@@ -66,13 +68,13 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - If you see a red Installation Failed screen, try log-in again through the Wabbajack settings, then reinstall the list to the same folder.
 	
 
-	**Setting up Mod Organizer 2:**
+**Setting up Mod Organizer 2:**
 
 - Launch ModOrganizer.exe from your Installation Location.
 - If you see a pop-up called "Register?", select Yes.
 	
 	
-	**Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
+**Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 3 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
 - Drag the zip file into MO2 under "HUD & Sorting" separator. Enable the mod.
@@ -82,7 +84,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 **NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
 
 
-	**Post Installation Steps:**
+**Post Installation Steps:**
 	
 **First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "Stock Game" folder.**
 
@@ -146,7 +148,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	- Set DynamicUpdateBudget to true (line 291).
 	- Set BudgetMaxFPS to the same value as InGameFPS (line 310).
 
-	**The following has been copy/pasted from The Midnight Ride website, under the "High FPS Physics Fix" section: https://themidnightride.moddinglinked.com/utilities.html **
+**The following has been copy/pasted from The Midnight Ride website, under the "High FPS Physics Fix" section: https://themidnightride.moddinglinked.com/utilities.html **
 
 	1. Do not touch other settings unless you know what you are doing! For example you should know that:
 		- AllowTearing needs to stay enabled, it's a requirement for VRR and won't lead to tearing during gameplay - the mod turns off V-Sync only during loading (making it faster).
@@ -243,7 +245,7 @@ Instructions:
 - Start Steam from this .bat and enjoy!
 
 
-	**VRAMr:** *Optional*
+**VRAMr:** *Optional*
 	
 Feature: Small performance boost.
 
@@ -252,7 +254,7 @@ This step is ***insanely*** optional, and being entirely honest, the performance
 The video tutorial in the mod description (https://www.nexusmods.com/fallout4/mods/80305) does a better job of explaining how to do it than I ever could, but I've also included the pdf guide in your "Tools > Guides" folder and the VRAMr location you'll want to point the executable to is under the "-Tools-" separator. If you're going to do this step, this is the time to do it.
 
 
-	**Launching Fallout 4:**
+**Launching Fallout 4:**
 	
 Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
 
@@ -260,12 +262,12 @@ Make sure that the version of Fallout 4 MO2 is pointing to is the version in you
 - F4SE should be an executable in this menu. Click it.
 - Once selected, click "Run". This is how you should run the game each time.
 	
-		**DISCLAIMER!!!**
+**DISCLAIMER!!!**
 
 *This mod list is ***VERY*** big. The BA2 limit was hit a ***long*** time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
 
 
-	**MCM:**
+**MCM:**
 
 Once you leave Vault 111, some options will flash on screen that you'll have to deal with. The main one you'll want to make sure you choose correctly is **Nuclear Winter**. When given the option, choose "Realism". Choosing the "Nuclear Winter" option will make only winter weathers happen, which will make your experience much more difficult and less interesting.
 
@@ -274,14 +276,14 @@ After making your choices, you'll want to actually open up MCM:
 - In your start menu, choose "MCM". *Note: It will take a very, very long time to load. Even with MCM Booster. It will only be this long the first time you open it on a new save file as it builds the cache.*
 
 
-	**Optional Mods:**
+**Optional Mods:**
 
 - Mutant Menagerie - Life Finds A Way - No Spider Patch *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
 - Gamepad - Input *(for better controller support)*: https://www.nexusmods.com/fallout4/mods/76116
 - Ultra Wide Interface (21x9) *(for wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
 
 
-	**FAQ:**
+**FAQ:**
 
 ***Q:***
 
@@ -354,10 +356,10 @@ After making your choices, you'll want to actually open up MCM:
 
 ***A***
 
-	**In short, SICKnasty - FO4 is FO4.5. My modlist makes you ask yourself:** *"Am I dead yet?"* ***If*** the answer to that is **no**, then ***don't giveup!!!*** **The difficulty is meant to make you think outside of the box, taking into account what you need to bring with you for each trek you make to the next post. For all your contusions and broken limbs, you'll find real rewards and a character progression you can actually feel.**
+**In short, SICKnasty - FO4 is FO4.5. My modlist makes you ask yourself:** *"Am I dead yet?"* ***If*** the answer to that is **no**, then ***don't giveup!!!*** **The difficulty is meant to make you think outside of the box, taking into account what you need to bring with you for each trek you make to the next post. For all your contusions and broken limbs, you'll find real rewards and a character progression you can actually feel.**
 
 
-	**Tools:**
+**Tools:**
 
 - **Creation Kit**
 - **Creation Kit Platform Extended for Fallout 4:** https://www.nexusmods.com/fallout4/mods/51165
@@ -374,7 +376,7 @@ After making your choices, you'll want to actually open up MCM:
 - **MultiXwm:** https://www.nexusmods.com/fallout4/mods/3663
 
 
-	**Scripts:**
+**Scripts:**
 
 - *PJM's Precombine - Previs Patching Scripts:* https://www.nexusmods.com/fallout4/mods/69978
 - *Far Object LOD Improvement Project:* https://www.nexusmods.com/fallout4/mods/61884
