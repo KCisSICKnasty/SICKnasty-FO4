@@ -57,8 +57,8 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Create a new folder anywhere outside of any default Windows folders, and the game folder itself. (Example: C:\Modding\Wabbajack)
 - Place the downloaded Wabbajack.exe in this folder, then run it.
 - Click Browse Modlists, then tick the Show Unofficial Lists box in the corner.
-- Locate "SICKnasty - FO4" in the gallery and click the download button in the corner.
-- In Installation Location select an empty folder that is NOT the following: the Steam folder, any default Windows folders, the game folder, the folder where you put Wabbajack.exe. (Example: C:\Modding\SICKnasty - FO4)
+- Locate "The SICKnasty Suite" in the gallery and click the download button in the corner.
+- In Installation Location select an empty folder that is NOT the following: the Steam folder, any default Windows folders, the game folder, the folder where you put Wabbajack.exe. (Example: C:\Modding\The SICKnasty Suite)
 - Begin the installation.
 - Accept the Nexus Mods API request. (If you are not a Premium user you will need to manually click download for each mod.)
 - Once complete, the installation will show a green Installation Complete screen.
@@ -74,7 +74,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 **Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
 - Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 3 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
-- Drag the zip file into MO2 under "HUD & Sorting" separator. Enable the mod.
+- Drag the zip file into MO2 under "Interface" separator. Enable the mod.
 
 **NOTE: If Discord is not allowing you to access this file for whatever reason, I'm told by users that the Nexus version works fine. I cannot verify this, however.**
 
@@ -145,7 +145,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	- Set DynamicUpdateBudget to true (line 291).
 	- Set BudgetMaxFPS to the same value as InGameFPS (line 310).
 
-**The following has been copy/pasted from The Midnight Ride website, under the "High FPS Physics Fix" section: https://themidnightride.moddinglinked.com/utilities.html **
+**The following has been copy/pasted from The Midnight Ride website, under the "High FPS Physics Fix" section: https://themidnightride.moddinglinked.com/utilities.html**
 
 	1. Do not touch other settings unless you know what you are doing! For example you should know that:
 		- AllowTearing needs to stay enabled, it's a requirement for VRR and won't lead to tearing during gameplay - the mod turns off V-Sync only during loading (making it faster).
