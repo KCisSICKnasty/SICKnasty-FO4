@@ -147,17 +147,17 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 **The following has been copy/pasted from The Midnight Ride website, under the "High FPS Physics Fix" section: https://themidnightride.moddinglinked.com/utilities.html**
 
-	1. Do not touch other settings unless you know what you are doing! For example you should know that:
-		- AllowTearing needs to stay enabled, it's a requirement for VRR and won't lead to tearing during gameplay - the mod turns off V-Sync only during loading (making it faster).
-		- Enabling DisableAnimationOnLoadingScreens will freeze loading screens and any overlay you use, this is intended and will speed up loading by about 40%. You can enable it if you don't mind frozen loading screens.
+- Do not touch other settings unless you know what you are doing! For example you should know that:
+	- AllowTearing needs to stay enabled, it's a requirement for VRR and won't lead to tearing during gameplay - the mod turns off V-Sync only during loading (making it faster).
+	- Enabling DisableAnimationOnLoadingScreens will freeze loading screens and any overlay you use, this is intended and will speed up loading by about 40%. You can enable it if you don't mind frozen loading screens.
 
-	2. You can check if you are using VRR by going to the Nvidia Control Panel if you're on Nvidia or Adrenalin's Display Settings if you're on AMD. If the G-Sync tab is missing from NVCP, your display doesn't support it or doesn't have the feature enabled in the OSD.
+- You can check if you are using VRR by going to the Nvidia Control Panel if you're on Nvidia or Adrenalin's Display Settings if you're on AMD. If the G-Sync tab is missing from NVCP, your display doesn't support it or doesn't have the feature enabled in the OSD.
 
-	3. Nvidia users need to make sure that G-Sync is set to Fullscreen and that Display Specific settings are enabled, the Windowed option is problematic due to it being a hacky method. Both of the settings are wrongly named so they do not actually directly refer to the display method.
+- Nvidia users need to make sure that G-Sync is set to Fullscreen and that Display Specific settings are enabled, the Windowed option is problematic due to it being a hacky method. Both of the settings are wrongly named so they do not actually directly refer to the display method.
 
-	4. You always want your FPS capped by a limiter instead of being hardware bound, this will reduce lag and increase power efficiency. It is also less jarring for the player when visual smoothness is the same across all scenes.
+- You always want your FPS capped by a limiter instead of being hardware bound, this will reduce lag and increase power efficiency. It is also less jarring for the player when visual smoothness is the same across all scenes.
 
-	The VRR range on most monitors starts at 48, but it might also start at 30 or 1. You can check this on Nvidia's page or from your monitor's specifications.
+The VRR range on most monitors starts at 48, but it might also start at 30 or 1. You can check this on Nvidia's page or from your monitor's specifications.
 
 
 *Buffout 4 NG with PDB support*
