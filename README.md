@@ -13,16 +13,13 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 **REQUIREMENTS:**
 
 - Freshly installed Steam copy of Fallout 4 ver.1.10.984.0 (NG update)*
-- Steam copy of Creation Kit
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- Roughly 413 GB of space
+- Roughly 330 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - Patience
 
 ***NOTE: The method SICKnasty - FO4 uses for root files is called the "Stock Game" method. What this means is that a version of Fallout 4 and Creation Kit are already included for you in a folder fittingly called "Stock Game" within your installation location. Doing things this way mean that your Steam installation is never touched and uninstalling the list is as simple as deleting your install location.***
-
-***NOTE: You must downgrade your Creation Kit for the list to install. Follow this quick guide: https://www.youtube.com/watch?v=_oOAtu60NMk&ab_channel=Jelly%27sProduction***
 
 **Exclusions:**
 
@@ -86,11 +83,11 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 **Post Installation Steps:**
 	
-**First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "Stock Game" folder.**
+**First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "game" folder.**
 
 - In MO2, open "Settings".
 - Navigate to the "Paths" tab.
-- Change the bottom path to "Stock Game/Fallout4.exe".
+- Change the bottom path to "game/Fallout4.exe".
 
 *Bethini Pie*
 
@@ -209,15 +206,6 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	- Set iEnableMessages to 1 (line 8).
 
 
-*Custom Companion Names* **Optional**
-
-***Feature:*** Exactly what the name of the mod says.
-
-- Double click "SICKnasty INI Config" in MO2 under the "-Companions-" seperator.
-- Navigate to the "INI Files" tab.
-- Set any NPCs names to whatever you'd like. Instructions are in the ini file itself.
-
-
 *STEAM - Boost Lite-* **Optional**
 
 Feature: Reduces the amount of GPU, CPU, & RAM usage from Steam so Fallout 4 can use it.
@@ -256,12 +244,13 @@ The video tutorial in the mod description (https://www.nexusmods.com/fallout4/mo
 
 **Launching Fallout 4:**
 	
-Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "Stock Game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
+Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
 
 - In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
 - F4SE should be an executable in this menu. Click it.
 - Once selected, click "Run". This is how you should run the game each time.
-	
+
+
 **DISCLAIMER!!!**
 
 *This mod list is ***VERY*** big. The BA2 limit was hit a ***long*** time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
