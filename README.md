@@ -184,16 +184,14 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 
 - Double click "Assorted Modular Tweaks - ESPless - Config" in MO2 under the "Tweaks" seperator.
 - Navigate to the "INI Files" tab.
+- Click on the first option labeled "Config".
 - Change the following:
-	- Set iRemoveIronSightsBlur to 1 (line 36).
-	- Set iUncapPickPocketChance to 1 (line 40).
-	- Set iLongerPowerLines to 1 (line 67).
-	- Set iImprovedRagdolls to 1 (line 74).
-	- Set iLessIntrusiveTutorial to 1 (line 86).
-	- Set iBetterVertibirdMinigun to 1 (line 90).
-	- Set iQuestItemsAreNotJunk to 1 (line 95).
-	- Set iHighlightConsoleReference to 1 (line 99).
-	- Set iClearConsoleOnLoad to 1 (line 115).
+	- Set bHighlightConsoleReference to 1 (line 26).
+	- Set iImprovedRagdolls to 1 (line 33).
+	- Set iLessIntrusiveTutorial to 1 (line 37).
+	- Set iLongerPowerLines to 1 (line 45).
+	- Set iRemoveIronSightsBlur to 1 (line 61).
+	- Set iUncapPickPocketChance to 1 (line 84).
 
 
 *Terminals Lock Up - ESPless* **Optional-ish**
