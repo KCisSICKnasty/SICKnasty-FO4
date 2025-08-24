@@ -263,7 +263,7 @@ Once you leave Vault 111, some options will flash on screen that you'll have to 
 After making your choices, you'll want to actually open up MCM for the first time:
 
 - In your start menu, choose "MCM". *Note: It will take a very, very long time to load. Even with MCM Booster. It will only be this long the first time you open it on a new save file as it builds the cache.*
-
+- In "See Through Scopes", toggle Tactical Reload on.
 
 **Other:**
 
