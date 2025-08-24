@@ -260,10 +260,14 @@ Make sure that the version of Fallout 4 MO2 is pointing to is the version in you
 
 Once you leave Vault 111, some options will flash on screen that you'll have to deal with. The main one you'll want to make sure you choose correctly is **Nuclear Winter**. When given the option, choose "Realism". Choosing the "Nuclear Winter" option will make only winter weathers happen, which will make your experience much more difficult and less interesting.
 
-After making your choices, you'll want to actually open up MCM:
+After making your choices, you'll want to actually open up MCM for the first time:
 
 - In your start menu, choose "MCM". *Note: It will take a very, very long time to load. Even with MCM Booster. It will only be this long the first time you open it on a new save file as it builds the cache.*
 
+
+**Other:**
+
+- Power Armor Handling Improvements - Retain Armor Buffs: Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
 
 **Optional Mods:**
 
