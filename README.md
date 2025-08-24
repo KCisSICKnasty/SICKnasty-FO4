@@ -131,7 +131,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 ***Feature:*** Anything FPS related to your game, configurable via ini.
 
-- Double click "High FPS Physics Fix" in MO2 under the "-Bug Fixes-" separator.
+- Double click "High FPS Physics Fix" in MO2 under the "F4SE Plugins" separator.
 - Navigate to the "INI Files" tab.
 - Click on "F4SE\plugins\HighFPSPhysicsFix.ini".
 - Change the following:
@@ -164,7 +164,7 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 
 ***Feature:*** It's Buffout...but for the engine. I really don't know what else to say.
 
-- Double click "Buffout 4 NG with PDB support" in MO2 under the "-Bug Fixes-" seperator.
+- Double click "Buffout 4 NG with PDB support" in MO2 under the "Bug Fixes" seperator.
 - Navigate to the "Text Files" tab.
 - Change the following:
 	- Set BSTextureStreamerLocalHeap to false (line 29).
@@ -182,7 +182,7 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 
 ***Feature:*** A bunch of QOL tweaks all handled via ini. Feel free to set these to your liking and ignore the steps below. The following are just my personal preferences.
 
-- Double click "Assorted Modular Tweaks - ESPless - Config" in MO2 under the "-Tweaks-" seperator.
+- Double click "Assorted Modular Tweaks - ESPless - Config" in MO2 under the "Tweaks" seperator.
 - Navigate to the "INI Files" tab.
 - Change the following:
 	- Set iRemoveIronSightsBlur to 1 (line 36).
@@ -200,7 +200,7 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 
 ***Feature:*** Exactly what the name of the mod says.
 
-- Double click "Terminals Lock Up - ESPless" in MO2 under the "-Tweaks-" seperator.
+- Double click "Terminals Lock Up - ESPless" in MO2 under the "Tweaks" seperator.
 - Navigate to the "INI Files" tab.
 - Change the following:
 	- Set iEnableMessages to 1 (line 8).
