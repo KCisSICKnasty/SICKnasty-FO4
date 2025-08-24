@@ -89,6 +89,13 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Navigate to the "Paths" tab.
 - Change the bottom path to "game/Fallout4.exe".
 
+*Simple Fallout 4 Downgrader*
+
+***Feature:*** One button press downgrader for your game.
+
+- Under executables, choose "Simple Fallout 4 Downgrader".
+- Click "Run" and wait for it to finish, then close the window.
+
 *Bethini Pie*
 
 ***Feature:*** Optimal ini tweaks at the push of a button.
