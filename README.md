@@ -182,8 +182,6 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 	- Set SmallBlockAllocator to false (line 37).
 	- Set F4EE to true (line 50).
 
-**This is where you do the thing with VEFS I mentioned earlier. Launch FaceGen Generator through MO2, load all of your plugins, and when given the prompt, select the far left option "Quick Face Fix". It will run for a short time, and give you a plugin to activate in MO2 when it's done.**
-
 
 *Assorted Modular Tweaks - ESPless* **Optional-ish**
 
