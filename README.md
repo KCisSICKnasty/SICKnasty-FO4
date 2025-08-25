@@ -171,7 +171,7 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 
 ***Feature:*** It's Buffout...but for the engine. I really don't know what else to say.
 
-- Double click "Buffout 4 NG with PDB support" in MO2 under the "Bug Fixes" seperator.
+- Double click "Buffout 4 NG with PDB support" in MO2 under the "F4SE" seperator.
 - Navigate to the "Text Files" tab.
 - Change the following:
 	- Set BSTextureStreamerLocalHeap to false (line 29).
