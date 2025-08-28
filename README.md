@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.0.0**
+**CURRENT VERSION: 1.0.1**
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason. Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
@@ -151,8 +151,6 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - If you set InGameFPS to a value higher than 60, do the following as well:
 	- Set DynamicUpdateBudget to true (line 291).
 	- Set BudgetMaxFPS to the same value as InGameFPS (line 310).
-
-**The following has been copy/pasted from The Midnight Ride website, under the "High FPS Physics Fix" section: https://themidnightride.moddinglinked.com/utilities.html**
 
 - Do not touch other settings unless you know what you are doing! For example you should know that:
 	- AllowTearing needs to stay enabled, it's a requirement for VRR and won't lead to tearing during gameplay - the mod turns off V-Sync only during loading (making it faster).
