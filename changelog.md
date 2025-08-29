@@ -1,8 +1,42 @@
-**Current Version: 1.0.1*
+**Current Version: 1.0.2*
+
+Version 1.0.2 -
+
+Updated:
+
+Wasteland Combat Arena - Quest and Framework
+Industrial Foundations
+K-9 Tactical Harness - REVAMPED
+
+Removed:
+
+The Rebuild Collection - Shared Resources
+The Rebuild Collection - AIO
+Rebuild Settlements PRP Rebuilt
+Antennas
+Minutemen Watchtowers - Visible Map Markers
+Assaultron Grab Skills
+Deathclaw Grab Skills
+Feral Ghoul Bite Skills
+Human Grab Attacks
+Radscorpion Stab Skill
+Radstag Grab Skill
+Yaoguai Grab Skill
+DirectHit
+
+Added:
+
+XDI Dialogue menu Un-Freezer
+SCOURGE - Zetan
+Sim Settlements 2 - Previsibines Expansion Pack
+Companion Carry Weight Display
+SKK Script Lag latency detector
+Ballistic Industries
 
 Version 1.0.1 -
 
 Updated:
+
 Godrays Performance Fix Redux
 Atom's retribution 2 DLC
 Vulture - noContainer Search
@@ -15,6 +49,7 @@ NifSkope
 Legendary Loot Expansion
 
 Removed:
+
 REAL.AI
 MM LFAW - PLOP
 FGEP - A Legendary Addition
@@ -25,6 +60,7 @@ Floating Damage
 RobCo - True Damage - easy Loadorder with Munitions Support
 
 Added:
+
 Companion Status Enhanced - Heather Casdin
 Minutemen Watchtowers - Visible Map Markers
 Wetness Shader Fix
