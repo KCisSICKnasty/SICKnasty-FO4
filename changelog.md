@@ -1,4 +1,42 @@
-**Current Version: 1.0.2*
+**Current Version: 1.0.3*
+
+Version: 1.0.3
+
+Updated:
+
+Swan's Pond After Swan
+Settlement Menu Manager Patches (SMM)
+Gender Fluid - AKA Pronouns for Fallout 4
+Assorted Modular Tweaks - ESPless
+To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
+Chem Cookers Redux
+Wasteland Combat Arena - Quest and Framework
+Mutation for the Commonwealth
+Ragged Thunder - Minutemen Overhaul
+Enclave Vertibird Corps Armors
+Settlement Production Framework
+X-Cell
+
+Removed:
+
+AKs of the Wasteland STS Patch
+
+Added:
+
+Cut Perks Restored
+Open Season Perk
+FaceGen Repository
+Wasteland Wonderglue - FaceGen Edition
+We Are The Minutemen - FaceGen data
+Transmission Zeta - X-Cell patch
+DocsOfTheCW (More Doctors) Missing Heads X-Cell Facegen Fix
+Quieter Jump Grunt
+Alien Generator - Fuel the Blaster Integration
+MM LFAW - PLOP
+Fallout 4 HD Overhaul 2k
+Crossbows of the Commonwealth - Wolfgang's Patches
+Fallout Performance Monitor
+Wattz 3000 Matching Ammo
 
 Version 1.0.2 -
 
