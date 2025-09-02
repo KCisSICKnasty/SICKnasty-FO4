@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.0.3**
+**CURRENT VERSION: 1.0.4**
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason. Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
@@ -207,6 +207,39 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 	- Set iEnableMessages to 1 (line 8).
 
 
+**Launching Fallout 4:**
+	
+Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
+
+- In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
+- F4SE should be an executable in this menu. Click it.
+- Once selected, click "Run". This is how you should run the game each time.
+
+
+**DISCLAIMER!!!**
+
+*This mod list is ***VERY*** big. The BA2 limit was hit a ***long*** time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
+
+
+**MCM:**
+
+Once you leave Vault 111, some options will flash on screen that you'll have to deal with. The main one you'll want to make sure you choose correctly is **Nuclear Winter**. When given the option, choose "Realism". Choosing the "Nuclear Winter" option will make only winter weathers happen, which will make your experience much more difficult and less interesting.
+
+After making your choices, you'll want to actually open up MCM for the first time:
+
+- In your start menu, choose "MCM". *Note: It will take a very, very long time to load. Even with MCM Booster. It will only be this long the first time you open it on a new save file as it builds the cache.*
+- In "See Through Scopes", toggle Tactical Reload on.
+
+**Other:**
+
+- Power Armor Handling Improvements - Retain Armor Buffs: Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
+
+**Optional Mods:**
+
+- Mutant Menagerie - Life Finds A Way - No Spider Patch *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
+- Gamepad - Input *(for better controller support)*: https://www.nexusmods.com/fallout4/mods/76116
+- Ultra Wide Interface (21x9) *(for wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
+
 *STEAM - Boost Lite-* **Optional**
 
 Feature: Reduces the amount of GPU, CPU, & RAM usage from Steam so Fallout 4 can use it.
@@ -241,40 +274,6 @@ Feature: Small performance boost.
 This step is ***insanely*** optional, and being entirely honest, the performance gain you'll see is small. However, if you have a good bit of space on your hard drive to spare (and a hefty bit of time to spare), it's still honest performance.
 
 The video tutorial in the mod description (https://www.nexusmods.com/fallout4/mods/80305) does a better job of explaining how to do it than I ever could, but I've also included the pdf guide in your "Tools > Guides" folder and the VRAMr location you'll want to point the executable to is under the "-Tools-" separator. If you're going to do this step, this is the time to do it.
-
-
-**Launching Fallout 4:**
-	
-Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
-
-- In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
-- F4SE should be an executable in this menu. Click it.
-- Once selected, click "Run". This is how you should run the game each time.
-
-
-**DISCLAIMER!!!**
-
-*This mod list is ***VERY*** big. The BA2 limit was hit a ***long*** time ago & you'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
-
-
-**MCM:**
-
-Once you leave Vault 111, some options will flash on screen that you'll have to deal with. The main one you'll want to make sure you choose correctly is **Nuclear Winter**. When given the option, choose "Realism". Choosing the "Nuclear Winter" option will make only winter weathers happen, which will make your experience much more difficult and less interesting.
-
-After making your choices, you'll want to actually open up MCM for the first time:
-
-- In your start menu, choose "MCM". *Note: It will take a very, very long time to load. Even with MCM Booster. It will only be this long the first time you open it on a new save file as it builds the cache.*
-- In "See Through Scopes", toggle Tactical Reload on.
-
-**Other:**
-
-- Power Armor Handling Improvements - Retain Armor Buffs: Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
-
-**Optional Mods:**
-
-- Mutant Menagerie - Life Finds A Way - No Spider Patch *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
-- Gamepad - Input *(for better controller support)*: https://www.nexusmods.com/fallout4/mods/76116
-- Ultra Wide Interface (21x9) *(for wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
 
 
 **FAQ:**

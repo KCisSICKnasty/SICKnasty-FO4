@@ -1,6 +1,31 @@
-**Current Version: 1.0.3*
+**Current Version: 1.0.4*
 
-Version: 1.0.3
+Version 1.0.4 -
+
+Updated:
+
+- Settlement Production Framework
+- Mod Conflict Checker - Check conflict and management
+- Mod Conflict Checker - Fallout4 Database and Enabler
+
+Added:
+
+- Register Image For HUD
+- Unique Holotapes
+- Extra Apparel Effects
+- 4estGimp - ECO Munitions 1.3.0 Ballistics Update
+- Metro Gas Masks
+- Metro Gas Masks - M17 mesh fix
+- 4estGimp - Metro Gas Masks Compacted for ESL
+- Heavy helmet Maska-1SCH
+- 4estGimp - Heavy Helmet Maska-1SCH Edit Compacted
+- We Cook With Fire
+- MAIM Redux - Alleviated
+- Canary Save File Monitor
+- Super Mutant Redux - Smaller Nightkin Explosion
+- Personal Radio (ESL version with randomizer)
+
+Version: 1.0.3 -
 
 Updated:
 
