@@ -276,6 +276,25 @@ This step is ***insanely*** optional, and being entirely honest, the performance
 The video tutorial in the mod description (https://www.nexusmods.com/fallout4/mods/80305) does a better job of explaining how to do it than I ever could, but I've also included the pdf guide in your "Tools > Guides" folder and the VRAMr location you'll want to point the executable to is under the "-Tools-" separator. If you're going to do this step, this is the time to do it.
 
 
+**Personal Radio:** *Optional*
+
+Feature: Add up to 200 music tracks to the game!
+
+Instructions:
+
+- Add "MultiXwm" as an executable in MO2 (found in your install location in its own dedicated fodler) and Run it.
+
+- Drag your chosen tracks into the to resulting window.
+
+- Convert all to XWM format (recommended to use the default program bitrate) and export it wherever. NOTE: You must keep the old file name like 1.xwm, so rename them before exporting!!!
+
+- In MO2, navigate to Personal Radio (and/or Personal Radio 2) under "Audio" separator, right click the mod, and choose "open in explorer".
+
+- Drag all the tracks from where you exported them into the folder "sound\fx\mus\radio\PersonalRadio", replacing the files with yours when asked.
+
+- In game, tune into your MyRadio station, and enjoy!
+
+
 **FAQ:**
 
 ***Q:***
