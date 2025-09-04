@@ -1,4 +1,32 @@
-**Current Version: 1.0.4*
+**Current Version: 1.0.5*
+
+Version 1.0.5 -
+
+Updated:
+
+- Legendary Loot Expansion
+- MAIM Redux - Alleviated
+
+Removed:
+
+- Delay Transmission Zeta to Level 25
+- Transmission Zeta - Closer Bunker
+- Transmission Zeta - Ultimate Space Adventure
+
+Added:
+
+- Subversion - The Institute-Railroad Alliance Alternate Ending
+- Diamond City Wall - Expanded
+- Jetpacks FAO Improved Carrying Capacity
+- Nuka World Open Season Extend II - Assignable Factions - Recruitable NPCs
+- Transmission Zeta - eXoPatch
+- The Nuka Project
+- The Nuka Project - Glowing Bottles Fix
+- The Nuka Project and Immersive Animation Framework Patch
+- Phase 4 An Institute Expansion
+- KCI - Kellogg's Cybernetic Implants
+- Player Face Target Fixes and Optional Improvements - F4SE
+- ConsoleEx - Console Extender - F4SE - Garden of Eden SE
 
 Version 1.0.4 -
 
