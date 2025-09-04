@@ -226,13 +226,13 @@ Make sure that the version of Fallout 4 MO2 is pointing to is the version in you
 After leaving the vault, you'll want to actually open up MCM for the first time:
 
 - In your start menu, choose "MCM". *Note: It will take a very, very long time to load. Even with MCM Booster. It will only be this long the first time you open it on a new save file as it builds the cache.*
-- In "See Through Scopes", toggle Tactical Reload on.
 - Set VAFS hotkey.
 - Set True Storms to on.
 
 **Other:**
 
 - Power Armor Handling Improvements - Retain Armor Buffs: Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
+- See Through Scopes -  Toggle Tactical Reload on.
 
 **Optional Mods:**
 
