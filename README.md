@@ -231,7 +231,7 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 
 **Other:**
 
-- Power Armor Handling Improvements - Retain Armor Buffs: Set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
+- Power Armor Handling Improvements - Retain Armor Buffs: Craft (at chem bench) & set holotape "Remove Armor on PA Entry: Always but keep buffs" (or Auto if Survival) or Carryweight is doubled.
 - See Through Scopes -  Toggle Tactical Reload on.
 
 **Optional Mods:**
