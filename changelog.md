@@ -1,4 +1,54 @@
-**Current Version: 1.0.5*
+**Current Version: 1.0.6*
+
+
+Version 1.0.6 -
+
+Updated:
+
+- Garden of Eden Papyrus Script Extender
+- You And What Army 2
+- MAIM Redux - Alleviated
+- Legendary Loot Expansion
+- Complex Item Sorter - eXoSorter Tags
+- KC's You Are Exceptional Companion Compatibility Patch Hub
+- Equipment and Crafting Overhaul (ECO) - Redux
+
+Removed:
+
+- No Pip-Boy Light
+- Classy Chassis Outfits - Eli's Armour Replacer
+- SCOURGE - Zetan
+- 4estGimp - ECO Munitions 1.3.0 Ballistics Update
+
+Added:
+
+- Colors To The Desk Fan - BOS
+- Colors To The Telephone Retexture - BOS
+- New Vegas skill magazines in the commonwealth
+- Toy Commandos
+- FCOM 3.0 Custom Faction Template
+- MessageBox Extended
+- Convert to .7z batch files
+- Toolbox Packer
+- Allied with Ironsides
+- Working Pulowski Shelters
+- LaserMusket NeverEnding Fix
+- No Loot Menu Background - Green Tint Removal Fix
+- Fall UI HUD Circle
+- Visitors - Dynamically Creates Visitors To Your Settlements
+- The Wasteland Codex - Interactive Lore Database voiced by The Storyteller
+- Publick Occurrences Expanded
+- Publick Occurrences Expanded - An UFO4P Patch
+- C WarCat
+- Enhanced Vanilla Armor and Clothing - EVAC
+- SuperAlloys - Enhanced Power Armor Paints and 4k Textures
+- See Through Scopes (STS) T-45 Power Armor Clipping Fix (including SuperAlloys Tesla Coils T-45)
+- No Reload In VATS
+- Bovine Intervention - Brahmin Overhaul
+- Flashlight Replace
+- 4estGimp - Dank_ECO-Munitions
+- MAIM Redux - Stimpacks Empowered
+
 
 Version 1.0.5 -
 
@@ -28,6 +78,7 @@ Added:
 - Player Face Target Fixes and Optional Improvements - F4SE
 - ConsoleEx - Console Extender - F4SE - Garden of Eden SE
 
+
 Version 1.0.4 -
 
 Updated:
@@ -52,6 +103,7 @@ Added:
 - Canary Save File Monitor
 - Super Mutant Redux - Smaller Nightkin Explosion
 - Personal Radio (ESL version with randomizer)
+
 
 Version: 1.0.3 -
 
@@ -91,6 +143,7 @@ Added:
 - Fallout Performance Monitor
 - Wattz 3000 Matching Ammo
 
+
 Version 1.0.2 -
 
 Updated:
@@ -124,6 +177,7 @@ Added:
 - Companion Carry Weight Display
 - SKK Script Lag latency detector
 - Ballistic Industries
+
 
 Version 1.0.1 -
 
