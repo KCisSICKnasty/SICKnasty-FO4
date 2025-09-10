@@ -1,5 +1,51 @@
-**Current Version: 1.0.6*
+**Current Version: 1.0.7*
 
+
+Version 1.0.7 -
+
+Updated:
+
+- Dreadsharks of the Commonwealth Redux
+- MAIM Redux - Stimpacks Empowered
+- We Are The Minutemen - eXoPatch
+- DynDOLOD 3 Alpha
+
+Removed:
+
+- xrayys skin cbbe 4k 8k bc7
+- Extended Facial Sculpting - now with 90 percent less beta
+- female eyelashes retex
+
+Added:
+
+- Seen Some Fallen Leaf Piles
+- Vault 117 - A Horror Quest Mod
+- All Weapons HD (A.W.H.D.)
+- Faster Getup
+- Feral Ghoul Bite Skills
+- Reflex Mode
+- Windows Gaming-Optimization Tweaker-Collection
+- Persistent Volume Sliders
+- AML 75 Missile Launcher
+- dp AML 75 HD
+- Game Configuration Menu
+- VATS Reload Exploit Fix (VATS Cancels Reload)
+- People Live In - USAF Satellite Station Olivia
+- People Live In - Unmarked Raider Camps Pack 2
+- People Live In - Unmarked Raider Camps Pack 1
+- People Live In - Roadside Pines Motel
+- People Live In - Harbormaster Hotel
+- People Live In - Federal Ration Stockpile
+- People Live In - Dark Hollow Pond
+- People Live In - Roadside Pines Motel Patch Hub
+- We Can Live In - Rock Island Lighthouse
+- We Can Live In - Poseidon Energy Turbine 18-F
+- We Can Live In - North Point Park
+- We Can Live In - Natick Substation
+- We Can Live In - Nahant Red Rocket
+- We Can Live In - Lil' Gentry Playground
+- We Can Live In - Cambridge Red Rocket
+- Messagebox Hotkey
 
 Version 1.0.6 -
 
