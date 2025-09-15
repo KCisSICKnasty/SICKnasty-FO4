@@ -1,4 +1,65 @@
-**Current Version: 1.0.7*
+**Current Version: 1.0.8*
+
+**NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+
+Version 1.0.8 -
+
+Updated:
+
+- Ranged Killcam (Kill Camera mod Outside of VATS)
+- C WarCat
+- Mod Switch Framework
+- Dreadsharks of the Commonwealth Redux
+- Driveables of the Commonwealth - Havok Physics Vehicles - Framework
+- Tumbajamba's Gunner Jeep and Truck - Driveables of the Commonwealth-Havok Physics Vehicles
+- Visitors - Dynamically Creates Visitors To Your Settlements
+- Fall UI HUD Circle
+- Lightweight Lighting Extended (LLE)
+- Wasteland Combat Arena - Quest and Framework
+- X-Cell
+- MAIM Redux - Alleviated
+- Caliente's Beautiful Bodies Enhancer -CBBE-
+- Reflex Mode
+- Improved America Rising 2 Enclave
+- Improved Brotherhood of Steel
+- Improved Hostile Factions
+- Improved Institute
+- Improved Minutemen
+- Improved Railroad
+- We Have Names (and more) - All In One
+- AOEP - Harbormen
+- Community Fixes Merged
+- Mod Switch Framework Munitions Support
+
+Removed:
+
+- Faction Reinforcements CRAFTABLE
+- Settler and Companion Dialogue Overhaul
+- Makeshift Weapon Pack - Projectile Tweaks
+- 4estGimp - T-49 - Armor of the Storyteller PA CIS INNR ini
+- MessageBox Extended
+- Messagebox Hotkey
+
+Added:
+
+- Cooke Residence - Collision Fix
+- Very Zen Kobolds
+- Very Zen Kudemborots
+- C Spore Carrier
+- C Rad Parasite
+- Emirals America Rising 2 Fixes
+- MAYPOLE - Raid Boss And Ghoul Power Armor
+- Spider Plushie - Plush Spider
+- Cow Plushie - Plush Cow
+- Simple Dodges - Sidestep Dodges and Dodge Rolls
+- Simple Dodges Addon F4SE - iframes - AP cost - etc
+- First Person Dodge - Actor Velocity Framework
+- Jackify
+- Makeshift Weapon Pack - Ammo Overhaul
+- Creation Kit Platform Extended for Fallout 4
+- Raiders use DOOMBASED Weapons (dubbed ESL)
+- ArchiveInvalidation
 
 
 Version 1.0.7 -
@@ -46,6 +107,7 @@ Added:
 - We Can Live In - Lil' Gentry Playground
 - We Can Live In - Cambridge Red Rocket
 - Messagebox Hotkey
+
 
 Version 1.0.6 -
 

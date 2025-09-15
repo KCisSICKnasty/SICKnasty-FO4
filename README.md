@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.0.7**
+**CURRENT VERSION: 1.0.8**
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason. Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
@@ -15,7 +15,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Freshly installed Steam copy of Fallout 4 ver.1.10.984.0 (NG update)*
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- Roughly 256 GB of space
+- Roughly 460 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - Patience
 
@@ -85,35 +85,44 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	
 **First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "game" folder.**
 
-- In MO2, open "Settings".
-- Navigate to the "Paths" tab.
-- Change the bottom path to "game/Fallout4.exe".
+- In MO2, open "Settings"
+- Navigate to the "Paths" tab
+- Change the bottom path to "(whatever you named your install location)/game/Fallout4.exe"
+
+*Auto Clean All Fallout 4 DLC and CC Next Gen Edition*
+
+***Feature:*** Semi-automated batch plugin cleaner for all base game, DLC, and CC plugins.
+
+- Under executables (the dropdown menu to the left of the "Run" button in MO2), select "BatchCleanPlugins"
+- Run it, and when xEdit show on screen, hit the "Enter" key
+- When it finishes, close xEdit
+- Repeat until all plugins have been cleaned
 
 *Simple Fallout 4 Downgrader*
 
 ***Feature:*** One button press downgrader for your game.
 
-- Under executables, choose "Simple Fallout 4 Downgrader".
-- Click "Run" and wait for it to finish, then close the window.
+- Under executables, choose "Simple Fallout 4 Downgrader"
+- Click "Run" and wait for it to finish, then close the window
 
 *Bethini Pie*
 
 ***Feature:*** Optimal ini tweaks at the push of a button.
 
-- In MO2, click on the drop-down in the right pane next to the Run button.
-- Click <Edit...>, then click the + symbol in the top left and Add from file.
-- In the resulting explorer window, navigate to the "Bethini Pie" folder in your install location.
-- Highlight "Bethini.exe" and then confirm.
-- Press Apply in the lower right, then OK.
-- Select BethINI from the drop-down and run it.
+- In MO2, click on the drop-down in the right pane next to the Run button
+- Click <Edit...>, then click the + symbol in the top left and Add from file
+- In the resulting explorer window, navigate to the "Bethini Pie" folder in your install location
+- Highlight "Bethini.exe" and then confirm
+- Press Apply in the lower right, then OK
+- Select BethINI from the drop-down and run it
 - Click Fallout 4 then press Select Game.
 - Choose a preset you prefer (I choose Ultra)
-- Apply Recommended Tweaks.
-- Set Display Mode to Borderless Windowed.
-- Select the resolution you want to display the game in.
-- Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide).
-- Edit the other settings to your liking.
-- Click File then Save in the top left, then confirm the prompts and close BethINI.
+- Apply Recommended Tweaks
+- Set Display Mode to Borderless Windowed
+- Select the resolution you want to display the game in
+- Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide)
+- Edit the other settings to your liking
+- Click File then Save in the top left, then confirm the prompts and close BethINI
 
 
 *Fallout4Prefs.ini*
@@ -122,45 +131,45 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 *TLDR:* I had to do this to generate LOD. DoubleYou is the almighty master of LOD. If they say to do something and it will increase performance, just ***do it!!!***
 
-- In the top right corner of the left panel in MO2, click the folder icon.
-- In the resulting drop down, click "Open MyGames Folder".
-- Open the file called "Fallout4Prefs.ini".
+- In the top right corner of the left panel in MO2, click the folder icon
+- In the resulting drop down, click "Open MyGames Folder"
+- Open the file called "Fallout4Prefs.ini"
 - Under the section titled [TerrainManager], input these corresponding values:
 	- fBlockMaximumDistance=262144
 	- fBlockLevel2Distance=131072
 	- fBlockLevel1Distance=65536
 	- fBlockLevel0Distance=32768
 	- fSplitDistanceMult=1.000
-- File > Save > Close the window.
+- File > Save > Close the window
 
 
 *High FPS Physics Fix*
 
 ***Feature:*** Anything FPS related to your game, configurable via ini.
 
-- Double click "High FPS Physics Fix" in MO2 under the "F4SE Plugins" separator.
-- Navigate to the "INI Files" tab.
-- Click on "F4SE\plugins\HighFPSPhysicsFix.ini".
+- Double click "High FPS Physics Fix" in MO2 under the "F4SE Plugins" separator
+- Navigate to the "INI Files" tab
+- Click on "F4SE\plugins\HighFPSPhysicsFix.ini"
 - Change the following:
-	- Set DisableBlackLoadingScreens to true (line 37).
-	- Set PostloadingMenuSpeed to 3.0 (line 51).
-	- Set OneThreadWhileLoading to false (line 84).
-	- Set FixOCBPSpeed to false (line 221).
+	- Set DisableBlackLoadingScreens to true (line 37)
+	- Set PostloadingMenuSpeed to 3.0 (line 51)
+	- Set OneThreadWhileLoading to false (line 84)
+	- Set FixOCBPSpeed to false (line 221)
 - If you use VRR, set InGameFPS (line 58) to a number you can reach across the majority of the game[3], it has to be between 48[4] and refresh rate - (refresh rate x 6.8%)
-- If you use fixed refresh rate (meaning no VRR), set InGameFPS (line 59) to your refresh rate - 0.005 or fractions of your refresh rate. For example on 60hz you can lock to 59.995 or 30. Just like on VRR, choose whether to lock to a fraction or RR-0.005 based on which is closest to your lowest FPS.
+- If you use fixed refresh rate (meaning no VRR), set InGameFPS (line 59) to your refresh rate - 0.005 or fractions of your refresh rate. For example on 60hz you can lock to 59.995 or 30. Just like on VRR, choose whether to lock to a fraction or RR-0.005 based on which is closest to your lowest FPS
 - If you set InGameFPS to a value higher than 60, do the following as well:
-	- Set DynamicUpdateBudget to true (line 291).
-	- Set BudgetMaxFPS to the same value as InGameFPS (line 310).
+	- Set DynamicUpdateBudget to true (line 291)
+	- Set BudgetMaxFPS to the same value as InGameFPS (line 310)
 
 - Do not touch other settings unless you know what you are doing! For example you should know that:
-	- AllowTearing needs to stay enabled, it's a requirement for VRR and won't lead to tearing during gameplay - the mod turns off V-Sync only during loading (making it faster).
-	- Enabling DisableAnimationOnLoadingScreens will freeze loading screens and any overlay you use, this is intended and will speed up loading by about 40%. You can enable it if you don't mind frozen loading screens.
+	- AllowTearing needs to stay enabled, it's a requirement for VRR and won't lead to tearing during gameplay - the mod turns off V-Sync only during loading (making it faster)
+	- Enabling DisableAnimationOnLoadingScreens will freeze loading screens and any overlay you use, this is intended and will speed up loading by about 40%. You can enable it if you don't mind frozen loading screens
 
-- You can check if you are using VRR by going to the Nvidia Control Panel if you're on Nvidia or Adrenalin's Display Settings if you're on AMD. If the G-Sync tab is missing from NVCP, your display doesn't support it or doesn't have the feature enabled in the OSD.
+NOTE: You can check if you are using VRR by going to the Nvidia Control Panel if you're on Nvidia or Adrenalin's Display Settings if you're on AMD. If the G-Sync tab is missing from NVCP, your display doesn't support it or doesn't have the feature enabled in the OSD.
 
-- Nvidia users need to make sure that G-Sync is set to Fullscreen and that Display Specific settings are enabled, the Windowed option is problematic due to it being a hacky method. Both of the settings are wrongly named so they do not actually directly refer to the display method.
+NOTE: Nvidia users need to make sure that G-Sync is set to Fullscreen and that Display Specific settings are enabled, the Windowed option is problematic due to it being a hacky method. Both of the settings are wrongly named so they do not actually directly refer to the display method.
 
-- You always want your FPS capped by a limiter instead of being hardware bound, this will reduce lag and increase power efficiency. It is also less jarring for the player when visual smoothness is the same across all scenes.
+You always want your FPS capped by a limiter instead of being hardware bound, this will reduce lag and increase power efficiency. It is also less jarring for the player when visual smoothness is the same across all scenes.
 
 The VRR range on most monitors starts at 48, but it might also start at 30 or 1. You can check this on Nvidia's page or from your monitor's specifications.
 
@@ -169,51 +178,51 @@ The VRR range on most monitors starts at 48, but it might also start at 30 or 1.
 
 ***Feature:*** It's Buffout...but for the engine. I really don't know what else to say.
 
-- Double click "Buffout 4 NG with PDB support" in MO2 under the "F4SE" seperator.
-- Navigate to the "Text Files" tab.
+- Double click "Buffout 4 NG with PDB support" in MO2 under the "F4SE" seperator
+- Navigate to the "Text Files" tab
 - Change the following:
-	- Set BSTextureStreamerLocalHeap to false (line 29).
-	- Set HavokMemorySystem to false (line 30).
-	- Set Input Switch to true (line 32). **Optional** *Only relevant if using a controller*
-	- Set MemoryManager to false (line 34).
+	- Set BSTextureStreamerLocalHeap to false (line 29)
+	- Set HavokMemorySystem to false (line 30)
+	- Set Input Switch to true (line 32) **Optional** *Only relevant if using a controller*
+	- Set MemoryManager to false (line 34)
 	- Set ScaleformAllocator to false (line 36)
-	- Set SmallBlockAllocator to false (line 37).
-	- Set F4EE to true (line 50).
+	- Set SmallBlockAllocator to false (line 37)
+	- Set F4EE to true (line 50)
 
 
 *Assorted Modular Tweaks - ESPless* **Optional-ish**
 
 ***Feature:*** A bunch of QOL tweaks all handled via ini. Feel free to set these to your liking and ignore the steps below. The following are just my personal preferences.
 
-- Double click "Assorted Modular Tweaks - ESPless - Config" in MO2 under the "Tweaks" seperator.
-- Navigate to the "INI Files" tab.
-- Click on the first option labeled "Config".
+- Double click "Assorted Modular Tweaks - ESPless - Config" in MO2 under the "Tweaks" seperator
+- Navigate to the "INI Files" tab
+- Click on the first option labeled "Config"
 - Change the following:
-	- Set bHighlightConsoleReference to 1 (line 26).
-	- Set iImprovedRagdolls to 1 (line 33).
-	- Set iLessIntrusiveTutorial to 1 (line 37).
-	- Set iLongerPowerLines to 1 (line 45).
-	- Set iRemoveIronSightsBlur to 1 (line 61).
-	- Set iUncapPickPocketChance to 1 (line 84).
+	- Set bHighlightConsoleReference to 1 (line 26)
+	- Set iImprovedRagdolls to 1 (line 33)
+	- Set iLessIntrusiveTutorial to 1 (line 37)
+	- Set iLongerPowerLines to 1 (line 45)
+	- Set iRemoveIronSightsBlur to 1 (line 61)
+	- Set iUncapPickPocketChance to 1 (line 84)
 
 
 *Terminals Lock Up - ESPless* **Optional-ish**
 
 ***Feature:*** Exactly what the name of the mod says.
 
-- Double click "Terminals Lock Up - ESPless" in MO2 under the "Tweaks" seperator.
-- Navigate to the "INI Files" tab.
+- Double click "Terminals Lock Up - ESPless" in MO2 under the "Tweaks" seperator
+- Navigate to the "INI Files" tab
 - Change the following:
-	- Set iEnableMessages to 1 (line 8).
+	- Set iEnableMessages to 1 (line 8)
 
 
 **Launching Fallout 4:**
 	
 Make sure that the version of Fallout 4 MO2 is pointing to is the version in your installation location (a folder named "game"). You can check this in MO2 by clicking the gear icon > Settings > Paths.
 
-- In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button.
-- F4SE should be an executable in this menu. Click it.
-- Once selected, click "Run". This is how you should run the game each time.
+- In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button
+- Select F4SE
+- Click "Run" (this is how you should run the game each time)
 
 
 **DISCLAIMER!!!**
@@ -295,80 +304,11 @@ Instructions:
 - In game, tune into your MyRadio station, and enjoy!
 
 
-**FAQ:**
+**Plugins disabled FOR A REASON:**
 
-***Q:***
-
-	*Why did I CTD immediately in the main menu?*
-
-***A***
-
-	**9/10 times, it is because you didn't do one of the most crucial steps: watching the audio load.
-
-***Q:***
-
-	*Why didn't my game save on exiting?*
-
-***A***
-
-	**Because I've disabled it. You can turn it back on by disabling the mod "Disable Exit Save" under the separator "-F4SE Plugins-". Though, you wouldn't be playing a true survival mode playthrough, in my opinion.**
-
-***Q:***
-
-	*"Why cant I use my pipboy light?"*
-
-***A:***
-
-	**Because I've disabled it. In my opinion, the pipboy light is immersion breaking and there's little reason to ever turn it off. The list has plenty of alternatives.**
-
-***Q:***
-
-	*"Why cant I VATS?"*
-
-***A:***
-
-	**You can** ***VAFS~*** **In short, VATS is OP and honestly makes combat boring in my opinion since most problems can be solved with a little Luck and VATS. VAFS makes VATS a bullet time mechanic based on Perception rather than a time stop mechanic based on Agility. This makes VATS during combat feel more like an actual combat mechanic rather than a pause button with optional 'press button to insta-kill' mechanic.**
-
-***Q:***
-
-	*"I broke a limb and died. How?"*
-
-***A:***
-
-	**Welcome to the wonderful world of MAIM. Introducing new injury mechanics with deathly consequences. No more walking around on a broken leg like it's nothing. Stimpaks are no longer a fix-all for your limbs. You'll need to bandage those cuts and bullet wounds.**
-
-***Q:***
-
-	*"Why are enemies in power armor not taking damage?*
-
-***A:***
-
-	**For all the hardcore difficulty the list presents you with, you have 1 mod in your corner: Bastion. Those enemies wont hurt you either if you're wearing it. Bastion makes power armor an actual layer of armor, so only the pieces will take damage until they break. Then, you will only take damage in the area that is exposed. If things are getting tough, armor up wastelander!** ***(Just make sure you bring plenty of fusion cores with you!!!)***
-
-***Q:***
-	
-	*"Can I add/remove 'insert mod'?"*
-
-***A:***
-
-	**(Mostly) everything I've used for the list is included in a folder called "Tools" within your installation location. Adding/removing something will likely require you to rebuild one of the outputs. If you're prepared to do a little learning of your own, then the answer is yes.**
-
-***Q:***
-	
-	*"I've had a CTD!"* ***or*** *"I found a visual bug!"*  ***or*** *This weapon is doing no damage/will not reload! What do I do?!*
-
-***A:***
-
-	
-	**Firstly, join the support Discord server so I can actually talk to you! Secondly, I've included CLASSIC in your "Tools" folder. The Midnight Ride has CLASSIC on the "Tools to Avoid" page, though the reasoning (in my opinion) is very weak. Essentially, it's advised against because you shouldn't rely on automated crash log scans. Which is true, but as someone who admittedly cannot read a crash log, CLASSIC has helped me pinpoint issues in the list without fail. The only CTD I've ever experienced while making the list was hitting the BA2 limit, which it correctly diagnosed everytime. If you don't want to use it, you can use the crash log section of the Collective Modding Discord as a "lite" version of CLASSIC. I have a section for crash logs in my Discord server. Additionally, if you find a visual error, a mod called Auto Cell Display allows you to craft a ring in the ECO Utility Workbench which, when worn, displays exact cell coordinates and other helpful information. If you want to really help me find your issue, screenshot the bug with this ring's information on screen! As for weapons, obviously, I'll need to know the weapon name that's bugged when you make your report.**
-
-***Q:***
-
-	*What is SICKnasty - FO4?*
-
-***A***
-
-**In short, SICKnasty - FO4 is FO4.5. My modlist makes you ask yourself:** *"Am I dead yet?"* ***If*** the answer to that is **no**, then ***don't giveup!!!*** **The difficulty is meant to make you think outside of the box, taking into account what you need to bring with you for each trek you make to the next post. For all your contusions and broken limbs, you'll find real rewards and a character progression you can actually feel.**
+- SKKScriptLatencyTest.esp: Only enable if you're having significant lag. When enabled, you will automatically have a ring equipped that will show you location information. For details, check the mod's description (https://www.nexusmods.com/fallout4/mods/35853).
+- FCOM Custom Faction.esp: Only enable if you're prepared to use it. For details, check the mod's description (https://www.nexusmods.com/fallout4/mods/42402).
+- Face Ripper Presets.esp: Only enable if you're prepared to use it. For details, check the mod's description (https://www.nexusmods.com/fallout4/mods/3878).
 
 
 **Tools:**
@@ -395,6 +335,8 @@ Instructions:
 - *Seasons Change - A Merry Modding Days Mod:* https://www.nexusmods.com/fallout4/mods/76710
 - *Power Armor Repair Takes Skill (PARTS):* https://www.nexusmods.com/fallout4/mods/58409
 - *Pra's Fo4Edit Scripts - Automatic Patch Generation:* https://www.nexusmods.com/fallout4/mods/28898
+- *Fix Cubemaps:* https://www.nexusmods.com/fallout4/mods/95531
+- *Power Armor Repair Takes Skill (PARTS):* https://www.nexusmods.com/fallout4/mods/58409
 
 
 **Ways you can make my day:**
