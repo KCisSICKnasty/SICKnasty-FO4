@@ -1,6 +1,24 @@
-**Current Version: 1.0.8*
+**Current Version: 1.0.9*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.0.9 -
+
+Updated:
+
+- Commonwealth Broadcasting Services Patch Hub
+- Gender Fluid - AKA Pronouns for Fallout 4
+- Bovine Intervention - Brahmin Overhaul
+- Improved Hostile Factions
+- RobCo - Empowered Giants - Behemoth - Deathclaw etc.
+
+Added:
+
+- Elder's T-51 Power Armor
+- Running Breathing - Lite
+- Revolted The retro minigame
+- Revolted - eXoPatch
+- RobCo - Beast Master Creatures Get Perks
 
 
 Version 1.0.8 -
