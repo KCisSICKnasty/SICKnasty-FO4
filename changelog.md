@@ -1,6 +1,64 @@
-**Current Version: 1.0.9*
+**Current Version: 1.1.0*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.1.0 -
+
+Updated:
+
+- Vault 117 - A Horror Quest Mod
+- Jackify
+- Windows Gaming-Optimization Tweaker-Collection
+- Power Armor to the Improved People
+- Lightweight Lighting Extended (LLE)
+- More Diamond City Bounties
+- Visitors - Dynamically Creates Visitors To Your Settlements
+- We Cook With Fire (Cooking with Fire)
+- KC's SICKnasty Patch Pit
+- FaceGen Repository
+- Improved America Rising 2 Enclave
+- Improved Brotherhood of Steel
+- Improved Institute
+- Improved Hostile Factions
+- Improved Minutemen
+- VATS Target Tweaks
+- RJs FO4 ESL Checker
+- Transmission Zeta - eXoPatch
+
+Removed:
+
+- No Enclave in the Glowing Sea - Disable Echoes of the Past
+
+Added:
+
+- Insanity - Mental Health Management
+- Takahashi's Pot of Noodles
+- Seen Some Distressed Asphalt road
+- RJs FO4 ESL Checker
+- Simple Text Field
+- Colors To The Clutter - BOS
+- Colors To The Toy Car - BOS
+- High Priority in CPU - DISK - RAM Processes (Reduces Stuttering Freezing Lagging in GAMES)
+- You Are Insanely Exceptional
+- True damage - Munitions updated updated patch
+- VULGAR Banner
+- VULGAR Bollard
+- VULGAR Chainlink Fence
+- VULGAR Guard Rail
+- VULGAR Spotlight
+- VULGAR UtilityPole
+- VULGAR Water Tower
+- America Rising 2 - Echoes of the Past Alignment Patch
+- Machine Gun Emplacement
+- SMR WTF light version Mutant Hounds Fix
+- Dogtag Reclamation Machines - America Rising 2
+- Dogtag Reclamation Machines - Brotherhood of Steel
+- Better Sound for Machine Gun Emplacement
+- West Tek Tactical Gloves
+- West Tek Tactical Gloves - More Textures
+- West Tek Tactically ESL-ified Gloves
+- Settler Outfitter
+
 
 Version 1.0.9 -
 
