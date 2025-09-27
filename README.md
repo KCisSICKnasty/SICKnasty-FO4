@@ -102,6 +102,8 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 ***Feature:*** One button press downgrader for your game.
 
+The version of FO4 that I've included for you is already downgraded! Check to be sure, however. If it's not, follow the 2 steps below.
+
 - Under executables, choose "Simple Fallout 4 Downgrader"
 - Click "Run" and wait for it to finish, then close the window
 
