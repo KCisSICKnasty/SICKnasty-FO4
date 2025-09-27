@@ -73,7 +73,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	
 **Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
-- Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 3 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
+- Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
 - Drag the zip file into MO2 under "Interface" separator. Enable the mod.
 
 **NOTE: If Discord is not allowing you to access this file for whatever reason, I'm told by users that the Nexus version works fine. I cannot verify this, however.**
