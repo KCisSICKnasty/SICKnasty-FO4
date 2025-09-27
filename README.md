@@ -93,10 +93,15 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 ***Feature:*** Semi-automated batch plugin cleaner for all base game, DLC, and CC plugins.
 
-- Under executables (the dropdown menu to the left of the "Run" button in MO2), select "BatchCleanPlugins"
-- Run it, and when xEdit show on screen, hit the "Enter" key
+- In MO2, click on the drop-down in the right pane next to the Run button
+- Click <Edit...>, then click the + symbol in the top left and Add from file
+- In the resulting explorer window, navigate to the "FO4Edit 4.1.5f" folder in your install location
+- Highlight "batch_clean_plugins.bat" and then confirm
+- Press Apply in the lower right, then OK
+- Select "BatchCleanPlugins" from the drop-down and run it
+- When xEdit shows on screen, hit the "Enter" key
 - When it finishes, close xEdit
-- Repeat until all plugins have been cleaned
+- Repeat until all base game and CC content plugins have been cleaned
 
 *Simple Fallout 4 Downgrader*
 
