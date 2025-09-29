@@ -1,6 +1,43 @@
-**Current Version: 1.1.0*
+**Current Version: 1.1.1*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.1.1 -
+
+Updated:
+
+- AKs of the Wasteland (Chinese Assault Rifle - Galil - AKs Pack)
+- Revolvers of the Wasteland (.44 magnum - Python - Taurus 66 - Single Action Army - .32 pistol pack)
+- That Gun of the Wasteland (.223 Pistol - 556 Pistol - PKD Blaster)
+- SS2 FallUI Icons a CS Plugin
+- Improved Hostile Factions
+- Workshop Framework
+- Sim Settlements 2
+- Sim Settlements 2 - Chapter 2
+- Sim Settlements 2 - Chapter 3
+- Machine Gun Emplacement
+- Reaper's Munitions Patches
+- Junkernaught Raiders
+- Much Better 3rd Person Animations - MLVic's Edition
+
+Added:
+
+- MMLFaW bookshelf patch
+- IAF Alternate Animations
+- Colors To The Suitcases - BOS
+- No Creature Left Behind - Unarmed Weapon Effects
+- Power Armor Materials AND Paints (PAMAP) Revival
+- DiaRifles - SA80 - P90 - Barrett M107 - Mini-14(AC556) - AUG - M16 and more
+- Select Guitars
+- Crapmaster Junk Overhaul
+- WET - Water Enhancement Textures
+- WETTER
+- WAVE - Wave Animation Vanilla Enhanced
+- Fallout 4 - Hot Coffee
+- Disable Companion Collision
+- Cola Machines - Working Fans
+- Empty Tag Removed
+- Diver Suit Additions
 
 Version 1.1.0 -
 
