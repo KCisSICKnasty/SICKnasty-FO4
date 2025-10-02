@@ -1,6 +1,43 @@
-**Current Version: 1.1.1*
+**Current Version: 1.1.2*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.1.2 -
+
+Updated:
+
+- DiaRifles - SA80 - P90 - Barrett M107 - Mini-14(AC556) - AUG - M16 and more
+- Colors To The Suitcases - BOS
+- Visitors - Dynamically Creates Visitors To Your Settlements
+- RobCo - Deathclaws and Alike Creatures Don't Take Fall Damage
+
+Removed:
+
+- HFs - New Workshop Furniture
+
+Added:
+
+- Cut Addictions Restored
+- Dual .44 Magnums
+- The Juger Pistols
+- Dual-Wield Pack for DOOMBASED Merged Weapons
+- Dual Wield Extreme - DOOM MERGED Patch
+- Leah's Dual Wield Extreme
+- Select Throwing Knives
+- Select Power Bow
+- Vertipack Jetpack
+- Jetpack Prototype
+- Crude Rocketpack
+- L String Bow - Small Immersion Patch
+- Merge Plugins Tool (z-Edit - Override Mod Limit)
+- More Accurate Turrets and Mr Gutsys
+- Better Gnat Swarm Sounds
+- Workshop Object Properties
+- Smaller Meat
+- Cappy's Candy Cigarettes
+- Reb's Cappy's Candy Cigarettes Retextures
+- Doctor's Bag - Mustard's Party Favors
+
 
 Version 1.1.1 -
 
@@ -38,6 +75,7 @@ Added:
 - Cola Machines - Working Fans
 - Empty Tag Removed
 - Diver Suit Additions
+
 
 Version 1.1.0 -
 

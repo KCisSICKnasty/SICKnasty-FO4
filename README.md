@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.1**
+**CURRENT VERSION: 1.1.2**
 
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason. Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
@@ -316,6 +316,7 @@ Instructions:
 - SKKScriptLatencyTest.esp: Only enable if you're having significant lag. When enabled, you will automatically have a ring equipped that will show you location information. For details, check the mod's description (https://www.nexusmods.com/fallout4/mods/35853).
 - FCOM Custom Faction.esp: Only enable if you're prepared to use it. For details, check the mod's description (https://www.nexusmods.com/fallout4/mods/42402).
 - Face Ripper Presets.esp: Only enable if you're prepared to use it. For details, check the mod's description (https://www.nexusmods.com/fallout4/mods/3878).
+- AutoCellDisplay.esp: Only enable if you're prepared to use it. For details, check the mod's description (https://www.nexusmods.com/fallout4/mods/69978).
 
 
 **Tools:**
