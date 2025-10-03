@@ -73,7 +73,11 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	
 **Additional Downloads:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
-- Download M8r98a4f2's Complex Item Sorter version: 1.13 beta 2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
+- Download M8r98a4f2's Complex Sorter 1.13-beta2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "complex-sorter-support" channel)
+- Drag the zip file into MO2 under "Interface" separator. Enable the mod.
+- Download MCM Settings Manager - v1.3-beta2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "m8r-development" channel under "MCM Settings Manager")
+- Drag the zip file into MO2 under "Interface" separator. Enable the mod.
+- Download MCM_Booster_v1.1-beta2 from the Collective Modding Discord here: https://discord.gg/pF9U5FmD6w (file pinned in "m8r-docs-downloads" channel under "Downloads")
 - Drag the zip file into MO2 under "Interface" separator. Enable the mod.
 
 **NOTE: If Discord is not allowing you to access this file for whatever reason, I'm told by users that the Nexus version works fine. I cannot verify this, however.**
@@ -161,7 +165,6 @@ The version of FO4 that I've included for you is already downgraded! Check to be
 	- Set DisableBlackLoadingScreens to true (line 37)
 	- Set PostloadingMenuSpeed to 3.0 (line 51)
 	- Set OneThreadWhileLoading to false (line 84)
-	- Set FixOCBPSpeed to false (line 221)
 - If you use VRR, set InGameFPS (line 58) to a number you can reach across the majority of the game[3], it has to be between 48[4] and refresh rate - (refresh rate x 6.8%)
 - If you use fixed refresh rate (meaning no VRR), set InGameFPS (line 59) to your refresh rate - 0.005 or fractions of your refresh rate. For example on 60hz you can lock to 59.995 or 30. Just like on VRR, choose whether to lock to a fraction or RR-0.005 based on which is closest to your lowest FPS
 - If you set InGameFPS to a value higher than 60, do the following as well:
