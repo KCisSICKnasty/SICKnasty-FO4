@@ -1,5 +1,7 @@
 Nexus: https://www.nexusmods.com/
 
+Fallout 4 Script Extender (F4SE): https://f4se.silverlock.org/
+
 Synthesis: https://github.com/Mutagen-Modding/Synthesis/releases
 
 Powershell: https://github.com/powershell/powershell/releases
@@ -14,6 +16,8 @@ HUDCaps Fix: https://drive.google.com/file/d/1wjIGt01fCv8baTih-T4_dYmQUZvXIYkj/v
 
 XDI Wolfmark Fix: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
 
+NanaZip: https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-US&gl=US
+
 7-Zip: https://www.7-zip.org/
 
 Everything: https://www.voidtools.com/en-au/downloads/
@@ -27,3 +31,11 @@ Paint.net: https://www.getpaint.net/
 A Vault Dweller's Load Order Survival Guide: https://oddlittleturtle.com/load-order/
 
 Niero's Gumroad Textures: https://niero.gumroad.com/
+
+DLSS Swapper: https://github.com/beeradmoore/dlss-swapper/releases
+
+DLSS Upscaler: https://www.techpowerup.com/download/nvidia-dlss-dll/
+
+DLSS Framegen: https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/
+
+DLSS Ray-Reconstruction: https://www.techpowerup.com/download/nvidia-dlss-3-ray-reconstruction-dll/
