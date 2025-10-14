@@ -6,7 +6,7 @@ Synthesis: https://github.com/Mutagen-Modding/Synthesis/releases
 
 Powershell: https://github.com/powershell/powershell/releases
 
-xLODGen: https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-130-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
+xLODGen: https://mega.nz/file/hNwjkYQI#vzHQoXn-Ugj81vRL-L82eSUBcXnqUpTkZsXDxfYqnYE
 
 VC Redist: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
