@@ -10,7 +10,7 @@ xLODGen: https://mega.nz/file/hNwjkYQI#vzHQoXn-Ugj81vRL-L82eSUBcXnqUpTkZsXDxfYqn
 
 VC Redist: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-HUDCaps Fix: https://drive.google.com/file/d/1wjIGt01fCv8baTih-T4_dYmQUZvXIYkj/view
+HUDCaps Fix: https://mega.nz/file/8HYDHBpB#mMLUfFqaEd2TcvjZhinWu6GNp0vi4_CRLg5YrH7iAx4
 
 XDI Wolfmark Fix: https://drive.google.com/file/d/1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h/view
 
