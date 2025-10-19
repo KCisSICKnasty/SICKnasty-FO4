@@ -2,6 +2,8 @@ Nexus: https://www.nexusmods.com/
 
 Fallout 4 Script Extender (F4SE): https://f4se.silverlock.org/
 
+LOOT: https://github.com/loot/loot/releases
+
 Synthesis: https://github.com/Mutagen-Modding/Synthesis/releases
 
 Powershell: https://github.com/powershell/powershell/releases
