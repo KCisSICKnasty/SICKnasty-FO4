@@ -39,3 +39,5 @@ DLSS Upscaler: https://www.techpowerup.com/download/nvidia-dlss-dll/
 DLSS Framegen: https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/
 
 DLSS Ray-Reconstruction: https://www.techpowerup.com/download/nvidia-dlss-3-ray-reconstruction-dll/
+
+HavokMax: https://github.com/PredatorCZ/HavokMax/releases/
