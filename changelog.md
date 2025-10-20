@@ -1,6 +1,335 @@
-**Current Version: 1.1.2*
+**Current Version: 1.1.3*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.1.3 - 
+
+Updated:
+
+- Settler Outfitter
+- Jurttu's Mods Shared Assets
+- Jurttu's Interiors - Nuka-World
+- DiaRifles - SA80 - P90 - Barrett M107 - Mini-14(AC556) - AUG - M16 and more
+- Machine Gun Emplacement
+- You Are Exceptional - Skills and Perk Overhaul v1.18i
+- Dried Blood
+- Improved Hostile Factions
+- Improved Minutemen
+- Improved Nuka Raiders
+- Improved Railroad
+- Community Fixes Merged
+- Legendary Loot Expansion
+- The Musket - Like the Founding Fathers Intended
+- Reaper's Munitions Patches
+- Colors To The Clutter - BOS
+- Power Armor to the Improved People
+- KC's Unofficial Fallout 4 Patch Patches (UFO4PP)
+- KC's Looted World Patches
+- KC's Leveled Item Fixes Patches (LIFP)
+- KC's Community Fixes Merged Patches
+- Atom's retribution 2 DLC
+- Seen Some Fallen Leaf Piles
+- More Accurate Turrets and Mr Gutsys
+- Windows Gaming-Optimization Tweaker-Collection
+- Diamond City Expansion - eXoPatch
+- Revolvers of the Wasteland (.44 magnum - Python - Taurus 66 - Single Action Army - .32 pistol pack)
+- WETTER
+- PJM's Precombine - Previs Patching Scripts
+- Shady Motives - eXoPatch
+- Transmission Zeta - eXoPatch
+- Children of Ug Qualtoth-SrD-Patch
+- Jackify
+- More Diamond City Bounties
+- Companion Status Enhanced
+- Automatron Sentry Bot Reactor Glow Fix
+
+Removed:
+
+- Colors To The Toy Car - BOS
+- Colors To The Desk Fan - BOS
+- Colors To The Telephone Retexture - BOS
+- Recruit 2 Captive Raiders At Combat Zone
+- Recruit the Amnesiac Gunner as Settler
+- Recruit the Mourning Raiders as Settlers and Secondary Companions
+- Recruit Small Bertha and Tony - Wasteland Brats Patch
+- Recruitable Combat Sentry Prototype MKIV
+- No Objectives - A simple patch for LarannKiar's Recruitment Mods
+- Recruit The Mole Rat Lady And A Friendly Mole Rat
+- Recruit Parker Quinn As A Level 4 General Vendor Settler
+- Recruitable Friendly Gruel - Level 4 Restaurant Vendor
+- Recruitable Friendly Dando And His 2 Dogs Shug And Ruby
+- Recruitable Friendly Absalom
+- Recruit Slim As A Level 4 Chem Vendor
+- Recruit Opal As A Level 4 Weapons Vendor
+- Recruit Ness 2 Gunner Mercenaries As Settlers
+- Recruit Mikey And Ross As Settlers
+- Recruit Leonard Moore As A Level 4 General Vendor Settler
+- Recruit Jules Angie and Fred As Settlers
+- Recruit Friendly Skrap Rat and Bradlee and Mack and Audrey
+- Recruit Friendly Regi Blattaria
+- Recruit Evan And His 3 Dogs Kyle Kate Alissa
+- Bethany Recruitable Settler (Also A Level 4 Surgery Center Vendor)
+- 5 Recruitable Unique Traders And Level 4 Vendors
+- LarannKiar Recruitment Mods All-In-One Archive Pack
+- Recruit the Wounded Dog
+- Recruit the Thirsty and the Rad Poisoned Settler - Random Encounters
+- Recruit the Mariner as Settler
+- Recruit the Atom Cats as Settlers - Plus Settlement Option
+- Recruit Virgil as Settler
+- Recruit Trader Rylee as Settler
+- Recruit Tina De Luca - Bobby De Luca - Holt Combes
+- Recruit Timothy as Settler
+- Recruit Small Bertha and Tony as Settlers
+- Recruit Sierra Petrovita as Settler
+- Recruit Shelly Tiller as Settler
+- Recruit Scribe Haylen as Settler
+- Recruit Ricky Dalton as Settler
+- Recruit Random Encounter Settlers and Farmers
+- Recruit Private Hart as Settler
+- Recruit Phyllis Daily as Settler
+- Recruit Miranda as Settler - From Acadia
+- Recruit Magnolia as Settler and Singer
+- Recruit Mac as Settler - Level 4 Drink Vendor
+- Recruit Katelyn Alden as Settler
+- Recruit Kat and Gus as Settlers
+- Recruit Jule as Settler - From Acadia
+- Recruit Jenny (K1-98) as a Settler
+- Recruit Isabel Cruz as Settler
+- Recruit Institute Scientists and Synths as Settlers
+- Recruit Evan as Settler - Evan's Home as Settlement
+- Recruit Emogene Cabot as Settler
+- Recruit Dixie from Nuka-World
+- Recruit Darla as Settler
+- Recruit Cora - Level 4 Merchant from Nuka World
+- Recruit Clinton and Charlie as Settlers
+- Recruit Cassie Dalton as Settler
+- Recruit Arlen Glass as Settler
+- Recruit Amelia and Old Man Stockton
+- We Are The Minutemen - FaceGen data
+- XDI - America Rising 2 (AR2) Patch
+- SS2 - XDI Compatibility Patch
+- The Machine and Her XDI patch
+- Maxwell's World XDI Patch
+- Rusty Face Fix
+- Classy Chassis Outfits - Cait's Corset
+- Classy Chassis Outfits - Heather Casdin Replacer
+- Wet Body Fix (Specular - Glossiness fix)
+- Expressive Expressions
+- Optimization Patches Collection
+- WET - Water Enhancement Textures
+- WAVE - Wave Animation Vanilla Enhanced
+- Fallout Texture Overhaul Stars
+- Game Configuration Menu
+- Bunker Hill Vendors Fix - Kay and Joe Savoldi Actually Sell Things
+- Cosmic Body - A CBBE and Fusion Girl BodySlide Preset
+- Perchik71 - In Game MOD Explorer (MCM)
+- Targeted Textures Extended (TTE)
+- Fallout 4 HD Overhaul 2k
+- Fallout 4 - Hot Coffee
+- Wicked Rad Lightning
+- Outfits Workbench
+- Outfit Workbench Additions
+- Munitions - Additional Ammo
+- Munitions - Additional Ammo Crafting Patch
+- Munitions - Additional Ammo - ECO Crafting Recipes
+- Munitions - 40mm and 25mm Grenade Casing Fix
+- Shotgun Shell Casing Tweak
+- T-51 Decapitation Fix
+- Glowing Glass Fix
+- Nuka Cola Quantum Label fix
+- F4 Killing the bugs 2
+- Synth Overhaul - C.A.S.T
+- 4estGimp - Synth Overhaul Complex Sorter ini
+- Cut Content - Companions React to Murder
+- Simple Attack Reactions - Limb-Specific Animations
+- Simple Attack Reaction Speed (Fix)
+- Simple Dodges - Sidestep Dodges and Dodge Rolls
+- Simple Dodges Addon F4SE - iframes - AP cost - etc
+- First Person Dodge - Actor Velocity Framework
+- Far Harbor 3D Tree LODs
+- FAR - Faraway Area Reform
+- Immersive Dogmeat - Smart - Silent - Sneaky
+- Generic Companions Expansion
+- Generic Companions Expansion 2
+- Faster Getup
+- NPCs Change Clothes
+- Addiction Overhaul
+- Blocking Overhaul
+- Real HD Face Textures 2k
+- Bug Fix - Caravan Guard Under Armor
+- Better Fusion Core Management - F4SE
+- Enjoy the Darkness - Flashlights and Night Vision Use Fusion Cells and Overheat - Plus Stealth Fix
+- Npc18's Standalone Synth Armour
+- Tumbajamba's Synth Combat Armor 4 NPC
+- Revolvers of the Wasteland (.44 magnum - Python - Taurus 66 - Single Action Army - .32 pistol pack)
+- Less Annoying Water Foam Circles
+- Chembench Uncluttered- Rearranged Crafting
+- Institute Teleportation for Survival Mode
+- L String Bow - Small Immersion Patch
+- Aggressive synth voice overhaul
+- Sailboat Abode - A Fast Travel Ship
+- Sailboat Abode - Point Lookout Patch
+- StoryWealth - DeserterX Outfits Eslified
+
+Added:
+
+- Mirelurk Hunter Spit Does Acid Damage
+- TAA Flicker Fixer
+- BodySlide OSP Base Generator (Automatic SliderSet Template Tool)
+- Psyker Powers 2.0
+- Children of Ug Qualtoth VATS enabled (and ESL-ified)
+- Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
+- America Rising 2 - Deleveled (NPCs Scale with You)
+- Vendors Sell Dak's Attachments
+- Jurttu's Interiors - Far Harbor
+- T6M's Anti-Air Launcher (Fliegerfaust and Such)
+- Enhanced Robot Settlers
+- Minute's Notice - a Sim Settlements 2 Minutemen Faction Pack
+- RobCo - Assaultron Head Laser Ignores Resistance
+- Automatron - Robobrain Mesmetron Cripples Heads
+- Automatron - New Robobrain Heads
+- RobCo - Marine Wetsuit And Helmets Give SPECIAL Stats
+- Immersive Barber Chair
+- Immersive Surgery Chair
+- Immersive Water Pump
+- Immersive Water Pump - Powered
+- Immersive Weight Bench
+- Blood Fixes
+- Deadeye - Mod added Races and NPC Patch
+- CROSS_Chosen_Of_Atom
+- Atom Cat Settlers
+- Assaultron Melee Impact Fix
+- Nuka Cola Baron - Become a Vending King
+- CBBE NPC HeadRear Fix Remake
+- Death Report
+- BOS100 Fire Support CHECK YOUR FIRE fix
+- SKK Object Counter
+- Sentry Cowl Fix
+- True Damage - Munitions Patch
+- Savrenx Dogmeat HD V2
+- Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton
+- Nick Valentine Reborn - Compatibility Fix
+- Looks Menu Customization Compendium Fix
+- AFT Plus CIS ini fix
+- Wet Effects CIS ini fix
+- Beast Master CIS ini fix
+- The Forest - LOD fix for FOLIP
+- America Rising 2 - Quartermaster Barratt's Inventory Expanded - Featuring patches for Lima Detachment and Enclave Perk Magazines
+- America Rising 2 - Choo Choo - Going Dark Triggers After Coming Back from the Institute
+- Pra's Synthesis Patchers
+- Michael's xEdit Scripts
+- Zetamorphs - Alien Creature and Zetan Weapon
+- The Midnight Ride Resources
+- Sim Settlements 2 - Subversion Quest Recognition Patch
+- Tenhats' Ultimate Settlement Tutorial
+- Mod Auto-Installer MO2 plugin
+- MO2 Remove all ignore update flags
+- Improved Batch Plugin Cleaner for Mod Organizer
+- Wabbajack NoDelete Automatic Indexer plugin for MO2
+- Undo Move MO2 Plugin
+- Filetree Auto-Expand Plugin for Mod Organizer 2
+- MO2 Hidden File Previewer
+- LOOT Warning Checker MO2 Plugin
+- Install Multiple Mods MO2 Plugin
+- DLSSTweaks
+- Mod Manager Migrator
+- Enhanced Vanilla Water
+- Enhanced Vanilla Asphalt Roads
+- Enhanced Vanilla Plants
+- Enhanced Vanilla Rocks
+- Enhanced Vanilla Vines
+- Targeted Textures - Vanilla textures upscaled fixed and sized
+- FlaconOil's Complete Retexture Project -in progress-
+- Improved Emergency Light
+- Perfect landscape by Pfuscher
+- ZP's Frost and Shock
+- ZP's Fire and Smoke
+- Prototype Z - Prototype Energy Weapon
+- Sonic Neuralizer - A Zetan Abduction Gun
+- JU Helmets Redux
+- 4estGimp - JU Helmet Redux Raider Overhaul One Injection
+- Dak's Ballistic Mask
+- Very Zen Dak's Ballistic Masks
+- 4estGimp - Dak's Ballistic Mask for Raider Overhaul One
+- Ghostwire Tokyo Masks
+- 4estGimp - Ghostwire Tokyo Masks Raider Overhaul One Edit
+- Better Unique Pickman's Blade (Standalone)
+- Combat Rifle Attachment And Weaponry Expansion - Rat Runners Arsenal
+- Dynamic Guard Mats
+- Dynamic Store Mats
+- Nixie Wall Clocks
+- VertiCall 4 Settlements - Reliable Vertibird Landing Pads For Workshop
+- NISTRON Sound System
+- ARMSTRONG AND DUKE
+- Armstrong and Duke Overhaul
+- Flapjack Automatic Grenade Launcher
+- Far Harbor Evergreens - A Pine Tree Retexture
+- Shot 4 Shot - (Charging Reload Suite)
+- Daktachment pack heat shield now uses muzzle slot Patch
+- Syringer Stocks - Attachment Pack Addon
+- SS2 and Institute Technology Overhaul Version 2 Integration Patch
+- Enclave and Minutemen Settlers Spawn at Poseidon Energy Turbine 18F
+- Simple Swinging Meat Bags
+- Fourville Enclave Power Armor Door FIx
+- FNV to FO4
+- Dynamic Activation Key
+- Alternative Activation Prompts
+- Workshop Menu Manager
+- BSArchPro
+- Synthesis
+- Place Everywhere
+- Fallout 4 DDS Image Viewer
+- Improved America Rising 2 Enclave FCOM Patch Faction Fix
+- Wrye Bash
+- DLSS 4 Universal Upgrade
+- F4z Ro D-oh - Silent Voice
+- No PA Battery Pathing
+- Flashlight Stealth Fix
+- Children of Atom Power Armor - Stat Buff
+- Attachment Pack - Turrets
+- RowanSkie's FallUI Icon Library
+- Blue Hills Research Facility (Horror Dungeon)
+- Vibe Coding xEdit
+- Enclave X-02 Black Devil Power Armor
+- 4estGimp - Enclave X-02 PA Black Devil INNR_ini
+- Automatron - Better Weak Weapons
+- Submersible Power Armor Redux - BioShock Inspired
+- Vanillified - Submersible Power Armor Redux
+- 4estGimp - Submersible PA Redux CIS INNR ini
+- Custom Optics
+- America Rising 2 - Classic Remnants Power Armor AR2 Armor Paintjob (Redux)
+- T6M-Spadey's Unreal Rocket Launcher
+- Unused Map Markers - Cut Content Restored
+- Immersive Teleportation 2
+- IT2 4 SS2
+- Elevenlabs Batch Generator
+- FROST - LString Bow Patch
+- MS Auto Workshop Radio
+- Workshop Plus
+- aSW Expanded - Assorted Patches
+- OLD WORLD RADIO - Base Object Swapper
+- The Red Wave V2 (Far Harbor Update) - Personal Traveling Boat
+- 50 Shades Of Rust
+- 50 Shades Of Rust - Rusty Rockets
+- 50 Shades of Rust Darker Mass Fusion Sign LOD
+- Lucid's Texture Upgrades
+- Grime Ash Moss Enhanced (GAME)
+- Peeling Posters - Weathered paper based signs
+- Santa's Little Helpers - Merry Modding Days 2024
+- Esl Patch Hub
+- PipSaver
+- Dynamic Smudged Screens - PipSaver
+- Real Dynamic Pip-boy Smudges
+- No Pip-Boy Light
+- Black Widow Armor - Tactical Optics
+- West Tek Tactical Optics - Reflex Sights Fix
+- MOFAM - An Advanced Guide and Modlist for Fallout 4
+- BSA Browser
+- Kezyma's Mod Backup Utility
+- Shady Motives - Instance Naming and ECO Redux Patch
+- CROSS Gore Crits - Skeleton flicker FIX
+- 4estGimp - CROSS Crit Gore-verhaul Compacted for ESL
+
 
 Version 1.1.2 -
 

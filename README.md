@@ -92,20 +92,11 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Change the bottom path to "(whatever you named your install location)/game/Fallout4.exe"
 
 
-*Auto Clean All Fallout 4 DLC and CC Next Gen Edition*
-
-***Feature:*** Batch base, DLC, and NGCCC plugin cleaner.
-
-- In MO2, click on the drop-down in the right pane next to the Run button
-- Select BatchCleanPlugins and run it
-- When the xEdit screen appears, click "Ok"
-- When you see the message "Background Loader: finished", close xEdit
-- Repeat until it says complete
-
-
 *Bethini Pie*
 
 ***Feature:*** Optimal ini tweaks at the push of a button.
+
+Instructions:
 
 - In MO2, click on the drop-down in the right pane next to the Run button
 - Click <Edit...>, then the "+" symbol in the top left, and "Add from file"
@@ -131,6 +122,8 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 **NOTE:** I provide a pre-configured version of HFPSPF's ini, though the InGameFPS is set for a Fixed Refresh rate of 60. If that setup doesn't fit yours, you'll have to follow the steps below to tailor it to your rig. Otherwise, you can skip this step.
 
+Instructions:
+
 - Double click "The SICKnasty Suite - Resources - SICKnastySETTINGSconfig" in MO2 under the "The SICKnasty Suite - Resources" separator
 - Navigate to the "INI Files" tab
 - Click on "F4SE\plugins\HighFPSPhysicsFix.ini"
@@ -143,11 +136,25 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 *Place Everywhere*
 
-***Feature:*** 
+***Feature:*** What it says on the tin.
+
+Instructions:
 
 - Double click "Place Everywhere - Place.ini - togglable" in MO2 under the "Utilities" seperator
 - Set hotkeys to your liking (or don't if you choose not to use the mod)
 - In game, press F8 to activate "place-everywhere" mode (off by default)
+
+*Collective Modding Toolkit*
+
+***Feature:*** Downgrader, archive patcher, file scanner, and so much more (in this case, downgrading the base game, DLC, and Creation Club BA2).
+
+Instructions:
+
+- In MO2, click on the drop-down in the right pane next to the Run button
+- Select "Collective Modding Toolkit" and run it
+- In the UI window, click "Archive Patcher"
+- Select "Patch All" in the top right of the resulting window
+- Close Collective Modding Toolkit
 
 
 **LAUNCHING THE GAME:**
@@ -170,7 +177,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 Amazing FollowerTweaks Plus (AFT Plus) allows you to also edit your spouse's appearance. So, if you would like to utilize this feature, this is when!
 
 
-*MCM*
+*Mod Configuration Menu*
 
 After leaving the vault, you'll want to actually open up MCM for the first time:
 
@@ -182,6 +189,9 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 - In Power Armor Handling Improvements - Retain Armor Buffs, set "Remove Armor on PA Entry:" to "Auto"
 - Configure Condition Boy to your liking
 
+**NOTE:** I am currently unable to create an MCM Preset, but if you are willing to share yours with me, I will ship it with the list! (:
+
+
 *Holotape*
 
 You also have your Pipboy now! Time to put a holotape in it:
@@ -191,7 +201,7 @@ You also have your Pipboy now! Time to put a holotape in it:
 
 **OPTIONAL:**
 
-I ship the list with a lot of tools that I used to curate the list. Since they're completely optional, it's up to you to explore their use. (Or you can just ping me in my Discord! I love to help! :D) You'll find them in the "tools" folder in your install location. I will, however, go into the following 2:
+I ship the list with a lot of tools that I used to curate the list. Since they're completely optional, it's up to you to explore their use. (Or you can just ping me in my Discord! I love to help! :D) You'll find them in the "tools" folder in your install location. I will, however, go into the following 3:
 
 
 *FO4Edit*
@@ -204,6 +214,19 @@ Instructions:
 - Add "FO4Edit" as an executable in MO2 (FO4Edit 4.1.5f>Optional>FO4Edit64.exe)
 
 **NOTE:** Use the 64 version of FO4Edit for everything involving it. Using the normal version will result in xEdit crashing due to too many mods.
+
+
+*VRAMr*
+
+***Feature:*** Optimizes textures for single mods or your entire load order.
+
+Instructions:
+
+- In your install location, open a folder called "guides"
+- Open the "VRAMr" folder
+- Open "VRAMr FO4 User Guide v1.pdf" and follow the instructions
+
+**NOTE:** I am currently unable to create a VRAMr output to ship with the list. If you have some time and are willing to share your output with me, I'll include it! (:
 
 
 *Personal Radio*
@@ -252,7 +275,7 @@ The following plugins are disabled after patch generation:
 - **Optimized Vanilla Tree LODs.esp**
 
 
-If you see a mod has hidden or missing files, **THIS IS INTENDED!!!** This means that its files have been packed into one of the mods under "Workfiles" separator or hidden because one of my outputs overwrites it. This is done so I can repack all of my outputs without any loose files overriding them. **DO NOT REINSTALL THESE MODS!!!**
+If you see a mod has hidden or missing files, **THIS IS INTENDED!!!** This means that its files have been packed into one of the mods under "Workfiles" separator or hidden because one of my outputs overwrites it. This is done so I can repack all of my outputs without any loose files overriding them.
 
 
 **OUTRO:**
