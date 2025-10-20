@@ -185,7 +185,7 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 - Set VAFS hotkey
 - Turn True Storms on
 - Turn Bullet Counted Reload on
-- In Workshop Plus, set "Fly in Workshop Mode" to "OFF" and set hotkeys
+- In Workshop Plus, set "Fly in Workshop Mode" to "OFF" and set hotkeys (or remember to NEVER use a jetpack in Workshop Mode, *or else*)
 - In Power Armor Handling Improvements - Retain Armor Buffs, set "Remove Armor on PA Entry:" to "Auto"
 - Configure Condition Boy to your liking
 
