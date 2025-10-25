@@ -293,7 +293,7 @@ Always welcome if their through the correct channel in my Discord server. Howeve
 - Anything by QRSR
 - Anything by Halffaces
 - Anything by MunkySpunk
-- Any of DegenerateDak's weapons (what's in the list are the only exceptions)
+- Anything by DegenerateDak (what's in the list are the only exceptions)
 
 **Ways you can make my day:**
 
