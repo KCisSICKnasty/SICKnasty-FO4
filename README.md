@@ -196,7 +196,11 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 
 You also have your Pipboy now! Time to put a holotape in it:
 
--See Through Scopes: Turn on Tactical Reload
+-See Through Scopes:
+
+	- Navigate to [PATCHES] section
+	- Toggle Tactical Reload
+	- Toggle LString
 
 
 **OPTIONAL:**
