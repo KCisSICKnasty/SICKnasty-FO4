@@ -43,3 +43,5 @@ DLSS Ray-Reconstruction: https://www.techpowerup.com/download/nvidia-dlss-3-ray-
 HavokMax: https://github.com/PredatorCZ/HavokMax/releases/
 
 Java: https://www.java.com/en/
+
+AutoHotkey: https://www.autohotkey.com/download/
