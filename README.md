@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.3**
+**CURRENT VERSION: 1.1.4**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite**
 
@@ -15,7 +15,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - **Freshly installed** Steam copy of Fallout 4 ver.1.10.984.0 (NG update)*
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 460 GB of space
+- *Roughly* 392 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - ***Patience***
 
@@ -205,7 +205,7 @@ You also have your Pipboy now! Time to put a holotape in it:
 
 **OPTIONAL:**
 
-I ship the list with a lot of tools that I used to curate the list. Since they're completely optional, it's up to you to explore their use. (Or you can just ping me in my Discord! I love to help! :D) You'll find them in the "tools" folder in your install location. I will, however, go into the following 3:
+I ship the list with a lot of tools that I used to curate the list. Since they're completely optional, it's up to you to explore their use. (Or you can just ping me in my Discord! I love to help! :D) You'll find them in the "tools" folder in your install location. I will, however, go into the following 2:
 
 
 *FO4Edit*
@@ -233,22 +233,9 @@ Instructions:
 **NOTE:** I am currently unable to create a VRAMr output to ship with the list. If you have some time and are willing to share your output with me, I'll include it! (:
 
 
-*Personal Radio*
-
-***Feature:*** Add up to 200 music tracks to the game!
-
-Instructions:
-
-- Add "MultiXwm" as an executable in MO2 (install location > tools > MultiXwm.exe) and Run it
-- Drag your chosen tracks into the to resulting window
-- Convert all to XWM format (recommended to use the default program bitrate) and export it wherever (NOTE: You must keep the old file name like 1.xwm, so rename them before exporting!!!)
-- In MO2, navigate to Personal Radio (and/or Personal Radio 2) under "KC's Mods" separator, right click the mod, and choose "open in explorer"
-- Drag all the tracks from where you exported them into the folder "sound\fx\mus\radio\PersonalRadio", replacing the files with yours when asked
-- In game, tune into your MyRadio station, and enjoy!
-
-
 *Optional mods*
 
+- **Personal Radio (ESL version with randomizer)** *(if you want to add your own music to the game)*: https://www.nexusmods.com/fallout4/mods/89156
 - **flipped condition boy** *(if you move your HUD around)*: https://www.nexusmods.com/fallout4/mods/74464
 - **Equalizer PA - Next Gen - Old Gen - Version** *(if you don't like the Maryland flag retexture and want to change it)*: https://www.nexusmods.com/fallout4/mods/90881
 - **Mutant Menagerie - Life Finds A Way - No Spider Patch** *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
@@ -257,6 +244,7 @@ Instructions:
 - **Gumroad CROSS Enhanced Textures** *(use discount code "cross99off" to get them for free)*: https://niero.gumroad.com/
 - **CROSS_Chosen_Of_Atom Enhanced Textures** *(Niero's public Patreon post)*: https://www.patreon.com/posts/cross-chosen-of-25213700
 - **Perchik71 - In Game MOD Explorer (MCM)** *(good tool, hard to understand)*: https://www.nexusmods.com/fallout4/mods/56922
+- **FCOM 3.0 Custom Faction Template** *(make your own FCOM crew)*: https://www.nexusmods.com/fallout4/mods/42402
 
 **NOTE: If you download the Gumroad CROSS textures, you'll have to install them as a mod in MO2 and unpack any of them that are in BA2. I include Unpackrr and Cathedral Assets Optimizer. Unpackrr has a mod page on Nexus with instructions.**
 **NOTE: If you change the Maryland flag texture on the Equalizer PA, I will cry.**
@@ -266,20 +254,19 @@ Instructions:
 
 Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
 
-- **SKKScriptLatencyTest.esp:** https://www.nexusmods.com/fallout4/mods/35853
-- **SKKObjectCounter.esp:** https://www.nexusmods.com/fallout4/mods/70733
-- **FCOM Custom Faction.esp:** https://www.nexusmods.com/fallout4/mods/42402
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
 - **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
 
 
-The following plugins are disabled after patch generation:
-
-- **FO4LODGen.esp**
-- **Optimized Vanilla Tree LODs.esp**
-
-
 If you see a mod has hidden or missing files, **THIS IS INTENDED!!!** This means that its files have been packed into one of the mods under "Workfiles" separator or hidden because one of my outputs overwrites it. This is done so I can repack all of my outputs without any loose files overriding them.
+
+
+**A note on lore:**
+
+The SICKnasty Suite is a LORE-FRIENDLY modlist...depending on your definition. I personally do not find assets used in other games to be breaking the lore, IF implemented in a lore-friendly way. I also tolerate a small amount of Wild Wasteland-esque 4th wall breaking. *That being said, however.* There are exactly 2 mods in the list that have non-lore friendly content that I excuse as Wild Wasteland encounters:
+
+- **Submersible Power Armor Redux - BioShock Inspired** *(self-explanatory; included because other mods require it)
+- **Faction Reinforcements** *(Mechachu; just don't use him if it's that bothersome)
 
 
 **OUTRO:**
@@ -291,12 +278,11 @@ This mod list was made by me and only me. That's not by choice, it's just how it
 
 Always welcome if their through the correct channel in my Discord server. However, there are guidelines on what not to suggest:
 
-- Anything lore breaking (there are exceptions and they are already included)
 - Texture overhauls (use GVCM if you don't like the colors, but I wont budge on what I've concocted)
 - Anything by Thuggysmurf
 - Anything by QRSR
-- Anything by Halffaces
-- Anything by MunkySpunk
+- Anything by Halffaces (please, ask me why~)
+- Anything by MunkySpunk (what's in the list are the only exceptions)
 - Anything by DegenerateDak (what's in the list are the only exceptions)
 
 **Ways you can make my day:**

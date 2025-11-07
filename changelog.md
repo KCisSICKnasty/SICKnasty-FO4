@@ -1,6 +1,491 @@
-**Current Version: 1.1.3*
+**Current Version: 1.1.4*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.1.4 -
+
+Updated:
+
+- Much Better 3rd Person Animations - MLVic's Edition
+- Doc Drumlin by SKK
+- Wasteland Combat Arena - Quest and Framework
+- Legendary Loot Expansion
+- Settler Outfitter
+- Previsibines Repair Pack Stable Branch - PRP
+- Elevenlabs or Minimax Batch Generator
+- PJM's Precombine - Previs Patching Scripts
+- Tumbajamba's Minutemen - eXospanded
+- Transmission Zeta - eXoPatch
+- 4estGimp - CROSS Armor Complex Item Sorter INNR ini
+- Creation Kit Platform Extended for Fallout 4
+- More Accurate Turrets and Mr Gutsies
+- Workshop Framework
+- Sim Settlements 2
+- Sim Settlements 2 - Chapter 2
+- Sim Settlements 2 - Chapter 3
+- Rise of the Commonwealth for Sim Settlements 2
+- KC's You Are Exceptional Companion Compatibility Patch Hub
+- Automatron - Better Robobrain Mesmetron
+- Colors To The Clutter - BOS
+- It has been a long road - More than roads Retexture with AIO
+- 4estGimp - Liberty Power Armor CIS INNR ini
+- 4estGimp - Newermind43 Power Armor Complex Item Sorter INNR ini
+- 4estGimp - TES-51 Power Armor CIS INNR ini
+- 4estGimp - Enclave X-02 PA CIS INNR ini
+- 4estGimp - Enclave X-02 PA Black Devil INNR_ini
+- 4estGimp - Submersible PA Redux CIS INNR ini
+- No Sneaking in Power Armor
+- BA2 Archive Version Patcher
+- Assorted Modular Tweaks - ESPless
+- FORTITUDE
+- Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
+- Chew 4 Glue
+- Jurttu's Interiors
+- FORTITUDE Additions - Perk To More Creatures Or NPCs
+- NifSkope
+- The Musket - Like the Founding Fathers Intended
+- America Rising 2 - Echoes of the Past Alignment Patch
+- Auto Clean All Fallout 4 DLC and CC Next Gen Edition
+- True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)
+
+Removed:
+
+- Footsteps for winter mods
+- Dak's Explosive Pack
+- Cappy's Candy Cigarettes
+- Far Harbor Boat Fast Travel
+- Nuka-World Monorail Tram Fast Travel
+- RAW INPUT - The Ultimate Mouse Sensitivity Fix
+- WBGF - Wire Barrel Gobo Fix
+- Knight Varham Is Not a Vault Dweller
+- Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)
+- Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)
+- RobCo Patcher - Cats Give Happiness
+- Kid in a Fridge - The Slog Peabodys (Settlers)
+- CROSS Crit Gore-verhaul - Synth Addon
+- Flashlight Replace
+- The Pip-Boy Glove
+- Pip-Boy Glove Integration Patch
+- Biohazard Suit Redux
+- Biohazard Suit CBBE Bodyslide
+- Magic 8-Ball
+- Another Another Millenia - A Weapon Pack
+- Another Another Millenia Pack - Tweaks and Fixes
+- Pig's Wasteland Weaponry - A Best Of Pack
+- Pig's Wasteland Weaponry - Raider's Armaments
+- Mary Jane
+- Deadly Coursers (Simplified Courser Crusher)
+- Alias - Unique Dynamic name generation for NPCs
+- Alias Framework Expanded
+- Alias - Introduction Needed
+- We Are The Minutemen - An Alias Introduction
+- AOEP - Covenant Security
+- CROSS Crit Gore-verhaul patch for Selakii's Heavy incinerator Flamer and Tesla Receivers
+- Midnight Cult Fix
+- Protectron Head Actuated Frame With Light
+- Lightweight Lighting Extended (LLE)
+- Horrorghouls soundpack
+- PipSaver
+- Dynamic Smudged Screens - PipSaver
+- Real Dynamic Pip-boy Smudges
+- CROSS Crit Gore - Wattz 3000 mkII Patch
+- Pip-Boy W.S. Vault 111 Rusty Appearance
+- The Eyes of Beauty Fallout Edition - Remastered
+- Nuanced Eye Reflection
+- Laser Charging Barrel Fix
+- BOS100 Fire Support CHECK YOUR FIRE fix
+- Lucid's Texture Upgrades
+- Grime Ash Moss Enhanced (GAME)
+- Atom's Warriors - Zealot Theil and Ware Companion Mod
+- Cito's Adventure - Cito Companion Mod
+- RowanSkie's FallUI Icon Library
+- Uneducated Shooter - QE Leaning and Gun Inertia
+- eXofied Settlers - We Better be Varied and Real
+- unBallistic Gatling Laser (Pure Energy)
+- New Grenade Explosion Sound
+- Broadsider SFX Replacer
+- Better Sound for Machine Gun Emplacement
+- Wasteland Wonderglue - FaceGen Edition
+- VULGAR Banner
+- VULGAR Bollard
+- VULGAR Chainlink Fence
+- VULGAR Guard Rail
+- VULGAR Spotlight
+- VULGAR UtilityPole
+- VULGAR Water Tower
+- Perkitin - New Addictive Chem
+- Less Loot - Assorted Locations and Quest Mod Patches for Survival
+- Mod Holotapes Begone - Patch Collection
+- Custom Optics
+- Transferrable Caps
+- 4estGimp - Rifles Rebirth Edit and Replacers
+- Replaceable Armor Plates
+- Replaceable Armor Plates aSW Patch
+- Proto LL Override Patch Utility - PLOP
+- MM LFAW - PLOP
+- Eyes and head tracking Angles Blinking expressive natural face morphs
+- 4estGimp - T-49 - Armor of the Storyteller PA CIS INNR ini
+- Salvage Beacons
+- The Wasteland Codex - Interactive Lore Database voiced by The Storyteller
+- Driveables of the Commonwealth APC
+- Deliverer Double Casing Fix
+- CSEP Presents Loaded Bases 2.0 - The Final Chapter - Quest Mod
+- CSEP Loaded Bases Reputation and Karma Patch (Experimental)
+- Loaded Bases - eXoPatch
+- Munitions Ammo Crafting Patch
+- Seen Some Distressed Asphalt road
+- Seen Some Fallen Leaf Piles
+- Discharger Laser Pistol - A Dak Energy Weapon
+- Dak's Ballistic Mask
+- Very Zen Dak's Ballistic Masks
+- 4estGimp - Dak's Ballistic Mask for Raider Overhaul One
+- The Attachment Pack
+- America Rising 2 - The Attachment Pack Compatibility Patch
+- Attachment Pack Unofficial Expansion and Refinement
+- Attachment Pack Unofficial Expansion - Elemental Damage
+- Attachment Pack - Description Tweaks and Fixes
+- Daktachment pack heat shield now uses muzzle slot Patch
+- Patch for FIS and The Attachment Pack
+- Attachment Pack - Turrets
+- Vendors Sell Dak's Attachments
+- Syringer Stocks - Attachment Pack Addon
+- Transmission Zeta - X-Cell patch
+- Toy Commandos
+- InstitutePowerArmor
+- Institute Power Armor Redux
+- Secret Service Armor
+- Secret Service Armor CBBE bodyslide files
+- Stronger Secret Service Armor AND FIXED MATERIALS (SSA Material Fix)
+- Secret Service Armor Jetpack Animation Patch
+- Fallout London - Standalone Releaser
+- FOLON Standalone Releaser - Reduced
+- Conduit Connection Fix
+- Toolbox Packer
+- Cow Plushie - Plush Cow
+- Spider Plushie - Plush Spider
+- Yangtze Buff
+- KCI - Kellogg's Cybernetic Implants
+- Crude Rocketpack
+- Jetpack Prototype
+- Vertipack Jetpack
+- Throwable bullet casing (dubbed ESL)
+- Useful (and ESL-ified) gas masks (Options A or B)
+- More Robot Repair Kits
+- Diver Suit Additions
+- SuperAlloys - Enhanced Power Armor Paints and 4k Textures
+- See Through Scopes (STS) T-45 Power Armor Clipping Fix (including SuperAlloys Tesla Coils T-45)
+- Drink Up - Prewar Coffee Fix
+- Bug Fix - Ellie Perkins
+- Bug Fix - Hired Gun
+- Bug Fix - Stan Slavin
+- Bug Fix - Virgil
+- Give Me That Bottle Rehydrated
+- Gloomy Glass - All transparent materials revised
+- Northern Foothills Rocks Fix
+- More Locations from Wasteland Survival Guide Issue 5
+- Grenade Sound Options
+- ZP's Fire and Smoke
+- We Cook With Fire (Cooking with Fire)
+- C Spore Carrier
+- C Rad Parasite
+- DiaRifles - SA80 - P90 - Barrett M107 - Mini-14(AC556) - AUG - M16 and more
+- Jetpacks FAO v5
+- Jetpacks FAO Improved Carrying Capacity
+- Crapmaster Junk Overhaul
+- Power Armor Melee Weapons
+- Vertibird Sword (dubbed ESL)
+- Vertibird Sword - Power Armor Melee Weapons Patch
+- Lore-Based Loading Screens
+- FCOM 3.0 Custom Faction Template
+- New tactical vertibird sounds
+- FORTITUDE - SCOURGE Addon Fix
+- AML 75 Missile Launcher
+- Bovine Intervention - Brahmin Overhaul
+- C WarCat
+- DOOMBASED Weapons Merged (Weapon Pack)
+- Raiders use DOOMBASED Weapons (dubbed ESL)
+- Power Pistol Pack (DoomBased)
+- Power Shotgun Pack (DoomBased)
+- Dual-Wield Pack for DOOMBASED Merged Weapons
+- Dual Wield Extreme - DOOM MERGED Patch
+- Leah's Dual Wield Extreme
+- ECO DOOMBASED Patch (dubbed ESL)
+- Dogmeat's Backpack
+- Dogmeat's Backpack Armor Patch
+- Dogmeat's Backpacks of the Commonwealth
+- Starved Concord Deathclaw
+- MAYPOLE - Raid Boss And Ghoul Power Armor
+- ARMSTRONG AND DUKE
+- Armstrong and Duke Overhaul
+- JU Helmets Redux
+- Heavy helmet Maska-1SCH
+- 4estGimp - JU Helmet Redux Raider Overhaul One Injection
+- 4estGimp - Heavy Helmet Maska-1SCH Edit Compacted
+- MikeMoore's MCAM - Melee Collectable and Adventure Mod (Weapon Pack)
+- MCAM Reduced
+- Furby's MCAM Retextures
+- Chainshot Attachment for Broadsider
+- CC Heavy incinerator Flamer and Tesla Receiver
+- XXL Nukes (Nuclear Explosions Overhaul)
+- XXL Nukes (dubbed ESL)
+- XXL Nuka-Nuke Patch
+- Grenade Retrieval System
+- CUT_CONTENT__RESTORED_LootEpicItem_comments
+- Personal Radio (ESL version with randomizer)
+- Auto-Stim Healing Rifle
+- Prydwen Companion Drop Fix
+- Elevator Direction Indicator Fix
+- Takahashi's Pot of Noodles
+- Biotic Blaster - Team Support gun
+- Dynamic Activation Key
+- Alternative Activation Prompts
+- Immersive Pip-Boy Radio
+- Adjustable VATS Speed - Tweaks - Fixes (F4SE)
+- Lightweight Lighting and True Storms Integration Patch
+- Lightweight Lighting and True Storms Integration Unofficial Update
+- Seasons Change - True Storms OR Vivid Weathers Patch
+- Bug Fix - Norwegian Ghoul
+- Project Zeta - Power Armor Weapon Animations Fix
+- Simple Quick Start
+
+Added:
+
+- A Small Companion - Bubo The RoboPeng
+- Power Armor Animation Patch Hub
+- Unleveled World - F4SE
+- Encounter Zone Recalculation (Continuous Level Scaling)
+- Slocums Buzzbites recipe collectible magazine
+- Vintage Nukas - Powerful New Sodas
+- Bawls Sodas - Redux
+- Cactus Coolant Soda
+- Point Lookout Creature Expansion Redux
+- Strip Skeletons and Mannequins
+- Sneak and Critical Attack Sound Restored
+- Paladin Sword - A Brotherhood of Steel Melee Weapon
+- The Power Drill - Old World Addon Project
+- Makeshift Melee Weapon Pack
+- The Weed Wacker
+- Auto Mine
+- RobCo Patcher - Ragged Thunder
+- Plasma Jezail - Long Range Plasma Rifle
+- Starlight Drive-In Working Speakers
+- Pepper Shaker and Grahm (Fallout 76)
+- Crusader Pistol
+- Industrial Gauntlet
+- Crusader Anims
+- Hellstorm Missile Launcher
+- Skewer Launcher
+- Better The Third Rail
+- Better Goodneighbor
+- eXofied Goodneighbor
+- Fleshsmith - Automatron Addon
+- HD HAM Radio
+- Robco Holotron
+- Pipboy Valve Mod - True pip-boy speaker emulation (Tube - Real mode)
+- Kellogg's Dream Armor by Tumbajamba
+- Revolvers of the Wasteland (.44 magnum - Python - Taurus 66 - Single Action Army - .32 pistol pack)
+- Workbench Replacer HD
+- Bug Fix - Bunker Hill Bed
+- The Elder's Mark - Old World Addon Project
+- The Wretched - Stranger Commonwealth
+- Bloody Skeletons
+- Massachusetts Witch House
+- Swimming Drains AP
+- Mechanism Maleficarum - Occult Automatron Addon
+- Occult Automatron
+- Simple Mine Delay Control
+- Workshop Plus - No Godmode
+- Runalip - (for .LIP and .FUZ generate) - voice acting
+- Settler Sleep AI Fixes - Bed Sharing - Auto Bed Search - Assignment Priority - Huge Bed Collection
+- Protected Manta Man
+- Blasted Billboards - A weathered billboard overhaul
+- Help Me Pack It Up - A Prewar Mistake
+- Nuka-World Settlements Pack - Tenhats' Collection
+- Show No Mercy - Fort Strong Expansion
+- Cambridge Police Station Settlement - Revisited
+- Welcome to Fallon's - Revisited
+- Listening Post Bravo Settlement - Revisited
+- Charles View Amphitheater Settlement - with Recruitable Cult
+- Vault 81 Trader's Camp Settlement
+- Atom Cats Garage Settlement - with Immersive Repair
+- Breakheart Banks Settlement - 2024 Edition
+- Dartmouth Professional - Skyscraper Settlement
+- Fiddler's Green Settlement - with Immersive Repair
+- Lake Cochituate Village Settlement
+- Lake Quannapowitt Settlement
+- Nuka-World Transit Center Settlement
+- Old Pond House - Far Harbor Settlement with Immersive Repair
+- Prospect Hill Diner and Park Settlement
+- Ruined Church - Far Harbor Settlement with Immersive Repair
+- Sunken Garage - Glowing Sea Settlement
+- University Point Settlement - with Immersive Repair
+- Shield Framework
+- SIP - Shield Integration Project
+- Shield Framework - Weapon injections
+- Shield Expansion - SIP Addon
+- GUN MOVER presets
+- Whisper's (Un)Locked Power Armor Paints
+- CROSS_Blades
+- CROSS Blades - Epic Drops Name Fix
+- 4estGImp - CROSS Blades Complex Item Sorter Plugin
+- CROSS Fireworks Cannon
+- 4estGimp - Niero CROSS Fireworks Cannon Compacted for ESL
+- CROSS_RugerMkV
+- 4estGimp - CROSS Ruger MkV Compacted Edit
+- CROSS Ruger Mk. V - AMD Fix
+- Archimedes-II
+- 4estGimp - Niero's Archimedes-II Compacted for ESL
+- CROSS PlasRail
+- 4estGimp - CROSS PlasRail Compacted Edit
+- Cross PlasRail 1st person Flashlight Fix
+- CROSS_VertibirdFlightsuit
+- CROSS_VertibirdFlightsuit CBBE Unibody bodyslide patch
+- CROSS Institute Tech Mask
+- Beast351x's Weapons Patches - Disable Weapon Crafting Recipes
+- Repairable Sanctuary Bridge
+- Peabody House Settlement - with Immersive Repair
+- VR Framework
+- Pre-War Sanctuary VR Workshop
+- What's Your Name
+- Whisper's Broken Bottle (Weapon)
+- The Machine and Her Player Voices
+- Anarchist's Cookbook Vol.1 - 9 New Explosives (and some old New Vegas favorites)
+- Anarchist's Cookbook Vol 1 Name Edit
+- Anarchist's Cookbook Vol.2 - 9 More New Explosives (many scratch-made)
+- Fallout 4 Animation Kit (F4AK) by ShadeAnimator
+- Darker Nights
+- dp Plasma Gun Lights
+- 3D Super Mutant Chains
+- T6M's Missile Launcher Ammos
+- Fran-Weapon Dynamic Casing Ejection Framework -- Automatic Dynamic Adjust Shell Casing in Game - MCM - F4SE
+- Courser Crusher
+- A Bundle of Tape - A weapons pack
+- 4estGimp - A Bundle of Tape Edit
+- M1 Garand Skin Packs
+- SVT-40 Skin Packs
+- Automatron - Better Robot Head Armors
+- T6M's Express Rifle
+- Waketak Ranger Station - Far Harbor Settlement
+- Navy Auto Pistol - M2074 Navy
+- Navy Auto Pistol - Tactical Reload Patch
+- Lightweight Lighting - A weather and interior lighting overhaul
+- Lightweight Lighting and True Storms Integration Patch
+- Lightweight Lighting and True Storms Integration Unofficial Update
+- Seasons Change - Lightweight Lighting Patch
+- Weapon Mod Fixes - WMF
+- Reverb and Ambiance Overhaul
+- Fallout 4 Resound Project - Guns
+- Wattz3000mkII - Reverb with FO4RP-Guns Patch
+- Horrorghouls - Redone
+- CROSS_BrotherhoodRecon
+- 4estGimp - CROSS Brotherhood Recon Edit
+- 4estGimp - CROSS Chosen of Atom Edit
+- 4estGimp - CROSS Courser Recall Collar Compacted
+- 4estGimp - CROSS Jetpack Compacted
+- 4estGimp - CROSS Institute Techmask Compacted
+- Brahmin Tipping Redux
+- Multiple Ammo Use
+- The Eyes Of Beauty - SHJ Edit
+- Dr. Phibbs' Neuro-Atomic Limbs - Brotherhood Recon
+- Captain's FO76 Weapon Paints Pack
+- Tumbajamba's Synth Combat Armor 4 NPC
+- Heavy Institute Armor Corpus Praesidium
+- CROSS_Cryolance
+- CROSS_BreakActionLaser
+- Rideable Deathclaws Expanded
+- Settlement Objects Expansion Pack
+- Screen Archer Menu
+- SAM Adjustment Merge Tool
+- SAF Re Adjust
+- Skeletal Adjustments for Screen Archer Menu (SAM)
+- LooksMenu Body Tattoos (CBBE) (EVB or vanilla)
+- Fallout Texture Overhaul Stars
+- Fallout Texture Overhaul Moons
+- High Resolution Texture Pack 2K and 4K - Valius
+- CC's Improved Roadsigns
+- Generic Radium Rifle mesh fix
+- MO2 BA2 Archive Count Script (PowerShell)
+- Add-on Maker's Toolkit for Sim Settlements 2
+- IP4APA - Institute Paint for ALL Power Armors
+- RRP4APA - Railroad Paint for ALL Power Armors
+- Rifles Rebirth -- Unofficial Update
+- Rifles Rebirth - Unofficial Update Tactical Reload Patch
+- Thats Gunner Life - Gunner Outfit Pack Distribution and Balance
+- eXofied Gunners - Expanded and Rebalanced
+- OCDecorator - Static Loot
+- OCDecorator - SMM-ESLified
+- AnotherOne Armor Plate
+- AnotherOne Animated Armor Plate Rusty Retexture
+- Remodel for AnotherOne's Armor Plate
+- AnotherOne Armor Plate - EXTENDED
+- AnotherOne Armor Plate - EXTENDED LeveledList Integration
+- Car Alarm
+- Radstag Grab Skill
+- Yaoguai Grab Skill
+- Assaultron Grab Skills
+- Deathclaw Grab Skills
+- Human Grab Attacks
+- Cough
+- Faster Getup
+- 1st Person Power Armor Footsteps Fix
+- Homemaker Greenhouse Roof Corners addon
+- Pipe Carbine - Rat Runners Arsenal
+- Pipe Carbine (RRA) Tactical Reload Patch
+- Frank Horrigan - Enclave Companion Mod
+- Flashlight Holster
+- MagNite - Functional Flashlight and Flashlight Holster Patch
+- xEdit (FO4Edit) Plugin - Open .nif .dds .wav .xwm from Asset Path
+- xEdit (FO4Edit) Plugin - Batch Prefix or Suffix Full - Name Records
+- xEdit (FO4Edit) Plugin - Export-Import INNR (Instance Naming Rules)
+- Standalone Power Armor Paint Compiler
+- PaintJob Compiler Custom Patch
+- Barrel Bonanza - Fire Barrel Mesh Replacer
+- RTL X-02 and X-03 AR2 Paintjobs Standalone
+- Secret Service Armor Recreation
+- cVc Dead Wasteland
+- Proper Flyers and Posters
+- Langleys HD Textures Workshop
+- Medford Memorial Helipad
+- Deathclaw Mimicry
+- Upgradeable Hunter Pelt And Coastal Armor
+- Earrings of The Commonwealth
+- Bad Boys - Civil Servant Power Armor Klaxons and Paint
+- Power Armor Impact FX Overhaul
+- Slightly Less Insulting Parker Quinn
+- 4estGimp - Miscellaneous Power Armor DogPack
+- 4estGimp - NewerMind43 Power Armor DogPack
+- Nuka-World - Bloodworms Don't Leave Dust Trail
+- Winchester P94 Plasma Caster Tweaks
+- Winchester P94 Fixes - Rebalance and Bug Fixes
+- I. A.M. B.O.O.M. - It's A Modlist But Only One Mod
+- Community Tweaks Merged
+- MS Workshop Framework Door Additions
+- Creature Additions -Eye-Ghost and Tent-Eye - Feral Ghoul Level-Lists Injection
+- ZP's Fire and Smoke 2
+- True Tools of the Commonwealth - A Toolkit Remodel
+- Active Quest HUD
+- RTL X-02 Metal Bar Tweak
+- Combat Rifle Lore Fix Remesh Redux
+- America Rising 2 and Frank Horrigan Enclave Companion Faction Patch
+- Vendors Have Armour Mods
+- Herbal Remedies Improved
+- Physically Based Plasma Rifles
+- The Flamer Rifle (Last of Us Flamethrower)
+- Classic Melee Pack
+- Capital Wasteland Raider Pack
+- Classic Unarmed Pack
+- Classic Melee Pack - no shishkebab backpack - Backpacks of the Commonwealth Compatibility Patch
+- Classic Unarmed Pack - Industrial Hand T-Pose Fix
+- Ballistic Fist Patch
+- Capital Wasteland Raider Pack CBBE unibody bodyslide files
+- Mutfruit Overhaul
+- Fusion Energy Drink
+- C.E.C.S. - Combat Enhancing Chemical Substances
+- Power Armors Redone - 4K 2K HD
+- America Rising 2 - Misc Quest Cleanup
+- Fallout 4 Splash Screen Plugin
+- Grafted - Melee Weapon Pack
+
 
 Version 1.1.3 - 
 
