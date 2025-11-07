@@ -6,6 +6,9 @@ Version 1.1.4 -
 
 Updated:
 
+- Darker Nights
+- Colors To The Clutter - BOS
+- Ragged Thunder - Minutemen Overhaul
 - Much Better 3rd Person Animations - MLVic's Edition
 - Doc Drumlin by SKK
 - Wasteland Combat Arena - Quest and Framework
@@ -250,6 +253,7 @@ Removed:
 
 Added:
 
+- True Nuka Cola Bottle Caps Stashes
 - A Small Companion - Bubo The RoboPeng
 - Power Armor Animation Patch Hub
 - Unleveled World - F4SE
