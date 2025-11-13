@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.4**
+**CURRENT VERSION: 1.1.5**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite**
 
@@ -15,7 +15,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - **Freshly installed** Steam copy of Fallout 4 ver.1.10.984.0 (NG update)*
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 392 GB of space
+- *Roughly* 394 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - ***Patience***
 

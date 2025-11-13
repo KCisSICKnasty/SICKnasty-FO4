@@ -1,6 +1,95 @@
-**Current Version: 1.1.4*
+**Current Version: 1.1.5*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.1.5 -
+
+Updated:
+
+- Companion Status Enhanced
+- Ragged Thunder - Minutemen Overhaul
+- ZP's Fire and Smoke 2
+- Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
+- Active Quest HUD
+- Reaper's Munitions Patches
+- You Are Exceptional - Skills and Perk Overhaul v1.18L
+- True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)
+- Improved Brotherhood of Steel
+- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More
+- Equipment and Crafting Overhaul (ECO) - Redux
+- Looted World
+- Darker Nights
+- Synthesis
+- Driveables of the Commonwealth - Havok Physics Vehicles - Framework
+- Driveables of the Commonwealth - Havok Physics Vehicles - Jeep Addon
+- America Rising 2 - Classic Remnants Power Armor AR2 Armor Paintjob (Redux)
+- Fallout 4 Script Extender (F4SE)
+- Unofficial Fallout 4 Patch - UFO4P
+- Community Fixes Merged
+- Blue Hills Research Facility (Horror Dungeon)
+- Bethini Pie (Performance INI Editor)
+- Mod Conflict Checker - Fallout4 Database and Enabler
+- X-Cell
+- Frank Horrigan - Enclave Companion Mod
+- See Through Scopes
+- Beer Bottles Retextured
+
+Removed:
+
+- Targeted Textures - Vanilla textures upscaled fixed and sized
+- CC's Improved Roadsigns
+- Enhanced Vanilla Asphalt Roads
+- Enhanced Vanilla Plants
+- Enhanced Vanilla Rocks
+- Enhanced Vanilla Vines
+- Improved Emergency Light
+- Workbench Replacer HD
+- ECO Redux - Integration
+- Simple Fallout 4 Downgrader
+- FIS - Knundrum Library Addon
+- BA Extra Icons for FIS
+- Tumbajamba's Gunner Armor Collection Camp Location Patches - Atomic World Patch
+- CCCleaner
+- ZP's Frost and Shock
+- Vanilla Cubemap Fix
+
+Added:
+
+- Railroad Heavy No autostart
+- Daytripper 4
+- But Oxygen Tanks Are Green
+- Training Day - An SS2 QoL Mod
+- Delightful Dead Fish - HD Retextures for the Commonwealth and Far Harbor DLC
+- Driveables of the Commonwealth - GrownUp Buttercup
+- Enclave Perk Magazines
+- LEO - Bastion Bleed Effect Patch
+- Vault-Tec - Clearance Sale
+- Reinforcements and Retribution
+- Nuka Cola Swap
+- Mysterious Refilling Machines REDUX
+- Art Deco Nuka-Cola machine WIP
+- Nuka Cola Diet Cans
+- Vault-Tec Respawn Trunks
+- The Trench Pistol - Mustard's Party Favors
+- Magic 8-Ball
+- Ice Cold - Unique Cryolaser
+- Nuka-Cola Raspberry-Cheesecake
+- Med Tek Combat Stimulants
+- America Rising 2 - Dr. Dagless Sells Med-Tek Combat Stims
+- Med Tek Combat Stimulants - Base Object Swapper
+- Nuka-Cola Can
+- Doctor Quench Soda Company 2022
+- The Crystals of Power - A Weapon and Quest Mod
+- TAA Flicker Fixer Best Settings
+- Seasons Change - True Storms OR Vivid Weathers Patch
+- Vanillified - Submersible Power Armor Redux
+- Targeted Textures Extended (TTE)
+- Al's Canopies
+- Al's Roof Caps (Warehouse - Greenhouse - Barn)
+- Anniversary Edition to Last Gen downgrade patch.
+- DeltaPatcher
+- ZPs Frost Shock Plasma Laser 4K
+
 
 Version 1.1.4 -
 
