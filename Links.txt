@@ -45,3 +45,9 @@ HavokMax: https://github.com/PredatorCZ/HavokMax/releases/
 Java: https://www.java.com/en/
 
 AutoHotkey: https://www.autohotkey.com/download/
+
+Inno: https://jrsoftware.org/isinfo.php
+
+CMake: https://cmake.org/download/
+
+Git: https://git-scm.com/install/
