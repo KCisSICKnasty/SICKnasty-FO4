@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.5**
+**CURRENT VERSION: 1.1.6**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite**
 
@@ -12,10 +12,10 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 **REQUIREMENTS:**
 
-- **Freshly installed** Steam copy of Fallout 4 ver.1.10.984.0 (NG update)*
+- **Freshly installed** Steam copy of Fallout 4 ver.1.11.191 (AE update)
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 394 GB of space
+- *Roughly* 450 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - ***Patience***
 
@@ -124,7 +124,7 @@ Instructions:
 
 Instructions:
 
-- Double click "The SICKnasty Suite - Resources - SICKnastySETTINGSconfig" in MO2 under the "The SICKnasty Suite - Resources" separator
+- Double click "The SICKnasty Suite - Resources - SICKnasty Outputs" in MO2 under the "The SICKnasty Suite - Resources" separator
 - Navigate to the "INI Files" tab
 - Click on "F4SE\plugins\HighFPSPhysicsFix.ini"
 - If you use VRR, set InGameFPS (line 59) to a number you can reach across the majority of the game[3], it has to be between 48[4] and refresh rate - (refresh rate x 6.8%)
@@ -144,18 +144,6 @@ Instructions:
 - Set hotkeys to your liking (or don't if you choose not to use the mod)
 - In game, press F8 to activate "place-everywhere" mode (off by default)
 
-*Collective Modding Toolkit*
-
-***Feature:*** Downgrader, archive patcher, file scanner, and so much more (in this case, downgrading the base game, DLC, and Creation Club BA2).
-
-Instructions:
-
-- In MO2, click on the drop-down in the right pane next to the Run button
-- Select "Collective Modding Toolkit" and run it
-- In the UI window, click "Archive Patcher"
-- Select "Patch All" in the top right of the resulting window
-- Close Collective Modding Toolkit
-
 
 **LAUNCHING THE GAME:**
 
@@ -172,11 +160,6 @@ Instructions:
 *This mod list is ***VERY*** big. You'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
 
 
-*Character Creation*
-
-Amazing FollowerTweaks Plus (AFT Plus) allows you to also edit your spouse's appearance. So, if you would like to utilize this feature, this is when!
-
-
 *Mod Configuration Menu*
 
 After leaving the vault, you'll want to actually open up MCM for the first time:
@@ -187,20 +170,10 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 - Turn Bullet Counted Reload on
 - In Workshop Plus, set "Fly in Workshop Mode" to "OFF" and set hotkeys (or remember to NEVER use a jetpack in Workshop Mode, *or else*)
 - In Power Armor Handling Improvements - Retain Armor Buffs, set "Remove Armor on PA Entry:" to "Auto"
+- In Power Armor Handling Improvements - set "Core Preference" to "Off/Disabled"
 - Configure Condition Boy to your liking
 
 **NOTE:** I am currently unable to create an MCM Preset, but if you are willing to share yours with me, I will ship it with the list! (:
-
-
-*Holotape*
-
-You also have your Pipboy now! Time to put a holotape in it:
-
--See Through Scopes:
-
-	- Navigate to [PATCHES] section
-	- Toggle Tactical Reload
-	- Toggle LString
 
 
 **OPTIONAL:**

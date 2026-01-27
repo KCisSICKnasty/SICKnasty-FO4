@@ -1,6 +1,11 @@
-**Current Version: 1.1.5*
+**Current Version: 1.1.6*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.1.6 - 
+
+Benchmark update. Changelog not available for this one. It got too large and difficult to manage. Sorry! :(
+
 
 Version 1.1.5 -
 
