@@ -2,6 +2,121 @@
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
+
+Version 1.1.7 - 
+
+Updated:
+
+- X-Cell
+- 2 the TEETH - armed that is
+- Vile - Ambience Lain to Waste
+- CompanionControlBooster (F4SE)
+- EquipSettler (F4SE)
+- X01 Regional Reclamation Pack
+- Nested Hotkeys
+- Weapon Mod Fixes - WMF
+- Atom's retribution 2 DLC Children of atom story
+- True Through Scope
+- Improved Brotherhood of Steel
+- Improved Hostile Factions
+- Improved Institute
+- Improved Railroad
+- Workshop Framework
+- Sim Settlements 2 - Chapter 3
+- Tumbajamba's Leather Armor and Backpack
+- Slow Motion Dismemberment
+- Legendary Effects Overhaul - America Rising 2 Legendary Effect Expansion Patch
+- CC Packer - The 1-click Creation Club BA2 Merge Utility
+- Daytripper 4
+- Machine Gun Emplacement
+- skybox wobble fix (hopefully)
+- Bethini Pie (Performance INI Editor)
+- Creations Manager (MO2)
+- Backpacks of the Commonwealth
+- Boston Riot Armor
+- Anti-Materiel Rifle - Rat Runners Arsenal
+- Kezyma's Root Builder for Mod Organizer
+
+Removed: 
+
+- Shabby Flatbed Cart
+- Physically Based Plasma Rifles
+- Glock Plasma Gun Plasma Defender
+- F4PL - Pa's Fishing Aid
+- F4PL - Unique Knives
+- HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB)
+- JOTC - Community Fixes Merged - HiPoly Faces REDUX
+- AnotherOne Armor Plate - EXTENDED
+- ZP's Bobbleheads
+- Equipment Slot Limits
+- Anti-Materiel Rifle - Rat Runners Arsenal - Tactical Reload
+- Creation Kit Platform Extended for Fallout 4
+
+Added: 
+
+- **Doom BFG**
+- Captainoob's Improved BFG9000
+- BFG 9000 - Classic Sounds Remixed
+- **Doom Classic Marine Armor**
+- Doom Marine Redone
+- Better Doom Marine CBBE Bodyslide
+- Doom Creations Merged
+- **Fantasy Hero Set**
+- More Immersive Quest Start - Fantasy Hero Set (Creation Club)
+- Fantasy Hero set with Hair and Beards
+- Steel Sword - Definitive Edition
+- **Morgan's Space Suit**
+- Morgan's Suit separated
+- Prey Spacesuit Placed
+- **Quake Thunderbolt**
+- **Tale of the Beast Hunter**
+- Beast Hunter - Improved
+- **Revenge of the Van Graffs**
+- **The Varmint Rifle**
+- **Brotherhood of Steel T60 Pistol**
+- T60 Pistol - 1st Person One Handed Animations for Power Armor
+- Alexerator's T-60 Pistol Tweaks - Full Auto Receivers - Rename
+- Creation Club armors conversion for CBBE
+- ESC to Menu Close
+- Graffiti Framework - Nuka-World Gangs and Hot Swap
+- Balls to BOS
+- Dinner and Cafeteria Trays to BOS
+- Paintcans and Paintbrushes to BOS
+- Shopping Baskets and Carts to BOS
+- Teddy Bears to BOS
+- BOS - CW to NW Cash Registers (and viceversa)
+- BOS - Nuka to Vim machines (and viceversa)
+- Shabby Wood Basket
+- 4estGimp - Excavator Power Armor Compacted for ESL
+- 4estGimp - T51C Power Armor Compacted
+- Player Crippled Limb Lines Fix
+- RadCREEP - Radiation Cumulative Residual Extended Exposure Perks (Radiation Realism Overhaul)
+- ZP's Bobbleheads and New Bobblehead Stand
+- ZP's Paint and Food Paste splatters
+- ZP's Synth Armor
+- Foodpaste Color Fix for ZP's Splatters
+- ZP's Puddles
+- X-01 Arms Normal Fix
+- We Are Unique - Names For Unnamed NPCs - RobCo
+- Pre-War Sanctuary Resident Names - RobCo
+- Colorful Survival Icons - RobCo
+- Knight Varham Vault Suit Fix - RobCo
+- Gas Mask Buff - RobCo
+- Vendors Have More Caps - RobCo
+- Lasers Have No Recoil - RobCo
+- Yao Guai Stagger Reaction Camera Shake Remover
+- Extra References
+- Mystic Rogue's Super Duper Quest and Add-On Pack
+- Super Duper Quest mod Olivia Station Door Patch
+- Atomic World NCR Ranger Patch
+- Tumbajamba's Synth Armor Collection
+- Animated World Framework
+- FIS - Knundrum Library Addon
+- AW - Cigarettes
+- InvLocker (F4SE)
+- RobCo Patcher for Scourge and Shuddersome Subways
+
+
 Version 1.1.6 - 
 
 Benchmark update. Changelog not available for this one. It got too large and difficult to manage. Sorry! :(

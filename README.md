@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.6**
+**CURRENT VERSION: 1.1.7**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite**
 
@@ -15,8 +15,18 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - **Freshly installed** Steam copy of Fallout 4 ver.1.11.191 (AE update)
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 450 GB of space
+- *Roughly* 487 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
+- **FREE** Bethesda.NET Creation Club Content: (use the links below to bookmark the mods, and then, from the Creations tab in the Main Menu, install each)
+	- Brotherhood of Steel T60 Pistol (https://creations.bethesda.net/en/fallout4/details/dd740e06-f7e4-421e-b1b1-3d5f94c62f5e/Brotherhood_of_Steel_T60_Pistol)
+	- Doom BFG (https://creations.bethesda.net/en/fallout4/details/ec0d66e6-13e1-4f04-acc7-00a13c204c77/Doom_BFG)
+	- Doom Classic Marine Armor (https://creations.bethesda.net/en/fallout4/details/d5a106e2-28f2-4d38-bfb3-e057894fb51e/Doom_Classic_Marine_Armor)
+	- Fantasy Hero Set (https://creations.bethesda.net/en/fallout4/details/2d677856-b3bd-435f-918f-19e2ea5f0a2d/Fantasy_Hero_Set)
+	- Morgan's Space Suit (https://creations.bethesda.net/en/fallout4/details/2615a680-883c-4420-9a48-a2a0f455c993/Morgan_s_Space_Suit)
+	- Quake Thunderbolt (https://creations.bethesda.net/en/fallout4/details/3c0aa0b2-81d3-4d55-b591-fe7905c9816e/Quake_Thunderbolt)
+	- Revenge of the Van Graffs (https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c74f012d5/Revenge_of_the_Van_Graffs)
+	- Tale of the Beast Hunter (https://creations.bethesda.net/en/fallout4/details/7fc565f2-eaf5-458b-9ec6-55490432970d/Tale_of_the_Beast_Hunter)
+	- The Varmint Rifle (https://creations.bethesda.net/en/fallout4/details/59409bbe-2b5e-4191-817a-5bd4692ad21a/The_Varmint_Rifle)
 - ***Patience***
 
 
@@ -39,7 +49,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Navigate to Steam\steamapps\common and, if present, delete the Fallout 4 folder.
 - Navigate to Documents\My Games\Fallout 4 and delete all INI files inside it.
 - Open Steam and go to your Library.
-- Find Fallout 4 in the list and select Install. (Wherever you had it already is fine.)
+- Find Fallout 4 in the list and select Install. (Wherever you had it already is fine)
 - Select Next then wait for the install to finish.
 - In your Steam Library, right-click on Fallout 4, and click on Properties in the resulting context menu.
 - In the resulting new window, click on the drop-down at the top of the right pane underneath Automatic Updates.
@@ -47,6 +57,8 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Run the game from Steam, or through Fallout4Launcher.exe in the game files if you are using an offline copy.
 - Click OK to both pop-ups that say Detecting Video Hardware.
 - If there aren't any pop-ups, navigate to Documents\My Games\Fallout 4 and delete all INI files, then retry.
+- Launch the game once through Steam, and navigate to the Creations tab in the Main Menu.
+- Locate the Creation Club mods listed in the requirements above (if you have them bookmarked, you will find them in your Bookmarks) and install them. 
 - Click OK then Exit.
 
 
@@ -82,14 +94,31 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 **NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
 
+**NOTE: If you are having trouble finding any of the Discord downloads, I have pinned them in my Discord server under the channel "sicknasty-fo4-support".**
+
 
 **POST INSTALLATION:**
 	
 **First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "game" folder.**
 
-- In MO2, open "Settings"
-- Navigate to the "Paths" tab
-- Change the bottom path to "(whatever you named your install location)/game/Fallout4.exe"
+- In MO2, open "Settings".
+- Navigate to the "Paths" tab.
+- Change the bottom path to "InstallLocation/game/Fallout4.exe".
+
+
+**FREE CC CONTENT:**
+
+Wabbajack wont include
+
+- Open Windows Explorer to your "InstallLocation/game/data" folder.
+- Open a 2nd Windows Explorer to your "SteamLibrary/steamapps/common/Fallout 4/Data" folder.
+- From the 2nd window, locate and highlight (CTRL+Right Click) the plugin, Textures.ba2, & Main.ba2. for the following:
+	- bgs_varmintrifle
+	- ptrfo4001_t60pistol
+	- ptrfo4002_vangraff
+	- vchgs001fo4_ncrbeasthunter
+- Click & drag (or copy/paste) all 12 files into the 1st window you opened.
+- If MO2 is open, press F5.
 
 
 *Bethini Pie*
@@ -164,7 +193,7 @@ Instructions:
 
 After leaving the vault, you'll want to actually open up MCM for the first time:
 
-- In your start menu, choose "MCM" (first time will load for a long time while it builds cache)
+- In your pause menu, choose "MCM" (first time will load for a long time while it builds cache)
 - Set VAFS hotkey
 - Turn True Storms on
 - Turn Bullet Counted Reload on
@@ -236,27 +265,29 @@ If you see a mod has hidden or missing files, **THIS IS INTENDED!!!** This means
 
 **A note on lore:**
 
-The SICKnasty Suite is a LORE-FRIENDLY modlist...depending on your definition. I personally do not find assets used in other games to be breaking the lore, IF implemented in a lore-friendly way. I also tolerate a small amount of Wild Wasteland-esque 4th wall breaking. *That being said, however.* There are exactly 2 mods in the list that have non-lore friendly content that I excuse as Wild Wasteland encounters:
+The SICKnasty Suite is a **LORE-FRIENDLY** modlist...depending on your definition. I personally do not find assets used in other games to be breaking the lore, IF implemented in a lore-friendly way. I also tolerate a small amount of Wild Wasteland-esque 4th wall breaking. *That being said, however.* There are exactly 2 mods in the list that have non-lore friendly content that I excuse as Wild Wasteland encounters:
 
-- **Submersible Power Armor Redux - BioShock Inspired** *(self-explanatory; included because other mods require it)
-- **Faction Reinforcements** *(Mechachu; just don't use him if it's that bothersome)
+- **Submersible Power Armor Redux - BioShock Inspired -** *The mod Vanillified - Submersible Power Armor Redux removes everything except for the power armor which is distributed through Improved Hostile Factions & Power Armor to the People.*
+- **Faction Reinforcements -** *Introduces a companion called Mechachu, a robotic Pikachu. Just don't use him if he's that bothersome.*
+- **Psyker Powers 2.0 -** *Apparently, Psyker is a Warhammer thing. I didn't know that. Regardless, it's an amazing mod and I plan to create a lore-friendly name patch for it soon*
 
 
 **OUTRO:**
 
-This mod list was made by me and only me. That's not by choice, it's just how it's been. That's also not me saying to go easy on me. I can take it. I continue to learn new things and implement them in updates. Not just the products, but the tools. I wanted my suite to be one that you could pick apart and tweak to your liking. That said, by all means, feel free to upload patches for my list! As long as your patch falls within the permissions from the mod author of whatever mod(s) you're patching!
+This mod list was made by **me and only me**. That's not by choice, it's just how it's been. That's also not me saying to go easy on me. I can take it. I continue to learn new things and implement them in updates. Not just the products, but the tools. I wanted my suite to be one that you could pick apart and tweak to your liking. That said, by all means, feel free to upload patches for my list! As long as your patch falls within the permissions from the mod author of whatever mod(s) you're patching!
 
 
 **SUGGESTIONS:**
 
-Always welcome if their through the correct channel in my Discord server. However, there are guidelines on what not to suggest:
+*Always* welcome if their through the ***correct channel*** in my Discord server.
 
-- Texture overhauls (use GVCM if you don't like the colors, but I wont budge on what I've concocted)
+**However, there are exceptions:**
+
 - Anything by Thuggysmurf
 - Anything by QRSR
 - Anything by Halffaces (please, ask me why~)
+- Anything by Oppressor08 (please, ask me why~)
 - Anything by MunkySpunk (what's in the list are the only exceptions)
-- Anything by DegenerateDak (what's in the list are the only exceptions)
 
 **Ways you can make my day:**
 
