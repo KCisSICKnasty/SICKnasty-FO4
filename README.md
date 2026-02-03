@@ -104,6 +104,9 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - In MO2, open "Settings".
 - Navigate to the "Paths" tab.
 - Change the bottom path to "InstallLocation/game/Fallout4.exe".
+- Under "Workfiles" separator, double click "The SICKnasty Suite - A Wabbajack Experience - SICKnasty Outputs", and go to the text tab (far left).
+- Under "Compatibility", change:
+	F4EE = **true** # 1.6.20 - Patches various LooksMenu bugs
 
 
 **FREE CC CONTENT:**
