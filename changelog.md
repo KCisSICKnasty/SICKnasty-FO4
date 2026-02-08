@@ -1,4 +1,4 @@
-**Current Version: 1.1.6*
+**Current Version: 1.1.7*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
@@ -7,6 +7,22 @@ Version 1.1.7 -
 
 Updated:
 
+- Shadow Boost FO4
+- Shady Motives - eXoPatch
+- Slow Motion Dismemberment
+- Creations Manager (MO2)
+- CRITTERS
+- Ambitious - An Overhaul Overhaul
+- HD Retexture Project - All in One (Work in progress)
+- Daytripper 4
+- Pet And Talk To Cats
+- GripHeavy Modifed Animations
+- Integrated Addons
+- Synthesis
+- Power Armor Materials AND Paints (PAMAP) Revival
+- High-Fidelity Music Project
+- TG'z West Cambridge Interiors
+- Wasteland Gardening
 - X-Cell
 - 2 the TEETH - armed that is
 - Vile - Ambience Lain to Waste
@@ -24,21 +40,33 @@ Updated:
 - Workshop Framework
 - Sim Settlements 2 - Chapter 3
 - Tumbajamba's Leather Armor and Backpack
-- Slow Motion Dismemberment
 - Legendary Effects Overhaul - America Rising 2 Legendary Effect Expansion Patch
 - CC Packer - The 1-click Creation Club BA2 Merge Utility
-- Daytripper 4
 - Machine Gun Emplacement
 - skybox wobble fix (hopefully)
 - Bethini Pie (Performance INI Editor)
-- Creations Manager (MO2)
 - Backpacks of the Commonwealth
 - Boston Riot Armor
 - Anti-Materiel Rifle - Rat Runners Arsenal
 - Kezyma's Root Builder for Mod Organizer
+- Jackify
+- Reaper's Munitions Patches
+- Standalone Workbenches
 
 Removed: 
 
+- Better Goodneighbor Fixed ESP
+- Behemoth Weapon Variety
+- Hide That Water - Black Water Workaround
+- Remodel for AnotherOne's Armor Plate
+- Toolz
+- Toolz and Machinez
+- Toolz And Turretz
+- RadCREEP - Radiation Cumulative Residual Extended Exposure Perks (Radiation Realism Overhaul)
+- The HD Enhancement Project CREATURE EDITION
+- All Weapons HD (A.W.H.D.)
+- Tumbajamba's Synth Combat Armor
+- Command Same Or Higher Level Enemies
 - Shabby Flatbed Cart
 - Physically Based Plasma Rifles
 - Glock Plasma Gun Plasma Defender
@@ -81,11 +109,16 @@ Added:
 - Graffiti Framework - Nuka-World Gangs and Hot Swap
 - Balls to BOS
 - Dinner and Cafeteria Trays to BOS
+- Overdue Books to BOS
 - Paintcans and Paintbrushes to BOS
 - Shopping Baskets and Carts to BOS
 - Teddy Bears to BOS
+- BottleCaps and Stashes to BOS
+- Clipboards to BOS
+- ParkBenches to BOS
 - BOS - CW to NW Cash Registers (and viceversa)
 - BOS - Nuka to Vim machines (and viceversa)
+- Shabby Stepladder
 - Shabby Wood Basket
 - 4estGimp - Excavator Power Armor Compacted for ESL
 - 4estGimp - T51C Power Armor Compacted
@@ -115,6 +148,46 @@ Added:
 - AW - Cigarettes
 - InvLocker (F4SE)
 - RobCo Patcher for Scourge and Shuddersome Subways
+- Headlamps for the Commonwealth
+- The Writer - a 2025 World Repopulation Contest Entry
+- Simple Hotel - a 2026 World Repopulation Contest Entry
+- Mikelits WAB World repopulation contest entry
+- Shadow Wastelands SS2 World Repopulation Cells Starter Pack
+- Plots Extended
+- Chain that Binds - A Light Brotherhood Overhaul
+- Various SMM Patches
+- Better The Third Rail
+- eXofied Goodneighbor
+- Death Fade
+- AW - Vulture Patch
+- Shabby Toy Blocks
+- ZP's Fauna All In One
+- ZP's Flora - Inactive Flora and Fungi
+- ZP's Flora - Interactive Flora and Fungi
+- ZP's Prydwen
+- ZP's Subs and USS Constitution
+- ZP's Terminals
+- The Weed Wacker
+- The Tool Pack - Garage Melee Weapons
+- T60 Pistol - Holstered Weapon
+- Reverse the Curse
+- SavrenX Organic Super Mutant
+- SavrenX Super Mutant HD Armor
+- SavrenX Synth HD
+- Commonwealth Ballistics - Penetration System - F4SE
+- Commonwealth Ballistics - Patch Repository
+- Munitions - Advanced Calibers (MAC)
+- Munitions Advanced Caliber Conversions - ECO Redux
+- Sakai's Munition Advanced Caliber Robco Patcher
+- Munitions - Ammo Conversions and Weapon Revamps
+- Commonwealth Ballistics - Munitions Advanced Calibers Patch
+- TRUE - F76 Enemy Scaling
+- TRUE - XP Scaling
+- Ghoul Worm Camera Shake Aggression Control
+- Hypothesis reward fix
+- Mysterious Stranger Note Lore Fix
+- Appropriation reward improvement
+- Power to the People explosion removal
 
 
 Version 1.1.6 - 
