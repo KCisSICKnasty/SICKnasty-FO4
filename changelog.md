@@ -3,6 +3,119 @@
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
 
+Version 1.1.8 - (WIP)
+
+Updated:
+
+- BottleCaps and Stashes to BOS
+- Overdue Books to BOS
+- Paintcans and Paintbrushes to BOS
+- Headlamps for the Commonwealth
+- HD Retexture Project - All in One (Work in progress)
+- ZP's Robots AIO
+- ZP's Terminals
+- Ultimate Window Overhaul Redone
+- Multiple Ammo Use
+- Backpacks of the Commonwealth
+- SICKnasty Radio (SNR) - Metal of the Commonwealth
+- 2 the TEETH - armed that is
+- CRITTERS
+- Ambitious - An Overhaul Overhaul
+- Various SMM Patches
+- Misc light flagged .esp replacers
+- Nested Hotkeys
+- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More
+- Pet And Talk To Cats
+- Taxidermy - More Mounted Creatures
+- CC Packer - The 1-click Creation Club BA2 Merge Utility
+- Tumbajamba's Synth Armor Collection
+- Community Fixes Merged
+- Animated World Framework
+- Far Object LOD Improvement Project
+- Improved Hostile Factions
+- T6M-Spadey's Unreal Rocket Launcher
+- Commonwealth Ballistics - Penetration System - F4SE
+- Commonwealth Ballistics - Patch Repository
+- Previsibines Repair Pack Stable Branch - PRP
+- Daytripper 4
+- Undo Move MO2 Plugin
+- Settlement Menu Manager Patches (SMM)
+
+Removed:
+
+- ZP's Fauna All In One
+- Retextured First Aid Kits - Ephla's Unique First Aid
+- Classic Melee Pack
+- Classic Melee Pack - no shishkebab backpack - Backpacks of the Commonwealth Compatibility Patch
+- Classic Unarmed Pack
+- Classic Unarmed Pack - Industrial Hand T-Pose Fix
+- Ballistic Fist Patch
+- Livewire by Shiagur
+- Livewire - eXoPatch
+- FO4 SUN
+- TRUE - F76 Enemy Scaling
+- Better Bear Traps
+- Better Caltrops
+- FORTITUDE Additions - Perk To More Creatures Or NPCs
+- Captain's FO76 Weapon Paints Pack
+- Captain's Power Armor Paint Pack 2
+- Captain's Power Armor Paint Pack AV Fix
+- Adrenaline Redone - A Logical Approach
+- CSM's Vanilla Leaders (SS2)
+- Courser Crusher
+- Courser Crusher - X6-88 default weapon patch REDEFINED
+- Fallout 4 Nuclear Food -N- Chems
+- Appalachian Roadster Jeeps for Driveables of the Commonwealth
+- Driveables of the Commonwealth - GrownUp Buttercup
+- Collections Manager (MO2)
+- Bethesda Archive Manager - Fallout4 Next-Gen Edition
+- FNV to FO4
+- Blink Grenades (Teleportation)
+- Flicker Fixer eXofied
+
+Added:
+
+- Necessity - Nexus Essentials Merged
+- Rotating Saves
+- xEdit Serialize Script
+- ZP's Decals
+- ZP's Tires
+- Radiation Stays
+- FO4StringUtils
+- Shabby Dolly Hand Truck
+- Hide That Water - Black Water Workaround
+- Alarm Clocks to BOS
+- Enamel and Metal Buckets to BOS
+- Fishing Rods To BOS
+- Hammers to BOS
+- Pet Food Bowls to BOS
+- Shovels to BOS
+- Tumbajamba's Combat Armor MK2 With Headlamp
+- ILD - Improved Legendary Drops
+- Uneducated Shooter - QE Leaning and Gun Inertia
+- Party Balloons - With Physics
+- Consistent Combat - RobCo Edition
+- Legendary Effects Overhaul x T6M's AEC19 Laser Cannon Compatibility Patch and Fixes
+- TRUE - Elemental Damage
+- Minutemen Enforcer Armor
+- Minutemen Enforcer Armor With Headlamp
+- The Relic of Rub' al Khali - Lorenzo's Crown Reintegrated
+- Melee And Throw
+- Skin and Bones Supermutant Trunk
+- Ironworks T-51 Helmet
+- FORTITUDE - Add Ons
+- Deadly Coursers (Simplified Courser Crusher)
+- RobCo - Smarter Player - Reduced Limb and Fall Damage
+- Van Graffs Radio Fix
+- Tiny Patches
+- No Weapon Recoil Auto Recovery for Some Mod Added Weapons
+- Quick User Saves
+- Creation Club - Armor Paints - DIY Combined All-In-One
+- Creation Club - Pip-Boy Paints - DIY Combined All-in-One
+- Creation Club - Power Armor Paints - DIY Combined All-in-One
+- Creation Club - Weapon Paints - DIY Combined All-In-One
+
+
 Version 1.1.7 - 
 
 Updated:
