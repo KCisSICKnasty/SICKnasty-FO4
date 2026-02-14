@@ -153,7 +153,7 @@ Instructions:
 
 Instructions:
 
-- Double click "The SICKnasty Suite - Resources - SICKnasty Outputs" in MO2 under the "The SICKnasty Suite - Resources" separator
+- Double click "The SICKnasty Suite - A Wabbajack Experience - Config" in MO2 under the "Workfiles" separator
 - Navigate to the "INI Files" tab
 - Click on "F4SE\plugins\HighFPSPhysicsFix.ini"
 - If you use VRR, set InGameFPS (line 59) to a number you can reach across the majority of the game[3], it has to be between 48[4] and refresh rate - (refresh rate x 6.8%)

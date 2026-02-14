@@ -40,6 +40,8 @@ Updated:
 - Daytripper 4
 - Undo Move MO2 Plugin
 - Settlement Menu Manager Patches (SMM)
+- David Hunter - eXoPatch
+- We Are The Minutemen - eXoPatch
 
 Removed:
 
@@ -110,6 +112,12 @@ Added:
 - Tiny Patches
 - No Weapon Recoil Auto Recovery for Some Mod Added Weapons
 - Quick User Saves
+- Sierra Madre Vending Machine - Old World Addon Project
+- Begin again - An SS2 add-on
+- SonicPhil's LOU World Repop House - Unofficial Contest Entry
+- Captain Cosmos Creation V2 - A Sim Settlements 2 Plot pack
+- Enclave here - A Sim Settlements 2 add on pack
+- The good fight - A SS2 addon pack
 - Creation Club - Armor Paints - DIY Combined All-In-One
 - Creation Club - Pip-Boy Paints - DIY Combined All-in-One
 - Creation Club - Power Armor Paints - DIY Combined All-in-One
