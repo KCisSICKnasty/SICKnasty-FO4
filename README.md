@@ -81,21 +81,6 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Launch ModOrganizer.exe from your Installation Location
 - If you see a pop-up called "Register?", select "Yes"
 	
-	
-**DISCORD DOWNLOADS:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
-
-- Join the **Collective Modding Discord**: https://discord.gg/pF9U5FmD6w *NOTE: Apparently, there are many users clicking this Discord link and then seeking support for the list there. THIS LINK IS FOR DOWNLOADS ONLY!!! Please use the clearly labeled Support Discord link at the start of this ReadMe if you are having trouble, for the love of god...*
-- Download **M8r98a4f2's Complex Sorter 1.13-beta2** (file pinned in "complex-sorter-support" channel)
-- Drag the zip file into MO2 above "4estGimp - M8r98a4f2's Complex Item Sorter Enhancements" under "Interface" separator. Enable the mod.
-- Download **MCM Settings Manager - v1.3-beta2** (file pinned in "m8r-development" channel under "MCM Settings Manager")
-- Drag the zip file into MO2 below "MCM Settings Manager" under "Interface" separator. Enable the mod.
-- Download **MCM_Booster_v1.1-beta2** (file pinned in "m8r-docs-downloads" channel under "Downloads")
-- Drag the zip file into MO2 below "MCM Booster" under "Interface" separator. Enable the mod.
-
-**NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
-
-**NOTE: If you are having trouble finding any of the Discord downloads, I have pinned them in my Discord server under the channel "sicknasty-fo4-support".**
-
 
 **POST INSTALLATION:**
 	
@@ -119,6 +104,22 @@ Wabbajack wont include
 	- vchgs001fo4_ncrbeasthunter
 - Click & drag (or copy/paste) all 12 files into the 1st window you opened.
 - If MO2 is open, press F5.
+
+
+**DISCORD DOWNLOADS:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
+
+- Join the **Collective Modding Discord**: https://discord.gg/pF9U5FmD6w *NOTE: Apparently, there are many users clicking this Discord link and then seeking support for the list there. THIS LINK IS FOR DOWNLOADS ONLY!!! Please use the clearly labeled Support Discord link at the start of this ReadMe if you are having trouble, for the love of god...*
+- Download **M8r98a4f2's Complex Sorter 1.13-beta2** (file pinned in "complex-sorter-support" channel)
+- Drag the zip file into MO2 above "4estGimp - M8r98a4f2's Complex Item Sorter Enhancements" under "Interface" separator. Enable the mod.
+- Download **MCM Settings Manager - v1.3-beta2** (file pinned in "m8r-development" channel under "MCM Settings Manager")
+- Drag the zip file into MO2 below "MCM Settings Manager" under "Interface" separator. Enable the mod.
+- Download **MCM_Booster_v1.1-beta2** (file pinned in "m8r-docs-downloads" channel under "Downloads")
+- Drag the zip file into MO2 below "MCM Booster" under "Interface" separator. Enable the mod.
+- Join the support server (linked in requirements section) and download the buffout4.toml & x-cell.toml under pinned posts in sicknasty-fo4-support channel.
+
+**NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
+
+**NOTE: If you are having trouble finding any of the Discord downloads, I have pinned them in my Discord server under the channel "sicknasty-fo4-support".**
 
 
 *Bethini Pie*
