@@ -84,7 +84,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	
 **DISCORD DOWNLOADS:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
 
-- Join the **Collective Modding Discord**: https://discord.gg/pF9U5FmD6w
+- Join the **Collective Modding Discord**: https://discord.gg/pF9U5FmD6w *NOTE: Apparently, there are many users clicking this Discord link and then seeking support for the list there. THIS LINK IS FOR DOWNLOADS ONLY!!! Please use the clearly labeled Support Discord link at the start of this ReadMe if you are having trouble, for the love of god...*
 - Download **M8r98a4f2's Complex Sorter 1.13-beta2** (file pinned in "complex-sorter-support" channel)
 - Drag the zip file into MO2 above "4estGimp - M8r98a4f2's Complex Item Sorter Enhancements" under "Interface" separator. Enable the mod.
 - Download **MCM Settings Manager - v1.3-beta2** (file pinned in "m8r-development" channel under "MCM Settings Manager")
@@ -103,10 +103,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 
 - In MO2, open "Settings".
 - Navigate to the "Paths" tab.
-- Change the bottom path to "InstallLocation/game/Fallout4.exe".
-- Under "Workfiles" separator, double click "The SICKnasty Suite - A Wabbajack Experience - SICKnasty Outputs", and go to the text tab (far left).
-- Under "Compatibility", change:
-	F4EE = **true** # 1.6.20 - Patches various LooksMenu bugs
+- Change the bottom path to "InstallLocation/Stocl Game/Fallout4.exe" (unless it is already set correctly, in which case, proceed).
 
 
 **FREE CC CONTENT:**
@@ -181,7 +178,6 @@ Instructions:
 
 ***NOTE: The method SICKnasty - FO4 uses for root files is called the "Stock Game" method. What this means is that a version of Fallout 4 is already included for you in a folder called "game" within your installation location. This method keeps your Steam installation untouched and uninstalling the list is as simple as deleting your install location.***
 
-- Make sure that the version of Fallout 4 MO2 is pointing to is the version in "game" (You can check this in MO2 by clicking the gear icon > Settings > Paths)
 - In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button
 - Select F4SE
 - Click "Run" (this is how you should run the game each time)
@@ -206,6 +202,26 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 - Configure Condition Boy to your liking
 
 **NOTE:** I am currently unable to create an MCM Preset, but if you are willing to share yours with me, I will ship it with the list! (:
+
+
+**Plugins disabled FOR A REASON:**
+
+Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
+
+- **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
+- **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
+
+
+If you see a mod has hidden or missing files, **THIS IS INTENDED!!!** This means that its files have been packed into one of the mods under "Workfiles" separator or hidden because one of my outputs overwrites it. This is done so I can repack all of my outputs without any loose files overriding them.
+
+
+**A note on lore:**
+
+The SICKnasty Suite is a **LORE-FRIENDLY** modlist...depending on your definition. I personally do not find assets used in other games to be breaking the lore, IF implemented in a lore-friendly way. I also tolerate a small amount of Wild Wasteland-esque 4th wall breaking. *That being said, however.* There are exactly 2 mods in the list that have non-lore friendly content that I excuse as Wild Wasteland encounters:
+
+- **Submersible Power Armor Redux - BioShock Inspired -** *The mod Vanillified - Submersible Power Armor Redux removes everything except for the power armor which is distributed through Improved Hostile Factions & Power Armor to the People.*
+- **Faction Reinforcements -** *Introduces a companion called Mechachu, a robotic Pikachu. Just don't use him if he's that bothersome.*
+- **Psyker Powers 2.0 -** *Apparently, Psyker is a Warhammer thing. I didn't know that. Regardless, it's an amazing mod and I've patched it to be a little more Fallout-y*
 
 
 **OPTIONAL:**
@@ -253,26 +269,6 @@ Instructions:
 
 **NOTE: If you download the Gumroad CROSS textures, you'll have to install them as a mod in MO2 and unpack any of them that are in BA2. I include Unpackrr and Cathedral Assets Optimizer. Unpackrr has a mod page on Nexus with instructions.**
 **NOTE: If you change the Maryland flag texture on the Equalizer PA, I will cry.**
-
-
-**Plugins disabled FOR A REASON:**
-
-Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
-
-- **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
-- **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
-
-
-If you see a mod has hidden or missing files, **THIS IS INTENDED!!!** This means that its files have been packed into one of the mods under "Workfiles" separator or hidden because one of my outputs overwrites it. This is done so I can repack all of my outputs without any loose files overriding them.
-
-
-**A note on lore:**
-
-The SICKnasty Suite is a **LORE-FRIENDLY** modlist...depending on your definition. I personally do not find assets used in other games to be breaking the lore, IF implemented in a lore-friendly way. I also tolerate a small amount of Wild Wasteland-esque 4th wall breaking. *That being said, however.* There are exactly 2 mods in the list that have non-lore friendly content that I excuse as Wild Wasteland encounters:
-
-- **Submersible Power Armor Redux - BioShock Inspired -** *The mod Vanillified - Submersible Power Armor Redux removes everything except for the power armor which is distributed through Improved Hostile Factions & Power Armor to the People.*
-- **Faction Reinforcements -** *Introduces a companion called Mechachu, a robotic Pikachu. Just don't use him if he's that bothersome.*
-- **Psyker Powers 2.0 -** *Apparently, Psyker is a Warhammer thing. I didn't know that. Regardless, it's an amazing mod and I plan to create a lore-friendly name patch for it soon*
 
 
 **OUTRO:**
