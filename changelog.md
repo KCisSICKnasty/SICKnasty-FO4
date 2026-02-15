@@ -46,6 +46,8 @@ Updated:
 - Tumbajamba's Minutemen - eXospanded
 - Grenade Sound Options
 - Addictol
+- Power Armor Handling Improvements - Retain Armor Buffs
+- FICTure2
 
 Removed:
 
@@ -104,6 +106,10 @@ Removed:
 - Wasteland Spears
 - Cactus Coolant Soda
 - L.U.N.C.H. Box - (Logical User Nutrition Choice Handler)
+- Player Crippled Limb Lines Fix
+- Mysterious Stranger Note Lore Fix
+- Hair Specular Map Removal Thingy
+- Interior NavCut Fix
 
 Added:
 
@@ -146,9 +152,7 @@ Added:
 - Sierra Madre Vending Machine - Old World Addon Project
 - Begin again - An SS2 add-on
 - SonicPhil's LOU World Repop House - Unofficial Contest Entry
-- Captain Cosmos Creation V2 - A Sim Settlements 2 Plot pack
 - Enclave here - A Sim Settlements 2 add on pack
-- The good fight - A SS2 addon pack
 - Creation Club - Armor Paints - DIY Combined All-In-One
 - Creation Club - Pip-Boy Paints - DIY Combined All-in-One
 - Creation Club - Power Armor Paints - DIY Combined All-in-One
@@ -165,9 +169,12 @@ Added:
 - Witchs Cat Brahmin Muthound Molerat REDUX
 - Blinking eyes to CATs
 - Windy TREE for True Storm
+- FLAMER with moving tube
 - Pip-Boy Light Detection Fix - F4SE
 - Dak's Explosive Pack
 - Lore Friendly 5.56 Collection XR92 1.3 Tactical Reload Patch
+- Organized Workbench Menu Patches by Vanguard
+- Tumbajamba's Synth Armor Collection With Headlamp
 
 
 Version 1.1.7 - 
