@@ -21,6 +21,7 @@ Updated:
 - 2 the TEETH - armed that is
 - CRITTERS
 - Ambitious - An Overhaul Overhaul
+- Vile - Ambience Lain to Waste
 - Various SMM Patches
 - Misc light flagged .esp replacers
 - Nested Hotkeys
@@ -42,6 +43,9 @@ Updated:
 - Settlement Menu Manager Patches (SMM)
 - David Hunter - eXoPatch
 - We Are The Minutemen - eXoPatch
+- Tumbajamba's Minutemen - eXospanded
+- Grenade Sound Options
+- Addictol
 
 Removed:
 
@@ -74,6 +78,32 @@ Removed:
 - FNV to FO4
 - Blink Grenades (Teleportation)
 - Flicker Fixer eXofied
+- Jewel of the Commonwealth Patch Central
+- Feral Ghoul Bite Skills
+- 50 Shades Of Rust
+- 50 Shades of Rust Darker Mass Fusion Sign LOD
+- 50 Shades Of Rust - Rusty Rockets
+- Baka MaxPapyrusOps
+- Mentats - F4SE
+- Buffout 4 NG with PDB support
+- Escape Freeze F4SE
+- Blue Zip
+- Immersive Barber Chair
+- Immersive Surgery Chair
+- Immersive Water Pump
+- Immersive Water Pump - Powered
+- Immersive Weight Bench
+- Shabby Stepladder
+- Shabby Toy Blocks
+- ZP's Bobbleheads and New Bobblehead Stand
+- Anarchist's Cookbook Vol.1 - 9 New Explosives (and some old New Vegas favorites)
+- Anarchist's Cookbook Vol 1 Name Edit
+- Anarchist's Cookbook Vol.2 - 9 More New Explosives (many scratch-made)
+- Psyker Powers 2.0
+- Psyker Powers Balanced and Bug Fix
+- Wasteland Spears
+- Cactus Coolant Soda
+- L.U.N.C.H. Box - (Logical User Nutrition Choice Handler)
 
 Added:
 
@@ -92,6 +122,7 @@ Added:
 - Hammers to BOS
 - Pet Food Bowls to BOS
 - Shovels to BOS
+- Table Lamps to BOS
 - Tumbajamba's Combat Armor MK2 With Headlamp
 - ILD - Improved Legendary Drops
 - Uneducated Shooter - QE Leaning and Gun Inertia
@@ -122,6 +153,21 @@ Added:
 - Creation Club - Pip-Boy Paints - DIY Combined All-in-One
 - Creation Club - Power Armor Paints - DIY Combined All-in-One
 - Creation Club - Weapon Paints - DIY Combined All-In-One
+- More Junk Jets - Also Craftable Skulls
+- Pey's Robco SCBA Patches
+- Al's Canopies
+- Al's Pride Canopies
+- Squirrels of the Commonwealth -NERFED-
+- Witchs DOGmeat ANIMATION OVERHAUL
+- Witchs DOGmeat ANIMATION OVERHAUL 2plus
+- Eyes and head tracking Angles Blinking expressive natural face morphs
+- Witchs EYEs and Random OFFSET head tracking
+- Witchs Cat Brahmin Muthound Molerat REDUX
+- Blinking eyes to CATs
+- Windy TREE for True Storm
+- Pip-Boy Light Detection Fix - F4SE
+- Dak's Explosive Pack
+- Lore Friendly 5.56 Collection XR92 1.3 Tactical Reload Patch
 
 
 Version 1.1.7 - 

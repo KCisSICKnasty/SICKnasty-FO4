@@ -61,6 +61,13 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Locate the Creation Club mods listed in the requirements above (if you have them bookmarked, you will find them in your Bookmarks) and install them. 
 - Click OK then Exit.
 
+**HIGH DPI SCALING FIX:**
+
+- Right-click on **Fallout4.exe** in the **Stock Game" folder**.
+- Open **Properties** and navigate to the **Compatibility** tab.
+- Click on **Change high DPI settings**.
+- Set **High DPI scaling override** to **Application**.
+
 
 **WABBAJACK:**
 
@@ -86,17 +93,17 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 	
 **First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "game" folder.**
 
-- In MO2, open "Settings".
-- Navigate to the "Paths" tab.
-- Change the bottom path to "InstallLocation/Stocl Game/Fallout4.exe" (unless it is already set correctly, in which case, proceed).
+- In MO2, open **Settings**.
+- Navigate to the **Paths** tab.
+- Change the bottom path to **InstallLocation/Stock Game/Fallout4.exe** (unless it is already set correctly, in which case, proceed).
 
 
 **FREE CC CONTENT:**
 
 Wabbajack wont include
 
-- Open Windows Explorer to your "InstallLocation/game/data" folder.
-- Open a 2nd Windows Explorer to your "SteamLibrary/steamapps/common/Fallout 4/Data" folder.
+- Open Windows Explorer to your **InstallLocation/game/data** folder.
+- Open a 2nd Windows Explorer to your **SteamLibrary/steamapps/common/Fallout 4/Data** folder.
 - From the 2nd window, locate and highlight (CTRL+Right Click) the plugin, Textures.ba2, & Main.ba2. for the following:
 	- bgs_varmintrifle
 	- ptrfo4001_t60pistol
@@ -129,15 +136,15 @@ Wabbajack wont include
 Instructions:
 
 - In MO2, click on the drop-down in the right pane next to the Run button
-- Click <Edit...>, then the "+" symbol in the top left, and "Add from file"
+- Click <Edit...>, then the **+** symbol in the top left, and **Add from file**
 - In the resulting explorer window, navigate to the "Bethini Pie" folder in your install location
-- Highlight "Bethini.exe" and then confirm
+- Highlight **Bethini.exe** and then confirm
 - Apply > OK
 - Select BethINI from the drop-down and run it
-- Click "Fallout 4" then press "Select Game"
+- Click **Fallout 4** then press **Select Game**
 - Choose a preset you prefer (I choose Ultra)
-- Click "Apply Recommended Tweaks"
-- Set "Display Mode" to "Borderless Windowed"
+- Click **Apply Recommended Tweaks**
+- Set **Display Mode** to **Borderless Windowed**
 - Select the resolution you want to display the game in
 - Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide)
 - Edit the other settings to your liking
