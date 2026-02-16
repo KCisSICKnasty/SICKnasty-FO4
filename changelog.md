@@ -48,6 +48,7 @@ Updated:
 - Addictol
 - Power Armor Handling Improvements - Retain Armor Buffs
 - FICTure2
+- BOS USE YOUR BROKEN STEEL GAINS
 
 Removed:
 
@@ -98,6 +99,7 @@ Removed:
 - Shabby Stepladder
 - Shabby Toy Blocks
 - ZP's Bobbleheads and New Bobblehead Stand
+- ZP's Power Armors
 - Anarchist's Cookbook Vol.1 - 9 New Explosives (and some old New Vegas favorites)
 - Anarchist's Cookbook Vol 1 Name Edit
 - Anarchist's Cookbook Vol.2 - 9 More New Explosives (many scratch-made)
@@ -110,6 +112,9 @@ Removed:
 - Mysterious Stranger Note Lore Fix
 - Hair Specular Map Removal Thingy
 - Interior NavCut Fix
+- Antennas
+- Diamond City Antennas Remover-Rework
+- Shabby Dolly Hand Truck
 
 Added:
 
@@ -120,14 +125,13 @@ Added:
 - ZP's Tires
 - Radiation Stays
 - FO4StringUtils
-- Shabby Dolly Hand Truck
-- Hide That Water - Black Water Workaround
 - Alarm Clocks to BOS
 - Enamel and Metal Buckets to BOS
 - Fishing Rods To BOS
 - Hammers to BOS
 - Pet Food Bowls to BOS
 - Shovels to BOS
+- Soda Machines to BOS
 - Table Lamps to BOS
 - Tumbajamba's Combat Armor MK2 With Headlamp
 - ILD - Improved Legendary Drops
@@ -175,6 +179,9 @@ Added:
 - Lore Friendly 5.56 Collection XR92 1.3 Tactical Reload Patch
 - Organized Workbench Menu Patches by Vanguard
 - Tumbajamba's Synth Armor Collection With Headlamp
+- PLAY
+- SuperAlloys - Enhanced Power Armor Paints and 4k Textures
+- SuperAlloys - Purple T-60 Titanium Fix
 
 
 Version 1.1.7 - 
