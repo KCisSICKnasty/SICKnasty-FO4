@@ -1,12 +1,16 @@
-**Current Version: 1.1.7*
+**Current Version: 1.1.8*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
 
-Version 1.1.8 - (WIP)
+Version 1.1.8
 
 Updated:
 
+- Garden of Eden Papyrus Script Extender
+- TG'z East Boston Interiors
+- TG'z West Cambridge Interiors
+- TG'z Fens Interiors
 - BottleCaps and Stashes to BOS
 - Overdue Books to BOS
 - Paintcans and Paintbrushes to BOS
@@ -34,9 +38,11 @@ Updated:
 - Animated World Framework
 - Far Object LOD Improvement Project
 - Improved Hostile Factions
+- Improved Railroad
 - T6M-Spadey's Unreal Rocket Launcher
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Ballistics - Patch Repository
+- InvLocker (F4SE)
 - Previsibines Repair Pack Stable Branch - PRP
 - Daytripper 4
 - Undo Move MO2 Plugin
@@ -49,10 +55,22 @@ Updated:
 - Power Armor Handling Improvements - Retain Armor Buffs
 - FICTure2
 - BOS USE YOUR BROKEN STEEL GAINS
+- Forced Evolution - eXoPatch
+- Dak's Weapon Icon Expanded
+- PJM's Precombine - Previs Patching Scripts
+- Improved Hostile Factions
+- Shabby Grill And Garden Hose
+- EquipSettler (F4SE)
+- Jurttu's Interiors - Far Harbor
+- Nuka Cola Swap
+- Blades Of The Wastes - A Scrappy Handmade Knife Pack
+- Toggle Aim (F4SE)
+- Fourville
 
 Removed:
 
 - ZP's Fauna All In One
+- ZPs Vineworks
 - Retextured First Aid Kits - Ephla's Unique First Aid
 - Classic Melee Pack
 - Classic Melee Pack - no shishkebab backpack - Backpacks of the Commonwealth Compatibility Patch
@@ -115,36 +133,126 @@ Removed:
 - Antennas
 - Diamond City Antennas Remover-Rework
 - Shabby Dolly Hand Truck
+- Ghoul Worm Camera Shake Aggression Control
+- X01 Regional Reclamation Pack
+- Emirals Previs Patches for PRP .74
+- AnotherOne Armor Plate
+- AnotherOne Animated Armor Plate Rusty Retexture
+- Decks of the Mojave
+- Scaling Flag Remover
+- SCOURGE
+- SCOURGE - Patch Repository
+- SCOURGE - Radical
+- SCOURGE - Forced Evolution
+- SCOURGE - Faction Reinforcements
+- SCOURGE - Goremites
+- SCOURGE - FGEP DE
+- SCOURGE - Very Zen FGEP Tanks
+- SCOURGE - Life Finds A Way - Mutant Menagerie
+- SCOURGE - In the Flesh
+- SCOURGE - South of the Sea
+- SCOURGE - Northern Springs
+- Defective Synths
+- Defective synths caps remover
+- Hunter's Abyss
+- Sim Settlements 2 - Previsibines Expansion Pack
+- PRP - More than 20 Previsibines Under the Sea - English - OBSOLETE
+- Mojave Bighorners
+- Mojave Cazadores
+- Mojave Geckos
+- Mojave Mantises
+- Bawls Sodas - Redux
+- Mobius' Zetan Needle RIfle
+- Jesters Collectable Zippos Mod
+- Zippo Lighters Display
+- BOSTON MILITARY FACTORY - Where they don't call you
+- Your Life 'Til Now - by Whisper
+- Project Zeta
+- Project Zeta Navmesh Fix
+- Project Zeta Expanded
+- Project Zeta Fixes
+- Zetan Recall Device - Project Zeta addon
+- Power Armor Animation Patch Hub
+- Standalone Third Person Animations
+- Settler Sleep AI Fixes - Bed Sharing - Auto Bed Search - Assignment Priority - Huge Bed Collection
+- Full Artillery System Overhaul
+- PreWar Binoculars
+- BH Army Binoculars - PreWar Binoculars Replacer
+- Binoculars Animation Replacer
+- PreWar Binoculars - Call in Fire Support addon
+- BH Army Binoculars - Call in Fire Support addon
+- ZP's Fly Swarm
+- The Sewers
+- Colors To The Suitcases - BOS
+- Vex the Commonwealth's Best Knife Fighter - Voiced Companion
+- Companion Vex Reimagined
+- Dust to Dust 'restoration'
+- Vertibird Jump
+- Drumlin Bunker by Cthuloot
+- Drumlin Bunker - eXoPatch
+- Smoke Grenade Teleport - A Fast Travel Option For Supervillains
+- ECO-LEO EE Legendary Mode
+- Industrial Gauntlet
+- Wildwood Cemetery Tombs - A Dungeon Below
+- Starlight Working Shutters
+- Heavy Gunner Armor Headlamp
+- Dynamic Guard Mats
+- Dynamic Store Mats
+- True Through Scope
+- Shady Motives - Instance Naming and ECO Redux Patch
+- Fatigue - Enhanced Combat Realism
 
 Added:
 
 - Necessity - Nexus Essentials Merged
+- CC T-60 Pistol Tactical Reload Patch
+- Sniper Scope Overlay Overhaul
+- Restore Worldspace Environment Maps
+- Newton's Regards - No More Falling Cars
+- Choochoo1's Workshop Framework displays
+- Choochoo1's Workshop Framework Displays Integrated
+- Hunter of the Commonwealth
+- Mutant Menagerie LFAW - Hunter of the Commonwealth Patch
+- Hunter of the Commonwealth - Knife at V111 Elevator
+- Hunter of the Commonwealth - Item Sorter and IAF Patch
+- Tumbajamba's Steel Plate Armor and Hammer
+- Tumbajamba's Steel Plate Armor With Headlamp
+- Less Ugly Intercom
+- Vault Boy Coloured Animations
 - Rotating Saves
 - xEdit Serialize Script
-- ZP's Decals
-- ZP's Tires
+- Bovine Intervention - Brahmin Overhaul
 - Radiation Stays
+- Frisbee Nuke
 - FO4StringUtils
 - Alarm Clocks to BOS
+- Buttons to BOS
 - Enamel and Metal Buckets to BOS
 - Fishing Rods To BOS
 - Hammers to BOS
+- Mannequin Outfits to BOS
 - Pet Food Bowls to BOS
+- Pots and Pans to BOS
+- Radios to the BOS
 - Shovels to BOS
 - Soda Machines to BOS
 - Table Lamps to BOS
+- Colors To The Sleeping Bag - BOS
 - Tumbajamba's Combat Armor MK2 With Headlamp
 - ILD - Improved Legendary Drops
-- Uneducated Shooter - QE Leaning and Gun Inertia
+- Inertia - Physical Movement Response System - F4SE
+- Dynamic Dismember System - F4SE
+- VATS Freeze Fix - F4SE
+- Pip-Boy Radio Detection - F4SE
 - Party Balloons - With Physics
 - Consistent Combat - RobCo Edition
 - Legendary Effects Overhaul x T6M's AEC19 Laser Cannon Compatibility Patch and Fixes
 - TRUE - Elemental Damage
+- TRUE - F76 Enemy Scaling
 - Minutemen Enforcer Armor
 - Minutemen Enforcer Armor With Headlamp
 - The Relic of Rub' al Khali - Lorenzo's Crown Reintegrated
 - Melee And Throw
-- Skin and Bones Supermutant Trunk
 - Ironworks T-51 Helmet
 - FORTITUDE - Add Ons
 - Deadly Coursers (Simplified Courser Crusher)
@@ -176,12 +284,56 @@ Added:
 - FLAMER with moving tube
 - Pip-Boy Light Detection Fix - F4SE
 - Dak's Explosive Pack
+- The Rebar Axe
 - Lore Friendly 5.56 Collection XR92 1.3 Tactical Reload Patch
 - Organized Workbench Menu Patches by Vanguard
 - Tumbajamba's Synth Armor Collection With Headlamp
 - PLAY
 - SuperAlloys - Enhanced Power Armor Paints and 4k Textures
 - SuperAlloys - Purple T-60 Titanium Fix
+- Ranger Rifle - M71 Manhunter
+- Replaceable Armor Plates
+- Replaceable Armor Plates aSW Patch
+- Minuteman Riot Armor - A Deathclaw Hunter Retexture
+- MUTATION
+- Base Face - A face retexture
+- Automatron - Protected NPCs Can't Explode
+- Synthesis ItemAutoTagger FIS Settings
+- Proto LL Override Patch Utility - PLOP
+- PLOP patches
+- FamishedPatch
+- Nightstrikers
+- Nightstrikers Tweaks
+- Very Zen Nightstrikers
+- Father Companion - Alternate Ending Option for Fallout 4
+- Artillery Commander
+- ZP's Boats
+- Pipboy Radio Toggle Hotkey
+- Another Vault 81 Molerat Disease Cure
+- Tumbajamba's Gunner Armor Collection With Headlamp
+- Workshop Workbenches to BOS
+- Right-handed Nukaworld AK Replacer
+- Handmade Rifle Animations
+- Radium Rifle Reload Animation
+- Meltdown - New Burning Effect for Plasma Weapons
+- Combat Knife Animations
+- Right-handed Far Harbor Lever Action Replacer
+- Right Handed Hunting Rifle
+- Crusader Anims
+- AKs of the Wasteland - Reanimation Patch
+- That Gun of the Wasteland - Powerful Audio Overhaul
+- Alternative sounds for Sidearms of the Wasteland
+- RobCo - Smarter Dynamic Dismember System - Munitions and Vanilla
+- TRUE - F76 Enemy Scaling RobCo
+- Ammunition Press Workbench - E.C.O Custom Benches
+- Commonwealth Hit Squads
+- Private Contract - Talon Company Mercenaries
+- March of The Enclave - Enclave Remnants
+- Chinese Remnants
+- Pre-War and Post-War Sanctuary Hills inconsistencies fixed
+- Don't Check Your Fire
+- High-Fidelity Sounds Project
+- Power Armor Flag Capes V2
 
 
 Version 1.1.7 - 

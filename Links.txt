@@ -51,3 +51,5 @@ Inno: https://jrsoftware.org/isinfo.php
 CMake: https://cmake.org/download/
 
 Git: https://git-scm.com/install/
+
+Merge Plugins Tool (z-Edit - Override Mod Limit): https://www.nexusmods.com/newvegas/mods/80013

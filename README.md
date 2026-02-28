@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.7**
+**CURRENT VERSION: 1.1.8**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite**
 
@@ -204,9 +204,11 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 - Set VAFS hotkey
 - Turn True Storms on
 - Turn Bullet Counted Reload on
-- In Workshop Plus, set "Fly in Workshop Mode" to "OFF" and set hotkeys (or remember to NEVER use a jetpack in Workshop Mode, *or else*)
-- In Power Armor Handling Improvements - Retain Armor Buffs, set "Remove Armor on PA Entry:" to "Auto"
-- In Power Armor Handling Improvements - set "Core Preference" to "Off/Disabled"
+- In Workshop Plus:
+	- set "Fly in Workshop Mode" to "OFF" and set hotkeys (or remember to NEVER use a jetpack in Workshop Mode, *or else*)
+- In Power Armor Handling Improvements: "Retain Armor Buffs"
+	- set "Remove Armor on PA Entry:" to "Auto"
+	- set "Core Preference" to "Off/Disabled"
 - Configure Condition Boy to your liking
 
 **NOTE:** I am currently unable to create an MCM Preset, but if you are willing to share yours with me, I will ship it with the list! (:
@@ -229,37 +231,11 @@ The SICKnasty Suite is a **LORE-FRIENDLY** modlist...depending on your definitio
 
 - **Submersible Power Armor Redux - BioShock Inspired -** *The mod Vanillified - Submersible Power Armor Redux removes everything except for the power armor which is distributed through Improved Hostile Factions & Power Armor to the People.*
 - **Faction Reinforcements -** *Introduces a companion called Mechachu, a robotic Pikachu. Just don't use him if he's that bothersome.*
-- **Psyker Powers 2.0 -** *Apparently, Psyker is a Warhammer thing. I didn't know that. Regardless, it's an amazing mod and I've patched it to be a little more Fallout-y*
 
 
 **OPTIONAL:**
 
-I ship the list with a lot of tools that I used to curate the list. Since they're completely optional, it's up to you to explore their use. (Or you can just ping me in my Discord! I love to help! :D) You'll find them in the "tools" folder in your install location. I will, however, go into the following 2:
-
-
-*FO4Edit*
-
-***Feature:*** The magnum opus of modding tools, used alongside Creation Kit.
-
-Instructions:
-
-- In your install location, move the folder "FO4Edit 4.1.5f" so that it's in it's on dedicated folder on your drive
-- Add "FO4Edit" as an executable in MO2 (FO4Edit 4.1.5f>Optional>FO4Edit64.exe)
-
-**NOTE:** Use the 64 version of FO4Edit for everything involving it. Using the normal version will result in xEdit crashing due to too many mods.
-
-
-*VRAMr*
-
-***Feature:*** Optimizes textures for single mods or your entire load order.
-
-Instructions:
-
-- In your install location, open a folder called "guides"
-- Open the "VRAMr" folder
-- Open "VRAMr FO4 User Guide v1.pdf" and follow the instructions
-
-**NOTE:** I am currently unable to create a VRAMr output to ship with the list. If you have some time and are willing to share your output with me, I'll include it! (:
+I ship the list with the tools and guides that I used to curate the list (and some that I plan to use). You'll find them in the "Modding Tools" folder. Since they're completely optional, it's up to you to explore their use (or you can just ping me in my Discord! I love to help! :D).
 
 
 *Optional mods*
@@ -272,7 +248,6 @@ Instructions:
 - **Ultra Wide Interface (21x9)** *(wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
 - **Gumroad CROSS Enhanced Textures** *(use discount code "cross99off" to get them for free)*: https://niero.gumroad.com/
 - **CROSS_Chosen_Of_Atom Enhanced Textures** *(Niero's public Patreon post)*: https://www.patreon.com/posts/cross-chosen-of-25213700
-- **Perchik71 - In Game MOD Explorer (MCM)** *(good tool, hard to understand)*: https://www.nexusmods.com/fallout4/mods/56922
 - **FCOM 3.0 Custom Faction Template** *(make your own FCOM crew)*: https://www.nexusmods.com/fallout4/mods/42402
 
 **NOTE: If you download the Gumroad CROSS textures, you'll have to install them as a mod in MO2 and unpack any of them that are in BA2. I include Unpackrr and Cathedral Assets Optimizer. Unpackrr has a mod page on Nexus with instructions.**
@@ -290,11 +265,13 @@ This mod list was made by **me and only me**. That's not by choice, it's just ho
 
 **However, there are exceptions:**
 
-- Anything by Thuggysmurf
 - Anything by QRSR
-- Anything by Halffaces (please, ask me why~)
-- Anything by Oppressor08 (please, ask me why~)
-- Anything by MunkySpunk (what's in the list are the only exceptions)
+- Anything by Ketaroz
+- Anything by Thuggysmurf
+- Anything by MunkySpunk
+- Anything by Halffaces
+- Anything by Oppressor08
+
 
 **Ways you can make my day:**
 
