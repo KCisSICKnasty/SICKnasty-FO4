@@ -122,7 +122,6 @@ Wabbajack wont include
 - Drag the zip file into MO2 below "MCM Settings Manager" under "Interface" separator. Enable the mod.
 - Download **MCM_Booster_v1.1-beta2** (file pinned in "m8r-docs-downloads" channel under "Downloads")
 - Drag the zip file into MO2 below "MCM Booster" under "Interface" separator. Enable the mod.
-- Join the support server (linked in requirements section) and download the buffout4.toml & x-cell.toml under pinned posts in sicknasty-fo4-support channel.
 
 **NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
 
