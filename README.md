@@ -1,8 +1,8 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.8**
+**CURRENT VERSION: 1.1.9**
 
-**Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite**
+**Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 
 
 **PREAMBLE:**
@@ -15,7 +15,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - **Freshly installed** Steam copy of Fallout 4 ver.1.11.191 (AE update)
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 487 GB of space
+- *Roughly* 515 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - **FREE** Bethesda.NET Creation Club Content: (use the links below to bookmark the mods, and then, from the Creations tab in the Main Menu, install each)
 	- Brotherhood of Steel T60 Pistol (https://creations.bethesda.net/en/fallout4/details/dd740e06-f7e4-421e-b1b1-3d5f94c62f5e/Brotherhood_of_Steel_T60_Pistol)
@@ -114,10 +114,7 @@ Wabbajack wont include
 
 
 **DISCORD DOWNLOADS:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
-
-- Join the **Collective Modding Discord**: https://discord.gg/pF9U5FmD6w *NOTE: Apparently, there are many users clicking this Discord link and then seeking support for the list there. THIS LINK IS FOR DOWNLOADS ONLY!!! Please use the clearly labeled Support Discord link at the start of this ReadMe if you are having trouble, for the love of god...*
-- Download **M8r98a4f2's Complex Sorter 1.13-beta2** (file pinned in "complex-sorter-support" channel)
-- Drag the zip file into MO2 above "4estGimp - M8r98a4f2's Complex Item Sorter Enhancements" under "Interface" separator. Enable the mod.
+- Join the  *NOTE: Apparently, there are many users clicking this Discord link and then seeking support for the list there. THIS LINK IS FOR DOWNLOADS ONLY!!! Please use the clearly labeled Support Discord link at the start of this ReadMe if you are having trouble, for the love of god...*
 - Download **MCM Settings Manager - v1.3-beta2** (file pinned in "m8r-development" channel under "MCM Settings Manager")
 - Drag the zip file into MO2 below "MCM Settings Manager" under "Interface" separator. Enable the mod.
 - Download **MCM_Booster_v1.1-beta2** (file pinned in "m8r-docs-downloads" channel under "Downloads")
@@ -205,9 +202,8 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 - Turn Bullet Counted Reload on
 - In Workshop Plus:
 	- set "Fly in Workshop Mode" to "OFF" and set hotkeys (or remember to NEVER use a jetpack in Workshop Mode, *or else*)
-- In Power Armor Handling Improvements: "Retain Armor Buffs"
-	- set "Remove Armor on PA Entry:" to "Auto"
-	- set "Core Preference" to "Off/Disabled"
+- In Power Armor Handling Improvements - Retain Armor Buffs:
+	- Set "Remove Armor on PA Entry but keep buffs" (or Auto if Survival) or Carryweight is doubled
 - Configure Condition Boy to your liking
 
 **NOTE:** I am currently unable to create an MCM Preset, but if you are willing to share yours with me, I will ship it with the list! (:
@@ -248,6 +244,7 @@ I ship the list with the tools and guides that I used to curate the list (and so
 - **Gumroad CROSS Enhanced Textures** *(use discount code "cross99off" to get them for free)*: https://niero.gumroad.com/
 - **CROSS_Chosen_Of_Atom Enhanced Textures** *(Niero's public Patreon post)*: https://www.patreon.com/posts/cross-chosen-of-25213700
 - **FCOM 3.0 Custom Faction Template** *(make your own FCOM crew)*: https://www.nexusmods.com/fallout4/mods/42402
+- **M8r98a4f2's Complex Sorter 1.13-beta2** *(file pinned in "complex-sorter-support" channel of the Collective Modding Discord)*: https://discord.gg/pF9U5FmD6w
 
 **NOTE: If you download the Gumroad CROSS textures, you'll have to install them as a mod in MO2 and unpack any of them that are in BA2. I include Unpackrr and Cathedral Assets Optimizer. Unpackrr has a mod page on Nexus with instructions.**
 **NOTE: If you change the Maryland flag texture on the Equalizer PA, I will cry.**

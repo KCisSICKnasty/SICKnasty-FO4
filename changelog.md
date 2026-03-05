@@ -1,9 +1,82 @@
-**Current Version: 1.1.8*
+**Current Version: 1.1.9*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
 
-Version 1.1.8
+Version 1.1.9 -
+
+Updated:
+
+- Vanilla Locations Plus
+- Extra References
+- Floating Suicider Chain Fix
+- TRUE - Elemental Damage
+- TRUE - F76 Enemy Scaling RobCo
+- Project NEMEAN - A Creature Mod
+- Addictol
+- Fourville - eXoPatch
+- Equipment and Crafting Overhaul (ECO) - Redux
+- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More
+- RobCo Patcher
+- T60 Pistol - 1st Person One Handed Animations for Power Armor
+- Reaper's Munitions Patches
+- Overdue Books to BOS
+- Washers and Dryers to BOS
+- Emirals Tales From The Commonwealth Fixes
+- Garden of Eden Papyrus Script Extender
+- FRIENDS - Gotta Have Em
+- Power Armor Flag Capes V2
+- Inertia - Physical Movement Response System - F4SE
+- Support Laser Rifle - AESW3
+
+Removed:
+
+- Windy TREE for True Storm
+- VR Framework
+- Pre-War Sanctuary VR Workshop
+- Virtual Railway
+- Darker Nights
+- Wasteland Combat Arena - Quest and Framework
+- Daytripper 4
+- HD Retexture Project - All in One (Work in progress)
+- Landscape Textures Overhaul - with parallax support
+- D.E.C.A.Y - Better Ghouls
+- DECAY Redux - Gross Ghouls of the Commonwealth
+- ZP's Flora - Inactive Flora and Fungi
+- ZP's Flora - Interactive Flora and Fungi
+- ZP's Prydwen
+- BOS - Nuka to Vim machines (and viceversa)
+- More Realistic Dismember and Explode - RobCo Patcher
+- RobCo and SCOURGE - Patch
+- RobCo - SCOURGE Excluded Bosses
+- RobCo - SCOURGE NPCs Use Items Patch
+- RobCo Patcher for Scourge and Shuddersome Subways
+- Run and Breathe Underwater with Power Armor
+- Wasteland Wonderglue - A Collection of Patches and More
+- sattyre's Patches for various Mods
+- Consistent Combat - RobCo Edition
+
+Added:
+
+- DreadEye2020s True Nuka Cola Bottle Caps Stashes - Settlement Containers
+- Bathroom Mirrors ro BOS
+- Hitech and Office Desks to BOS
+- HiTech Benches to BOS
+- Ice Machines to BOS
+- News Stands to the BOS
+- T6M's Heavy Tesla Cannon
+- GFXBooster
+- Mr. Handy Buzz Blade Third Person Sound Fix
+- ZP's Plane Stingray Prydwen
+- Revenge of the Van Graffs - Wattz Laser RCW and Plasma Offender Legendary Effect Overhaul and Rename Patch
+- Metallurgy pt.1 - Greebles Pipes 'n Stuff
+- TRUE - F76 Damage
+- TRUE - F76 Health
+- Automatron - Increased Lightning Range
+- Persistent Console History
+
+
+Version 1.1.8 -
 
 Updated:
 
