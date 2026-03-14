@@ -7,6 +7,11 @@ Version 1.2.0 -
 
 Updated:
 
+- Follower AI Approach Reaction Fix - F4SE
+- Show All Armors and Outfits - F4SE
+- Drop Quest Items and Keys - F4SE
+- FORTITUDE - Add Ons
+- T6M's Heavy Tesla Cannon
 - Animated World Framework
 - Bathroom Mirrors to BOS
 - Persistent Console History
@@ -54,6 +59,7 @@ Added:
 - Radio Reboot Menu
 - Armor Workbench to BOS
 - Cabinets to BOS
+- Cooking Stations to BOS
 - Mailboxes to BOS
 - Power Armor Stations to BOS
 - Safes to BOS
@@ -84,6 +90,7 @@ Added:
 - Ultimate Hotkey Analyzer
 - Bulk Generate and Edit Materials (B.G.E.M.) - BGSM and BGEM Processor
 - Metallurgy pt.2 - Sheets 'n Diamond Shacks
+- Instant Flashbang - Tale of the Beast Hunter Addon
 
 
 Version 1.1.9 -
