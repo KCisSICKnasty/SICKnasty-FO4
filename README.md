@@ -167,6 +167,9 @@ Instructions:
 - In game, press F8 to activate "place-everywhere" mode (off by default)
 
 
+***NOTE: If using a controller, go in the addictol.toml and change "bInputSwitch=false", if not you will be switching to the mouse when in dialog and you will get some twitching and drift.***
+
+
 **LAUNCHING THE GAME:**
 
 - In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button
