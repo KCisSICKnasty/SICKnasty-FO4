@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.1.9**
+**CURRENT VERSION: 1.2.0**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 
@@ -30,99 +30,88 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - ***Patience***
 
 
-**EXCLUSIONS:**
-
-*NOTE: This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.*
-
-- Open Windows Security.
-- Open Virus & threat protection.
-- Click Manage settings under Virus & threat protection settings.
-- Scroll down and click Add or remove exclusions under Exclusions.
-- Add a Folder exclusion and point it to the Installation Location folder.
-
-
 **UNINSTALLING/REINSTALLING:**
 
-- Open Steam and go to your Library.
-- Find Fallout 4 in the list.
-- Right-click on it and select Manage -> Uninstall.
-- Navigate to Steam\steamapps\common and, if present, delete the Fallout 4 folder.
-- Navigate to Documents\My Games\Fallout 4 and delete all INI files inside it.
-- Open Steam and go to your Library.
-- Find Fallout 4 in the list and select Install. (Wherever you had it already is fine)
-- Select Next then wait for the install to finish.
-- In your Steam Library, right-click on Fallout 4, and click on Properties in the resulting context menu.
-- In the resulting new window, click on the drop-down at the top of the right pane underneath Automatic Updates.
-- Set it to "Only update this game when I launch it".
-- Run the game from Steam, or through Fallout4Launcher.exe in the game files if you are using an offline copy.
-- Click OK to both pop-ups that say Detecting Video Hardware.
-- If there aren't any pop-ups, navigate to Documents\My Games\Fallout 4 and delete all INI files, then retry.
-- Launch the game once through Steam, and navigate to the Creations tab in the Main Menu.
-- Locate the Creation Club mods listed in the requirements above (if you have them bookmarked, you will find them in your Bookmarks) and install them. 
-- Click OK then Exit.
-
-**HIGH DPI SCALING FIX:**
-
-- Right-click on **Fallout4.exe** in the **Stock Game" folder**.
-- Open **Properties** and navigate to the **Compatibility** tab.
-- Click on **Change high DPI settings**.
-- Set **High DPI scaling override** to **Application**.
+- Open Steam and go to your Library
+- Find Fallout 4 in the list
+- Right-click on it and select Manage -> Uninstall
+- Navigate to Steam\steamapps\common and, if present, delete the Fallout 4 folder
+- Navigate to Documents\My Games\Fallout 4 and delete all INI files inside it
+- Open Steam and go to your Library
+- Find Fallout 4 in the list and select Install (Wherever you had it already is fine)
+- Select Next then wait for the install to finish
+- In your Steam Library, right-click on Fallout 4, and click on Properties in the resulting context menu
+- In the resulting new window, click on the drop-down at the top of the right pane underneath Automatic Updates
+- Set it to "Only update this game when I launch it"
+- Run the game from Steam, or through Fallout4Launcher.exe in the game files if you are using an offline copy
+- Click OK to both pop-ups that say Detecting Video Hardware
+- If there aren't any pop-ups, navigate to Documents\My Games\Fallout 4 and delete all INI files, then retry
+- Launch the game once through Steam, and navigate to the Creations tab in the Main Menu
+- Locate the Creation Club mods listed in the requirements above (if you have them bookmarked, you will find them in your Bookmarks) and install them
+- Click OK then Exit
 
 
 **WABBAJACK:**
 
-- Download the latest Wabbajack: https://www.nexusmods.com/site/mods/403
-- Create a new folder anywhere except default Windows folders or the game folder itself (Example: C:\Modding\Wabbajack)
-- Place Wabbajack.exe in this folder, then run it
-- Click Browse Modlists, then tick the "Show Unofficial Lists" box in the corner
-- Locate "The SICKnasty Suite" in the gallery and click the download button in the corner
-- In Installation Location select a folder that's NOT the following: Steam folder, default Windows folder, game folder, folder you just put Wabbajack.exe (Example: C:\Modding\The SICKnasty Suite)
+- Download the latest **Wabbajack**: https://www.nexusmods.com/site/mods/403
+- Create a new folder anywhere ***except*** default Windows folders or the game folder itself (Example: C:\Modding\Wabbajack)
+- Place **Wabbajack.exe** in this folder, then run it
+- Click **Browse Modlists**, then tick the **Show Unofficial Lists** box in the corner
+- Locate **The SICKnasty Suite** in the gallery and click the download button in the corner
+- In your **Installation Location** select a folder that's ***NOT*** the following: Steam folder, default Windows folder, game folder, folder you just put Wabbajack.exe (Example: C:\Modding\The SICKnasty Suite)
 - Begin installing
 - Accept the Nexus Mods API request (If you are not a Premium user you will need to manually click download for each mod)
 - Once complete, the installation will show a green Installation Complete screen
 - If you see a red Installation Failed screen, try to log-in again through the Wabbajack settings, then reinstall the list to the same folder
-	
+
+
+**EXCLUSIONS:**
+
+*NOTE: This operation is required because Windows can block MO2 and mod files from loading due to how MO2's virtualized filesystem works.*
+
+- Open **Windows Security**
+- Open **Virus & threat protection**
+- Click **Manage settings** under **Virus & threat protection settings**
+- Scroll down and click **Add or remove exclusions** under **Exclusions**
+- Add a **Folder** exclusion and point it to your **Installation Location** folder
+
 
 **MOD ORGANIZER 2:**
 
-- Launch ModOrganizer.exe from your Installation Location
-- If you see a pop-up called "Register?", select "Yes"
+- Launch **ModOrganizer.exe** from your **Installation Location**
+- If you see a pop-up that asks **Register?**, select **Yes**
+
+
+**HIGH DPI SCALING FIX:**
+
+- Right-click on **Fallout4.exe** in the **Stock Game"** folder
+- Open **Properties** and navigate to the **Compatibility** tab
+- Click on **Change high DPI settings**
+- Set **High DPI scaling override** to **Application**
 	
 
 **POST INSTALLATION:**
 	
-**First and foremost, make sure that the version of Fallout 4 MO2 is pathed to is the version I include for you in the "game" folder.**
+***NOTE: The method used for root files is called the "Stock Game" method. What this means is that a version of Fallout 4 is already included for you in a folder called "Stock Game" within your installation location. This method keeps your Steam installation untouched and uninstalling the list is as simple as deleting your install location. Just to be sure, check that MO2 didn't change the path.***
 
-- In MO2, open **Settings**.
-- Navigate to the **Paths** tab.
-- Change the bottom path to **InstallLocation/Stock Game/Fallout4.exe** (unless it is already set correctly, in which case, proceed).
+- In MO2, open **Settings**
+- Navigate to the **Paths** tab
+- Change the bottom path to **InstallLocation/Stock Game/Fallout4.exe** (unless it is already set correctly, in which case, proceed)
 
 
 **FREE CC CONTENT:**
 
-Wabbajack wont include
+Wabbajack wont include these, so you'll have to manually add them.
 
-- Open Windows Explorer to your **InstallLocation/game/data** folder.
-- Open a 2nd Windows Explorer to your **SteamLibrary/steamapps/common/Fallout 4/Data** folder.
-- From the 2nd window, locate and highlight (CTRL+Right Click) the plugin, Textures.ba2, & Main.ba2. for the following:
+- Open **Windows Explorer** to your **InstallLocation/Stock Game/data** folder
+- Open a **2nd Windows Explorer** to your **SteamLibrary/steamapps/common/Fallout 4/Data** folder
+- From the 2nd window, locate and highlight (CTRL+Right Click) the **plugin**, **Textures.ba2**, & **Main.ba2** for the following:
 	- bgs_varmintrifle
 	- ptrfo4001_t60pistol
 	- ptrfo4002_vangraff
 	- vchgs001fo4_ncrbeasthunter
-- Click & drag (or copy/paste) all 12 files into the 1st window you opened.
-- If MO2 is open, press F5.
-
-
-**DISCORD DOWNLOADS:** *(Discord requires an account in order to join servers. If you don't have a Discord, you should make one. Especially if you want support from me for this list. ;D)*
-- Join the  *NOTE: Apparently, there are many users clicking this Discord link and then seeking support for the list there. THIS LINK IS FOR DOWNLOADS ONLY!!! Please use the clearly labeled Support Discord link at the start of this ReadMe if you are having trouble, for the love of god...*
-- Download **MCM Settings Manager - v1.3-beta2** (file pinned in "m8r-development" channel under "MCM Settings Manager")
-- Drag the zip file into MO2 below "MCM Settings Manager" under "Interface" separator. Enable the mod.
-- Download **MCM_Booster_v1.1-beta2** (file pinned in "m8r-docs-downloads" channel under "Downloads")
-- Drag the zip file into MO2 below "MCM Booster" under "Interface" separator. Enable the mod.
-
-**NOTE: Rename any additional download folder to include "[No Delete]" in front of their names. This will prevent Wabbajack from deleting them when you update the list. This applies to any mod you've added to the list as well.**
-
-**NOTE: If you are having trouble finding any of the Discord downloads, I have pinned them in my Discord server under the channel "sicknasty-fo4-support".**
+- Click & drag (or copy/paste) all 12 files into your **InstallLocation/Stock Game/data** folder
+- If MO2 is open, press F5
 
 
 *Bethini Pie*
@@ -132,8 +121,8 @@ Wabbajack wont include
 Instructions:
 
 - In MO2, click on the drop-down in the right pane next to the Run button
-- Click <Edit...>, then the **+** symbol in the top left, and **Add from file**
-- In the resulting explorer window, navigate to the "Bethini Pie" folder in your install location
+- Click **<Edit...>**, then the **+** symbol in the top left, and **Add from file**
+- In the resulting explorer window, navigate to the **Bethini Pie** folder in your install location
 - Highlight **Bethini.exe** and then confirm
 - Apply > OK
 - Select BethINI from the drop-down and run it
@@ -151,7 +140,7 @@ Instructions:
 
 ***Feature:*** Anything FPS related to your game, configurable via ini.
 
-***Bonus:*** I no longer back The Midnight Ride since it's switched to the NG executable, but it has a calculator specifically for HFPSPF: https://themidnightride.moddinglinked.com/utilities.html (scroll down halfway)
+***Bonus:*** The Midnight Ride has a calculator specifically for HFPSPF: https://themidnightride.moddinglinked.com/utilities.html (scroll down halfway)
 
 **NOTE:** I provide a pre-configured version of HFPSPF's ini, though the InGameFPS is set for a Fixed Refresh rate of 60. If that setup doesn't fit yours, you'll have to follow the steps below to tailor it to your rig. Otherwise, you can skip this step.
 
@@ -179,8 +168,6 @@ Instructions:
 
 
 **LAUNCHING THE GAME:**
-
-***NOTE: The method SICKnasty - FO4 uses for root files is called the "Stock Game" method. What this means is that a version of Fallout 4 is already included for you in a folder called "game" within your installation location. This method keeps your Steam installation untouched and uninstalling the list is as simple as deleting your install location.***
 
 - In MO2, you will see a dropdown menu on the right side, to the left of the "Run" button
 - Select F4SE
@@ -215,9 +202,7 @@ Only enable the following utility plugins if you're prepared to use them (detail
 
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
 - **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
-
-
-If you see a mod has hidden or missing files, **THIS IS INTENDED!!!** This means that its files have been packed into one of the mods under "Workfiles" separator or hidden because one of my outputs overwrites it. This is done so I can repack all of my outputs without any loose files overriding them.
+- **sicknastyccpatch.esp:** *Shhhhhhhhhh~*
 
 
 **A note on lore:**
@@ -245,17 +230,14 @@ I ship the list with the tools and guides that I used to curate the list (and so
 - **CROSS_Chosen_Of_Atom Enhanced Textures** *(Niero's public Patreon post)*: https://www.patreon.com/posts/cross-chosen-of-25213700
 - **FCOM 3.0 Custom Faction Template** *(make your own FCOM crew)*: https://www.nexusmods.com/fallout4/mods/42402
 - **M8r98a4f2's Complex Sorter 1.13-beta2** *(file pinned in "complex-sorter-support" channel of the Collective Modding Discord)*: https://discord.gg/pF9U5FmD6w
+- **MCM Settings Manager - v1.3-beta2** *(file pinned in "m8r-development" channel under "MCM Settings Manager")*
+- **MCM_Booster_v1.1-beta2** *(file pinned in "m8r-docs-downloads" channel under "Downloads")* 
 
 **NOTE: If you download the Gumroad CROSS textures, you'll have to install them as a mod in MO2 and unpack any of them that are in BA2. I include Unpackrr and Cathedral Assets Optimizer. Unpackrr has a mod page on Nexus with instructions.**
 **NOTE: If you change the Maryland flag texture on the Equalizer PA, I will cry.**
 
 
-**OUTRO:**
-
-This mod list was made by **me and only me**. That's not by choice, it's just how it's been. That's also not me saying to go easy on me. I can take it. I continue to learn new things and implement them in updates. Not just the products, but the tools. I wanted my suite to be one that you could pick apart and tweak to your liking. That said, by all means, feel free to upload patches for my list! As long as your patch falls within the permissions from the mod author of whatever mod(s) you're patching!
-
-
-**SUGGESTIONS:**
+**MAKING SUGGESTIONS:**
 
 *Always* welcome if their through the ***correct channel*** in my Discord server.
 
@@ -267,6 +249,20 @@ This mod list was made by **me and only me**. That's not by choice, it's just ho
 - Anything by MunkySpunk
 - Anything by Halffaces
 - Anything by Oppressor08
+
+
+**DEVIATION:**
+
+If you choose to add or remove anything from the list, this is all possible with the tools I provide.
+***However...***
+It goes without saying that support from me will be sparse.
+For instance, a common question is, "Can I use ENB?" In short, yes. You can. I've never touched ENB before in my life though, so it's on you to explore that option and maintain it with each update.
+This goes with removals as well. If it breaks an output, the burden of recreating and maintaining that output will rest on your shoulders.
+
+
+**OUTRO:**
+
+This mod list was made by **me and only me**. That's not by choice, it's just how it's been. That's also not me saying to go easy on me. I can take it. I continue to learn new things and implement them in updates. Not just the products, but the tools. I wanted my suite to be one that you could pick apart and tweak to your liking. That said, by all means, feel free to upload patches for my list! As long as your patch falls within the permissions from the mod author of whatever mod(s) you're patching!
 
 
 **Ways you can make my day:**

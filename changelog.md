@@ -1,6 +1,89 @@
-**Current Version: 1.1.9*
+**Current Version: 1.2.0*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+
+Version 1.2.0 -
+
+Updated:
+
+- Animated World Framework
+- Bathroom Mirrors to BOS
+- Persistent Console History
+- TRUE - Elemental Damage
+- PJM's Precombine - Previs Patching Scripts
+- Kill Effects (simple RDR2 and GTA5 style)
+- Companion Status Enhanced
+- Pump Actions of the Wasteland (Hunting Shotgun (Rem 870) - SPAS 12 - Mossberg 500 - Maverick 88 - Ithaca 37)
+- Sim Settlements 2 - Chapter 3
+- Improved Brotherhood of Steel
+- Improved Nuka Raiders
+- Vault 117 - A Horror Quest Mod
+- GFXBooster
+- Previsibines Repair Pack Stable Branch - PRP
+- T6M's Heavy Tesla Cannon
+- TRUE - F76 Damage
+- TRUE - F76 Enemy Scaling RobCo
+- 2 the TEETH - armed that is
+- WitCH - What in the Craftable Hell
+- FRIENDS - Gotta Have Em
+- CRITTERS - A Wholotovum
+- Vile - Ambience Lain to Waste
+- Power Armor Flag Capes V2
+- FO4Edit Iterative Record Generators - Material Swaps
+- Jackify
+- Nomads (Wandering Settlers and Lost Robots)
+- Dynamic Dismember System - F4SE
+- Persistent Console History
+- FO4 - Wardrobe Manager
+
+Removed:
+
+- Base Face - A face retexture
+- Tales from the Commonwealth - Precombined Visibility Patch
+- ZP's Super Mutant Claw Beast
+- Shabby Car Engine
+- Shabby Grill And Garden Hose
+- Paint.NET
+- DDS FileType Plus for Paint.NET
+
+Added:
+
+- High-Fidelity Voices Project
+- Duplex Revolver - Rat Runners Arsenal
+- Radio Reboot Menu
+- Armor Workbench to BOS
+- Cabinets to BOS
+- Mailboxes to BOS
+- Power Armor Stations to BOS
+- Safes to BOS
+- T-47R Quantum Steel Crash Fix
+- Duplex Revolver - Rat Runners Arsenal
+- Jaymach's patch hub
+- Bolt Actions of the Wasteland (Fo3 NV Hunting Rifle - Varmint Rifle - Winchester Model 70 - M24 - Kar 98 - M1903 - Mosin Nagant)
+- Dynamic Interior Skies And Sounds Tied to Exterior Regions - DISASTER
+- Power Armor Water Radiation Resistance Fix
+- TRUE - Performance Tweaks
+- TRUE - F76 Power Armor
+- TRUE - F76 Respawn Rate
+- TRUE - Real Time
+- Running Speed Drug - Crazy Colt
+- Gremlin Outfit Fix
+- Settler Vigilante Power Armor
+- Fallout TV Show Inspired Cleric Robes
+- Paladin Sword - A Brotherhood of Steel Melee Weapon
+- BOS Cleric Robes Bodyslide (CBBE Fusion Girl)
+- FEV Grenades for the PBW China Lake - America Rising 2 Addon
+- Automatron - Stronger Tesla Rifle Barrels
+- Fort Hagen Door Fix
+- Shabby Industrial Cart
+- Faster Decompression
+- Pause or Resume All Downloads MO2 Plugin
+- Query All Info MO2 Plugin
+- Daytripper 4
+- Ultimate Hotkey Analyzer
+- Bulk Generate and Edit Materials (B.G.E.M.) - BGSM and BGEM Processor
+- Metallurgy pt.2 - Sheets 'n Diamond Shacks
 
 
 Version 1.1.9 -
