@@ -91,6 +91,7 @@ Added:
 - Bulk Generate and Edit Materials (B.G.E.M.) - BGSM and BGEM Processor
 - Metallurgy pt.2 - Sheets 'n Diamond Shacks
 - Instant Flashbang - Tale of the Beast Hunter Addon
+- Workshop Cage Tweaks - Super Mutants
 
 
 Version 1.1.9 -
