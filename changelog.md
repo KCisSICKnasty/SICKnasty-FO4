@@ -41,6 +41,8 @@ Updated:
 - Dynamic Dismember System - F4SE
 - Persistent Console History
 - FO4 - Wardrobe Manager
+- Thats Gunner Life - Gunner Outfit Pack Distribution and Balance
+- FLAMER with moving tube
 
 Removed:
 
@@ -92,6 +94,7 @@ Added:
 - Metallurgy pt.2 - Sheets 'n Diamond Shacks
 - Instant Flashbang - Tale of the Beast Hunter Addon
 - Workshop Cage Tweaks - Super Mutants
+- ZP's Dresses 
 
 
 Version 1.1.9 -
