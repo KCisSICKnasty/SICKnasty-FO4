@@ -43,6 +43,8 @@ Updated:
 - FO4 - Wardrobe Manager
 - Thats Gunner Life - Gunner Outfit Pack Distribution and Balance
 - FLAMER with moving tube
+- Hellcat Power Armor
+- Bigger Companion Combat Radius
 
 Removed:
 
@@ -65,6 +67,7 @@ Added:
 - Mailboxes to BOS
 - Power Armor Stations to BOS
 - Safes to BOS
+- Weapon Workbenches to BOS
 - T-47R Quantum Steel Crash Fix
 - Duplex Revolver - Rat Runners Arsenal
 - Jaymach's patch hub
@@ -94,7 +97,11 @@ Added:
 - Metallurgy pt.2 - Sheets 'n Diamond Shacks
 - Instant Flashbang - Tale of the Beast Hunter Addon
 - Workshop Cage Tweaks - Super Mutants
-- ZP's Dresses 
+- ZP's Dresses
+- Lootable Stoves - Base Object Swapper
+- Refreshing Checkpoints
+- Symbolic Link Manager for Mod Organizer 2
+- Load Time Profiler
 
 
 Version 1.1.9 -

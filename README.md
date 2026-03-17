@@ -205,7 +205,6 @@ Only enable the following utility plugins if you're prepared to use them (detail
 
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
 - **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
-- **sicknastyccpatch.esp:** *Shhhhhhhhhh~*
 
 
 **A note on lore:**
