@@ -45,6 +45,7 @@ Updated:
 - FLAMER with moving tube
 - Hellcat Power Armor
 - Bigger Companion Combat Radius
+- Community Fixes Merged
 
 Removed:
 
@@ -55,6 +56,9 @@ Removed:
 - Shabby Grill And Garden Hose
 - Paint.NET
 - DDS FileType Plus for Paint.NET
+- Mr. Handy Buzz Blade Third Person Sound Fix
+- Grime Ash Moss Enhanced (GAME)
+- BRAWL - MQ Minigun Fix (Museum Quest)
 
 Added:
 
@@ -63,6 +67,7 @@ Added:
 - Radio Reboot Menu
 - Armor Workbench to BOS
 - Cabinets to BOS
+- Chemistry Stations to BOS
 - Cooking Stations to BOS
 - Mailboxes to BOS
 - Power Armor Stations to BOS
@@ -102,6 +107,8 @@ Added:
 - Refreshing Checkpoints
 - Symbolic Link Manager for Mod Organizer 2
 - Load Time Profiler
+- Dovas Misc Patch Hub
+- TGZ Fens door Patch
 
 
 Version 1.1.9 -

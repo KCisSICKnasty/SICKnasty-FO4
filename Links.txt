@@ -55,3 +55,5 @@ Git: https://git-scm.com/install/
 Merge Plugins Tool (z-Edit - Override Mod Limit): https://www.nexusmods.com/newvegas/mods/80013
 
 JPEXS Free Flash Decompiler﻿: https://github.com/jindrapetrik/jpexs-decompiler/releases
+
+Python: https://www.python.org/downloads/
