@@ -10,6 +10,7 @@ Updated:
 - Follower AI Approach Reaction Fix - F4SE
 - Show All Armors and Outfits - F4SE
 - Drop Quest Items and Keys - F4SE
+- Companion Command Animations
 - FORTITUDE - Add Ons
 - T6M's Heavy Tesla Cannon
 - Animated World Framework
@@ -59,6 +60,10 @@ Removed:
 - Mr. Handy Buzz Blade Third Person Sound Fix
 - Grime Ash Moss Enhanced (GAME)
 - BRAWL - MQ Minigun Fix (Museum Quest)
+- Gojira 2.5 -Standalone Giant Deathclaw
+- RandomMainMenu
+- Immersive Main Menus - Fallout 4
+- HUDCaps
 
 Added:
 
