@@ -114,28 +114,6 @@ Wabbajack wont include these, so you'll have to manually add them.
 - If MO2 is open, press F5
 
 
-*Bethini Pie*
-
-***Feature:*** Optimal ini tweaks at the push of a button.
-
-Instructions:
-
-- In MO2, click on the drop-down in the right pane next to the Run button
-- Click **<Edit...>**, then the **+** symbol in the top left, and **Add from file**
-- In the resulting explorer window, navigate to the **Bethini Pie** folder in your install location
-- Highlight **Bethini.exe** and then confirm
-- Apply > OK
-- Select BethINI from the drop-down and run it
-- Click **Fallout 4** then press **Select Game**
-- Choose a preset you prefer (I choose Ultra)
-- Click **Apply Recommended Tweaks**
-- Set **Display Mode** to **Borderless Windowed**
-- Select the resolution you want to display the game in
-- Make sure Text Language is set to English both in BethINI Pie and on Steam (other languages are not supported by the guide)
-- Edit the other settings to your liking
-- File > Save > File > Exit
-
-
 *High FPS Physics Fix*
 
 ***Feature:*** Anything FPS related to your game, configurable via ini.

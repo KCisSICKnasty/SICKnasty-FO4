@@ -68,6 +68,14 @@ Removed:
 - Fallout 4 Resound Project - Guns
 - Weapon Sounds Replacer - F4 Resound Project
 - Wattz3000mkII - Reverb with FO4RP-Guns Patch
+- Hellstorm Missile Launcher
+- Condition Boy - Now with Condition Girl
+- Companion Shoots At Player Fix - F4SE
+- Player Face Target Fixes and Optional Improvements - F4SE
+- Fix Camera Clipping
+- Gun Mover
+- Gun Mover - Complete Preset
+- GUN MOVER presets
 
 Added:
 
@@ -78,6 +86,7 @@ Added:
 - Cabinets to BOS
 - Chemistry Stations to BOS
 - Cooking Stations to BOS
+- Ground Clouds to BOS
 - Mailboxes to BOS
 - Power Armor Stations to BOS
 - Safes to BOS
@@ -119,6 +128,9 @@ Added:
 - Load Time Profiler
 - Dovas Misc Patch Hub
 - TGZ Fens door Patch
+- Hellstorm Missile Launcher TWEAKED
+- Beast Hunter CBBE
+- Shabby Weed Whacker
 
 
 Version 1.1.9 -
