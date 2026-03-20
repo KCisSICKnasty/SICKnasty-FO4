@@ -228,7 +228,6 @@ I ship the list with the tools and guides that I used to curate the list (and so
 - **Mutant Menagerie - Life Finds A Way - No Spider Patch** *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
 - **Gamepad - Input** *(better controller support)*: https://www.nexusmods.com/fallout4/mods/76116
 - **Ultra Wide Interface (21x9)** *(wide screen compatibility)*: https://www.nexusmods.com/fallout4/mods/65677
-- **Gumroad CROSS Enhanced Textures** *(use discount code "cross99off" to get them for free)*: https://niero.gumroad.com/
 - **CROSS_Chosen_Of_Atom Enhanced Textures** *(Niero's public Patreon post)*: https://www.patreon.com/posts/cross-chosen-of-25213700
 - **FCOM 3.0 Custom Faction Template** *(make your own FCOM crew)*: https://www.nexusmods.com/fallout4/mods/42402
 - **M8r98a4f2's Complex Sorter 1.13-beta2** *(file pinned in "complex-sorter-support" channel of the Collective Modding Discord)*: https://discord.gg/pF9U5FmD6w

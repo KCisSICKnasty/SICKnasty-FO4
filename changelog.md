@@ -64,6 +64,10 @@ Removed:
 - RandomMainMenu
 - Immersive Main Menus - Fallout 4
 - HUDCaps
+- Fallsouls - Unpaused Game Menus
+- Fallout 4 Resound Project - Guns
+- Weapon Sounds Replacer - F4 Resound Project
+- Wattz3000mkII - Reverb with FO4RP-Guns Patch
 
 Added:
 
@@ -84,6 +88,7 @@ Added:
 - Bolt Actions of the Wasteland (Fo3 NV Hunting Rifle - Varmint Rifle - Winchester Model 70 - M24 - Kar 98 - M1903 - Mosin Nagant)
 - Dynamic Interior Skies And Sounds Tied to Exterior Regions - DISASTER
 - Power Armor Water Radiation Resistance Fix
+- TRUE - F76 Legendarys
 - TRUE - Performance Tweaks
 - TRUE - F76 Power Armor
 - TRUE - F76 Respawn Rate
