@@ -76,6 +76,7 @@ Removed:
 - Gun Mover
 - Gun Mover - Complete Preset
 - GUN MOVER presets
+- No Player Archetypes
 
 Added:
 
