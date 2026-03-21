@@ -172,7 +172,6 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 	- set "Fly in Workshop Mode" to "OFF" and set hotkeys (or remember to NEVER use a jetpack in Workshop Mode, *or else*)
 - In Power Armor Handling Improvements - Retain Armor Buffs:
 	- Set "Remove Armor on PA Entry but keep buffs" (or Auto if Survival) or Carryweight is doubled
-- Configure Condition Boy to your liking
 
 **NOTE:** I am currently unable to create an MCM Preset, but if you are willing to share yours with me, I will ship it with the list! (:
 
