@@ -47,6 +47,8 @@ Updated:
 - Hellcat Power Armor
 - Bigger Companion Combat Radius
 - Community Fixes Merged
+- Neeher's Select Weapon Icon Expanded
+- Creatures Drop Junk
 
 Removed:
 
@@ -77,6 +79,9 @@ Removed:
 - Gun Mover - Complete Preset
 - GUN MOVER presets
 - No Player Archetypes
+- ConsoleEx - Console Extender - F4SE - Garden of Eden SE
+- AW - Knundrums Vanilla Patch
+- Vault Boy Coloured Animations
 
 Added:
 
@@ -132,6 +137,7 @@ Added:
 - Hellstorm Missile Launcher TWEAKED
 - Beast Hunter CBBE
 - Shabby Weed Whacker
+- RobCo - ECO Affects playerCannotEquip Armor
 
 
 Version 1.1.9 -
