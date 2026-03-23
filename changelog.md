@@ -80,6 +80,7 @@ Removed:
 - Make Like a Tree
 - Settler Debugger
 - The Forest - LOD fix for FOLIP
+- Bigger Companion Combat Radius
 
 Added:
 
