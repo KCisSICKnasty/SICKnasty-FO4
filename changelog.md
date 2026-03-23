@@ -9,6 +9,7 @@ Updated:
 
 - Community Fixes Merged
 - Legendary Effects Overhaul x T6M's AEC19 Laser Cannon Compatibility Patch and Fixes
+- Revenge of the Van Graffs - Wattz Laser RCW and Plasma Offender Legendary Effect Overhaul and Rename Patch
 - KARMA
 - The Forest DLC - For Hunters and Hikers
 - FO4Edit Iterative Record Generators - Material Swaps
@@ -20,6 +21,8 @@ Updated:
 - T6M's Heavy Tesla Cannon
 - Amazing FollowerTweaks Plus (AFT Plus)
 - Amazing FollowerTweaks Plus (AFT Plus) Patch Hub
+- Mod Switch Framework
+- Dynamic Spawn Framework
 
 Removed:
 
@@ -81,6 +84,7 @@ Removed:
 - Settler Debugger
 - The Forest - LOD fix for FOLIP
 - Bigger Companion Combat Radius
+- Jackify
 
 Added:
 
@@ -91,6 +95,7 @@ Added:
 - 4estGimp - HDTP - High Def Texture Packer
 - ZP's Keys
 - Dak's Weapon Icon Expanded II
+- Returning the Favor - Minuteman Quest
 
 
 Version 1.2.0 -
