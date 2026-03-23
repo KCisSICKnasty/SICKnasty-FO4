@@ -1,4 +1,4 @@
-**Current Version: 1.2.0*
+**Current Version: 1.2.1*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
