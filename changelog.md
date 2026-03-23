@@ -3,6 +3,95 @@
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
 
+Version 1.2.1 -
+
+Updated:
+
+- Community Fixes Merged
+- Legendary Effects Overhaul x T6M's AEC19 Laser Cannon Compatibility Patch and Fixes
+- KARMA
+- The Forest DLC - For Hunters and Hikers
+- FO4Edit Iterative Record Generators - Material Swaps
+- March of The Enclave - Enclave Remnants
+- ZP's Terminals
+- GFXBooster (F4SE)
+- Backpacks of the Commonwealth
+- Various SMM Patches
+- T6M's Heavy Tesla Cannon
+- Amazing FollowerTweaks Plus (AFT Plus)
+- Amazing FollowerTweaks Plus (AFT Plus) Patch Hub
+
+Removed:
+
+- Workshop Workbenches to BOS
+- Weapon Workbenches to BOS
+- Washers and Dryers to the BOS
+- Umbrellas-UmbrellasStands-CoatRack to BOS
+- Teddy Bears to BOS
+- Table Lamps to BOS
+- Soda Machines to BOS
+- Shovels to BOS
+- Shopping Baskets and Carts to BOS
+- Safes to BOS
+- Radios to the BOS
+- Power Armor Stations to BOS
+- Pots and Pans to BOS
+- Pet Food Bowls to BOS
+- ParkBenches to BOS
+- Paintcans and Paintbrushes to BOS
+- Overdue Books to BOS
+- Nuka World Trashcans to BOS
+- News Stands to the BOS
+- Mops and Brooms to the BOS
+- Metal Trash Cans-Baskets to BOS
+- Mannequin Outfits to BOS
+- Mailboxes to BOS
+- Ice Machines to BOS
+- HiTech Benches to BOS
+- Hitech and Office Desks to BOS
+- High Tech Trashcans to BOS
+- Hammers to BOS
+- Ground Clouds to BOS
+- Fishing Rods To BOS
+- Enamel and Metal Buckets to BOS
+- Dinner and Cafeteria Trays to BOS
+- Cooking Stations to BOS
+- Commonwealth Trashcans to BOS
+- Clipboards to BOS
+- Chessboards to BOS
+- Chemistry Stations to BOS
+- Chalks to the BOS
+- Cash Registers to BOS
+- Cabinets to BOS
+- Buttons to BOS
+- BottleCaps and Stashes to BOS
+- Bathroom Mirrors to BOS
+- Balls to BOS
+- Armor Workbench to BOS
+- Alarm Clocks to BOS
+- The Harbor Bee Monorail
+- Rotating Saves
+- Quick User Saves
+- High-Fidelity Sounds Project
+- High-Fidelity Voices Project
+- Mag Poop - Visual Reload Framework
+- Mag Defecate Patches
+- Flutter Flicker Fixer For Foliage
+- Make Like a Tree
+- Settler Debugger
+- The Forest - LOD fix for FOLIP
+
+Added:
+
+- Sniff
+- Stuff to the BOS
+- T6M's Heavy Tesla Cannon x Legendary Effect Overhaul Full Compatibility Patch
+- Langleys HD Textures Workshop
+- 4estGimp - HDTP - High Def Texture Packer
+- ZP's Keys
+- Dak's Weapon Icon Expanded II
+
+
 Version 1.2.0 -
 
 Updated:

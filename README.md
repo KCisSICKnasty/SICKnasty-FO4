@@ -116,8 +116,6 @@ Wabbajack wont include these, so you'll have to manually add them.
 
 *High FPS Physics Fix*
 
-***Feature:*** Anything FPS related to your game, configurable via ini.
-
 ***Bonus:*** The Midnight Ride has a calculator specifically for HFPSPF: https://themidnightride.moddinglinked.com/utilities.html (scroll down halfway)
 
 **NOTE:** I provide a pre-configured version of HFPSPF's ini, though the InGameFPS is set for a Fixed Refresh rate of 60. If that setup doesn't fit yours, you'll have to follow the steps below to tailor it to your rig. Otherwise, you can skip this step.
@@ -135,8 +133,6 @@ Instructions:
 
 
 *Place Everywhere*
-
-***Feature:*** What it says on the tin.
 
 Instructions:
 
@@ -157,7 +153,7 @@ Instructions:
 
 **DISCLAIMER!!!**
 
-*This mod list is ***VERY*** big. You'll probably be confused if you try to open it without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
+*This mod list is ***VERY*** big. You'll probably be confused if you try to launch the game without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
 
 
 *Mod Configuration Menu*
@@ -166,6 +162,7 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 
 - In your pause menu, choose "MCM" (first time will load for a long time while it builds cache)
 - Set VAFS hotkey
+- Set Configurable Hotkeys
 - Turn True Storms on
 - Turn Bullet Counted Reload on
 - In Workshop Plus:
@@ -181,7 +178,6 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
 
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
-- **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
 
 
 **A note on lore:**
