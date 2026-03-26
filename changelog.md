@@ -8,6 +8,7 @@ Version 1.2.1 -
 Updated:
 
 - Community Fixes Merged
+- Previsibines Repair Pack Stable Branch - PRP
 - Legendary Effects Overhaul x T6M's AEC19 Laser Cannon Compatibility Patch and Fixes
 - Revenge of the Van Graffs - Wattz Laser RCW and Plasma Offender Legendary Effect Overhaul and Rename Patch
 - KARMA
@@ -23,6 +24,8 @@ Updated:
 - Amazing FollowerTweaks Plus (AFT Plus) Patch Hub
 - Mod Switch Framework
 - Dynamic Spawn Framework
+- Load Time Profiler
+- Query All Info MO2 Plugin
 
 Removed:
 
@@ -85,17 +88,26 @@ Removed:
 - The Forest - LOD fix for FOLIP
 - Bigger Companion Combat Radius
 - Jackify
+- xSE PluginPreloader F4
+- Weapon Mod Fixes - WMF
+- Sanctuary Navmesh Update
+- Child Outfits Vanilla and Conversions Standalone
+- Diverse Child Settlers
+- Raider Gangs Extended
+- 4estGimp Edit - Raider Gangs Extended
 
 Added:
 
 - Sniff
-- Stuff to the BOS
+- Stuff to the BOS - a comprehensive Base Object Swapper mod
 - T6M's Heavy Tesla Cannon x Legendary Effect Overhaul Full Compatibility Patch
 - Langleys HD Textures Workshop
 - 4estGimp - HDTP - High Def Texture Packer
 - ZP's Keys
 - Dak's Weapon Icon Expanded II
 - Returning the Favor - Minuteman Quest
+- New Weave Types and Misc Mods for Equipment Crafting and Overhaul Redux (ECO)
+- Kill Tips for female Silver Shroud
 
 
 Version 1.2.0 -
