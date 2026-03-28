@@ -1,7 +1,54 @@
-**Current Version: 1.2.1*
+**Current Version: 1.2.2*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
+
+Version 1.2.2 (The Commander Ace Update) -
+
+Updated:
+
+- Attack of the Lobotomites - StoryWealth Lobotomite
+- Community Fixes Merged
+- Explosion Reactions
+- Power Armor Materials AND Paints (PAMAP) Revival
+- Settlement Production Framework
+- Vile - Ambience Lain to Waste
+
+Removed:
+
+- Better Xander's Aid Navmesh
+- Bobble Girl - with Slooty Vault Suit
+- Bug Fix - Bunker Hill Bed
+- Bug Fix - Hired Gun
+- Bunker Hill Workers Are Settlers
+- Fixed Gobo Effects
+- Fourville
+- Fourville - eXoPatch
+- Fourville - Vault 4 Bobble Girl
+- Guard Counter (Counter Attack F4SE)
+- Infiltrator - Lockpicking Overhaul
+- Shabby Industrial Cart
+- Stomp Attack (F4SE - Garden of Eden)
+
+Added:
+
+- Book Collector - Philosophy for the Wasteland
+- Book Collector - Philosophy for the Wasteland - Base Object Swapper
+- Book Collector II - Classic Literature Edition
+- Book Collector II - Classic Literature Edition - Base Object Swapper
+- Buoyancy Fixes
+- Burst Pistol - Beretta 93r and Robocop Auto-9
+- Burst Pistol Tactical Reload and more
+- Even Better Xander's Aid Navmesh
+- F4NV Classic Recharger Weaponry
+- F4NV Recharger Weaponry - Noise Remover
+- F4NV Single Shotgun and Alofs Repeater
+- HK G11 K2 - Kraut Space Magic
+- Navy Auto Pistol - M2074 Navy
+- Navy Auto Pistol - Tactical Reload Patch
+- Optimization Patches Collection
+- Vintage Riot Shotgun - Browning Auto 5 and Gamma Shotgun
+- ZP's Gobos
 
 Version 1.2.1 -
 

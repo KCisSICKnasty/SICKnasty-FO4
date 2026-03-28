@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.2.1**
+**CURRENT VERSION: 1.2.2**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 
@@ -15,7 +15,7 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - **Freshly installed** Steam copy of Fallout 4 ver.1.11.191 (AE update)
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 483 GB of space
+- *Roughly* 485 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - **FREE** Bethesda.NET Creation Club Content: (use the links below to bookmark the mods, and then, from the Creations tab in the Main Menu, install each)
 	- Brotherhood of Steel T60 Pistol (https://creations.bethesda.net/en/fallout4/details/dd740e06-f7e4-421e-b1b1-3d5f94c62f5e/Brotherhood_of_Steel_T60_Pistol)
@@ -178,6 +178,7 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
 
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
+- **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
 
 
 **A note on lore:**
