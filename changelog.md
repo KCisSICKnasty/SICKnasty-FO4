@@ -7,26 +7,40 @@ Version 1.2.2 (The Commander Ace Update) -
 
 Updated:
 
+- Amazing FollowerTweaks Plus (AFT Plus) Patch Hub
 - Attack of the Lobotomites - StoryWealth Lobotomite
 - Community Fixes Merged
 - Explosion Reactions
+- FO4 - Wardrobe Manager
+- GFXBooster (F4SE)
 - Power Armor Materials AND Paints (PAMAP) Revival
 - Settlement Production Framework
+- Transfer Inventories - F4SE
 - Vile - Ambience Lain to Waste
 
 Removed:
 
+- Beast Master - Creature Companion Overhaul
+- Beast Master - Deathclaws Can Wear Body Paint And Torso Armor
+- Beast Master CIS ini fix
+- Beast Master - Exotic Creatures Get Correct Race
+- Beast Master - Mutant Menagerie Patch
+- Beast Master - VATS Crash Fix
+- Beast Master - Workshop Creatures Don't Tunnel
 - Better Xander's Aid Navmesh
 - Bobble Girl - with Slooty Vault Suit
 - Bug Fix - Bunker Hill Bed
 - Bug Fix - Hired Gun
 - Bunker Hill Workers Are Settlers
+- Exotic Workshop Creatures
 - Fixed Gobo Effects
 - Fourville
 - Fourville - eXoPatch
 - Fourville - Vault 4 Bobble Girl
 - Guard Counter (Counter Attack F4SE)
 - Infiltrator - Lockpicking Overhaul
+- Make Workshop Creatures Provisioners
+- Quantum Deathclaw Beastmaster fix
 - Shabby Industrial Cart
 - Stomp Attack (F4SE - Garden of Eden)
 
