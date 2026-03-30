@@ -32,7 +32,10 @@ Removed:
 - Bug Fix - Bunker Hill Bed
 - Bug Fix - Hired Gun
 - Bunker Hill Workers Are Settlers
+- Disable Exit Save
+- DLSSTweaks
 - Exotic Workshop Creatures
+- Fallout 4 Resound Project - Guns - Vanilla Keywords - RobCo Patcher
 - Fixed Gobo Effects
 - Fourville
 - Fourville - eXoPatch
@@ -40,9 +43,15 @@ Removed:
 - Guard Counter (Counter Attack F4SE)
 - Infiltrator - Lockpicking Overhaul
 - Make Workshop Creatures Provisioners
+- NVIDIA Reflex Support
 - Quantum Deathclaw Beastmaster fix
+- RobCo - Beast Master Creatures Get Perks
 - Shabby Industrial Cart
 - Stomp Attack (F4SE - Garden of Eden)
+- TRUE - F76 Health
+- Vault-Tec Freaks
+- Vault Tech Freaks hate everyone Patch
+- Wash That Blood Off
 
 Added:
 
