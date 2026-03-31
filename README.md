@@ -48,7 +48,8 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - If there aren't any pop-ups, navigate to Documents\My Games\Fallout 4 and delete all INI files, then retry
 - Launch the game once through Steam, and navigate to the Creations tab in the Main Menu
 - Locate the Creation Club mods listed in the requirements above (if you have them bookmarked, you will find them in your Bookmarks) and install them
-- Click OK then Exit
+- Leave the Creations menu, and press OK to the pop-up
+- Exit the game
 
 
 **WABBAJACK:**
