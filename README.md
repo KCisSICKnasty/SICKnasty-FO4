@@ -161,7 +161,7 @@ Instructions:
 After leaving the vault, you'll want to actually open up MCM for the first time:
 
 - In your pause menu, choose "MCM" (first time will load for a long time while it builds cache)
-- Set VAFS hotkey
+- Set VAFS hotkey (I recommend replacing the pipboy light key, since I've disabled its function)
 - Set Configurable Hotkeys
 - Turn True Storms on
 - Turn Bullet Counted Reload on
