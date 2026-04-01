@@ -7,15 +7,21 @@ Version 1.2.2 (The Commander Ace Update) -
 
 Updated:
 
+- 2 the TEETH - armed that is
+- Addictol
 - Amazing FollowerTweaks Plus (AFT Plus) Patch Hub
 - Attack of the Lobotomites - StoryWealth Lobotomite
 - Community Fixes Merged
 - Explosion Reactions
+- FO4 Crash Log Auto Scanner And Setup Integrity Checker (CLASSIC)
 - FO4 - Wardrobe Manager
 - GFXBooster (F4SE)
+- Headlamps for the Commonwealth
+- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More
 - Power Armor Materials AND Paints (PAMAP) Revival
 - Settlement Production Framework
 - Transfer Inventories - F4SE
+- TRUE - F76 XP Scaling
 - Vile - Ambience Lain to Waste
 
 Removed:
@@ -34,27 +40,38 @@ Removed:
 - Bunker Hill Workers Are Settlers
 - Disable Exit Save
 - DLSSTweaks
+- Drop 7FFF Fix
+- Dual Trigger - Fire Both Barrels
 - Exotic Workshop Creatures
 - Fallout 4 Resound Project - Guns - Vanilla Keywords - RobCo Patcher
+- Fallout 4 Wheel Menu
 - Fixed Gobo Effects
 - Fourville
 - Fourville - eXoPatch
 - Fourville - Vault 4 Bobble Girl
+- Frisbee Nuke
 - Guard Counter (Counter Attack F4SE)
+- High-Fidelity Music Project
 - Infiltrator - Lockpicking Overhaul
 - Make Workshop Creatures Provisioners
 - NVIDIA Reflex Support
+- Persistent Volume Sliders
 - Quantum Deathclaw Beastmaster fix
 - RobCo - Beast Master Creatures Get Perks
 - Shabby Industrial Cart
+- Simple Weapon Icons Fix for FallUI
 - Stomp Attack (F4SE - Garden of Eden)
+- The Relic of Rub' al Khali - Lorenzo's Crown Reintegrated
 - TRUE - F76 Health
 - Vault-Tec Freaks
 - Vault Tech Freaks hate everyone Patch
+- Wanderer Song Restored
 - Wash That Blood Off
+- Wheel Menu - FallUIified
 
 Added:
 
+- 4estGimp - Ultracite Power Armor FIX - ESL
 - Book Collector - Philosophy for the Wasteland
 - Book Collector - Philosophy for the Wasteland - Base Object Swapper
 - Book Collector II - Classic Literature Edition
@@ -66,10 +83,12 @@ Added:
 - F4NV Classic Recharger Weaponry
 - F4NV Recharger Weaponry - Noise Remover
 - F4NV Single Shotgun and Alofs Repeater
+- FO4 Fixes for Mod Compressor Tool for MO2
 - HK G11 K2 - Kraut Space Magic
 - Navy Auto Pistol - M2074 Navy
 - Navy Auto Pistol - Tactical Reload Patch
 - Optimization Patches Collection
+- Scrap And Shrapnel - A Makeshift Handmade Grenade Pack
 - Vintage Riot Shotgun - Browning Auto 5 and Gamma Shotgun
 - ZP's Gobos
 
