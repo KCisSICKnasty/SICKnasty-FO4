@@ -1,6 +1,67 @@
-**Current Version: 1.2.2*
+**Current Version: 1.2.3*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+
+Version 1.2.3 -
+
+Updated:
+
+- Ballistic Industries - Now with Energy Weapons
+- Community Fixes Merged
+- FO4 Crash Log Auto Scanner And Setup Integrity Checker (CLASSIC)
+- FO4 - Wardrobe Manager
+- FORTITUDE - Add Ons
+- Load Time Profiler
+- Lootable Stoves - Base Object Swapper
+- Meltdown - New Burning Effect for Plasma Weapons
+- Ranged Killcam (Kill Camera mod Outside of VATS)
+- ShaderEngine (F4SE)
+- South of the Sea - Atomic Embrace (and CBBE)
+
+Removed:
+
+- 'Not-Eyebots' - Creature Additions
+- 4estGimp - HDTP - High Def Texture Packer
+- Burst Pistol Tactical Reload and more
+- Craft Bobby Pins
+- Fallout Brotherhood - A Storyteller Quest Mod
+- FALLOUT Brotherhood - Storyteller - eXoPatch
+- Fallout Brotherhood - Upgradeable T-49 Power Armor
+- Langleys HD Textures Workshop
+- MedX is Medicine (Better Chems-FIS-Stimpaks Heal No Limbs patch)
+- The Danse Dilemma (pka Face Maxson etc.)
+- The Danse Dilemma - Plugin Cleanup
+
+Added:
+
+- 10mm SMG - A Fallout 3 Classic
+- 10mm SMG - A Fallout 3 Classic - Tactical Reload Patch
+- Better Pulse Grenade EMP Explosion
+- Bos Infantry Armor
+- Clearest Skies Wobble Fix
+- FlaconOil's Complete Retexture Project -in progress-
+- Harmless Error Husher (MO2)
+- High Resolution Texture Pack 2K and 4K - Valius
+- Hina's Previs Patches
+- Lucid's Texture Upgrades
+- March of the Enclave - Enclave Remnants - Gear of the Enclave and CC X-02 Patches
+- MO2 Ctrl Z
+- Mod Keeper - A NoDelete Tag and Priority Preservation MO2 Tool
+- NMC's Texture Bundle
+- Plugin Browser for Mod Organizer 2
+- Plugin Ruler (MO2)
+- Raider Scrap Armor Pack
+- Selakii's Plasma Autocannon Revised x Legendary Effect Overhaul Full Compatibility Patch
+- TGX's PRP Patches
+- The Flamer Rifle (Last of Us Flamethrower)
+- Tool Gun - Rat Runners Arsenal
+- VULGAR Police Barrier
+- VULGAR Skeleton
+- X12 Plasmacaster
+- X12 Plasmacaster 1st Person Power Armor Animation Timing Fix
+- YK9 small patch page
+- ZP's Landscape Noise Textures
 
 
 Version 1.2.2 (The Commander Ace Update) -
