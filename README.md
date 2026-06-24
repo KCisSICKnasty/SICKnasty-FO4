@@ -1,8 +1,19 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.2.3**
+**CURRENT VERSION: 1.2.4**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
+
+
+**REQUIREMENTS:**
+
+- **Freshly installed** Steam copy of Fallout 4 ver.1.11.191 (AE update)
+- AE Creations Bundle
+- Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
+- Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
+- *Roughly* 473 GB of space
+- SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
+- ***Patience***
 
 
 **PREAMBLE:**
@@ -10,24 +21,35 @@
 Fallout 4 is a very special game to me. It came out while I was in community college. At the time, I only had Xbox 360 which I used to play Fallout 3 and Fallout New Vegas. FO4 actually inspired me to build a PC. I even told the guy that helped me get parts, "This PC will be so I can play Fallout 4." I've put hundreds upon hundreds of hours into the vanilla game. When the show came out, it got me wanting to play again, but the next gen content was such a tease (I finished it all in less than a few hours). Then I remembered...I got a PC for a reason. Many wild failures as I learned first hand how modding worked later, we've landed here. Welcome to the sickest and nastiest Fallout 4 experience you've ever seen.
 
 
-**REQUIREMENTS:**
+**OVERVIEW:**
 
-- **Freshly installed** Steam copy of Fallout 4 ver.1.11.191 (AE update)
-- Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
-- Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 482 GB of space
-- SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
-- **FREE** Bethesda.NET Creation Club Content: (use the links below to bookmark the mods, and then, from the Creations tab in the Main Menu, install each)
-	- Brotherhood of Steel T60 Pistol (https://creations.bethesda.net/en/fallout4/details/dd740e06-f7e4-421e-b1b1-3d5f94c62f5e/Brotherhood_of_Steel_T60_Pistol)
-	- Doom BFG (https://creations.bethesda.net/en/fallout4/details/ec0d66e6-13e1-4f04-acc7-00a13c204c77/Doom_BFG)
-	- Doom Classic Marine Armor (https://creations.bethesda.net/en/fallout4/details/d5a106e2-28f2-4d38-bfb3-e057894fb51e/Doom_Classic_Marine_Armor)
-	- Fantasy Hero Set (https://creations.bethesda.net/en/fallout4/details/2d677856-b3bd-435f-918f-19e2ea5f0a2d/Fantasy_Hero_Set)
-	- Morgan's Space Suit (https://creations.bethesda.net/en/fallout4/details/2615a680-883c-4420-9a48-a2a0f455c993/Morgan_s_Space_Suit)
-	- Quake Thunderbolt (https://creations.bethesda.net/en/fallout4/details/3c0aa0b2-81d3-4d55-b591-fe7905c9816e/Quake_Thunderbolt)
-	- Revenge of the Van Graffs (https://creations.bethesda.net/en/fallout4/details/4be8d5f2-e153-407f-9a19-935c74f012d5/Revenge_of_the_Van_Graffs)
-	- Tale of the Beast Hunter (https://creations.bethesda.net/en/fallout4/details/7fc565f2-eaf5-458b-9ec6-55490432970d/Tale_of_the_Beast_Hunter)
-	- The Varmint Rifle (https://creations.bethesda.net/en/fallout4/details/59409bbe-2b5e-4191-817a-5bd4692ad21a/The_Varmint_Rifle)
-- ***Patience***
+The SICKnasty Suite is the largest modlist you'll find. Mods included have been hand selected based on personal preference and audience demand. You'll find all your favorite mods and tons of hidden gems you may have never even heard of.
+
+*The SICKnasty Suite...Suite:*
+
+***Necessity -*** various fixes and QoL tweaks that aren't included in UFO4P or CFM
+***CCCCC -*** same as above, but covering all mods included in the AE Creations Bundle
+***Ambitious -*** the nerve of the list, blending multiple gameplay overhauls into 1 ESP
+***2 the TEETH -*** weapons and armor aplenty
+***CRITTERS -*** tons of new creatures and additions to already existing ones
+***Deathclaw Expansion Pack and Overhaul (DEPO) -*** what CRITTERS does, but for Deathclaws
+***FRIENDS -*** new companions
+***WitCH -*** new craftables and crafting mechanics
+***Vile -*** the absolute worst looking visual overhaul you've ever seen
+***We People Can Live In -*** Glitchfinder's People/We Can Live In series AiO
+***Face Factory -*** 2k FaceGen for EVERYONE
+***Doomsdayer -*** quality of life survival mode additions and tweaks
+***Cohesion -*** "Allllll together now...ALL TOGETHER NOW!!!"
+
+*Spoilers: (if you enjoy diving into a list completely blind, skip this)*
+
+- You cannot use your PipBoy light. It will play a noise, that's it. Get a flashlight or add a headlamp to your helmet.
+- This modlist was made with survival mode in mind. I urge you to give the list a shot in full survival mode, as I've tailored the list to be challenging, but balanced and forgiving.
+- Get power armor. I've made it highly available to you through PAttP and practical through Bastion. You are meant to use it, no matter your play style. It is not an option, it is a mechanic. Whether you treat it as a pack mule, or simply a way to flee, make friends with a frame.
+- Acquaint yourself with MCM. I include many ways to make this list more or less modular, but it's up to you to explore those options. At the very least, before you throw your controller, give MCM a once over. Turn off what's making you mad, or turn on an option that would make the game more fun to you.
+- Remember your Charisma! AFT+ includes a multi-companion feature based on your CHR stat. The more points, the more friends you can have at once!
+- Watch what you do! KARMA like in FO3/NV is a thing you'll have to manage. Another reason Charisma is important.
+- Throw your mines like frisbees! No, seriously. I've never found a practical use for mines outside of selling them. Hurl them at your enemies like you would in real life.
 
 
 **UNINSTALLING/REINSTALLING:**
@@ -46,9 +68,8 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Run the game from Steam, or through Fallout4Launcher.exe in the game files if you are using an offline copy
 - Click OK to both pop-ups that say Detecting Video Hardware
 - If there aren't any pop-ups, navigate to Documents\My Games\Fallout 4 and delete all INI files, then retry
-- Launch the game once through Steam, and navigate to the Creations tab in the Main Menu
-- Locate the Creation Club mods listed in the requirements above (if you have them bookmarked, you will find them in your Bookmarks) and install them
-- Leave the Creations menu, and press OK to the pop-up
+- Launch the game once through Steam
+- Press OK when asked to install the Creation Club content
 - Exit the game
 
 
@@ -90,30 +111,6 @@ Fallout 4 is a very special game to me. It came out while I was in community col
 - Click on **Change high DPI settings**
 - Set **High DPI scaling override** to **Application**
 	
-
-**POST INSTALLATION:**
-	
-***NOTE: The method used for root files is called the "Stock Game" method. What this means is that a version of Fallout 4 is already included for you in a folder called "Stock Game" within your installation location. This method keeps your Steam installation untouched and uninstalling the list is as simple as deleting your install location. Just to be sure, check that MO2 didn't change the path.***
-
-- In MO2, open **Settings**
-- Navigate to the **Paths** tab
-- Change the bottom path to **InstallLocation/Stock Game/Fallout4.exe** (unless it is already set correctly, in which case, proceed)
-
-
-**FREE CC CONTENT:**
-
-Wabbajack wont include these, so you'll have to manually add them.
-
-- Open **Windows Explorer** to your **InstallLocation/Stock Game/data** folder
-- Open a **2nd Windows Explorer** to your **SteamLibrary/steamapps/common/Fallout 4/Data** folder
-- From the 2nd window, locate and highlight (CTRL+Right Click) the **plugin**, **Textures.ba2**, & **Main.ba2** for the following:
-	- bgs_varmintrifle
-	- ptrfo4001_t60pistol
-	- ptrfo4002_vangraff
-	- vchgs001fo4_ncrbeasthunter
-- Click & drag (or copy/paste) all 12 files into your **InstallLocation/Stock Game/data** folder
-- If MO2 is open, press F5
-
 
 *High FPS Physics Fix*
 
@@ -178,8 +175,10 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 
 Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
 
+- **Facegen_RealHD_SDK.esp:** https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=332037&game_id=1151&nmm=1
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
 - **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
+- **Dummy Plugin.esp:** https://www.nexusmods.com/fallout4/mods/33484
 
 
 **A note on lore:**
@@ -209,7 +208,7 @@ I ship the list with the tools and guides that I used to curate the list (and so
 - **MCM Settings Manager - v1.3-beta2** *(file pinned in "m8r-development" channel under "MCM Settings Manager")*
 - **MCM_Booster_v1.1-beta2** *(file pinned in "m8r-docs-downloads" channel under "Downloads")* 
 
-**NOTE: If you download the Gumroad CROSS textures, you'll have to install them as a mod in MO2 and unpack any of them that are in BA2. I include Unpackrr and Cathedral Assets Optimizer. Unpackrr has a mod page on Nexus with instructions.**
+**NOTE: If you download the CROSS CoA textures, you'll have to install them as a mod in MO2.**
 **NOTE: If you change the Maryland flag texture on the Equalizer PA, I will cry.**
 
 
@@ -217,19 +216,19 @@ I ship the list with the tools and guides that I used to curate the list (and so
 
 *Always* welcome if their through the ***correct channel*** in my Discord server.
 
-**However, there are exceptions:**
+**However, I will not include any mods made by the following mod authors:**
 
-- Anything by QRSR
-- Anything by Ketaroz
-- Anything by Thuggysmurf
-- Anything by MunkySpunk
-- Anything by Halffaces
-- Anything by Oppressor08
+- QRSR
+- Ketaroz
+- Thuggysmurf
+- MunkySpunk
+- Halffaces
+- Oppressor08
 
 
 **DEVIATION:**
 
-If you choose to add or remove anything from the list, this is all possible with the tools I provide.
+If you choose to add or remove anything from the list, this is fine.
 ***However...***
 It goes without saying that support from me will be sparse.
 For instance, a common question is, "Can I use ENB?" In short, yes. You can. I've never touched ENB before in my life though, so it's on you to explore that option and maintain it with each update.
