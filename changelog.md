@@ -36,6 +36,7 @@ Updated:
 - FRIENDS - Gotta Have Em
 - Garden of Eden Papyrus Script Extender
 - Godrays Performance Fix Redux
+- Improved America Rising 2 Enclave
 - Improved Brotherhood of Steel
 - Improved Institute
 - KARMA
@@ -52,6 +53,7 @@ Updated:
 - Necessity - Nexus Essentials Merged
 - PJM's Precombine - Previs Patching Scripts
 - Previsibines Repair Pack Stable Branch - PRP
+- Project NEMEAN - A Creature Mod
 - Pump Actions of the Wasteland (Hunting Shotgun (Rem 870) - SPAS 12 - Mossberg 500 - Maverick 88 - Ithaca 37)
 - Random Encounter Framework Patch Hub
 - SCRAP AS YOU GO

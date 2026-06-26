@@ -7,8 +7,9 @@
 
 **REQUIREMENTS:**
 
-- **Freshly installed** Steam copy of Fallout 4 ver.1.11.191 (AE update)
+- **Freshly installed** Steam copy of Fallout 4 ver.1.11.221 (AE update)
 - AE Creations Bundle
+- Fallout 4 Creation Kit
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
 - *Roughly* 473 GB of space
