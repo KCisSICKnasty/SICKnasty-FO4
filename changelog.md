@@ -48,6 +48,7 @@ Updated:
 - Leveled Item Fixes (LIF)
 - Load Time Profiler
 - Male Disciples Strapped Chest Piece Mesh Fix
+- Modding for Charity - Trunk's Malfunction
 - Much Better 3rd Person Animations - MLVic's Edition
 - Munitions - Ammo Expansion Project
 - MUTATION
