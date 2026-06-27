@@ -27,6 +27,7 @@ Updated:
 - CRITTERS - A Wholotovum
 - Customizable Character Rim Lighting
 - Diverse Wasteland - The Diverse Series All-in-One
+- DKS Sniper Rifle - DKS-501 Sniper Rifle Redux
 - DynDOLOD 3 Alpha
 - Equipment and Crafting Overhaul (ECO) - Redux
 - Fallout 4 Data Structures
@@ -52,6 +53,7 @@ Updated:
 - MUTATION
 - Necessity - Nexus Essentials Merged
 - PJM's Precombine - Previs Patching Scripts
+- Power Armor to the People - LEO Patch
 - Previsibines Repair Pack Stable Branch - PRP
 - Project NEMEAN - A Creature Mod
 - Pump Actions of the Wasteland (Hunting Shotgun (Rem 870) - SPAS 12 - Mossberg 500 - Maverick 88 - Ithaca 37)
@@ -72,6 +74,7 @@ Updated:
 - We Are The Minutemen - eXoPatch
 - We Have Names (and more) - All In One
 - We People Can Live In
+- West Tek Tactical Optics - Night Vision Phosphors
 - WitCH - What in the Craftable Hell
 - Workshop Framework
 
@@ -321,6 +324,7 @@ Removed:
 - ToggleEquip
 - Toms Bruisers - Lightweight Raider Gang Overhaul
 - UFO4P - Better Notes Patch
+- Underhelmet Hairfix
 - Unleveled World - F4SE
 - Unlimited Survival Mode - F4SE
 - Vanilla Locations Plus
@@ -380,6 +384,7 @@ Added:
 - Emirals Viva Nuka-World Reborn Previs and UFO4P Patch
 - Encounter Zone Recalculation AE (F4SE)
 - Explosion VFX Pack
+- Fallout 4 DLC Consistency Patch
 - Faster File Copy
 - FCOM - Command Points Rebalanced
 - FieldXP - Rank and Prestige System
