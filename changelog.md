@@ -19,7 +19,6 @@ Updated:
 - Backpacks of the Commonwealth - eXoCompat Patches
 - Blades Of The Wastes - A Scrappy Handmade Knife Pack
 - BodySlide and Outfit Studio
-- Bolt Actions of the Wasteland (Fo3 NV Hunting Rifle - Varmint Rifle - Winchester Model 70 - M24 - Kar 98 - M1903 - Mosin Nagant)
 - Classic Holstered Weapons System (CHW)
 - Commonwealth Encounter Pack
 - Commonwealth Hit Squads
@@ -58,7 +57,6 @@ Updated:
 - Power Armor to the People - LEO Patch
 - Previsibines Repair Pack Stable Branch - PRP
 - Project NEMEAN - A Creature Mod
-- Pump Actions of the Wasteland (Hunting Shotgun (Rem 870) - SPAS 12 - Mossberg 500 - Maverick 88 - Ithaca 37)
 - Random Encounter Framework Patch Hub
 - SCRAP AS YOU GO
 - ShaderEngine (F4SE)
@@ -88,7 +86,10 @@ Removed:
 - A Glorptastic Adventure - New Quest and Weapon Mod
 - Active Quest HUD
 - Add FFFF Fix
+- AKs of the Wasteland (Chinese Assault Rifle - Galil - AKs Pack)
+- AKs of the Wasteland - Reanimation Patch
 - Alternate Driving Animations
+- Alternative sounds for Sidearms of the Wasteland
 - America Rising 2 - Choo Choo - Going Dark Triggers After Coming Back from the Institute
 - America Rising 2 Lt Fritz Dismemberment Fix
 - America Rising 2 - Misc Quest Cleanup
@@ -99,6 +100,7 @@ Removed:
 - AR2 Gatling Laser Nuclear Physicist fix
 - AR2 Sam Power Armor Removal Patch
 - AR2 Speak Of The Devil Quest Patch
+- ARs of the Wasteland (Service Rifle - Marksman Carbine - Assault Carbine - AR-10 - M16A1 - A2 - Colt SMG - Mk12 - LR-300)
 - Automatron - Increased Lightning Range
 - Automatron - Stronger Tesla Rifle Barrels
 - AW - Cigarettes
@@ -113,6 +115,7 @@ Removed:
 - Better Settlers
 - Better Weapon Diversity for CHW
 - Better Weapon Diversity for CHW - Unofficial Update
+- Bolt Actions of the Wasteland (Fo3 NV Hunting Rifle - Varmint Rifle - Winchester Model 70 - M24 - Kar 98 - M1903 - Mosin Nagant)
 - BRAWL - Broken Armor Weapon Loot
 - Bug Fix - Bradlee
 - Bug Fix - Caravan Guard Under Armor
@@ -198,6 +201,7 @@ Removed:
 - Hold To Sneak
 - Hold To Sprint
 - Holster To Throw
+- Ice Cold - Unique Cryolaser
 - ILD - Improved Legendary Drops
 - Intersave Container
 - Im Talking to You
@@ -268,6 +272,7 @@ Removed:
 - Prototype Z - Prototype Energy Weapon
 - Publick Occurrences Expanded
 - Publick Occurrences Expanded - An UFO4P Patch
+- Pump Actions of the Wasteland (Hunting Shotgun (Rem 870) - SPAS 12 - Mossberg 500 - Maverick 88 - Ithaca 37)
 - Punga Noodle Soup
 - Put Ur Gun In
 - Radvolver - A Makeshift Gamma Revolver
@@ -280,6 +285,7 @@ Removed:
 - REPUTATION
 - Restore Worldspace Environment Maps
 - Revere Beach Raiders (Cinder's Crew Overhaul)
+- Revolvers of the Wasteland (.44 magnum - Python - Taurus 66 - Single Action Army - .32 pistol pack)
 - Rhino M1 Redux
 - Rideable Deathclaw named Shreddy
 - Rideable Deathclaws Expanded
@@ -293,6 +299,7 @@ Removed:
 - Scrolling Doesn't Change POV
 - Settler Outfitter
 - Shabby Weed Whacker
+- Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
 - Sierra Madre Vending Machine - Old World Addon Project
 - Simple Fallout 4 Downgrader
 - Simple FOV Slider
@@ -318,6 +325,8 @@ Removed:
 - T6M-Spadey's Unreal Rocket Launcher
 - Terrain Freckles Be Gone
 - Testicular Torsion
+- That Gun of the Wasteland (.223 Pistol - 556 Pistol - PKD Blaster)
+- That Gun of the Wasteland - Powerful Audio Overhaul
 - The Crystals of Power - A Weapon and Quest Mod
 - The Foundry - Graygarden Player Home
 - The Slog Navmesh Update
@@ -360,7 +369,6 @@ Added:
 - Animal Armor Weaves
 - Animated PipBoy Light
 - A Trip to Bedington (DLC-sized new lands mod)
-- ARs of the Wasteland (Service Rifle - Marksman Carbine - Assault Carbine - AR-10 - M16A1 - A2 - Colt SMG - Mk12 - LR-300)
 - Baka Disable POV Scroll
 - Baka Quit Game Fix
 - Base Face - A face retexture
