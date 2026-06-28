@@ -48,6 +48,7 @@ Updated:
 - Leveled Item Fixes (LIF)
 - Load Time Profiler
 - Male Disciples Strapped Chest Piece Mesh Fix
+- Modding for Charity - Shady Motives - with Wes Johnson
 - Modding for Charity - Trunk's Malfunction
 - Much Better 3rd Person Animations - MLVic's Edition
 - Munitions - Ammo Expansion Project
@@ -385,6 +386,7 @@ Added:
 - Emirals Viva Nuka-World Reborn Previs and UFO4P Patch
 - Encounter Zone Recalculation AE (F4SE)
 - Explosion VFX Pack
+- Fake Vault 88 Dungeon Names
 - Fallout 4 DLC Consistency Patch
 - Faster File Copy
 - FCOM - Command Points Rebalanced
