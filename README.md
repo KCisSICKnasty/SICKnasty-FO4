@@ -98,6 +98,16 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Scroll down and click **Add or remove exclusions** under **Exclusions**
 - Add a **Folder** exclusion and point it to your **Installation Location** folder
 
+**FALLOUT 4 DLC CONSISTENCY PATCH:** (copied, pasted, & edited from the stickied post on the mod page)
+
+- Navigate to **"Your Install Location"/"Fallout 4 DLC Consistency Patch"/Data**
+- In a separate window, open the Data folder from your Steam install location
+- Copy the **vanilla files from your Steam install Data folder** that match the filenames seen in the Fallout 4 DLC Consistency Patch/Data folder (the ones that have the .vcdiff extension) into Fallout 4 DLC Consistency Patch/Data
+- Run XD3Patcher and wait until it finishes processing
+- Optionally delete the .vcdiff files and the patcher (The old version of the files were renamed with a Backup added to the filename)
+- Zip up the updated files (not the ones with the backup extension or the .vcdiff files) and install the new mod through MO2 and make sure it's loaded as early as possible, even before UFO4P
+- Once that is successful, you can delete the temporary folder if you choose
+
 
 **MOD ORGANIZER 2:**
 
