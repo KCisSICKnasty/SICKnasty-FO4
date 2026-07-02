@@ -38,7 +38,9 @@ Updated:
 - Godrays Performance Fix Redux
 - Improved America Rising 2 Enclave
 - Improved Brotherhood of Steel
+- Improved Guards
 - Improved Institute
+- Integrated Addons
 - KARMA
 - Kills by Companions are NOT Kills by the Player (F4SE)
 - Lasers Have No Recoil - RobCo
@@ -102,6 +104,7 @@ Removed:
 - AR2 Sam Power Armor Removal Patch
 - AR2 Speak Of The Devil Quest Patch
 - ARs of the Wasteland (Service Rifle - Marksman Carbine - Assault Carbine - AR-10 - M16A1 - A2 - Colt SMG - Mk12 - LR-300)
+- Artillery Commander
 - Automatron - Increased Lightning Range
 - Automatron - Stronger Tesla Rifle Barrels
 - AW - Cigarettes
@@ -127,6 +130,7 @@ Removed:
 - Bullet Counted Reload System (BCR)
 - Buoyancy Fixes
 - Campsite SMM Menu Patch
+- CHALLENGES - F4NV
 - Chameleon Shreddy - Rideable Deathclaw Replacer
 - Clearest Skies Wobble Fix
 - Cloth Physics For The -Wasteland Ronin Helmet-
@@ -197,11 +201,10 @@ Removed:
 - Herbal Remedies Improved
 - Heavy Support Weapons Pack
 - Hina's Previs Patches
-- Hit Those Explosives
-- Hit Those Objects
 - Hold To Sneak
 - Hold To Sprint
 - Holster To Throw
+- HUD Plus Plus
 - Ice Cold - Unique Cryolaser
 - ILD - Improved Legendary Drops
 - Immersive Animation Framework (IAF) - Slow Time
@@ -256,7 +259,6 @@ Removed:
 - Organized Workbench Menu Patches by Vanguard
 - Outfit ReDress Fix
 - Ownership Fixes
-- Papyrus Common Library
 - Papyrus Condition Exporter
 - Party Balloons - With Physics
 - Pause On Save Load
@@ -307,7 +309,6 @@ Removed:
 - Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
 - Sierra Madre Vending Machine - Old World Addon Project
 - Simple Fallout 4 Downgrader
-- Simple FOV Slider
 - Simple Mine Delay Control
 - Simple Text Field
 - Skeletal Adjustments for Screen Archer Menu (SAM)
@@ -337,6 +338,7 @@ Removed:
 - That Gun of the Wasteland (.223 Pistol - 556 Pistol - PKD Blaster)
 - That Gun of the Wasteland - Powerful Audio Overhaul
 - The Crystals of Power - A Weapon and Quest Mod
+- The Elder's Mark - Old World Addon Project
 - The Foundry - Graygarden Player Home
 - The Slog Navmesh Update
 - This Made My Spline Stiff
@@ -377,6 +379,7 @@ Added:
 - 10mm Pistol Reanimation Pack
 - 10mm SMG - A Fallout 3 Classic - Attachments Fixed
 - 4estGimp - T-49 - Armor of the Storyteller PA CIS INNR ini
+- All Vaults Have Exterior Door Controls
 - Animal Armor Weaves
 - Animated PipBoy Light
 - A Trip to Bedington (DLC-sized new lands mod)
@@ -391,6 +394,7 @@ Added:
 - Cohesion - All Together Now
 - Companion Take All NG (F4SE)
 - Consumables Anim Fix
+- crashfixes for Fallout 4
 - Creation Club Content Complements Combined (CCCCC)
 - Deathclaw Behavior Fixes
 - Deathclaw Expansion Pack and Overhaul (DEPO)
@@ -407,7 +411,6 @@ Added:
 - Explosion VFX Pack
 - Fake Vault 88 Dungeon Names
 - Fallout 4 DLC Consistency Patch
-- Faster File Copy
 - FCOM - Command Points Rebalanced
 - FieldXP - Rank and Prestige System
 - Floating Subtitles
@@ -444,6 +447,7 @@ Added:
 - MiscHairstyle1.6 by Atherisz
 - MO2 Downloads Unstucked
 - MO2 False Update Version Fixer
+- Modding for Charity - Double Feature - with Wes Johnson and Friends
 - More Processing Tools for Hunter of the Commonwealth
 - Munitions Advanced Calibers Manufacturing
 - Munitions Manufacturing
@@ -458,6 +462,7 @@ Added:
 - Nuka-World Settlements Pack - Tenhats' Collection (Viva Nuka World version)
 - Old World Radio 2
 - Only Immersive Radio
+- Papyrus Common Library Anniversary Edition
 - Penetration-Ricochet System AE
 - Pepper Shaker - Pyro Mag Does Fire Damage and Cryo Mag Does Cryo Damage
 - Pey's Tactical Reload Patch Repository - Robco Patcher Edition

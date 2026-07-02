@@ -12,7 +12,7 @@
 - Fallout 4 Creation Kit
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
-- *Roughly* 473 GB of space
+- *Roughly* 490 GB of space
 - SERVERisSICKnasty (support server): https://discord.gg/pca64xM2Cz
 - ***Patience***
 
@@ -98,7 +98,7 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Scroll down and click **Add or remove exclusions** under **Exclusions**
 - Add a **Folder** exclusion and point it to your **Installation Location** folder
 
-**FALLOUT 4 DLC CONSISTENCY PATCH:** (copied, pasted, & edited from the stickied post on the mod page)
+**FALLOUT 4 DLC CONSISTENCY PATCH:** (copied & edited from the stickied post on the mod page)
 
 - Navigate to **"Your Install Location"/"Fallout 4 DLC Consistency Patch"/Data**
 - In a separate window, open the Data folder from your Steam install location
@@ -107,6 +107,8 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Optionally delete the .vcdiff files and the patcher (The old version of the files were renamed with a Backup added to the filename)
 - Zip up the updated files (not the ones with the backup extension or the .vcdiff files) and install the new mod through MO2 and make sure it's loaded as early as possible, even before UFO4P
 - Once that is successful, you can delete the temporary folder if you choose
+
+**NOTE: Add the [NoDelete] tag to the folder once you install or you'll have to do this every update!!!**
 
 
 **MOD ORGANIZER 2:**
