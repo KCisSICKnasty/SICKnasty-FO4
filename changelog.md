@@ -12,6 +12,8 @@ Updated:
 - Actor Velocity Framework
 - Additional Attributes
 - Amazing FollowerTweaks Plus (AFT Plus)
+- America Rising 2 - Legacy of the Enclave
+- America Rising 2 - Patches and Resources
 - Ambitious - An Overhaul Overhaul
 - Assorted Modular Tweaks
 - Auto Beam - True Laser Sights Framework
@@ -27,8 +29,10 @@ Updated:
 - Customizable Character Rim Lighting
 - Diverse Wasteland - The Diverse Series All-in-One
 - DKS Sniper Rifle - DKS-501 Sniper Rifle Redux
+- Dynamic Spawn Framework Patches
 - DynDOLOD 3 Alpha
 - Equipment and Crafting Overhaul (ECO) - Redux
+- eXofied Goodneighbor
 - Fallout 4 Data Structures
 - Fallout 4 Script Extender (F4SE)
 - Faster Decompression
@@ -52,10 +56,14 @@ Updated:
 - Modding for Charity - Shady Motives - with Wes Johnson
 - Modding for Charity - Transmission Zeta - with Wes Johnson
 - Modding for Charity - Trunk's Malfunction
+- Mod Switch Framework
 - Much Better 3rd Person Animations - MLVic's Edition
+- Multiple Ammo Use
 - Munitions - Ammo Expansion Project
 - MUTATION
 - Necessity - Nexus Essentials Merged
+- newermind43's Equalizer PA - Enclave Epsilon Squad (Vulcan)
+- NPCs Travel
 - PJM's Precombine - Previs Patching Scripts
 - Power Armor to the People - LEO Patch
 - Previsibines Repair Pack Stable Branch - PRP
@@ -67,7 +75,6 @@ Updated:
 - String Attributes
 - The Nuka Project - Glowing Glass Fix
 - Toggle Aim (F4SE)
-- Tool Gun - Rat Runners Arsenal
 - TRUE - Elemental Damage
 - TRUE - F76 Damage
 - TRUE - F76 Enemy Scaling RobCo
@@ -93,16 +100,10 @@ Removed:
 - AKs of the Wasteland - Reanimation Patch
 - Alternate Driving Animations
 - Alternative sounds for Sidearms of the Wasteland
-- America Rising 2 - Choo Choo - Going Dark Triggers After Coming Back from the Institute
-- America Rising 2 Lt Fritz Dismemberment Fix
-- America Rising 2 - Misc Quest Cleanup
-- America Rising 2 - Quartermaster Barratt's Inventory Expanded - Featuring patches for Lima Detachment and Enclave Perk Magazines
 - Angel Extra Icons Edit
 - Angel's Companion Tagging
 - Animated World
-- AR2 Gatling Laser Nuclear Physicist fix
-- AR2 Sam Power Armor Removal Patch
-- AR2 Speak Of The Devil Quest Patch
+- Anti-Materiel Rifle - Rat Runners Arsenal
 - ARs of the Wasteland (Service Rifle - Marksman Carbine - Assault Carbine - AR-10 - M16A1 - A2 - Colt SMG - Mk12 - LR-300)
 - Artillery Commander
 - Automatron - Increased Lightning Range
@@ -110,6 +111,7 @@ Removed:
 - AW - Cigarettes
 - AW - Vulture Patch
 - Backported Archive2 Support System
+- Ballistic Industries - Now with Energy Weapons
 - Begin again - An SS2 add-on
 - Better Help Function and GetGameSetting Bool Type Fix - F4SE
 - Better Notes
@@ -120,6 +122,7 @@ Removed:
 - Better Weapon Diversity for CHW
 - Better Weapon Diversity for CHW - Unofficial Update
 - Bolt Actions of the Wasteland (Fo3 NV Hunting Rifle - Varmint Rifle - Winchester Model 70 - M24 - Kar 98 - M1903 - Mosin Nagant)
+- BotStop's of The Commonwealth
 - BRAWL - Broken Armor Weapon Loot
 - Bug Fix - Bradlee
 - Bug Fix - Caravan Guard Under Armor
@@ -128,19 +131,29 @@ Removed:
 - Bug Fix - Stan Slavin
 - Bug Fix - Virgil
 - Bullet Counted Reload System (BCR)
+- Bullet in the Chamber - Expanded Weapon Mechanics
 - Buoyancy Fixes
 - Campsite SMM Menu Patch
+- Cannon Limber Turret
+- Capital Wasteland Behemoths
+- Capital Wasteland Centaurs
+- Capital Wasteland Radscorpions
+- Capital Wasteland Yao Guai
 - CHALLENGES - F4NV
 - Chameleon Shreddy - Rideable Deathclaw Replacer
+- Chem Cookers Redux
 - Clearest Skies Wobble Fix
 - Cloth Physics For The -Wasteland Ronin Helmet-
 - Codsworth and Nick Unassignment Fix
+- Colors To The Clutter - BOS
+- Colors To The Sleeping Bag - BOS
 - Combined Combat XP
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Ballistics - Patch Repository
 - Commonwealth Ballistics - Munitions Advanced Calibers Patch
 - Companion Carry Weight Display
 - Companion Status Enhanced - Heather Casdin
+- Companion Status Enhanced - Remy DC Molerats
 - Companion Take All - Keep Equipped Items
 - Complex Sorter Quest Mods Tagging
 - Console Autocomplete
@@ -153,16 +166,22 @@ Removed:
 - Croup Manor NavMesh Rebuild - Alkay
 - Custom Scale Fix
 - CW Point Lookout Doctor
+- Cycling Rifle - Rat Runners Arsenal
 - David Hunter - Typo Patch
 - Daytripper 4
+- DC Molerats
+- Death Ray - A Unique Light Machinegun Addon
 - Death Report
 - Discord Rich Presence F4SE Remake
 - Disable Companion Collision
 - Disable Healing on Level-Up F4SE
 - Doctor Quench Soda Company 2022
+- Doctor's Bag - Mustard's Party Favors
 - dp Plasma Gun Lights
+- Driveables of the Commonwealth APC
 - Dynamic Activation Key
 - Easier Crouched Steadying
+- Edmond's Power Armor Backpacks 2025 - Power Armor Backpacks and Diversification
 - Egret Tours Navmesh Update
 - Emirals Interior Navmesh Fixes
 - Emirals South of the Sea Atoms Storm - Remnants NG CC patch
@@ -172,11 +191,15 @@ Removed:
 - Extended Fake Interiors - Commonwealth buildings fixes
 - Eyes and head tracking Angles Blinking expressive natural face morphs
 - f4ee-patched
+- F4NV Single Shotgun and Alofs Repeater
 - F4SE ChangeHeadPart Fix
 - Fallout4.exe Auto-Backup
 - Fallout 4 - Point Lookout
 - Fallout 4 Point Lookout Lever Action Rifle Sound Fix
+- FamishedPatch
+- Fastball - Baseball Grenade
 - Faster Pip-Boy Open and Close
+- FEV Grenades for the PBW China Lake - America Rising 2 Addon
 - FICTure2
 - Fire Rate Shows RPM
 - FIS - Knundrum Library Addon
@@ -189,6 +212,7 @@ Removed:
 - Friendly Fire
 - Game Visuals Configuration Menu (GVCM) OG-NG
 - Gas Mask Buff - RobCo
+- Gatling Gun - Rat Runners Arsenal
 - Get Out Of My Face (Push Away Companions and NPCs)
 - Glowing Sea De-Lit
 - Graffiti Framework - ESL Only - More-or-Less working actual graffiti tags
@@ -198,6 +222,7 @@ Removed:
 - HD Prewar Money
 - HD Prewar Money Scale Fix
 - Headpart Extended
+- HellFire and X-02 Power Armor Backpack
 - Herbal Remedies Improved
 - Heavy Support Weapons Pack
 - Hina's Previs Patches
@@ -210,6 +235,7 @@ Removed:
 - Immersive Animation Framework (IAF) - Slow Time
 - Immersive Teleportation 2
 - Im Talking to You
+- Industrial Foundations
 - Intersave Container
 - IT2 4 SS2
 - Jamaica Plain Navmesh Fix
@@ -224,17 +250,19 @@ Removed:
 - KiLoader for Fallout 4
 - Kingsport Lighthouse Updated Navmesh
 - Knight Varham Vault Suit Fix - RobCo
+- Lamprey Floaters
 - Legendary Bosses CS Plugin
 - Less Loot for Mutant Menagerie
 - Library and Subway Tokens HD remastered
 - Lighthouse Papyrus Extender
+- Magic 8-Ball
 - MagNite - Functional Flashlight and Flashlight Holster Patch
 - Manual Reload - F4SE
+- Massachusetts Salem Witch House
 - Melee And Throw
 - Meltdown - New Burning Effect for Plasma Weapons
 - MGEF Condition Bug Fix
 - Mirelurk Tyrant - Standalone
-- Mod Switch Framework
 - Mod Switch Framework Munitions Support
 - Mod Switch Framework Tweaks
 - More Junk Jets - Also Craftable Skulls
@@ -244,6 +272,7 @@ Removed:
 - Navy Auto Pistol - M2074 Navy
 - Navy Auto Pistol - Tactical Reload Patch
 - NetLink
+- Nick Valentine Reborn - Compatibility Fix
 - Nightstrikers
 - Nightstrikers Tweaks
 - No Attack Messages
@@ -252,6 +281,8 @@ Removed:
 - No Screenshot Messages
 - No Walk After Sprint
 - No Water Jump
+- NPCS Travel - Fixes (ESL flagged)
+- NPCs Travel - MCM Settings
 - Nuka-Cola Raspberry-Cheesecake
 - Nuka World Open Season Extend II - Assignable Factions - Recruitable NPCs
 - Nuka World Open Season Extend II - Tweaks
@@ -262,11 +293,18 @@ Removed:
 - Papyrus Condition Exporter
 - Party Balloons - With Physics
 - Pause On Save Load
+- PBW Grenade Launcher BCR and Tactical Reload Patch
+- PBW - The Disruptor Carbine - Tactics Spasm Gun
+- PBW - The Grenade Launcher - New Vegas China Lake and Holorifle
+- PBW - The Laser Defender - Interplay Wattz 1000 Laser Pistol
 - Perennial Power Armor - Robco Edition
 - Persistent Console History
+- Pipe Carbine - Rat Runners Arsenal
+- Pipe Carbine (RRA) Tactical Reload Patch
 - Plasma Cycler
 - Plasma Cycler Redux
 - PLAY
+- PLOP patches
 - Precious Metal Bars
 - Point Lookout - Bayonet Mesh Adjustment
 - Point Lookout - Essential Fixes and Additions
@@ -296,6 +334,7 @@ Removed:
 - Rhino M1 Redux
 - Rideable Deathclaw named Shreddy
 - Rideable Deathclaws Expanded
+- RobCo - Bullet in the Chamber Tactical Reload Exclude
 - Robots as Secondary Companions
 - RTL X-02 Metal Bar Tweak
 - Running Speed Drug - Crazy Colt
@@ -304,8 +343,11 @@ Removed:
 - Scaleform Copy Paste
 - Screen Archer Menu
 - Scrolling Doesn't Change POV
+- Select Guitars
+- Settlement Production Framework
 - Settler Outfitter
 - Shabby Weed Whacker
+- Shoulder Mounted Machine Gun - Rat Runners Arsenal
 - Sidearms of the Wasteland (Classic 10mm - Wattz 1000 - Glock 86 - 45 pistol (1911) - 9mm pistol (Hi Power) - Beretta 92)
 - Sierra Madre Vending Machine - Old World Addon Project
 - Simple Fallout 4 Downgrader
@@ -316,6 +358,7 @@ Removed:
 - Slick Fingers - The Art of Theft - F4SE
 - Sniff
 - Sonic Neuralizer - A Zetan Abduction Gun
+- Southwest Harbor Safehouse
 - Sprint Jump AP Fix
 - Squirrels of the Commonwealth
 - Squirrels of the Commonwealth -NERFED-
@@ -334,23 +377,35 @@ Removed:
 - T6M's Pipe Shotguns (AshotDupletPreved)
 - T6M-Spadey's Unreal Rocket Launcher
 - Terrain Freckles Be Gone
+- Tesla Coil Turret
 - Testicular Torsion
+- TG'z Fens Interiors
+- TGZ Fens door Patch
 - That Gun of the Wasteland (.223 Pistol - 556 Pistol - PKD Blaster)
 - That Gun of the Wasteland - Powerful Audio Overhaul
+- The Commando Laser - A 2025 Merry Modding Days Mod
 - The Crystals of Power - A Weapon and Quest Mod
 - The Elder's Mark - Old World Addon Project
+- The Famished
 - The Foundry - Graygarden Player Home
 - The Slog Navmesh Update
+- The Zap Gun - a makeshift laser weapon
+- The Zap Gun - eXoPatch
 - This Made My Spline Stiff
 - Tina De Luca and Doctor Penske FACE FIX
 - ToggleEquip
 - Toms Bruisers - Lightweight Raider Gang Overhaul
+- Tool Gun - Rat Runners Arsenal
 - Training Day - An SS2 QoL Mod
+- TRUE - Real Time
 - UFO4P - Better Notes Patch
 - Underhelmet Hairfix
 - Unleveled World - F4SE
 - Unlimited Survival Mode - F4SE
+- Valentine REBORN - Nick Face Retexture - HD Synth Eyes and Teeth - Gen1 Metal Skeleton
 - Vanilla Locations Plus
+- Various SMM Patches
+- Vault-Tec - Clearance Sale
 - Very Zen Nightstrikers
 - VULGAR Police Barrier
 - VULGAR Skeleton
@@ -361,6 +416,7 @@ Removed:
 - WCs Mod Switch Framework Patch Hub - Munitions Support Fallui
 - Weapon Overhaul Project (WOP) - Combined Arms - Service Rifle - M1 Garand - Wattz Laser - Point Look
 - We Are Unique - Names For Unnamed NPCs - RobCo
+- Window Lights for Corvega Assembly Plant
 - Witchs Cat Brahmin Muthound Molerat REDUX
 - Witchs DOGmeat ANIMATION OVERHAUL
 - Witchs DOGmeat ANIMATION OVERHAUL 2plus
@@ -375,13 +431,15 @@ Removed:
 
 Added:
 
-- 100k Shabby Metalware
 - 10mm Pistol Reanimation Pack
 - 10mm SMG - A Fallout 3 Classic - Attachments Fixed
 - 4estGimp - T-49 - Armor of the Storyteller PA CIS INNR ini
-- All Vaults Have Exterior Door Controls
+- Adaptive NPC Aim - F4SE
 - Animal Armor Weaves
 - Animated PipBoy Light
+- APC transport
+- APC Transport VIS and Typo Patch (dubbed ESL)
+- Atomic Glowing Sea
 - A Trip to Bedington (DLC-sized new lands mod)
 - Baka Disable POV Scroll
 - Baka Quit Game Fix
@@ -390,60 +448,82 @@ Added:
 - Boat To Spectacle Island (Animated)
 - BOS100 Fire Support CHECK YOUR FIRE fix
 - BOS Infantry Armor -- CBBE - TWB - 3BBB - ATOMIC - BodySlides
+- BREACH - A Horror Quest Mod
+- Bunker Hills CTD Fix
+- C_V_R_I_E
 - Cell Offset Generator
 - Cohesion - All Together Now
+- Commonwealth Intimidation - F4SE
 - Companion Take All NG (F4SE)
+- Comprehensive Third Person Controller Camera Tweaks - Better setting
 - Consumables Anim Fix
 - crashfixes for Fallout 4
 - Creation Club Content Complements Combined (CCCCC)
+- CSEP Presents - Axel - A Raider Companion
+- Dak's Shoulder Mounted Machinegun (M2)
 - Deathclaw Behavior Fixes
 - Deathclaw Expansion Pack and Overhaul (DEPO)
 - Decal Fix
 - Dialogue Freeze Fix - F4SE
+- Diamond City Expansion - eXoPatch
 - Diamond City Guards REDUX
 - Diamond City Pride
 - Disable Companion Collision AE (F4SE)
 - Discharger Laser Pistol - A Dak Energy Weapon
 - Dot's Sound Edits - CC T-60 Pistol
 - DoubleBarrel Shotgun Reload Animation
+- Echoes of an Old World - Improved Minutemen WATM Enforcer Vanguard Fix
 - Emirals Viva Nuka-World Reborn Previs and UFO4P Patch
 - Encounter Zone Recalculation AE (F4SE)
-- Explosion VFX Pack
+- Expanding Bullets - Ammo Subtypes Swapping and Crafting
 - Fake Vault 88 Dungeon Names
-- Fallout 4 DLC Consistency Patch
+- FallHook - Runtime xTranslator XML Loader
+- FallHook - Runtime xTranslator XML Loader(1.11.221)
+- Fallout4.exe Process Icon Fix
+- Fallout 4 Audio Switch Support - F4SE
+- Fallout 76 Music Continued
 - FCOM - Command Points Rebalanced
 - FieldXP - Rank and Prestige System
 - Floating Subtitles
 - Floating Subtitles - All Runtimes
 - FO4 NPC Manager
+- FSR 3.1.5 Anti-Aliasing
+- FYI - For Your Immersion
+- Game Title Override
 - Gauss Rifle Animations
 - Gauss Rifle Animations - Addon
+- Giddyup Bobblecup
+- Grab At Camera
 - HaBCR Patcher
 - Handmade Rocket Rifle
+- Handmade Rocket Rifle - Animation Pack
 - Havok Aware Bullet Counted Reload (HaBCR)
 - HD Chems Project - Glowing Glass Fix
 - HeadPart Enhanced
+- Heather Casdin - Animated Icon Addon
 - Heavy Bullet Impact Sound Fix
 - HkxTools
+- Holstered Weapon Light Fix
 - House Rules - ESPless Vanilla Tweaks
 - HR Animation Replacer - Tweaks and 3rd Person PA Support
 - Hunting Rifle Animation Replacer
 - Hydra
 - ImGui Fonts
+- Improved CIT Ruins Grass
 - K2040's Eco Quick Menu Additions Single Patches
 - Laser RCW - Fallout New Vegas
 - Legendary Weapons - RobCo Patcher
 - Lootable Crates
-- Lootable Graves
 - Lootable Pipboy
 - Lootable Terminals
 - Lovely Babydoll's America Rising 2 Equipment Control System Patch Repository
-- LSD - Lootable School Desks
 - March of the Enclave - Enclave Remnants NG-AE version (v. 1.25) - America Rising 2 and Gear of the Enclave Patches
 - Makeshift Weapon Pack - Ammo Overhaul
 - MCM Booster AE
 - MCM Categorizer Colors
+- Med-X Matters - Stimpak Overhaul - F4SE
 - Merchants Sell Robot Repair Kits
+- Militia Sabre - A Minuteman Melee Weapon
 - MiscHairstyle1.6 by Atherisz
 - MO2 Downloads Unstucked
 - MO2 False Update Version Fixer
@@ -455,7 +535,6 @@ Added:
 - New Equipment Overhaul (NEO) - Armor And Clothing Tweaks
 - New Equipment Overhaul (NEO) - RobCo Patcher Addon
 - Noodle Cup Redistribution - Purely RobCo Patcher
-- No Railroad Checkpoints
 - No Read-only Plugins Txt Overwrite - Anniversary Edition - F4SE
 - NPCs Don't Move In Dialogue
 - Nuka-World Reborn
@@ -465,17 +544,23 @@ Added:
 - Papyrus Common Library Anniversary Edition
 - Penetration-Ricochet System AE
 - Pepper Shaker - Pyro Mag Does Fire Damage and Cryo Mag Does Cryo Damage
+- Personal Radio (ESL version with randomizer)
 - Pey's Tactical Reload Patch Repository - Robco Patcher Edition
+- PipBoyShadows
 - powerofthree's Photo Mode
 - Prisma UI - NG and OG Web UI Framework Fallout 4
+- P.W.M - Show Current Weather
 - Railroad Settlers
+- Rain Bug Fix - F4SE
 - Realistic Syringer Audio Overhaul
+- Real Smoke CigaretteInMouth Addon
 - Right-handed SubmachineGun
 - Right Handed Lever Action Reload Animations for BCR
 - Rivets And Rage - A Scrappy Raider Armor Pack
 - Rivets And Rage - CBBE Patch
 - Rivets And Rage - Piranha Helmet With Headlamp
 - Robes of Atom's Devoted Fix
+- Rust King - Brute Power Armor
 - Safe Travels
 - Screen Blood Enhanced
 - Scroll Zoom - Keyword Expansion
@@ -493,10 +578,13 @@ Added:
 - T60 Equipment Add On
 - T6M's Heavy Tesla Cannon x America Rising 2 Patch
 - Talon Company Power Armor
+- Teddy Bear Clock Phone Typewriter Wrong Direction Fix - Teddy
 - TG'z North End Interiors
 - The Plasma Defender - Fallout New Vegas Classic
 - The unit of measurement for radiation is the sievert
 - The Wratchet - A Makeshift Hatchet
+- The Yangtze's Captain - Captain Zao Companion Mod
+- Tinker's Workbench Remade
 - ToggleEquip AE (F4SE)
 - Toy Commandos
 - Tumbajamba Robco Armor With Headlamp
@@ -504,15 +592,13 @@ Added:
 - Uneducated Shooter - QE Leaning and Gun Inertia
 - Viva Nuka-World
 - Wash That Blood Off
-- Wasteland T-Shirts and Pants
-- Wasteland T-Shirts and Pants CBBE Conversion
-- Wasteland T-Shirts and Pants ESLified and Standalone Workbenches Crafting
 - WD Combat Shotgun Reanim ADS Fix
 - Weapon Wall Racks (WWR)
 - Working Washer and Dryer (Immersive Laundry)
 - Workshop Cage Tweaks - Deathclaws
 - X-01 Tesla Upgrade Kit
 - X-01 Tesla Upgrade Kit - Reposition Patch
+- ZPs BREACH Visual Overhaul
 
 
 Version 1.2.3 -

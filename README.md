@@ -37,6 +37,7 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 ***FRIENDS -*** new companions
 ***WitCH -*** new craftables and crafting mechanics
 ***Vile -*** the absolute worst looking visual overhaul you've ever seen
+***For Your Immersion -*** a lore-friendly Commonwealth makeover
 ***We People Can Live In -*** Glitchfinder's People/We Can Live In series AiO
 ***Face Factory -*** 2k FaceGen for EVERYONE
 ***Doomsdayer -*** quality of life survival mode additions and tweaks
@@ -51,7 +52,7 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Remember your Charisma! AFT+ includes a multi-companion feature based on your CHR stat. The more points, the more friends you can have at once!
 - Watch what you do! KARMA like in FO3/NV is a thing you'll have to manage. Another reason Charisma is important.
 - Throw your mines like frisbees! No, seriously. I've never found a practical use for mines outside of selling them. Hurl them at your enemies like you would in real life.
-
+- Baseball Grenades detonate on hit, so pitch those fastballs!
 
 **UNINSTALLING/REINSTALLING:**
 
@@ -98,18 +99,6 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Scroll down and click **Add or remove exclusions** under **Exclusions**
 - Add a **Folder** exclusion and point it to your **Installation Location** folder
 
-**FALLOUT 4 DLC CONSISTENCY PATCH:** (copied & edited from the stickied post on the mod page)
-
-- Navigate to **"Your Install Location"/"Fallout 4 DLC Consistency Patch"/Data**
-- In a separate window, open the Data folder from your Steam install location
-- Copy the **vanilla files from your Steam install Data folder** that match the filenames seen in the Fallout 4 DLC Consistency Patch/Data folder (the ones that have the .vcdiff extension) into Fallout 4 DLC Consistency Patch/Data
-- Run XD3Patcher and wait until it finishes processing
-- Optionally delete the .vcdiff files and the patcher (The old version of the files were renamed with a Backup added to the filename)
-- Zip up the updated files (not the ones with the backup extension or the .vcdiff files) and install the new mod through MO2 and make sure it's loaded as early as possible, even before UFO4P
-- Once that is successful, you can delete the temporary folder if you choose
-
-**NOTE: Add the [NoDelete] tag to the folder once you install or you'll have to do this every update!!!**
-
 
 **MOD ORGANIZER 2:**
 
@@ -124,8 +113,16 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Click on **Change high DPI settings**
 - Set **High DPI scaling override** to **Application**
 	
+**Fallout 4 DLC Consistency Patch:**
 
-*High FPS Physics Fix*
+- In your install location, open a folder titled "Fallout 4 DLC Consistency Patch"
+- Copy the vanilla files that match the filenames (the ones that have the .vcdiff extension) from your Steam Install/Data folder into the Fallout 4 DLC Consistency Patch/Data subfolder
+- Run XD3Patcher and wait until it finishes processing
+- Optionally delete the .vcdiff files and the patcher
+- Zip up the updated files (not the ones with the backup extension or the .vcdiff files) and install the new mod through MO2 and make sure it's loaded as early as possible, even before UFO4P or any audio replacers
+
+
+**High FPS Physics Fix:**
 
 ***Bonus:*** The Midnight Ride has a calculator specifically for HFPSPF: https://themidnightride.moddinglinked.com/utilities.html (scroll down halfway)
 
@@ -143,7 +140,7 @@ Instructions:
 	- Set BudgetMaxFPS to the same value as InGameFPS (line 310)
 
 
-*Place Everywhere*
+**Place Everywhere:**
 
 Instructions:
 
@@ -188,11 +185,17 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 
 Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
 
-- **Facegen_RealHD_SDK.esp:** https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=332037&game_id=1151&nmm=1
+- **PersonalRadio.esp:** https://www.nexusmods.com/fallout4/mods/89156
+- **PersonalRadioReceiver.esp**
+- **CBS_PR_Patch.esp**
+- **PersonalRadio2.esp**
+- **PersonalRadio2Receiver.esp**
+- **CBS_PR2_Patch.esp**
+- **Music76in4Continued.esp:** https://www.nexusmods.com/fallout4/mods/84798
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
 - **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
 - **Dummy Plugin.esp:** https://www.nexusmods.com/fallout4/mods/33484
-
+- **Facegen_RealHD_SDK.esp:** https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=332037&game_id=1151&nmm=1
 
 **A note on lore:**
 
@@ -204,12 +207,12 @@ The SICKnasty Suite is a **LORE-FRIENDLY** modlist...depending on your definitio
 
 **OPTIONAL:**
 
-I ship the list with the tools and guides that I used to curate the list (and some that I plan to use). You'll find them in the "Modding Tools" folder. Since they're completely optional, it's up to you to explore their use (or you can just ping me in my Discord! I love to help! :D).
+I ship the list with some of the tools and guides that I used to curate the list (and some that I plan to use). You'll find them in the "Modding Tools" folder. Since they're completely optional, it's up to you to explore their use (or you can just ping me in my Discord! I love to help! :D).
 
 
 *Optional mods*
 
-- **Personal Radio (ESL version with randomizer)** *(if you want to add your own music to the game)*: https://www.nexusmods.com/fallout4/mods/89156
+- **Game Visuals Configuration Menu (GVCM) OG-NG** *(if you want to tweak visuals)*: https://www.nexusmods.com/fallout4/mods/90741
 - **flipped condition boy** *(if you move your HUD around)*: https://www.nexusmods.com/fallout4/mods/74464
 - **Equalizer PA - Next Gen - Old Gen - Version** *(if you don't like the Maryland flag retexture and want to change it)*: https://www.nexusmods.com/fallout4/mods/90881
 - **Mutant Menagerie - Life Finds A Way - No Spider Patch** *(if you're arachnophobic)*: https://www.nexusmods.com/fallout4/mods/85873?tab=description
@@ -227,16 +230,16 @@ I ship the list with the tools and guides that I used to curate the list (and so
 
 **MAKING SUGGESTIONS:**
 
-*Always* welcome if their through the ***correct channel*** in my Discord server.
+*Always* welcome if their through the ***correct channel*** in the Discord server.
 
 **However, I will not include any mods made by the following mod authors:**
 
-- QRSR
-- Ketaroz
-- Thuggysmurf
-- MunkySpunk
-- Halffaces
-- Oppressor08
+- **QRSR**
+- **Ketaroz**
+- **Thuggysmurf**
+- **MunkySpunk**
+- **Halffaces**
+- **Oppressor08**
 
 
 **DEVIATION:**
@@ -250,7 +253,7 @@ This goes with removals as well. If it breaks an output, the burden of recreatin
 
 **OUTRO:**
 
-This mod list was made by **me and only me**. That's not by choice, it's just how it's been. That's also not me saying to go easy on me. I can take it. I continue to learn new things and implement them in updates. Not just the products, but the tools. I wanted my suite to be one that you could pick apart and tweak to your liking. That said, by all means, feel free to upload patches for my list! As long as your patch falls within the permissions from the mod author of whatever mod(s) you're patching!
+This mod list was made by **me, and only me**. That's not by choice, it's just how it's been. That's also not me saying to go easy on me. I can take it. I continue to learn new things and implement them in updates. Not just the products, but the tools. I wanted my suite to be one that you could pick apart and tweak to your liking. That said, by all means, feel free to upload patches for my list! As long as your patch falls within the permissions from the mod author of whatever mod(s) you're patching!
 
 
 **Ways you can make my day:**
