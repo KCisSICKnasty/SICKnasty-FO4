@@ -1,9 +1,45 @@
-**Current Version: 1.2.4*
+**Current Version: 1.2.6*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
+Version 1.2.6 -
 
-Version 1.2.4 - **BENCHMARK UPDATE!!!**
+Updated:
+
+- Bastion - A Power Armor Overhaul
+- Bastion - Additional Penetration
+- Bunker Hill CTD Fix
+- Commonwealth Broadcasting Services
+- Commonwealth Broadcasting Services Patch Hub
+- Improved America Rising 2 Enclave
+- Improved Brotherhood of Steel
+- Multiple Ammo Use
+
+Removed:
+
+- CBBE NPC HeadRear Fix Remake
+- crash fixes for fallout 4
+
+Added:
+
+- CBBE HeadRear Absolute Fix
+- F4SE Menu Framework
+- TRUE - Resistances
+
+
+Version 1.2.5 -
+
+Updated:
+
+- Adaptive NPC Aim - F4SE
+- Bunker Hill CTD Fix
+- Commonwealth Ballistics - Penetration System - F4SE
+- Holstered Weapon Light Fix
+- More Quest Animations and Icons
+- TRUE - F76 Enemy Scaling RobCo
+
+
+Version 1.2.4 -
 
 Updated:
 
