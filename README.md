@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.2.6**
+**CURRENT VERSION: 1.2.7**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 
@@ -9,7 +9,7 @@
 
 - **Freshly installed** Steam copy of Fallout 4 ver.1.11.221 (AE update)
 - AE Creations Bundle
-- Fallout 4 Creation Kit
+- Fallout 4 Creation Kit (you wont need to use it)
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
 - *Roughly* 490 GB of space
@@ -29,13 +29,13 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 *The SICKnasty Suite...Suite:*
 
 ***Necessity -*** various fixes and QoL tweaks that aren't included in UFO4P or CFM
-***CCCCC -*** same as above, but covering all mods included in the AE Creations Bundle
+***CCCCC -*** same as above, but covering content included in the AE Creations Bundle
 ***Ambitious -*** the nerve of the list, blending multiple gameplay overhauls into 1 ESP
 ***2 the TEETH -*** weapons and armor aplenty
 ***CRITTERS -*** tons of new creatures and additions to already existing ones
 ***Deathclaw Expansion Pack and Overhaul (DEPO) -*** what CRITTERS does, but for Deathclaws
 ***FRIENDS -*** new companions
-***WitCH -*** new craftables and crafting mechanics
+***What in the Craftable Hell? -*** new craftables and crafting mechanics
 ***Vile -*** the absolute worst looking visual overhaul you've ever seen
 ***For Your Immersion -*** a lore-friendly Commonwealth makeover
 ***We People Can Live In -*** Glitchfinder's People/We Can Live In series AiO
@@ -158,7 +158,6 @@ Instructions:
 - Select F4SE
 - Click "Run" (this is how you should run the game each time)
 
-
 **DISCLAIMER!!!**
 
 *This mod list is ***VERY*** big. You'll probably be confused if you try to launch the game without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
@@ -178,12 +177,18 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 - In Power Armor Handling Improvements - Retain Armor Buffs:
 	- Set "Remove Armor on PA Entry but keep buffs" (or Auto if Survival) or Carryweight is doubled
 
-**NOTE:** I am currently unable to create an MCM Preset, but if you are willing to share yours with me, I will ship it with the list! (:
+
+**A note on lore:**
+
+The SICKnasty Suite is a **LORE-FRIENDLY** modlist...depending on your definition. I personally do not find assets used in other games to be breaking the lore, IF implemented in a lore-friendly way. I also tolerate a small amount of Wild Wasteland-esque 4th wall breaking. *That being said, however.* There are exactly 2 mods in the list that have non-lore friendly content that I excuse as Wild Wasteland encounters:
+
+- **Submersible Power Armor Redux - BioShock Inspired -** *The mod Vanillified - Submersible Power Armor Redux removes everything except for the power armor which is distributed through Improved Hostile Factions & Power Armor to the People.*
+- **Faction Reinforcements -** *Introduces a companion called Mechachu, a robotic Pikachu. Just don't use him if he's that bothersome.*
 
 
 **Plugins disabled FOR A REASON:**
 
-Only enable the following utility plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
+Only enable the following plugins if you're prepared to use them (details on usage can be found on each mod's respective page):
 
 - **PersonalRadio.esp:** https://www.nexusmods.com/fallout4/mods/89156
 - **PersonalRadioReceiver.esp**
@@ -196,13 +201,6 @@ Only enable the following utility plugins if you're prepared to use them (detail
 - **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
 - **Dummy Plugin.esp:** https://www.nexusmods.com/fallout4/mods/33484
 - **Facegen_RealHD_SDK.esp:** https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=332037&game_id=1151&nmm=1
-
-**A note on lore:**
-
-The SICKnasty Suite is a **LORE-FRIENDLY** modlist...depending on your definition. I personally do not find assets used in other games to be breaking the lore, IF implemented in a lore-friendly way. I also tolerate a small amount of Wild Wasteland-esque 4th wall breaking. *That being said, however.* There are exactly 2 mods in the list that have non-lore friendly content that I excuse as Wild Wasteland encounters:
-
-- **Submersible Power Armor Redux - BioShock Inspired -** *The mod Vanillified - Submersible Power Armor Redux removes everything except for the power armor which is distributed through Improved Hostile Factions & Power Armor to the People.*
-- **Faction Reinforcements -** *Introduces a companion called Mechachu, a robotic Pikachu. Just don't use him if he's that bothersome.*
 
 
 **OPTIONAL:**

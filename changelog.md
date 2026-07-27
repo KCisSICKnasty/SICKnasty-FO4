@@ -1,6 +1,79 @@
-**Current Version: 1.2.6*
+**Current Version: 1.2.7*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.2.7 -
+
+Updated:
+
+- Addictol
+- APC transport
+- Bastion - A Power Armor Overhaul
+- CC Packer - The 1-click Creation Club BA2 Merge Utility
+- Commonwealth Broadcasting Services Patch Hub
+- Companion Status Enhanced Portrait Overhaul and Expansions
+- CSEP Presents - Axel - A Raider Companion
+- Deadeye
+- Dynamic Dismember System - F4SE
+- eXofied Gunners - Expanded and Rebalanced
+- Expanding Bullets - Ammo Subtypes Swapping and Crafting
+- F4SE Menu Framework
+- Far Object LOD Improvement Project
+- FO4 NPC Manager
+- FO4 - Wardrobe Manager
+- HR Animation Replacer - Tweaks and 3rd Person PA Support
+- Improved Hostile Factions
+- Improved Institute
+- Improved Minutemen
+- Improved Nuka Raiders
+- Improved Railroad
+- LOST Audio Tweaks
+- More Quest Animations and Icons\
+- Much Better 3rd Person Animations - MLVic's Edition
+- N7kie's 1st person double Power Armor footstep patches
+- Papyrus Common Library Anniversary Edition
+- Strength in Steel - Brotherhood T60 Overhaul
+- TRUE - Difficulty
+
+Removed:
+
+- Commonwealth Intimidation - F4SE
+- Companion Shoots At Player Fix - F4SE
+- Death Fade
+- Faster Saves
+- Floating Subtitles
+- Floating Subtitles - All Runtimes
+- FSR 3.1.5 Anti-Aliasing
+- Ironworks T-51 Helmet
+- ModernHouseLOD
+- newermind43's Equalizer PA - Enclave Epsilon Squad (Vulcan)
+- OCBP LPCE physics
+- P.W.M - Show Current Weather
+- Quieter Settlements
+- Radraptors
+- Simple FOV Slider
+- TEMMIS' Legacy Classic Remnants PA - Enclave SPECFOR
+- Very Zen Kobolds
+- Very Zen Kudemborots
+- Worn Colors - Desaturated Brotherhood Insignia
+
+Added:
+
+- Acoustic Occlusion - F4SE
+- Bullet Counted Reload System (BCR)
+- Commonwealth Camera - F4SE
+- Creation Engine Tweaks for Fallout 4
+- CROSS_GoreCrits_NoHolotape
+- FO4 Faster HDT-SMP
+- FP Gunplay Overhaul
+- Legendary Rules Expanded - LRX
+- Light Gobo Fix - F4SE
+- Munitions Additional Ammo Redux
+- Precombine And Previs Guardian - F4SE
+- Steady Hands - F4SE
+- Survivalist's Bus - No Free Fusion Core
+- TRUE - Tweaks
+
 
 Version 1.2.6 -
 
