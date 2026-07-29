@@ -46,15 +46,15 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 *Spoilers: (if you enjoy diving into a list completely blind, skip this)*
 
 - You cannot use your PipBoy light. It will play a noise, that's it. Get a flashlight or add a headlamp to your helmet.
-- This modlist was made with survival mode in mind. I urge you to give the list a shot in full survival mode, as I've tailored the list to be challenging, but balanced and forgiving.
+- This modlist was made with survival mode in mind. I urge you to give the list a shot in full survival mode, as I've tailored the list to be challenging, but balanced, fun, and interesting.
 - Get power armor. I've made it highly available to you through PAttP and practical through Bastion. You are meant to use it, no matter your play style. It is not an option, it is a mechanic. Whether you treat it as a pack mule, or simply a way to flee, make friends with a frame.
 - Acquaint yourself with MCM. I include many ways to make this list more or less modular, but it's up to you to explore those options. At the very least, before you throw your controller, give MCM a once over. Turn off what's making you mad, or turn on an option that would make the game more fun to you.
-- Remember your Charisma! AFT+ includes a multi-companion feature based on your CHR stat. The more points, the more friends you can have at once!
-- Watch what you do! KARMA like in FO3/NV is a thing you'll have to manage. Another reason Charisma is important.
-- Throw your mines like frisbees! No, seriously. I've never found a practical use for mines outside of selling them. Hurl them at your enemies like you would in real life.
-- Baseball Grenades detonate on hit, so pitch those fastballs!
+- AFT+ includes a multi-companion feature that scales with your CHR stat. The more points, the more friends you can have at once!
+- Watch what you do! KARMA like in FO3/NV is a thing you'll have to manage.
+- Throw your mines like frisbees!
+- Baseball Grenades detonate on hit, so pitch those fastballs from a distance!
 
-**UNINSTALLING/REINSTALLING:**
+**UNINSTALLING/REINSTALLING FALLOUT 4:**
 
 - Open Steam and go to your Library
 - Find Fallout 4 in the list
@@ -64,7 +64,7 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Open Steam and go to your Library
 - Find Fallout 4 in the list and select Install (Wherever you had it already is fine)
 - Select Next then wait for the install to finish
-- In your Steam Library, right-click on Fallout 4, and click on Properties in the resulting context menu
+- In your Steam Library, right-click on Fallout 4, and click on "Properties" in the resulting context menu
 - In the resulting new window, click on the drop-down at the top of the right pane underneath Automatic Updates
 - Set it to "Only update this game when I launch it"
 - Run the game from Steam, or through Fallout4Launcher.exe in the game files if you are using an offline copy
@@ -73,7 +73,18 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Launch the game once through Steam
 - Press OK when asked to install the Creation Club content
 - Exit the game
+- In your Steam Library, right-click on Fallout 4, and click on "Properties" in the resulting context menu
+- Under the "Installed Files" tab, click "Verify integrity of game files"
+- When it's finished, launch Fallout 4 through Steam
+- Exit the launcher (DO NOT START THE GAME!)
 
+**INSTALLING FALLOUT 4: CREATION KIT:**
+
+***Note: If you already have Fallout 4: Creation Kit installed and have launched it once through Steam, you may skip this step***
+
+- In Steam, search for Fallout 4: Creation Kit and install it
+- Once installed, launch it once through Steam
+- Once the Creation Kit finishes loading, click "File" -> "Exit"
 
 **WABBAJACK:**
 
@@ -108,7 +119,7 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 
 **HIGH DPI SCALING FIX:**
 
-- Right-click on **Fallout4.exe** in the **Stock Game"** folder
+- Right-click on **Fallout4.exe** in your Steam install location
 - Open **Properties** and navigate to the **Compatibility** tab
 - Click on **Change high DPI settings**
 - Set **High DPI scaling override** to **Application**
@@ -124,13 +135,13 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 
 **High FPS Physics Fix:**
 
-***Bonus:*** The Midnight Ride has a calculator specifically for HFPSPF: https://themidnightride.moddinglinked.com/utilities.html (scroll down halfway)
+***NOTE: I provide a pre-configured version of HFPSPF's ini, though the InGameFPS is set for a Fixed Refresh rate of 60. If that setup doesn't fit yours, you'll have to follow the steps below to tailor it to your rig. Otherwise, you can skip this step.***
 
-**NOTE:** I provide a pre-configured version of HFPSPF's ini, though the InGameFPS is set for a Fixed Refresh rate of 60. If that setup doesn't fit yours, you'll have to follow the steps below to tailor it to your rig. Otherwise, you can skip this step.
+***Bonus:*** The Midnight Ride has a calculator specifically for HFPSPF: https://themidnightride.moddinglinked.com/utilities.html (scroll down halfway)
 
 Instructions:
 
-- Double click "The SICKnasty Suite - A Wabbajack Experience - Config" in MO2 under the "Workfiles" separator
+- Double click "The SICKnasty Suite - A Wabbajack Experience - Config" in MO2 under the "SICKnasty Suite" separator
 - Navigate to the "INI Files" tab
 - Click on "F4SE\plugins\HighFPSPhysicsFix.ini"
 - If you use VRR, set InGameFPS (line 59) to a number you can reach across the majority of the game[3], it has to be between 48[4] and refresh rate - (refresh rate x 6.8%)
@@ -144,7 +155,7 @@ Instructions:
 
 Instructions:
 
-- Double click "Place Everywhere - Place.ini - togglable" in MO2 under the "Utilities" seperator
+- Double click "The SICKnasty Suite - A Wabbajack Experience - Config" in MO2 under the "SICKnasty Suite" separator
 - Set hotkeys to your liking (or don't if you choose not to use the mod)
 - In game, press F8 to activate "place-everywhere" mode (off by default)
 
