@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.2.7**
+**CURRENT VERSION: 1.2.8**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 

@@ -1,6 +1,35 @@
-**Current Version: 1.2.7*
+**Current Version: 1.2.8*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.2.8 - HOTFIX
+
+Updated:
+
+- Acoustic Occlusion - F4SE
+- Cohesion - All Together Now
+- Commonwealth Camera - F4SE
+- Far Object LOD Improvement Project
+- More Quest Animations and Icons
+- Project NEMEAN - A Creature Mod
+- Weapon Icon Expansion
+
+Removed:
+
+- Al's Canopies
+- Al's Pride Canopies
+- Better The Third Rail
+- Children of Atom Power Armor - Stat Buff
+- Dak's Weapon Icon Expanded
+- Dak's Weapon Icon Expanded II
+- Dialogue Freeze Fix - F4SE
+- FO4 Faster HDT-SMP
+- Personal Radio (ESL version with randomizer)
+
+Added:
+
+- ZP's DC Guard Covenant Vaut Tec Armors
+
 
 Version 1.2.7 -
 
