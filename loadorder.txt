@@ -6,200 +6,29 @@ DLCCoast.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
 DLCNukaWorld.esm
-ccbgsfo4001-pipboy(black).esl
-ccbgsfo4002-pipboy(blue).esl
-ccbgsfo4003-pipboy(camo01).esl
-ccbgsfo4004-pipboy(camo02).esl
-ccbgsfo4006-pipboy(chrome).esl
-ccbgsfo4012-pipboy(red).esl
-ccbgsfo4014-pipboy(white).esl
-ccbgsfo4005-bluecamo.esl
-ccbgsfo4016-prey.esl
-ccbgsfo4018-gaussrifleprototype.esl
-ccbgsfo4019-chinesestealtharmor.esl
-ccbgsfo4020-powerarmorskin(black).esl
-ccbgsfo4022-powerarmorskin(camo01).esl
-ccbgsfo4023-powerarmorskin(camo02).esl
-ccbgsfo4025-powerarmorskin(chrome).esl
-ccbgsfo4033-powerarmorskinwhite.esl
-ccbgsfo4024-pacamo03.esl
-ccbgsfo4038-horsearmor.esl
-ccbgsfo4041-doommarinearmor.esl
-ccbgsfo4042-bfg.esl
 ccbgsfo4044-hellfirepowerarmor.esl
-ccfsvfo4001-modularmilitarybackpack.esl
-ccfsvfo4002-midcenturymodern.esl
-ccfrsfo4001-handmadeshotgun.esl
-cceejfo4001-decorationpack.esl
-ccrzrfo4001-tunnelsnakes.esm
-ccbgsfo4045-advarccab.esl
-ccfsvfo4003-slocum.esl
-ccgcafo4001-factionws01army.esl
-ccgcafo4002-factionws02acat.esl
-ccgcafo4003-factionws03bos.esl
-ccgcafo4004-factionws04gun.esl
-ccgcafo4005-factionws05hrpink.esl
-ccgcafo4006-factionws06hrshark.esl
-ccgcafo4007-factionws07hrflames.esl
-ccgcafo4008-factionws08inst.esl
-ccgcafo4009-factionws09mm.esl
-ccgcafo4010-factionws10rr.esl
-ccgcafo4011-factionws11vt.esl
-ccgcafo4012-factionas01acat.esl
-ccgcafo4013-factionas02bos.esl
-ccgcafo4014-factionas03gun.esl
-ccgcafo4015-factionas04hrpink.esl
-ccgcafo4016-factionas05hrshark.esl
-ccgcafo4017-factionas06inst.esl
-ccgcafo4018-factionas07mm.esl
-ccgcafo4019-factionas08nuk.esl
-ccgcafo4020-factionas09rr.esl
-ccgcafo4021-factionas10hrflames.esl
-ccgcafo4022-factionas11vt.esl
-ccgcafo4023-factionas12army.esl
-ccawnfo4001-brandedattire.esl
-ccawnfo4002-factionclothing.esl
-ccswkfo4001-astronautpowerarmor.esm
-ccswkfo4002-pipnuka.esl
-ccswkfo4003-pipquan.esl
-ccbgsfo4050-dgbcoll.esl
-ccbgsfo4051-dgbox.esl
-ccbgsfo4052-dgdal.esl
-ccbgsfo4053-dggoldr.esl
-ccbgsfo4054-dggreatd.esl
-ccbgsfo4055-dghusk.esl
-ccbgsfo4056-dglabb.esl
-ccbgsfo4057-dglaby.esl
-ccbgsfo4058-dglabc.esl
-ccbgsfo4059-dgpit.esl
-ccbgsfo4060-dgrot.esl
-ccbgsfo4061-dgshiinu.esl
-ccbgsfo4036-trnsdg.esl
-ccrzrfo4004-pipinst.esl
-ccbgsfo4062-pippat.esl
-ccrzrfo4003-pipover.esl
-ccfrsfo4002-antimaterielrifle.esl
-cceejfo4002-nuka.esl
-ccygpfo4001-pipcruiser.esl
-ccbgsfo4072-pipgrog.esl
-ccbgsfo4073-pipmman.esl
-ccbgsfo4074-pipinspect.esl
-ccbgsfo4075-pipshroud.esl
-ccbgsfo4076-pipmystery.esl
-ccbgsfo4071-piparc.esl
-ccbgsfo4079-pipvim.esl
-ccbgsfo4078-pipreily.esl
-ccbgsfo4077-piprocket.esl
-ccbgsfo4070-pipabra.esl
-ccbgsfo4008-pipgrn.esl
-ccbgsfo4015-pipyell.esl
-ccbgsfo4009-piporan.esl
-ccbgsfo4011-pippurp.esl
-ccbgsfo4021-powerarmorskinblue.esl
-ccbgsfo4027-powerarmorskingreen.esl
-ccbgsfo4034-powerarmorskinyellow.esl
-ccbgsfo4028-powerarmorskinorange.esl
-ccbgsfo4031-powerarmorskinred.esl
-ccbgsfo4030-powerarmorskinpurple.esl
-ccbgsfo4032-powerarmorskintan.esl
-ccbgsfo4029-powerarmorskinpink.esl
-ccgrcfo4001-pipgreytort.esl
-ccgrcfo4002-pipgreenvim.esl
-ccbgsfo4013-piptan.esl
-ccbgsfo4010-pippnk.esl
-ccsbjfo4001-solarflare.esl
-cczsef04001-bhouse.esm
-cctosfo4001-neosky.esm
-cckgjfo4001-bastion.esl
-ccbgsfo4063-papat.esl
-ccqdrfo4001_powerarmorai.esl
-ccbgsfo4048-dovah.esl
-ccbgsfo4101-as_shi.esl
-ccbgsfo4114-ws_shi.esl
 ccbgsfo4115-x02.esl
-ccrzrfo4002-disintegrate.esl
 ccbgsfo4116-heavyflamer.esl
-ccbgsfo4091-as_bats.esl
-ccbgsfo4092-as_camoblue.esl
-ccbgsfo4093-as_camogreen.esl
-ccbgsfo4094-as_camotan.esl
-ccbgsfo4097-as_jack-olantern.esl
-ccbgsfo4104-ws_bats.esl
-ccbgsfo4105-ws_camoblue.esl
-ccbgsfo4106-ws_camogreen.esl
-ccbgsfo4107-ws_camotan.esl
-ccbgsfo4111-ws_jack-olantern.esl
-ccbgsfo4118-ws_tunnelsnakes.esl
-ccbgsfo4113-ws_reillysrangers.esl
-ccbgsfo4112-ws_pickman.esl
 ccbgsfo4110-ws_enclave.esl
-ccbgsfo4108-ws_childrenofatom.esl
-ccbgsfo4103-as_tunnelsnakes.esl
-ccbgsfo4099-as_reillysrangers.esl
-ccbgsfo4098-as_pickman.esl
 ccbgsfo4096-as_enclave.esl
-ccbgsfo4095-as_childrenofatom.esl
-ccbgsfo4090-piptribal.esl
-ccbgsfo4089-pipsynthwave.esl
-ccbgsfo4087-piphaida.esl
-ccbgsfo4085-piphawaii.esl
-ccbgsfo4084-pipretro.esl
-ccbgsfo4083-pipartdeco.esl
-ccbgsfo4082-pipprc.esl
-ccbgsfo4081-pipphenolresin.esl
-ccbgsfo4080-pippop.esl
-ccbgsfo4035-pint.esl
-ccbgsfo4086-pipadventure.esl
-ccjvdfo4001-holiday.esl
-ccbgsfo4047-qthund.esl
-ccfrsfo4003-cr75l.esl
-cczsefo4002-smanor.esm
-ccacxfo4001-vsuit.esl
-ccbgsfo4040-vrworkshop01.esl
-ccfsvfo4005-vrdesertisland.esl
-ccfsvfo4006-vrwasteland.esl
 ccfsvfo4007-halloween.esl
-ccsbjfo4002_manwellrifle.esl
-cctosfo4002_neonflats.esm
-ccbgsfo4117-capmerc.esl
-ccfsvfo4004-vrworkshopgnrplaza.esl
 ccbgsfo4046-tescan.esl
-ccgcafo4024-instituteplasmaweapons.esl
-ccgcafo4025-pagunmm.esl
-cccrsfo4001-pipcoa.esl
-ccbgsfo4119-cyberdog.esl
-ccbgsfo4120-poweramorskin(pittraider).esl
-ccbgsfo4121-poweramorskin(airforce).esl
-ccbgsfo4122-poweramorskin(scorchedsierra).esl
-ccbgsfo4123-poweramorskin(inferno).esl
-ccbgsfo4124-poweramorskin(tribalhelmets).esl
-ccbgsfo4049-brahminarmor.esl
-ccrpsfo4001-scavenger.esl
 ccsbjfo4003-grenade.esl
-ccsbjfo4004-ion.esl
 ccOTMFO4001-Remnants.esl
-ccvltfo4001-homes.esm
 unofficial fallout 4 patch.esp
-gunners vs minutemen + ufo4p.esl
-holiday workshop pack + ufo4p.esl
-ion gun + ufo4p.esl
-neon flats + ufo4p.esl
-pint-sized slasher + ufo4p.esl
-sea scavengers + ufo4p.esl
 GoodneighborExpanded.esp
 MutantMenagerie.esm
 SouthOfTheSea.esm
 WorkshopFramework.esm
 ppf.esm
-ppf-ae.esm
 REFramework.esm
 community fixes merged.esp
+necessity.esp
 BakaFramework.esm
 HUDFramework.esm
 XDI.esm
 LootedWorld.esl
-necessity.esp
-ccccc.esp
+Seasons Framework.esl
 Seasons.esm
 JonsMod.esm
 OCsNWAIO_Master.esp
@@ -212,8 +41,6 @@ Seasonal Snow.esl
 SS2.esm
 SS2_XPAC_Chapter2.esm
 ppf-ss2-cr.esm
-ppf-ss2-iongun-cr.esm
-ppf-ss2-neonflats-cr.esm
 SS2_XPAC_Chapter3.esm
 OCsNukaIsland.esp
 AmericaRising2.esm
@@ -244,21 +71,15 @@ MidwestPARevolution.esl
 InGameCollectibleMaps.esl
 UltracitePA.esl
 Minuteman Watchtowers - Survey Addon.esm
-NeonFlatsCompleteNavmeshFix.esl
 BunkerStories.esp
-CharlestownCondoFullSettlement.esl
 HHTR.esl
 CDIndex.esl
-ShroudManorFullSettlement.esl
-NoirPenthouseFullSettlement.esl
-NuCafeOlaFullSettlement.esl
 BOSFieldManual.esl
 WTPAM.esl
 Tumba_Gunner_Collection.esp
 Tumba_Gunner_Collection_Camp.esp
 Skb-MinigunsRebirth.esl
 (SKII)Trapper_PA.esl
-NoirPenthouseNavmeshFix.esl
 INE_BoonIsland.esp
 INE_MiseryIsland.esp
 MSTP_InstitutePowerArmor.esl
@@ -282,8 +103,6 @@ LIF.esl
 AmericaRising2-Remnants.esl
 AmericaRising2-Incinerator-CC.esl
 AmericaRising2-TeslaCannon-CC.esl
-AmericaRising2-PrototypeGauss-CC.esl
-AmericaRising2-SolarCannon-CC.esl
 KARMA.esm
 Safe Travels.esm
 Low Profile Loader.esm
@@ -302,7 +121,6 @@ Improved Hit VFX.esm
 Scream While Shooting.esm
 Slow Motion Dismemberment.esm
 Stealthy Takedowns.esm
-127ccscavsmgmunitions.esl
 ASAHavokTruckRevisitPatchPlayerToTruckCollision00.esl
 VDSG - NerfedPerk.esl
 ConfigurableHotkeys.esl
@@ -355,8 +173,6 @@ dppsychoandmedx.esl
 healthdispenserandstimpaksHD.esl
 dpnewstims.esl
 TRUE - F76 XP Scaling.esl
-WearableSentinelPA.esl
-NeonFlatsFullSettlement.esl
 TAAFlickerRemover.esl
 FO4WM_Manolo.esp
 RunningWithHandsAnim.esl
@@ -365,44 +181,43 @@ EFMR.esl
 Smaller Meat.esl
 Shield Generator.esl
 Lootablepipboy.esl
-PAI_PerkMenuPatch.esl
 zsz_patch_SELPA_ESL_TemperedSteel.esl
-cc_PowerArmorSkin_Camo_StealthFix.esl
 FactionWorkshopManager2.esm
 GoodneighborPride.esp
 Hit Those Objects.esm
 ModSwitchFramework.esl
 NJiconsArthmoorModFixes.esl
 Normalised Horrorghouls.esl
+Alien Power Cell Recipe - A Quest Mod.esl
+PipWS_Replacer.esl
+PipWS_Immersion_BMM.esl
 DeathclawRaceSubGraph.esl
+fakeInt.esp
+fakeInt_Boston.esp
+fakeInt_DLC.esp
 FOLIP - Master.esm
-Wetness Shader Fix.esp
-SurvivalistsBus_NoFreeFusionCore.esp
 NoBoSMinutemenChatter.esp
+T65 ESL patch.esp
+Wetness Shader Fix.esp
+fakeIntTrueStormPatch.esp
+Extended Fake Interior - CC Enclave Remnants Patch.esp
+SurvivalistsBus_NoFreeFusionCore.esp
 Med-X Matters - Stimpak Overhaul.esp
 MunitionsAdditionalAmmo.esp
 LRX.esp
 TRUE Elemental.esp
 TRUE Difficulty.esp
-TRUE F76 Level Scaling.esp
+TRUE F76 Health.esp
 TRUE Radiation.esp
-TRUE Resistances.esp
+TRUE F76 Resistances.esp
+TRUE F76 Respawn Rate.esp
+TRUE F76 Enemy Scaling.esp
 TRUE - Tweaks - NPCs.esp
 PipBoyShadows.esp
-NJiconsCCMalevolentMalfunction.esp
-NJiconsCCcr75.esp
-NJiconsCCCC.esp
-NJiconsCCchristmas.esp
 NJiconsCChalloween.esp
-NJiconsCCslocum.esp
-NJiconsCCskyrim.esp
-NJiconsCCcarbonatedConcerns.esp
-NJIconsCChorseArmour.esp
 Commonwealth Ballistics - Penetration System.esp
-ccccc - looted world patch.esp
 Fastball.esp
 necessity - looted world patch.esp
-necessity - true storms patch.esp
 lwp - northern springs.esp
 lwp - ss2.esp
 Anom_BetterCITGrass.esp
@@ -415,6 +230,8 @@ WmkActiveEffects.esp
 INDOMITABLE.esp
 ScrollZoomKeywords.esp
 FixGunnerCageCharge50Caps.esp
+Cannabis Commonwealth.esp
+fallout names for cannabis commonwealth strains.esp
 FO4ParticlePatch.esp
 3DNPC_FO4.esp
 NJIcons3DNPC.esp
@@ -431,15 +248,12 @@ SettleObjExpandPack.esp
 Phase4DLC.esp
 Aries_NickCanLockpick.esp
 AmazingFollowerTweaks.esp
-LootableCrates.esp
 Skb_RiflesRebirth.esp
 Rifles Rebirth Sound Patch.esp
 Rifles Rebirth - Unofficial Update.esp
 RL_Recruit_Framework.esp
 C_V_R_I_E.esp
-TheYangtzeCaptain.esp
 DiverseWasteland.esp
-LootableCrates MergedDLCs.esp
 RecruitableWastelanders.esp
 WHN AiO.esp
 Nomads.esp
@@ -464,8 +278,6 @@ RaiderOverhaul - A StoryWealth Patch.esp
 Immersive Pickup Sounds F04.esp
 Flashy_CrimeAndPunishment_GunForHire_Addon.esp
 GunForHire-eXoPatch.esp
-ShootingRangeCCFix.esp
-ShootingRangeCCFix_Weapons.esp
 CrimeTown.esp
 SettlementMenuManager.esp
 Stuff to the BOS.esp
@@ -476,7 +288,6 @@ eXofied Goodneighbor - Subway Runner.esp
 RailroadSettlers.esp
 RailroadSettlersImmersionPack.esp
 RecruitableSettlers.esp
-CCMMB REDUX.esp
 Conspiracy-eXoPatch.esp
 W.A.T.Minutemen.esp
 RecruitableSettlersFH.esp
@@ -484,6 +295,8 @@ lwp - recruitable settlers.esp
 RecruitableSettlers-Unbroken.esp
 PekMod Herbert.esp
 1niv_Wasteland_Brats.esp
+DiverseChildSettlers.esp
+DCS-DW-WSFW-SS2-Compat.esp
 Dank_LEO.esp
 RecruitableNPC.esp
 ProjectNEMEAN.esp
@@ -505,35 +318,7 @@ NCRPowerArmor.esp
 AtomicWorldNCRPatch.esp
 Fusion Energy Drink.esp
 lwp - fusion energy drink.esp
-N7HandmadeShottyOverhaul.esp
 IntegratedAddons.esp
-IntegratedAddons_ArmorPaintJob_VaultTec.esp
-IntegratedAddons_WeaponPaintJob_VaultTec.esp
-IntegratedAddons_ArmorPaintJob_NukaCherry.esp
-IntegratedAddons_ArmorPaintJob_Institute.esp
-IntegratedAddons_ArmorPaintJob_BrotherhoodOfSteel.esp
-IntegratedAddons_ArmorPaintJob_HotRodPink.esp
-IntegratedAddons_PipBoyPaintJob_RedRocket.esp
-IntegratedAddons_WeaponPaintJob_Institute.esp
-IntegratedAddons_VaultSuitCustomization.esp
-IntegratedAddons_ArmorPaintJob_JackOLantern.esp
-IntegratedAddons_PipBoyPaintJob_Grognak.esp
-IntegratedAddons_WeaponPaintJob_Minutemen.esp
-IntegratedAddons_WeaponPaintJob_Gunners.esp
-IntegratedAddons_ArcadeWorkshopPack.esp
-IntegratedAddons_ArmorPaintJob_Minutemen.esp
-IntegratedAddons_WeaponPaintJob_ReillysRangers.esp
-IntegratedAddons_ArmorPaintJob_Bats.esp
-IntegratedAddons_ArmorPaintJob_Gunners.esp
-IntegratedAddons_ArmorPaintJob_ReillysRangers.esp
-IntegratedAddons_PipBoyPaintJob_NukaCola.esp
-IntegratedAddons_PipBoyPaintJob_OverseerVeneer.esp
-IntegratedAddons_PipBoyPaintJob_ReillysRangers.esp
-IntegratedAddons_PipBoyPaintJob_SilverShroud.esp
-IntegratedAddons_WeaponPaintJob_Bats.esp
-IntegratedAddons_WeaponPaintJob_BrotherhoodOfSteel.esp
-IntegratedAddons_WeaponPaintJob_HotRodPink.esp
-IntegratedAddons_WeaponPaintJob_JackOLantern.esp
 BoSStory.esp
 Lunar - BoSStory.esp
 BoSStory-eXoPatch.esp
@@ -550,6 +335,7 @@ YAWA2_AW_Patch.esp
 AttachPack.esp
 Attach Pack Mod Description Fixes.esp
 AttPackExpantion.esp
+Alien Power Cell Recipe - AttachPackExp Patch.esp
 APU_NoCCversion.esp
 APU_Munitions.esp
 AR2 Attachment Pack Patch.esp
@@ -562,7 +348,7 @@ Dank_ECO.esp
 Firelance2.5.esp
 BetterXandersAidNavmesh.esp
 BetterFarHarbor_Open.esp
-necessity - fbfh patch.esp
+FBFH_EFI_Patch.esp
 RecruitableDocBot.esp
 WestTekTacticalOptics.esp
 ThatsGunnerLife.esp
@@ -585,12 +371,12 @@ FE_eXo_Munitions.esp
 SSTMMWT_AtomicWorld_Patch.esp
 MutantMenagerie_NoFarHarbor.esp
 Zetan.esp
+ZetanFrogbertPatch.esp
 UniqueFacesAiO.esp
 Goremites.esp
 UniqueFacesImmersionPack.esp
 RedWave.esp
 SS2Extended.esp
-77wanderer_Railroad_AECreation_Overhaul-NoQuests.esp
 SubwayRunnnerDynamicLighting OE - NPC Addon.esp
 SubwayRunnerDarkerTunnels.esp
 Mica-T6M_EMD.esp
@@ -654,7 +440,6 @@ SouthOfTheSea-Atomic.esp
 ImprovedHostileFactions.esp
 ImprovedHostileGunners.esp
 ImprovedHostileCreatures.esp
-TemmisNukaWorldDetails.esp
 LootableVertibirds.esp
 Atomic World - MMWT - Survey Patch.esp
 The Wretched.esp
@@ -680,9 +465,7 @@ FO4 NPCs Travel.esp
 BPDRiot.esp
 000Xeno-tronics.esp
 hapArmyLabs.esp
-Cho1_MercsCC_Plots.esp
 ImprovedHostileDLC01RaiderFaction.esp
-WD_BFG_ANIMATIONS.esp
 BetterWeaponDiversityCHW-v2.1.esp
 SS2-eXoPatch.esp
 0_Vault120.esp
@@ -709,7 +492,6 @@ MobiusModding_LegatePA.esp
 (SKI-NotDave) P-5 Power Armor.esp
 XR92_Rifle.esp
 Em_BosStory_Patch.esp
-Cho1-SS2-Cosmosplot.esp
 VaultTecRespawnTrunks.esp
 South Boston Military Checkpoint Radio Toggle.esp
 RecruitPaintingRaider.esp
@@ -721,12 +503,13 @@ BlackBirdElitePA.esp
 WestTek.esp
 CombatRifleAttachment+WeaponryExpansion.esp
 VanBuren_223.esp
+SPAS.esp
 Real Uniques.esp
+RU_SpasPatch.esp
 RU-AttppackPatch.esp
 FCOM.esp
 CWThrowables.esp
 SNR - Metal of the Commonwealth.esp
-SS2C2 Shroud Manor Patch.esp
 EnclaveRecon.esp
 Children of Ug Qualtoth VATS enabled.esp
 SS2_Addon_NWE.esp
@@ -779,25 +562,19 @@ CommonwealthEncounterPack.esp
 Raider Cut Content Outfit.esp
 Raider2078s Miniguns Rebirth Aim Model Patch.esp
 MS Workshop Framework Door Additions.esp
-SS2_CLB_ReleaseTheHounds.esp
-DiverseCapitalWastelandMercenaries.esp
 M8rDisablePipboyEffects.esp
 LasersHaveNoRecoil_RobCo.esp
 Shelter Or Save.esp
 Less Ugly Intercom.esp
 Give Me That Bottle Rehydrated.esp
-DiverseCapitalWastelandImmersion.esp
 LooksMenu.esp
 TransferSettlements.esp
-Solar Cannon Expanded.esp
 NestedHotkeys.esp
 Clicklight.esp
 Workshop Highlight Fix.esp
-MMBackpack_REVAMPEDxStandaloneWorkbenches_Patch.esp
 REInterestingQuestBooster.esp
 CantRunForever.esp
 RadioRebootMenu.esp
-America Rising 2 - Solar Cannon Expanded (ECS Patch).esp
 3dNPC_DLC_AFT_Fix.esp
 ImprovedRRStatAgents.esp
 77wanderer_Terry.esp
@@ -825,6 +602,27 @@ XR92SMPatch.esp
 Disruptor.esp
 CWPlasmaDefender.esp
 CWRCW.esp
+CWHuntingShotgun.esp
+CWServRifle.esp
+CWServRifleMunitionsPatch.esp
+CWServRifleMarksmanCarbineAddon.esp
+CWServRifleTRRace.esp
+CWWA2000.esp
+CWWA2000TRRace.esp
+CW-NVLMG.esp
+CW-NVLMGTRRace.esp
+CW127MMSMG.esp
+CW127MMSMG_TRRace.esp
+DakGrenadeAPW.esp
+CW45MP.esp
+CWVarmintRifle.esp
+CWVarmintRifleDLC03Patch.esp
+CWVarmintRifle_TRMN.esp
+CWCalico.esp
+CWCalico_TRMN.esp
+CWHuntingShotgun_MunitionsExpansion.esp
+CWM14.esp
+CWM14_MAA.esp
 skewer.esp
 smmg.esp
 DakM202.esp
@@ -833,7 +631,6 @@ RocketRifle.esp
 RocketRifleAnimations.esp
 DakRocketRifleSMPatch.esp
 DesBladesOfTheWastes.esp
-Barney_Rook_Lives.esp
 NPCs Change Clothes.esp
 NPCs Use Items.esp
 CavesOfTheCommonwealth_DarkestLighting.esp
@@ -857,7 +654,6 @@ BugSwarmCrashFix_MutantMenagerieLifeFindsAWay_Patch.esp
 Nomads_NoApproachPackage.esp
 NomadsMoreHealth.esp
 RecruitWastelanders-WHNAiO.esp
-DiverseCWM-DiverseWasteland-Compat.esp
 SMR_MutantHoundFix.esp
 Nightkin Anti Explosion.esp
 RaiderOverhaul-StoryWealth-Uncapped.esp
@@ -874,7 +670,6 @@ WorkshopCageTweaks-SuperMutants.esp
 RsiyosLocationPackLVPatch.esp
 ASAHavokTruckRevisitPatchWillyJeep00.esp
 LV_AtomicWorld_Patch.esp
-Xander's Aid Quest Consistency Patch.esp
 Zetan_UFOnerf.esp
 HP_HelmetPopper.esp
 Less Annoying Berry Mentats.esp
@@ -882,8 +677,6 @@ LegendaryLootExpansion.esp
 More Legendary Effects.esp
 Stimpaks help you breathe.esp
 GunForHire-Auto-Furnish.esp
-TRUE - F76 Power Armor.esp
-TRUE - Balanced Respawn Rate.esp
 Vulture.esp
 Vulture - DLC.esp
 Vulture - noContainer.esp
@@ -951,6 +744,8 @@ Heather Casdin - Recycle.esp
 C.E.C.S - Combat Enhancing Chemical Substances.esp
 Munitions - Advanced Calibers.esp
 MunitionsExpansion_SharedResources.esp
+CW45MP_MunitionsExpansion.esp
+MunitionsExpansion_SharedResources_NoAPAmmo.esp
 MutantMenagerie_MunitionsExpansion.esp
 MutantMenagerie_MunitionsExpansion_TR.esp
 wd_huntingrifle.esp
@@ -958,7 +753,6 @@ CombatRifle_MunitionsExpansion_MunitionsOnly.esp
 10mm_MunitionsExpansion.esp
 TacticalReloadVanilla.esp
 HitmanHuntingRifle_TacticalReloadPatch.esp
-LeverActionRifle_MunitionsExpansion_Just4570.esp
 RemoteExplosives.esp
 ConceptCentaur.esp
 SKI_PlasmaAutocannon.esp
@@ -977,8 +771,6 @@ BuzzbitesComic.esp
 Selakii_Reading_comprehension.esp
 MPT - Reading Comprehension Patch.esp
 MPT + Mutant Menagerie Patch.esp
-Legion Money.esp
-NCR-Money Standalone.esp
 UOM_UltimateOutfitMenu.esp
 PhotoMode.esp
 CBBE.esp
@@ -1013,6 +805,7 @@ FatherCompanion.esp
 AmericaRising2-FatherCompanion.esp
 DarleneDLC.esp
 StrengthInSteel.esp
+BrotherhoodInfantryArmor.esp
 ImprovedBoS.esp
 ImprovedBoSFCOMPatch.esp
 WB_DynamicPets_BoS.esp
@@ -1049,7 +842,6 @@ GunnerHitSquad.esp
 REPatch_CommonwealthHitSquads.esp
 CHS_MinigunsRebirth.esp
 REPatch_PrivateContractTalonCompanyMercenaries.esp
-ChineseRemnant_CC-ChineseStealthArmor.esp
 T6M_LC_AR2.esp
 T6M_LC_Remnants.esp
 T6M Tesla Cannon - Legendary Effect Overhaul Compatibility Patch.esp
@@ -1145,6 +937,7 @@ ReconCorpRemnants.esp
 AmericaRising2-EnclaveReconArmorPatch.esp
 BlackBirdSpecialistPaint.esp
 America Rising 2 - Black Bird Power Armor with Enclave Paint (ECS Patch).esp
+Juggernaut_Tactical_PA.esp
 hapArmyLabs_NoLLInjection.esp
 ChineseRemnants_RedShiftArmor.esp
 T65PA_BOS.esp
@@ -1202,7 +995,6 @@ Plasma Autocannon LEO Compatibility Patch.esp
 WinchesterP94Balanced2.esp
 RU_CRAWE_Patch.esp
 X12Plasmacaster-FactionSkins.esp
-BoS Infantry Armor.esp
 TES51HunterMiscMods.esp
 TES51HunterMiscModsCC.esp
 Eb_MagNite.esp
@@ -1255,10 +1047,6 @@ Munitions - MCM Menu.esp
 MAC Manufacturing.esp
 Mutant Menagerie - Widowmaker Scopes Patch.esp
 BusMod_BoonIsland.esp
-Dank_LEO-NeoSky.esp
-Dank_LEO - Neon Flats Legendary Expansion Patch by Lovely Babydoll.esp
-Dank_LEO-CapMerc.esp
-TRUE - F76 Legendaries.esp
 Dank_LEO-MLE.esp
 Dank_LEO-AmericaRising2.esp
 Dank_LEO - America Rising 2 - Purifier Expansion Patch.esp
@@ -1296,6 +1084,7 @@ Tumba_Gunner_Collection_DriveableJeep.esp
 Tumba_Gunner_Collection_Headlamp.esp
 C_HorrorGhoul.esp
 ccTeslaCannon - Unofficial Update.esp
+TesCanUnofficialUpdatePatch_MunitionsExpansion.esp
 TesCanUnofficialUpdatePatch.esp
 Tactical Flashlights - eXoPatch.esp
 Tactical Flashlights - In The Flesh.esp
@@ -1371,6 +1160,7 @@ HotC - V111 Knife.esp
 FusionCoreSpeedPatch.esp
 cVc Ammo CC.esp
 MPT - WSG Reworked.esp
+AtomCatsWarriors.esp
 REPatch_NorthernSprings.esp
 praWorldRepop.esp
 PraWRC26.esp
@@ -1409,6 +1199,7 @@ ImprovedAREnclaveTeslaPA.esp
 ImprovedAREnclaveFCOMPatch.esp
 ImprovedAREnclaveFCOMPatch Faction Fix.esp
 ImprovedAREnclavePlayerPA.esp
+ImprovedAREnclaveBPDRiotPatch.esp
 ImprovedBoSEncounters.esp
 ImprovedBoSTumbaBoSPatch.esp
 ImprovedBoSStrengthInSteelPatch.esp
@@ -1419,7 +1210,7 @@ ImprovedBoSChaptersAR2Patch.esp
 ImprovedBoSNWT65Patch.esp
 ImprovedBoSNWUltracitePatch.esp
 ImprovedBoSClericPatch.esp
-ImprovedBoSNWInfantryPatch.esp
+ImprovedBoSSonOfSteelPatch.esp
 ImprovedGuards.esp
 ImprovedGuardEncounters.esp
 ImprovedCaravanGuards.esp
@@ -1469,18 +1260,7 @@ DesRustKing-RaiderBrutePowerArmor.esp
 ECO_AtomsGloryThreads.esp
 ECO_OldTimeReligion.esp
 ECO_CrossChosenOfAtom.esp
-ECO_CCPintSizedSlasher.esp
-ECO_CCShroudManor.esp
-ECO_CCNoirPenthouse.esp
-ECO_CCNeonFlats.esp
-ECO_CCCoffeeDonut.esp
-ECO_CCVRDesertIsland.esp
-ECO_CCCapitalMerc.esp
-ECO_CCTunnelSnakes.esp
 ECO_GreaseRatGarbs.esp
-ECO_CCVaultSuit.esp
-ECO_HolidayWorkshop.esp
-ECO_SeaScavengers.esp
 Power Armor Capes V2.esp
 Power Armor Capes V2 - Bonus Capes.esp
 Power Armor Capes V2 - Enclave.esp
@@ -1514,24 +1294,18 @@ CombatShotgun_MunitionsExpansion_TR.esp
 CrusaderPistol_MunitionsExpansion.esp
 HuntingRifle_MunitionsExpansion_TR.esp
 MAC_Rename.esp
-MunitionsExpansion_SharedResources_NoAPAmmo.esp
 RadiumRifle_MunitionsExpansion.esp
 PlasmaAutocannon_MunitionsExpansion.esp
 CWRaffica_MunitionsExpansion.esp
 CWRaffica_MunitionsExpansion_TR.esp
-ShroudManor_DelivererOnly_MunitionsExpansion_TR.esp
-NeonFlats_MunitionsExpansion_TR.esp
-ZetanArsenal_MunitionsExpansion.esp
 10mm_MunitionsExpansion_AP.esp
 10mm_MunitionsExpansion_AP_TR.esp
-CC_AntiMaterielRifle_MunitionsExpansion.esp
 44_APAPUE_MunitionsExpansion.esp
 LaserMusket_MunitionsExpansion_AP.esp
 44Pistol_AP_MunitionsExpansion.esp
 CombatRifle_AP_MunitionsExpansion.esp
 AR2AttachmentPackPatch_MunitionsExpansion.esp
 LaserGun_MunitionsExpansion_AP.esp
-CC_AntiMaterielRifle_MunitionsExpansion_TR.esp
 Minigun_APUE_MunitionsExpansion.esp
 DoubleBarrelShotgun_MunitionsExpansion_AP_Override.esp
 RadiumRifle_MunitionsExpansion_AP.esp
@@ -1555,7 +1329,6 @@ RBValentineJawSync.esp
 FlaconOil_2K_0.esp
 2K_The Patch_4.2.1.esp
 FlaconOil_2K_Pipboy.esp
-ZPs Weapons AIO.esp
 ZPs Prewar Cars.esp
 ZPs Robots AIO.esp
 ValiusHDTextures2K.esp
@@ -1571,12 +1344,13 @@ AFT_Hotkey_Recipes.esp
 AmazingFollowerTweaks_XDI_FIX.esp
 SS2_AFT.esp
 XP Sound Patch.esp
-eXofied Goodneighbor - NeonFlats.esp
 eXofied Goodneighbor - Wasteland Brats.esp
 ZPs DC Guard Covenant Vaut Tec Armors.esp
-ZPs Dog Armor.esp
 ZPs Fire and Smoke 2.esp
 ZPs Frost Shock Plasma Laser.esp
+ZPs BHRF.esp
+ZPs BHRF Precombines.esp
+ZPs Zetamorphs.esp
 FS_BarrelBonanza.esp
 ccfsvfo4007-halloweenSMM.esp
 FS_BarrelBonanza SMM.esp
@@ -1590,7 +1364,7 @@ TrueStormsFO4-EarlierSunsets.esp
 TrueStormsFO4-EarlierSunsetsFH.esp
 TrueStormsFO4-EarlierSunsetsNW.esp
 PekAR2NukaFactionPatch.esp
-no_pipboy_light.esp
+Pip-Boy Light Battery.esp
 SouthOfTheSea-Atomic-Ashland.esp
 SouthOfTheSea-Atomic-CROSSCoA.esp
 REMOVETHIS.esp
@@ -1628,9 +1402,6 @@ FWM2_AtomCatsFaction_ESL.esp
 FWM2_AtomCatsFaction_ExpandedFacePoolPatch_ESL.esp
 CagebreakerPowerArmor-Flamer.esp
 Survival Mode Overhaul - Heather Casdin Patch.esp
-Dank_PreySpaceSuit.esp
-NoirCC_PreVisFix.esp
-ccccc - eco_ccgraphictshirtsplus.esp
 DBDR_NickValentineRepairKit_RecordEdit.esp
 Pepper Shaker - Pyro and Cryo Patch.esp
 DesRivetsAndRage-PiranhaHelmetHeadlamp.esp
@@ -1639,14 +1410,8 @@ ImprovedBoSChaptersNeoPatch.esp
 ImprovedBoSNEOPatch.esp
 FieldXP.esp
 DCG REDUX - Tactical Flashlights eXoPatch Patch.esp
-Eli_NukaPatch.esp
-ECO_CCNukaCollector.esp
-HandmadeShotgun_SuperMutantsLL.esp
 NickCanLockPick-NickRepairKit_SynergyPatch.esp
-LootableCrates-ReducedLoot.esp
-LootableCrates_MetalContainerRename.esp
 Merchants Sell Robot Repair Kits.esp
-RA_Zetan_CC_ZetanWeaponsPatch.esp
 SKKBOS100CheckYourFireFix.esp
 ToyCommandos.esp
 WorkshopCageTweaks-Deathclaws.esp
@@ -1719,12 +1484,8 @@ Power Armor to the People - T-65 - East BoS Paint.esp
 Power Armor to the People - T-65 - Gunner Paint.esp
 Power Armor to the People - Vault-Tec Power Armor.esp
 Power Armor to the People - Ultracite Power Armor - East BoS Paint.esp
-Power Armor to the People - Captain Cosmos.esp
 Power Armor to the People - Excavator Power Armor.esp
 Power Armor to the People - SuperAlloys Cohesion.esp
-Power Armor to the People - Gunners vs Minutemen CC.esp
-Power Armor to the People - Enclave Recon Corps - Gunners vs Minutemen.esp
-Power Armor to the People - Horse Power Armor.esp
 Power Armor to the People - Cagebreaker Power Armor.esp
 Power Armor to the People - T-60 Equipment.esp
 Power Armor to the People - X-01 Tesla Upgrade Kit.esp
@@ -1757,12 +1518,13 @@ eXofied Goodneighbor - TheGlowingNightmare.esp
 eXofied Goodneighbor - The Third Rail.esp
 eXofied Goodneighbor - Integrated Addons.esp
 ambitious.esp
+ambitious - neo patch.esp
 ambitious - evac - neo patch.esp
 ambitious - grenade sound options patch.esp
-ambitious - looted world patch.esp
 friends.esp
 friends - c_v_r_i_e patch.esp
 doomsdayer.esp
+1niv_CigaretteInMouth_Smoke_Addon.esp
 doomsdayer - survival mode overhaul.esp
 NukaWorldReborn.esp
 lwp - nuka-world reborn.esp
@@ -1774,7 +1536,6 @@ ATripToBedington.esp
 witch.esp
 OWM-StandaloneWorkbenches.esp
 witch - looted world patch.esp
-1niv_CigaretteInMouth_Smoke_Addon.esp
 CompanionStatusEnhanced.esp
 LOST Audio Tweaks.esp
 TrueStormsFO4-FarHarbor-NukaWorld-Patch.esp
@@ -1803,14 +1564,15 @@ Radstag Grab Skill.esp
 Radscorpion Stab Skill.esp
 2theteeth.esp
 2theteeth - ss2 patch.esp
-wepeoplecanlivein.esp
-wepeoplecanlivein - looted world patch.esp
 ufo4pp - recruitable settlers.esp
 ufo4pp - techno mutants.esp
 ufo4pp - subversion.esp
 ufo4pp - ipus.esp
-doomsdayer - ufo4p patch.esp
 critters - ufo4p patch.esp
+wepeoplecanlivein.esp
+wpcli_youandwhatarmy2_blacklistpatrols_patch.esp
+wpcli_ss2chapter3_patch.esp
+wepeoplecanlivein - looted world patch.esp
 wepeoplecanlivein - ufo4p patch.esp
 critters - cfm patch.esp
 cfmp - iaf.esp
@@ -1820,30 +1582,26 @@ Radium.esp
 kc's sicknasty patch pit - lat + wasteland brats.esp
 LOST Audio Tweaks - Immersive Animation Framework Patch.esp
 Dank_FadedGlory_Radium.esp
-TesCanUnofficialUpdatePatch_MunitionsExpansion_1Shot.esp
 LooksMenu Customization Compendium.esp
+101GlowingSea.esp
+101GlowingSea-Previs.esp
+CoASettlers-GlowingSeaSettlements.esp
+Enclave and Minutemen Settlers Spawn at the Edge of the Glowing Sea.esp
+Federal Supply Cache Enclave Settlers.esp
 AtomicSea.esp
 FO4LODGen.esp
 Optimized Vanilla Tree LODs.esp
 Far Harbor Evergreens.esp
 FOLIP - New LODs.esp
 prp.esp
-HuntressPrevis.esp
-Phase4Previs.esp
 BradbertonInteriors_PRP_Patch.esp
 CavesOfTheCommonwealth_PRP_Patch.esp
 DavidHunter_ExoEm_PRP_patch.esp
-eXofiedGoodneighbor_BTR_PRP_Patch.esp
 MinutemanWatchT_YAWA2_4Gimp_PRP_Patch.esp
 RsiyosLocationPack_PRP_Patch.esp
 SubwayRunnerRevival_PRP_Patch.esp
-XandersAid_OptNav_PRP_Patch.esp
-ArPrevisPatch_NexusID94745_+eXoPatch.esp
 ArPrevisPatch_NexusID71752.esp
-ArPrevisPatch_NexusID71707.esp
 ArPrevisPatch_NexusID67369.esp
-ArPrevisPatch_NexusID46602.esp
-ArPrevisPatch_NexusID84389_+eXoPatch.esp
 ArPrevisPatch_NexusID89894.esp
 ArPrevisPatch_NexusID78628.esp
 ArPrevisPatch_NexusID43527,50089.esp
@@ -1852,13 +1610,32 @@ Em_3DNPC_FO4_Previs.esp
 Em_AR2-112_PRP-81_Previs.esp
 SouthOfTheSea[Previs].esp
 Northern Springs-expansion project.esp
-ArPrevisPatch_NexusID32911_+mdkdsBugfixes.esp
 FBFH_EE_Acadia_Cleanup.esp
-BetterFarHarborAcadiaCU_PRP_Patch.esp
 lwp - far better far harbor.esp
 Goodneighbor-PreVis.esp
 DiamondCity-PreVis.esp
 fyi - diamond city exospansion.esp
+previsibow_101glowingsea.esp
+previsibow_ambitious.esp
+previsibow_witch.esp
+previsibow_doomsdayer.esp
+previsibow_atomicworld.esp
+previsibow_vile.esp
+previsibow_critters.esp
+previsibow_friends.esp
+previsibow_fyi.esp
+previsibow_2theteeth.esp
+previsibow_hellfirepa.esp
+previsibow_mfcaio.esp
+previsibow_phase4dlc.esp
+previsibow_firelance2.5.esp
+previsibow_farharborstory.esp
+previsibow_fbfh.esp
+previsibow_theforest.esp
+previsibow_necessity.esp
+previsibow_nwraio.esp
+previsibow_northernsprings.esp
+previsibow_wpcli.esp
 ImprovedHostileGunnerINNRFIS.esp
 ImprovedHostileNEOPatch.esp
 ImprovedMinutemenINNRFIS.esp
@@ -1867,9 +1644,9 @@ Dank_ECO-INNR.esp
 Shady Motives INNR Patch.esp
 Dank_ECO-Munitions_INNR_CS.esp
 Dank_ECO-MLE-INNR.esp
+Dank_LEO-MLE_INNR_CS.esp
 Dank_ECO-PAttP-INNR.esp
 DLC-FaceGen.esp
-AE Creation Bundle-FaceGen.esp
 Diverse Wasteland-FaceGen.esp
 Recruitable Settlers-FaceGen.esp
 Phase 4-FaceGen.esp
@@ -1950,7 +1727,6 @@ Unique Raider Patrols-FaceGen.esp
 imp mm facegen.esp
 pattp facegen.esp
 nwr aio facegen.esp
-Goodneighbor-FaceGen.esp
 SotS Atom's Storm-FaceGen.esp
 WorkshopFramework_ScriptOverride.esp
 lifp - chw betterweapondiversity.esp
@@ -1966,8 +1742,6 @@ neop - nuka-world reborn.esp
 neop - ro1.esp
 neop - watm exopatch.esp
 2theteeth - neo patch.esp
-ambitious - neo patch.esp
-cohesion.esp
 NotEveryCreatureFoolUnofficalMutant.esp
 sicknastyactivator.esp
 sicknastyammunition.esp
@@ -2012,10 +1786,6 @@ sicknastyterminal.esp
 sicknastyweapon.esp
 sicknastyweather.esp
 sicknastyworldspace.esp
-sicknastyparts.esp
-sicknastyfo4standaloneworkbenchespatcher.esp
-sicknastyworkbenchorganizer.esp
-sicknastyfacegen.esp
 DCX_Optimization.esp
 sicknastymergecell - dc_optimization.esp
 sicknastyprevis.esp
@@ -2024,18 +1794,18 @@ sicknastyseasons - patch.esp
 sicknastyfolip - patch.esp
 sicknastytexgenoutput.esp
 sicknastyxlodgenoutput.esp
-sicknastysorteroutput.esp
-sicknastysorteroutput-part2.esp
-sicknastysorteroutput-part3.esp
-sicknastysorteroutput-part4.esp
-sicknastysorteroutput-part5.esp
+sicknastyfacegen.esp
+sicknastym8r complex sorter.esp
+sicknastym8r complex sorter-part2.esp
+sicknastym8r complex sorter-part3.esp
+sicknastym8r complex sorter-part4.esp
 the cherry on bottom.esp
+Facegen_RealHD_SDK.esp
+Face Ripper Presets.esp
+AutoCellDisplay.esp
+Dummy Plugin.esp
 PersonalRadio.esp
 PersonalRadioReceiver.esp
 PersonalRadio2.esp
 PersonalRadio2Receiver.esp
 Music76in4Continued.esp
-Face Ripper Presets.esp
-AutoCellDisplay.esp
-Dummy Plugin.esp
-Facegen_RealHD_SDK.esp

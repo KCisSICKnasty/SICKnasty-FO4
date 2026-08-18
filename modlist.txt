@@ -7,7 +7,27 @@
 +The SICKnasty Suite - A Wabbajack Experience - FOLIP Output
 +The SICKnasty Suite - A Wabbajack Experience - PreVis
 +Optimization and Compatibility for Diamond City - Modular Installer (Diamond City Expansion, Femshepping's Diamond City Edit and others)
-+Cohesion - All Together Now
++PreVisiBow - Pretty Little PRP Patches - Xander's Aid - DLC
++PreVisiBow - Pretty Little PRP Patches - WitCH - What in the Craftable Hell
++PreVisiBow - Pretty Little PRP Patches - We People Can Live In
++PreVisiBow - Pretty Little PRP Patches - Vile - Ambience Lain To Waste
++PreVisiBow - Pretty Little PRP Patches - The Secret of Huntress Manor
++PreVisiBow - Pretty Little PRP Patches - The Forest DLC
++PreVisiBow - Pretty Little PRP Patches - Phase 4 An Institute Expansion
++PreVisiBow - Pretty Little PRP Patches - Nuka-World Reborn AiO
++PreVisiBow - Pretty Little PRP Patches - Necessity - Nexus Essentials Merged
++PreVisiBow - Pretty Little PRP Patches - Modding For Charity AiO
++PreVisiBow - Pretty Little PRP Patches - Hellfire X-03 Power Armor
++PreVisiBow - Pretty Little PRP Patches - FYI - For Your Immersion
++PreVisiBow - Pretty Little PRP Patches - FRIENDS - Gotta Have Em
++PreVisiBow - Pretty Little PRP Patches - Far Better Far Harbor
++PreVisiBow - Pretty Little PRP Patches - Fallout 4 Northern Springs DLC
++PreVisiBow - Pretty Little PRP Patches - Doomsdayer - Surviving In Survival
++PreVisiBow - Pretty Little PRP Patches - CRITTERS - A Wholotovum
++PreVisiBow - Pretty Little PRP Patches - Atomic World
++PreVisiBow - Pretty Little PRP Patches - Ambitious - An Overhaul Overhaul
++PreVisiBow - Pretty Little PRP Patches - 7 Glowing Sea Settlements
++PreVisiBow - Pretty Little PRP Patches - 2 The TEETH - armed that is
 +mdkd's Northern Springs Update
 +TGX's PRP Patches - South of the Sea - Atoms Storm
 +Emirals Tales From The Commonwealth Fixes - PRP v81 Previs Patch
@@ -15,31 +35,20 @@
 +Emirals Tales From The Commonwealth Fixes
 +Emirals patches for Seddon's quest mods
 +Emirals America Rising 2 DLC and Previs Patch
-+Quests N Location Overhauls - PRP 81.xx Patches - Xander's Aid DLC - OptNav - PRP Patch
 +Quests N Location Overhauls - PRP 81.xx Patches - Subway Runner Revival - PRP Patch
 +Quests N Location Overhauls - PRP 81.xx Patches - Rsiyo's Location Pack - PRP Patch
 +Quests N Location Overhauls - PRP 81.xx Patches - Minuteman Watchtowers YAWA2 - 4estGimp - PRP Patch
-+Quests N Location Overhauls - PRP 81.xx Patches - FarBetterFarHarbor - AcadiaCleanupNG - PRP Patch
-+Quests N Location Overhauls - PRP 81.xx Patches - EXofied Goodneighbor - TheThirdRail - PRP Patch
 +Quests N Location Overhauls - PRP 81.xx Patches - David Hunter - Emiraled-N-eXofied - PRP Patch
 +Quests N Location Overhauls - PRP 81.xx Patches - Caves Of The Commonwealth 1.3 - PRP Patch
 +Quests N Location Overhauls - PRP 81.xx Patches - Bradberton Interiors - PRP Patch
-+Hina's Previs Patches - Phase 4 Previs
-+Hina's Previs Patches - Huntress Manor Previs
 +Aurorizon's Previs Patches - The Wild Key Chase Previs Patch
-+Aurorizon's Previs Patches - The Forest DLC Previs Patch
 +Aurorizon's Previs Patches - Remnants - Secrets of the Enclave Previs Patch
 +Aurorizon's Previs Patches - Old Time Religion and CUQ Previs Patch
-+Aurorizon's Previs Patches - MfC - Trunk's Malfunction Previs Patch
-+Aurorizon's Previs Patches - MfC - Transmission Zeta with eXoPatch Previs Patch
-+Aurorizon's Previs Patches - MfC - Shady Motives with eXoPatch Previs Patch
 +Aurorizon's Previs Patches - Mechanist Omega Previs Patch
 +Aurorizon's Previs Patches - In The Flesh Previs Patch
-+Aurorizon's Previs Patches - Fallout 4 Northern Springs DLC mdkd Previs Patch
 +Aurorizon's Previs Patches - Chinese Remnants Previs Patch
 +America Rising 2 - Patches and Resources - DLC PreVis Patch
 +Sim Settlements 2 - Previsibines Expansion Pack
-+Previsibines Repair Pack Stable Branch - PRP - AE Bundle Support
 +Previsibines Repair Pack Stable Branch - PRP
 +Tales from the Commonwealth Visual Fixes
 +Far Object LOD Improvement Project
@@ -60,6 +69,7 @@
 +We People Can Live In
 +Deathclaw Behavior Fixes - Deathclaw Expansion Pack and Overhaul (DEPO) Patch
 +Deathclaw Expansion Pack and Overhaul (DEPO)
++Classic Holstered Weapons System - Wattz Night Vision Scopes Fix
 +2 the TEETH - armed that is - SS2 Patch
 +2 the TEETH - armed that is
 +FRIENDS - Gotta Have Em - C_V_R_I_E Patch
@@ -67,28 +77,18 @@
 +CRITTERS - A Wholotovum - True Storms Patch
 +CRITTERS - A Wholotovum
 +Vile - Ambience Lain to Waste - True Storms Patch
-+Vile - Ambience Lain to Waste
-+FYI - For Your Immersion - True Storms Patch
-+FYI - For Your Immersion - Diamond City Expansion - eXoPatch Patch
-+FYI - For Your Immersion - Caves Of The Commonwealth Patch
++Vile - Ambience Lain to Waste - Textures
++Vile - Ambience Lain to Waste - Main and Plugin
 +FYI - For Your Immersion
 +Doomsdayer - Surviving in Survival - Survival Mode Overhaul Patch
++Doomsdayer - Surviving in Survival - Real Smoke Doomsdayer Addon
 +Doomsdayer - Surviving in Survival
-+WitCH - What in the Craftable Hell - Real Smoke WitCH Addon
 +WitCH - What in the Craftable Hell
-+Ambitious - An Overhaul Overhaul - Grenade Sound Options Patch
-+Ambitious - An Overhaul Overhaul - Enhanced Vanilla Armor and Clothing - EVAC Patch
 +Ambitious - An Overhaul Overhaul
-+Creation Club Content Complements Combined (CCCCC) - ECO CC Graphics T-Shirt Dismemberment Plus
-+Creation Club Content Complements Combined (CCCCC)
-+Necessity - Nexus Essentials Merged - True Storms Patch
-+Necessity - Nexus Essentials Merged - PRP81
-+Necessity - Nexus Essentials Merged - Lootable Cars - Exiguous Patch
-+Necessity - Nexus Essentials Merged - Far Better Far Harbor Patch
 +Necessity - Nexus Essentials Merged
 +SICKnasty Suite_separator
 -How to Make a Custom Radio for Fallout 4 (2026)
-+ChatBox - In-game Chat OG and NG
++FalloutChat - In-game Chat OG and NG
 +F4Viewer - In-Game Item Explorer for Fallout 4
 +F4Settings - In-Game Settings Manager for Fallout 4
 +Moderm FOV Changer - Works with MCM. OG and NG
@@ -109,6 +109,7 @@
 +Power Armor Repair Takes Skill (PARTS) - Visible Requirements
 +Register Image For HUD
 +Common Description
++Fast and High Quality Nif Explorer
 +FO4 NPC Manager
 +FO4 - Wardrobe Manager
 +VRAMr
@@ -117,53 +118,6 @@
 +BodySlide and Outfit Studio
 +Upscaling
 +Tools_separator
-+Runtime CC Faction Paints in the Wild
-+Settlement Ambush Kit CC Shooting Range real fix and Improved - Weapons
-+Settlement Ambush Kit CC Shooting Range real fix and Improved
-+Creation Club Sentinel Power Armor Patch
-+Creation Club Combat Armor Army Paint Normal Map Fix
-+Zetan Arsenal for Zetans - Alien invaders in the Commonwealth
-+SS2C2 Shroud Manor Patch
-+Nu Cafe Ola as Full Settlement
-+Noir Penthouse Invisible Walls Fix
-+Noir Penthouse Complete Navmesh Fix
-+Neon Flats Complete Navmesh Fix
-+Handmade Shotgun Unofficial Update (Creation Club) N7kie style - Super Mutant Level List
-+CC Prototype Gauss Rifle - Barrel Glow Effects Fixed
-+CC Arcade Cabinet moved power connector
-+Bug fix for Creation Club Power Armor Camo Paint
-+Creation Club Nuka Pack - CBBE compatibility and other patch stuff
-+Hellfire Power Armor - Creation Club - Mesh Improvements
-+Legendary Effects Overhaul - Noir Penthouse Legendary Effects Expansion Patch
-+eXofied Goodneighbor - Neon Flats
-+Handmade Shotgun Unofficial Update (Creation Club) N7kie style
-+Munitions Patch for Sea Scavengers Creation 12.7mm SMG
-+Solar Cannon Expanded (with America Rising 2 Patch) - America Rising 2 Patch
-+Solar Cannon Expanded (with America Rising 2 Patch)
-+Chinese Remnants - Creation Club Chinese Stealth Armor Patch
-+Railroad Clandestine Couture - 77wanderer's Cut
-+Creation Club - Modular Military Backpack REVAMPED - Standalone Workbenches Patch (Armor)
-+Creation Club - Modular Military Backpack REVAMPED
-+Creation Club - Modular Military Backpack REDUX
-+Graphic T-Shirt Pack - Creation Club - Bodyslide
-+Creation Club Tunnel Snakes Outfit CBBE and BodySlide Files
-+Creation Club Vault Suit Customization Unibody CBBE bodyslide files
-+Diverse Capital Wasteland Mercenaries - Diverse Wasteland - Compat
-+Diverse Capital Wasteland Mercenaries - Immersion Pack
-+Diverse Capital Wasteland Mercenaries
-+Release the Hounds - SS2 and CC Dogs Integration
-+Noir Penthouse as Full Settlement
-+Charlestown Condo as Full Settlement
-+Shroud Manor as Full Settlement
-+Neon Flats as Full Settlement
-+The good fight - A SS2 addon pack
-+Captain Cosmos Creation V2 - A Sim Settlements 2 Plot pack
-+Wearable and Commandable Sentinel Power Armor
-+Better Doom Marine CBBE Bodyslide
-+Creation Club armors conversion for CBBE
-+Steel Sword - Definitive Edition
-+BFG Animations
-+CC Related_separator
 +Tumbajamba's Synth Armor Collection - CBBE
 +Tumbajamba's Minutemen Armor Collection - CBBE
 +Tumbajamba's Gunner Armor Collection - CBBE
@@ -172,7 +126,6 @@
 +Rivets And Rage - CBBE Patch - Slidergroup Patch
 +Rivets And Rage - CBBE Patch - Hotfix
 +Rivets And Rage - CBBE Patch
-+BOS Infantry Armor -- CBBE - TWB - 3BBB - ATOMIC - BodySlides
 +BOS Cleric Robes Bodyslide (CBBE Fusion Girl)
 +Tumbajamba's Brotherhood Armour Collection CBBE - Curvy
 +Enclave Recon Corps Armor - CBBE conversion and Bodyslide files
@@ -195,7 +148,6 @@
 +Armor Rack Female Mannequin Fix - CBBE - Fusion Girl - Atomic Beauty
 +Patches - BodySlide & CBBE_separator
 +Face Factory - South of the Sea - Atoms Storm
-+Face Factory - eXofied Goodneighbor
 +Face Factory - Xander's Aid - DLC
 +Face Factory - Vault 81 Settlers
 +Face Factory - Unique Faces AIO
@@ -276,7 +228,6 @@
 +Face Factory - The Secret of Huntress Manor - A Far Harbor Story
 +Face Factory - Workshop Plus
 +Face Factory - Modding for Charity AiO
-+Face Factory - AE Creation Bundle
 +Face Factory
 +Transmission Zeta - X-Cell patch
 +Patches - FaceGen_separator
@@ -341,6 +292,7 @@
 +America Rising 2 - eXoCompat Patches - Father Companion
 +America Rising 2 - eXoCompat Patches
 +Patches - eXo_separator
++Scroll Zoom - Keyword Expansion RobCo Patch Repository
 +Echoes of an Old World - Improved Minutemen WATM Enforcer Vanguard Fix
 +Some IAF Patches (RobCo)
 +Noodle Cup Redistribution - Purely RobCo Patcher
@@ -386,6 +338,7 @@
 +RobCo - Automatrons Attack Hostile Robots and Turrets
 +Pey's Tactical Reload Patch Repository - Robco Patcher Edition
 +RobCo - Assaultron Head Laser Ignores Resistance
++Reaper's Robco Munitions Patches
 +Patches - RobCo_separator
 +Misc light flagged .esp replacers - smokable cigars
 +Misc light flagged .esp replacers - KS Hairdos and oel light
@@ -394,7 +347,6 @@
 +Misc light flagged .esp replacers - F4NV recharger light
 +Misc light flagged .esp replacers - Dak's Shoulder mounted M2
 +Misc light flagged .esp replacers - cVc Dead Wasteland Science kit fishery DLC1 2 3
-+Misc light flagged .esp replacers - Collectible and Placeable Pins Light
 +Misc light flagged .esp replacers - Campsite light
 +Misc light flagged .esp replacers - Atomic Radio Light
 +Misc light flagged .esp replacers - Amazing Follower Tweaks plus recipes light
@@ -421,6 +373,7 @@
 +OCDecorator - SMM-ESLified
 +DegenerateDak ESLified Patch Hub - The Rolling Block Rifle (Cowboy Sniper Rifle)
 +DegenerateDak ESLified Patch Hub - The Incendiary Launcher (M202 Flash) - Vanilla
++DegenerateDak ESLified Patch Hub - Grenade APW (25mm Grenade Launcher) - Munitions
 +4estGimp - X-01 Invisible Flashlight Remove Compacted
 +4estGimp - Trapper Power Armor ESL Edit
 +4estGimp - TES-51 Power Armor - ESL
@@ -476,18 +429,6 @@
 +Various Clothes Patches for ECO and NEO - Old Time Religion
 +Various Clothes Patches for ECO and NEO - GreaseRatGarbs
 +Various Clothes Patches for ECO and NEO - Cross Chosen of Atom
-+Various Clothes Patches for ECO and NEO - CC VR Desert Island
-+Various Clothes Patches for ECO and NEO - CC Vault Suit
-+Various Clothes Patches for ECO and NEO - CC Tunnel Snakes
-+Various Clothes Patches for ECO and NEO - CC Shroud Manor
-+Various Clothes Patches for ECO and NEO - CC Sea Scavengers
-+Various Clothes Patches for ECO and NEO - CC Pint Sized Slasher
-+Various Clothes Patches for ECO and NEO - CC Nuka Collector
-+Various Clothes Patches for ECO and NEO - CC Noir Penthouse
-+Various Clothes Patches for ECO and NEO - CC Neon Flats
-+Various Clothes Patches for ECO and NEO - CC Holiday Workshop
-+Various Clothes Patches for ECO and NEO - CC Coffee and Donut (Slocum Joe)
-+Various Clothes Patches for ECO and NEO - CC Capital Wasteland Mercenaries
 +Various Clothes Patches for ECO and NEO - Atom's Glory Threads
 +ZPs LUTs Compatibility Patch Repository - Atomic World Interiors Patch 1.1
 +ZPs LUTs Compatibility Patch Repository - Bunker Stories Interiors Patch 1.0
@@ -517,9 +458,7 @@
 +Looted World Patches (LWP) - eXofied Goodneighbor
 +Looted World Patches (LWP) - Diamond City Expansion
 +Looted World Patches (LWP) - CRITTERS - A Wholotovum
-+Looted World Patches (LWP) - Creation Club Content Complements Combined (CCCCC)
 +Looted World Patches (LWP) - Better The Third Rail
-+Looted World Patches (LWP) - Ambitious - An Overhaul Overhaul
 +Looted World Patches (LWP) - 4estGimp - Raider Overhaul ONE
 +Leveled Item Fixes Patches (LIFP) - WitCH - What in the Craftable Hell
 +Leveled Item Fixes Patches (LIFP) - Winchester P94
@@ -553,10 +492,12 @@
 +Commonwealth Broadcasting Services Patch Hub
 +LOST Tweaks Collection - Replacer - RAW INPUT and Player Speed Revised
 +YK9 small patch page - Rifles Rebirth Sound Patch
++YK9 small patch page - T65 ESL Patch
 +YK9 small patch page - CWFlameraddon
 +LexiNight's Madhouse Patch Emporium - Old World Radio BOS
 +Commonwealth Ballistics - Munitions Advanced Calibers Patch
 +Commonwealth Ballistics - Patch Repository - Munitions - Ammo Expansion Project
++Reapers Munitions Additional Ammo Redux Patches
 +Reaper's Munitions Patches - FE EXo Munitions
 +Reaper's Munitions Patches
 +(Lore-Friendly) Weapons Project
@@ -566,22 +507,38 @@
 +Vish's Patch Hub (UFO4P) - LOST Audio Tweaks - Immersive Animation Framework Patch
 +The Midnight Ride Resources - GA Galleria Gutsy Voice Fix - UFO4P Patch
 +America Rising 2 - Patches and Resources - Weapon - Tesla Cannon (Creation Club)
-+America Rising 2 - Patches and Resources - Weapon - Solar Cannon (Creation Club)
-+America Rising 2 - Patches and Resources - Weapon - Prototype Gauss (Creation Club)
 +America Rising 2 - Patches and Resources - Weapon - Incinerator (Creation Club)
 +America Rising 2 - Patches and Resources - The Remnants Patch
 +Immersive Animation Framework - Patch Repository - Darlene Patch
 +MOFAM - An Advanced Guide and Modlist for Fallout 4 - FallUI HUD -- Unknown Markers on Radar
-+MOFAM - An Advanced Guide and Modlist for Fallout 4 - Consistency Patches
 +A StoryWealth - Assorted Patches - Wasteland Brats
 +A StoryWealth - Assorted Patches - Recruitable Leaders - ESLified
 +A StoryWealth - Assorted Patches - Point Lookout
 +A StoryWealth - Assorted Patches - Amazing Follower Tweaks Patch
 +A StoryWealth - Armors Patches - Armor Rack Female Mannequin Fix - Mesh
 +Munitions - More Ammo Conversions and Weapons Patches
++Yet Another Simple Tactical Reload Patch Repository - .22 PDW - Calico M100 - TR - Munitions
++Yet Another Simple Tactical Reload Patch Repository - The Varmint Rifle - TR
++Small Commonwealth Weaponry Tactical Reload Patch Repository - CW127MMSMG_TR
++Small Commonwealth Weaponry Tactical Reload Patch Repository - CW-NVLMGTR
++Small Commonwealth Weaponry Tactical Reload Patch Repository - CWWA2000TR
 +Tactical Reload Repository - Diacute'd - Crusader Pistol Tactical reload
 +Tactical Reload Patch Repository (DEPRECATED)
 +Patches - Repositories_separator
++Headpart Extended
++FO4StringUtils
++Encounter Zone Recalculation (Continuous Level Scaling)
++Deep Learning Anti-Aliasing (DLAA)
++FSR 3.1.5 Anti-Aliasing
++Smooth Headtracking
++Wakey Wakey - NPCS Wake on Gunfire (F4SE)
++Interior DALC Fix
++Crafting Menu Stuttering Fix - F4SE
++Smooth Cell Loading - F4SE
++Stuck LOD Fix - F4SE
++Selective Looting - Loot with Courtesy - F4SE
++FO4 Stereo Spatial Fix
++Weapon Subgraph Accelerator - F4SE
 +FP Gunplay - Uneducated Shooter Compatibility Patch
 +FP Gunplay Overhaul
 +F4SE Menu Framework
@@ -604,7 +561,6 @@
 +Slayable Offspring - Killable Children F4SE
 +Holstered Weapon Light Fix
 +No Hardcoded Messages AE (F4SE)
-+Encounter Zone Recalculation AE (F4SE)
 +Multiple Ammo Use
 +Transfer Inventory Items - F4SE - Console Commands
 +No Read-only Plugins Txt Overwrite - Anniversary Edition - F4SE
@@ -641,6 +597,7 @@
 +Commonwealth Ballistics - Penetration System - F4SE
 +Precombine And Previs Guardian - F4SE
 +Workshop Repair Cost Fix - F4SE
++Intentional Stealing - F4SE
 +Steady Hands - F4SE
 +Commonwealth Camera - F4SE
 +Acoustic Occlusion - F4SE
@@ -696,7 +653,7 @@
 +Faded Glory - A Post-Apocalyptic Soundscape
 +Radium - A Music Mod
 +Audio & SFX_separator
-+No Pip-Boy Light
++Pip-Boy Light Battery
 +WETTER
 +Enhanced Vanilla Water
 +Seasons Change - True Storms OR Vivid Weathers Patch
@@ -706,13 +663,13 @@
 +Seasons Change - A Merry Modding Days Mod - Garden of Eden Scripts
 +Seasons Change - A Merry Modding Days Mod - Fixed Prewar 6 Tree
 +Seasons Change - A Merry Modding Days Mod
++Extended Fake Interiors - Commonwealth buildings fixes - true storms patch
 +True Storms - MCM Settings Menu with Hotkeys
 +True Storms - Wasteland Edition (Thunder-Rain-Weather Redone) - Quieter Thunder
 +True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)
 +Smooth Sun Shadows
 +Atomic Glowing Sea
 +Improved CIT Ruins Grass
-+Nuka-World Immersion Enhancements
 +DreadEye2020s True Nuka Cola Bottle Caps Stashes - Settlement Containers
 +Stuff to the BOS - a comprehensive Base Object Swapper mod - Dreadeye's Caps Stashes Compat Patch
 +True Nuka Cola Bottle Caps Stashes
@@ -732,8 +689,6 @@
 +Landscape & Weather_separator
 +PipBoyShadows
 +Real Smoke CigaretteInMouth Addon
-+Fusion Cell Retexure - Wattz Microfusion Plus - Base Object Swapper files
-+Fusion Cell Retexure - Wattz Microfusion Plus
 +Valentine Jaw Sync
 +Floating Suicider Chain Fix
 +3D Super Mutant Chains
@@ -752,6 +707,7 @@
 +HD Chems Project_Psycho and MedX
 +HD Chems Project_Jet and Xcell
 +HD Chems Project_Buffout and RadX
++The Vim Project
 +The Nuka Project and Immersive Animation Framework Patch
 +The Nuka Project - Glowing Bottles Fix
 +The Nuka Project - nuka wild and victory blue glow fix
@@ -767,7 +723,7 @@
 +Classic Wasteland Survival Guide - Magazine Retexture - (Fallout 3 - New Vegas)
 +Revised Melee Blood
 +Ultimate Window Overhaul Redone
-+ZP's Weapons AIO
++ZP's Zetamorphs Visual Overhaul
 +ZP's Robots AIO
 +ZP's Prewar Cars
 +ZP's Keys
@@ -775,10 +731,11 @@
 +ZPs Frost Shock Plasma Laser 4K
 +ZP's Fire and Smoke 2
 +ZP's Gritty Interiors - Ashland Station
-+ZPs Dog Armor
 +ZP's DC Guard Covenant Vaut Tec Armors
 +ZPs BREACH Visual Overhaul - Rebreather
 +ZPs BREACH Visual Overhaul
++ZP's Blue Hills Research Facility Visual Overhaul - Precombines BA2
++ZP's Blue Hills Research Facility Visual Overhaul
 +Screen Blood Enhanced
 +SuperAlloys - Purple T-60 Titanium Fix
 +SuperAlloys - Enhanced Power Armor Paints and 4k Textures - 4K - Institute X01 Nose Fix
@@ -817,8 +774,6 @@
 +Addiction Overhaul
 +MUTATION
 +Injestibles_separator
-+Legion Money Mod
-+New California Republic Money Mod
 +Book Collector II - Classic Literature Edition - Base Object Swapper
 +Book Collector II - Classic Literature Edition
 +Book Collector - Philosophy for the Wasteland - Base Object Swapper
@@ -894,6 +849,10 @@
 +Sim Settlements 2
 +Nuka-World Settlements Pack - Tenhats' Collection - Taller IoR
 +Nuka-World Settlements Pack - Tenhats' Collection
++Enclave and Minutemen Settlers at the Edge of the Glowing Sea
++Enclave Settlers at Federal Supply Cache 84NE
++CoA Settlers - Glowing Sea Settlements 2025
++7 Glowing Sea Settlements - 2025 Update
 +Basement Living - Bunker and Basement Player Homes (with standalone Workshops)
 +Expanding Bullets - Ammo Subtypes Swapping and Crafting
 +Tinker's Workbench Remade
@@ -909,6 +868,9 @@
 +Survivalist's Bus Vertibird Refueling Station Bus Stop
 +Survivalist's Bus - No Free Fusion Core
 +Survivalist's Bus
++Fallout names for Cannabis Commonwealth strains
++Cannabis Commonwealth - No AWKCR-AE and SKE patch
++Cannabis Commonwealth
 +OCDecorator - Static Loot
 +Crafting Recipes Consolidated - SW Patch
 +Crafting Recipes Consolidated
@@ -957,13 +919,10 @@
 +Equipment and Crafting Overhaul (ECO) - Redux - Extension - Burst-Fire Framework (BFF)
 +Equipment and Crafting Overhaul (ECO) - Redux
 +New Equipment Overhaul (NEO) - Armor And Clothing Tweaks - Extension - Synth Uniform Distribution
-+New Equipment Overhaul (NEO) - Armor And Clothing Tweaks - Extension - Morgan's Space Suit
 +New Equipment Overhaul (NEO) - Armor And Clothing Tweaks
 +Legendary AutoBot (LAB) - Craftable legendary effects for Automatron robots - Extension - LAB-LEO Synergy
 +Legendary AutoBot (LAB) - Craftable legendary effects for Automatron robots
 +Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More - Patch - VAFS Redux
-+Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More - Fixes - Noir Penthouse (CC)
-+Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More - Fixes - Capital Wasteland Mercenaries (CC)
 +Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More - Extension - RobCo Patcher
 +Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More - Extension - More Legendary Effects
 +Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More - Extension - ECO Redux
@@ -974,6 +933,7 @@
 +Raider T-45 Power Armor
 +Private Contract - Talon Company Mercenaries - Talon Company Power Armor Paint
 +Talon Company Power Armor
++Sons of Steel - Brotherhood Infantry Armor
 +Strength in Steel - Brotherhood T60 Overhaul
 +Chain that Binds - A Light Brotherhood Overhaul - Update ESP
 +Chain that Binds - A Light Brotherhood Overhaul
@@ -991,6 +951,8 @@
 +Diving PA - Metal Paints And Coiled Legs
 +Diving Power Armor
 +German Porshet-5 Power Armor
++Juggernaut__Tactical Power Armor - PA Frames
++Juggernaut__Tactical Power Armor
 +Squad Sigma Remnants Paint West Virginia Flavour
 +Project Black Bird Enclave Specialist Paint - AR2 ECS PATCH
 +Project Black Bird Enclave Specialist Paint
@@ -1100,8 +1062,6 @@
 +CROSS_Chosen_Of_Atom
 +K-9 Tactical Harness - REVAMPED
 +K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat
-+Bos Infantry Armor - FIX
-+Bos Infantry Armor
 +Tumbajamba's Steel Plate Armor With Headlamp
 +Tumbajamba's Steel Plate Armor and Hammer
 +Tumbajama's RobCo Combat Armor and Battle Suit
@@ -1156,14 +1116,29 @@
 +Gunner Outfit Pack (STANDALONE) - ESP Only
 +Gunner Outfit Pack (STANDALONE)
 +Saturnite Combat Armor
++Pip-Boy W.S. Vault 111 Rusty Appearance
++Pip-Boy W.S
 +Armor & Clothing_separator
 +Real Uniques
++Spadey and Pizza's Additional Stocks (SPAS)
 +Blades Of The Wastes - A Scrappy Handmade Knife Pack - Animation Patch
 +Blades Of The Wastes - A Scrappy Handmade Knife Pack
 +Winchester P94
 +The Rolling Block Rifle (Cowboy Sniper Rifle)
 +Selakii's Plasma Autocannon Revised x Legendary Effect Overhaul Full Compatibility Patch
 +SKI's Plasma Autocannon Revised
++.22 PDW - Calico M100
++The Varmint Rifle (Fallout New Vegas)
++.45 Machine Pistol - Enfield MP-45
++25mm Grenade APW - HaBCR Patch
++Grenade APW (25mm Grenade Launcher)
++12.7mm SMG - Fallout New Vegas
++The Light Machine Gun - Fallout New Vegas LMG
++Bullpup Sniper Rifle - Walther WA2000
++CW Service Rifle Tactical Reload Patch
++Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15
++Hunting Shotgun - A New Vegas Classic - Remington 870
++Enhanced Battle Rifle - An M14 Mod
 +Dak's Shoulder Mounted Machinegun (M2)
 +Skewer Launcher
 +The Incendiary Launcher (M202 Flash)
@@ -1306,6 +1281,7 @@
 +Gremlins - Textures 2K
 +Gremlins
 +Zetamorphs - Alien Creature and Zetan Weapon
++Zetans - Frogbert as Essential Patch
 +Zetans - UFO Nerf
 +Zetans - Alien Invaders in the Commonwealth
 +The Conclave - COA Addon
@@ -1317,6 +1293,7 @@
 +Forced Evolution - Super Mutant Addons
 +Faction Reinforcements
 +Commonwealth Goremites
++Project NEMEAN - A Creature Mod - Floater Fix
 +Project NEMEAN - A Creature Mod
 +Deadeye - FGEP DE Patch
 +Wicked FGEP Spawns for True Storms
@@ -1385,7 +1362,7 @@
 +Improved Brotherhood of Steel
 +Improved America Rising 2 Enclave
 +Factions & Creatures_separator
-+The Yangtze's Captain - Captain Zao Companion Mod
++Atom's Cats Warriors
 +C_V_R_I_E
 +Nick Can Lockpick and Use Robot Repair Kits on Nick - Synergy Patch
 +Use Robot Repair Kit On Nick Valentine - Redux
@@ -1472,6 +1449,8 @@
 +Workshop Cage Tweaks - Gunners and Raiders
 +Workshop Cage Tweaks - Deathclaws
 +Diverse Brotherhood Squires
++Diverse Child Settlers - DW-WSFW-SS2-Compat
++Diverse Child Settlers
 +Diverse Wasteland - The Diverse Series All-in-One - We Have Names AiO - Compat
 +Cut Content NPCs - All in One - Rosie at Somerville - We Have Names Version
 +We Have Names (and more) - All In One
@@ -1571,8 +1550,7 @@
 +Enhanced Looks Menu Sliders
 +LooksMenu Body Tattoos (CBBE) (EVB or vanilla) - ESL Version
 +LooksMenu Body Tattoos (CBBE) (EVB or vanilla)
-+Caliente's Beautiful Bodies Enhancer -CBBE
-+Looks Menu Customization Compendium Fix
++Caliente's Beautiful Bodies Enhancer -CBBE SFW Edition-
 +Looks Menu Customization Compendium
 +Classic Holstered Weapons System (CHW)
 +Body, Face, & Hair_separator
@@ -1610,6 +1588,10 @@
 +Rename Anything
 +Icon Expansion Pack for FIS - Reapers Smokables patch
 +Icon Expansion Pack
++Angel Extra Icons Edit
++Angel's OMOD Tagging
++Angel's Companion Tagging
++Angel's Ingestible Sorting Enhancements
 +Complex Sorter Quest Mods Tagging
 +Reapers Syringes Sorting Enchancement
 +Reaper's Smokeables Sorting Enhancements
@@ -1648,6 +1630,8 @@
 +LooksMenu
 +ImGui Fonts
 +Interface_separator
++To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod - Unofficial AttachPack Patch
++To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
 +Attack of the Lobotomites Settlement Location and City Plan
 +Attack of the Lobotomites - StoryWealth Lobotomite
 +Attack of the Lobotomites - Additions and Adjustments Patch
@@ -1707,18 +1691,17 @@
 +No More Useless Beds - ESPless
 +Kids May Smoke - Tobacco Is For Children Too
 +Refreshing Checkpoints
-+TRUE - F76 XP Scaling
-+TRUE - Resistances
++TRUE - XP Scaling
++TRUE - F76 Resistances
 +TRUE - Radiation
-+TRUE - Performance Tweaks
++TRUE - Performance
 +TRUE - F76 Respawn Rate
-+TRUE - F76 Power Armor
-+TRUE - F76 Legendarys
++TRUE - F76 Health
 +TRUE - F76 Damage
-+TRUE - Elemental Resistances
-+TRUE - Elemental Damage
++TRUE - Elemental
 +TRUE - Difficulty
 +Radiation Stays
++Survival Mode Overhaul - Colorful Survival Icons Compatibility Patch
 +Survival Mode Overhaul - Heather Casdin Patch
 +Survival Mode Overhaul
 +Invisible Shield Generator (No Armor Slot)
@@ -1801,10 +1784,6 @@
 +Lootable Terminals
 +Lootable Spotlights
 +Lootable Pipboy
-+Lootable Crates - Steel Vault-Tec Container to Metal Container
-+Lootable Crates - Reduced Loot
-+Lootable Crates - Merged DLCs
-+Lootable Crates
 +Lootable Cars - Exiguous - You And What Army 2 Patch
 +Lootable Cars - Exiguous
 +Rsiyo's Location Pack
@@ -1812,6 +1791,7 @@
 +Far Better Far Harbor - Exploration Expanded - Red Wave V2 Patch
 +The Red Wave V2 (Far Harbor Update) - Personal Traveling Boat
 +Far Better Far Harbor - Exploration Expanded - Next Gen Free Creations Sorting Patch
++Far Better Far Harbor - Exploration Expanded - Extended Fake Interiors Patch
 +Far Better Far Harbor - Exploration Expanded - Acadia Interior Cleanup and Additions REDUX
 +Far Better Far Harbor - Exploration Expanded
 +Shelter Or Save
@@ -1873,7 +1853,6 @@
 +Fix Automatron Headlight and ShockClaw effects
 +NPCs Don't Move In Dialogue
 +Elevator Buttons Fix (Contraptions)
-+Barney Rook Lives
 +Workshop Highlight Fix
 +Intimidation Fix
 +4estGimp - Weapon Death Drop Fix
@@ -1899,6 +1878,9 @@
 +Creation Engine Tweaks for Fallout 4
 +TAA Flicker Fixer Best Settings
 +TAA Flicker Fixer
++Extended Fake Interiors - Commonwealth buildings fixes - CC Enclave Remnants Patch
++Extended Fake Interiors - Commonwealth buildings fixes - DLC
++Extended Fake Interiors - Commonwealth buildings fixes
 +General Atomics Galleria Speaking Guard Gutsy Voice Fix
 +Godrays Performance Fix Redux
 +Leveled Item Fixes (LIF) - Extension - Randomised Power Armour
@@ -1908,6 +1890,7 @@
 +Motion Vector Fixes
 +Community Fixes Merged
 +Bug Fixes_separator
++Seasons Framework
 +Mod Switch Framework
 +FWM2 Faction - Atom Cats - FacePool
 +FWM2 Faction - Atom Cats
@@ -1970,7 +1953,6 @@
 +Baka Quit Game Fix
 +Baka Disable POV Scroll
 +BakaFramework
-+Unofficial Fallout 4 Patch - UFO4P - Creations Bundle Patches
 +Unofficial Fallout 4 Patch - UFO4P
 +Weapon Debris Crash Fix
 +High FPS Physics Fix
@@ -1982,179 +1964,15 @@
 +Fallout 4 Script Extender (F4SE)
 +Address Library for F4SE Plugins
 +Utilities_separator
-*Creation Club: ccvltfo4001-homes
-*Creation Club: ccacxfo4001-vsuit
-*Creation Club: ccawnfo4001-brandedattire
-*Creation Club: ccbgsfo4001-pipboy(black)
-*Creation Club: ccbgsfo4002-pipboy(blue)
-*Creation Club: ccbgsfo4003-pipboy(camo01)
-*Creation Club: ccbgsfo4004-pipboy(camo02)
-*Creation Club: ccbgsfo4005-bluecamo
-*Creation Club: ccbgsfo4006-pipboy(chrome)
-*Creation Club: ccbgsfo4008-pipgrn
-*Creation Club: ccbgsfo4009-piporan
-*Creation Club: ccbgsfo4010-pippnk
-*Creation Club: ccbgsfo4011-pippurp
-*Creation Club: ccbgsfo4012-pipboy(red)
-*Creation Club: ccbgsfo4013-piptan
-*Creation Club: ccbgsfo4014-pipboy(white)
-*Creation Club: ccbgsfo4015-pipyell
-*Creation Club: ccbgsfo4016-prey
-*Creation Club: ccbgsfo4018-gaussrifleprototype
-*Creation Club: ccbgsfo4019-chinesestealtharmor
-*Creation Club: ccbgsfo4020-powerarmorskin(black)
-*Creation Club: ccbgsfo4021-powerarmorskinblue
-*Creation Club: ccbgsfo4022-powerarmorskin(camo01)
-*Creation Club: ccbgsfo4023-powerarmorskin(camo02)
-*Creation Club: ccbgsfo4024-pacamo03
-*Creation Club: ccbgsfo4025-powerarmorskin(chrome)
-*Creation Club: ccbgsfo4027-powerarmorskingreen
-*Creation Club: ccbgsfo4028-powerarmorskinorange
-*Creation Club: ccbgsfo4029-powerarmorskinpink
-*Creation Club: ccbgsfo4030-powerarmorskinpurple
-*Creation Club: ccbgsfo4031-powerarmorskinred
-*Creation Club: ccbgsfo4032-powerarmorskintan
-*Creation Club: ccbgsfo4033-powerarmorskinwhite
-*Creation Club: ccbgsfo4034-powerarmorskinyellow
-*Creation Club: ccbgsfo4035-pint
-*Creation Club: ccbgsfo4036-trnsdg
-*Creation Club: ccbgsfo4038-horsearmor
-*Creation Club: ccbgsfo4040-vrworkshop01
-*Creation Club: ccbgsfo4041-doommarinearmor
-*Creation Club: ccbgsfo4042-bfg
 *Creation Club: ccbgsfo4044-hellfirepowerarmor
-*Creation Club: ccbgsfo4045-advarccab
 *Creation Club: ccbgsfo4046-tescan
-*Creation Club: ccbgsfo4047-qthund
-*Creation Club: ccbgsfo4048-dovah
-*Creation Club: ccbgsfo4050-dgbcoll
-*Creation Club: ccbgsfo4051-dgbox
-*Creation Club: ccbgsfo4052-dgdal
-*Creation Club: ccbgsfo4053-dggoldr
-*Creation Club: ccbgsfo4054-dggreatd
-*Creation Club: ccbgsfo4055-dghusk
-*Creation Club: ccbgsfo4056-dglabb
-*Creation Club: ccbgsfo4057-dglaby
-*Creation Club: ccbgsfo4058-dglabc
-*Creation Club: ccbgsfo4059-dgpit
-*Creation Club: ccbgsfo4060-dgrot
-*Creation Club: ccbgsfo4061-dgshiinu
-*Creation Club: ccbgsfo4062-pippat
-*Creation Club: ccbgsfo4063-papat
-*Creation Club: ccbgsfo4070-pipabra
-*Creation Club: ccbgsfo4071-piparc
-*Creation Club: ccbgsfo4072-pipgrog
-*Creation Club: ccbgsfo4073-pipmman
-*Creation Club: ccbgsfo4074-pipinspect
-*Creation Club: ccbgsfo4075-pipshroud
-*Creation Club: ccbgsfo4076-pipmystery
-*Creation Club: ccbgsfo4077-piprocket
-*Creation Club: ccbgsfo4078-pipreily
-*Creation Club: ccbgsfo4079-pipvim
-*Creation Club: ccbgsfo4080-pippop
-*Creation Club: ccbgsfo4081-pipphenolresin
-*Creation Club: ccbgsfo4082-pipprc
-*Creation Club: ccbgsfo4083-pipartdeco
-*Creation Club: ccbgsfo4084-pipretro
-*Creation Club: ccbgsfo4085-piphawaii
-*Creation Club: ccbgsfo4086-pipadventure
-*Creation Club: ccbgsfo4087-piphaida
-*Creation Club: ccbgsfo4089-pipsynthwave
-*Creation Club: ccbgsfo4090-piptribal
-*Creation Club: ccbgsfo4091-as_bats
-*Creation Club: ccbgsfo4092-as_camoblue
-*Creation Club: ccbgsfo4093-as_camogreen
-*Creation Club: ccbgsfo4094-as_camotan
-*Creation Club: ccbgsfo4095-as_childrenofatom
 *Creation Club: ccbgsfo4096-as_enclave
-*Creation Club: ccbgsfo4097-as_jack-olantern
-*Creation Club: ccbgsfo4098-as_pickman
-*Creation Club: ccbgsfo4099-as_reillysrangers
-*Creation Club: ccbgsfo4101-as_shi
-*Creation Club: ccbgsfo4103-as_tunnelsnakes
-*Creation Club: ccbgsfo4104-ws_bats
-*Creation Club: ccbgsfo4105-ws_camoblue
-*Creation Club: ccbgsfo4106-ws_camogreen
-*Creation Club: ccbgsfo4107-ws_camotan
-*Creation Club: ccbgsfo4108-ws_childrenofatom
 *Creation Club: ccbgsfo4110-ws_enclave
-*Creation Club: ccbgsfo4111-ws_jack-olantern
-*Creation Club: ccbgsfo4112-ws_pickman
-*Creation Club: ccbgsfo4113-ws_reillysrangers
-*Creation Club: ccbgsfo4114-ws_shi
 *Creation Club: ccbgsfo4115-x02
 *Creation Club: ccbgsfo4116-heavyflamer
-*Creation Club: ccbgsfo4117-capmerc
-*Creation Club: ccbgsfo4118-ws_tunnelsnakes
-*Creation Club: cccrsfo4001-pipcoa
-*Creation Club: cceejfo4001-decorationpack
-*Creation Club: cceejfo4002-nuka
-*Creation Club: ccfrsfo4001-handmadeshotgun
-*Creation Club: ccfrsfo4002-antimaterielrifle
-*Creation Club: ccfrsfo4003-cr75l
-*Creation Club: ccfsvfo4001-modularmilitarybackpack
-*Creation Club: ccfsvfo4002-midcenturymodern
-*Creation Club: ccfsvfo4004-vrworkshopgnrplaza
-*Creation Club: ccfsvfo4005-vrdesertisland
-*Creation Club: ccfsvfo4006-vrwasteland
-*Creation Club: ccgcafo4001-factionws01army
-*Creation Club: ccgcafo4002-factionws02acat
-*Creation Club: ccgcafo4003-factionws03bos
-*Creation Club: ccgcafo4004-factionws04gun
-*Creation Club: ccgcafo4005-factionws05hrpink
-*Creation Club: ccgcafo4006-factionws06hrshark
-*Creation Club: ccgcafo4007-factionws07hrflames
-*Creation Club: ccgcafo4008-factionws08inst
-*Creation Club: ccgcafo4009-factionws09mm
-*Creation Club: ccgcafo4010-factionws10rr
-*Creation Club: ccgcafo4011-factionws11vt
-*Creation Club: ccgcafo4012-factionas01acat
-*Creation Club: ccgcafo4013-factionas02bos
-*Creation Club: ccgcafo4014-factionas03gun
-*Creation Club: ccgcafo4015-factionas04hrpink
-*Creation Club: ccgcafo4016-factionas05hrshark
-*Creation Club: ccgcafo4017-factionas06inst
-*Creation Club: ccgcafo4018-factionas07mm
-*Creation Club: ccgcafo4019-factionas08nuk
-*Creation Club: ccgcafo4020-factionas09rr
-*Creation Club: ccgcafo4021-factionas10hrflames
-*Creation Club: ccgcafo4022-factionas11vt
-*Creation Club: ccgcafo4023-factionas12army
-*Creation Club: ccgcafo4025-pagunmm
-*Creation Club: ccgrcfo4001-pipgreytort
-*Creation Club: ccgrcfo4002-pipgreenvim
-*Creation Club: ccjvdfo4001-holiday
-*Creation Club: cckgjfo4001-bastion
-*Creation Club: ccqdrfo4001_powerarmorai
-*Creation Club: ccrzrfo4001-tunnelsnakes
-*Creation Club: ccrzrfo4002-disintegrate
-*Creation Club: ccrzrfo4003-pipover
-*Creation Club: ccrzrfo4004-pipinst
-*Creation Club: ccsbjfo4001-solarflare
-*Creation Club: ccsbjfo4002_manwellrifle
-*Creation Club: ccswkfo4001-astronautpowerarmor
-*Creation Club: ccswkfo4002-pipnuka
-*Creation Club: ccswkfo4003-pipquan
-*Creation Club: cctosfo4001-neosky
-*Creation Club: cctosfo4002_neonflats
-*Creation Club: ccygpfo4001-pipcruiser
-*Creation Club: cczsef04001-bhouse
-*Creation Club: cczsefo4002-smanor
-*Creation Club: ccawnfo4002-factionclothing
-*Creation Club: ccbgsfo4049-brahminarmor
-*Creation Club: ccbgsfo4119-cyberdog
-*Creation Club: ccbgsfo4120-poweramorskin(pittraider)
-*Creation Club: ccbgsfo4121-poweramorskin(airforce)
-*Creation Club: ccbgsfo4122-poweramorskin(scorchedsierra)
-*Creation Club: ccbgsfo4123-poweramorskin(inferno)
-*Creation Club: ccbgsfo4124-poweramorskin(tribalhelmets)
-*Creation Club: ccgcafo4024-instituteplasmaweapons
-*Creation Club: ccrpsfo4001-scavenger
-*Creation Club: ccsbjfo4004-ion
 *Creation Club: ccfsvfo4007-halloween
 *Creation Club: ccOTMFO4001-Remnants
 *Creation Club: ccsbjfo4003-grenade
-*Creation Club: ccfsvfo4003-slocum
 +CCC_separator
 +Fallout 4 DLC Consistency Patch
 +Upgraded Archives

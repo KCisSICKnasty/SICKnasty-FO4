@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.2.8**
+**CURRENT VERSION: 1.3.0**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 
@@ -8,8 +8,7 @@
 **REQUIREMENTS:**
 
 - **Freshly installed** Steam copy of Fallout 4 ver.1.11.221 (AE update)
-- AE Creations Bundle
-- Fallout 4 Creation Kit (you wont need to use it)
+- Fallout 4 Creation Kit
 - Visual C++ 2015, 2017, 2019, 2022 Redistributable Package: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist (Install both x86 and x64 (skip ARM64). It's already installed if it says "repair" or "uninstall". In this case you can skip this step.)
 - Windows 10 x64 or Windows 11: https://www.microsoft.com/en-us/software-download/windows11
 - *Roughly* 490 GB of space
@@ -29,11 +28,10 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 *The SICKnasty Suite...Suite:*
 
 ***Necessity -*** various fixes and QoL tweaks that aren't included in UFO4P or CFM
-***CCCCC -*** same as above, but covering content included in the AE Creations Bundle
 ***Ambitious -*** the nerve of the list, blending multiple gameplay overhauls into 1 ESP
-***2 the TEETH -*** weapons and armor aplenty
+***2 the TEETH -*** weapons and armor a-plenty
 ***CRITTERS -*** tons of new creatures and additions to already existing ones
-***Deathclaw Expansion Pack and Overhaul (DEPO) -*** what CRITTERS does, but for Deathclaws
+***Deathclaw Expansion Pack and Overhaul -*** what CRITTERS does, but for Deathclaws
 ***FRIENDS -*** new companions
 ***What in the Craftable Hell? -*** new craftables and crafting mechanics
 ***Vile -*** the absolute worst looking visual overhaul you've ever seen
@@ -41,11 +39,11 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 ***We People Can Live In -*** Glitchfinder's People/We Can Live In series AiO
 ***Face Factory -*** 2k FaceGen for EVERYONE
 ***Doomsdayer -*** quality of life survival mode additions and tweaks
-***Cohesion -*** "Allllll together now...ALL TOGETHER NOW!!!"
+***Plugins Dubbed ESL -*** a bunch of ESL flagged plugins
+***PreVisiBow -*** PRP patches built against Fallout 4 DLC Consistency Patch
 
 *Spoilers: (if you enjoy diving into a list completely blind, skip this)*
 
-- You cannot use your PipBoy light. It will play a noise, that's it. Get a flashlight or add a headlamp to your helmet.
 - This modlist was made with survival mode in mind. I urge you to give the list a shot in full survival mode, as I've tailored the list to be challenging, but balanced, fun, and interesting.
 - Get power armor. I've made it highly available to you through PAttP and practical through Bastion. You are meant to use it, no matter your play style. It is not an option, it is a mechanic. Whether you treat it as a pack mule, or simply a way to flee, make friends with a frame.
 - Acquaint yourself with MCM. I include many ways to make this list more or less modular, but it's up to you to explore those options. At the very least, before you throw your controller, give MCM a once over. Turn off what's making you mad, or turn on an option that would make the game more fun to you.
@@ -70,12 +68,6 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Run the game from Steam, or through Fallout4Launcher.exe in the game files if you are using an offline copy
 - Click OK to both pop-ups that say Detecting Video Hardware
 - If there aren't any pop-ups, navigate to Documents\My Games\Fallout 4 and delete all INI files, then retry
-- Launch the game once through Steam
-- Press OK when asked to install the Creation Club content
-- Exit the game
-- In your Steam Library, right-click on Fallout 4, and click on "Properties" in the resulting context menu
-- Under the "Installed Files" tab, click "Verify integrity of game files"
-- When it's finished, launch Fallout 4 through Steam
 - Exit the launcher (DO NOT START THE GAME!)
 
 **INSTALLING FALLOUT 4: CREATION KIT:**

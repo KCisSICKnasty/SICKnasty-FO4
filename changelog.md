@@ -1,6 +1,150 @@
-**Current Version: 1.2.8*
+**Current Version: 1.3.0*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.3.0 - Yeah, we're removing the bundle...again...
+
+Updated:
+
+- 2 the TEETH - armed that is
+- Acoustic Occlusion - F4SE
+- Ambitious - An Overhaul Overhaul
+- Commonwealth Ballistics - Penetration System - F4SE
+- Commonwealth Camera - F4SE
+- Commonwealth Encounter Pack
+- Creation Engine Tweaks for Fallout 4
+- CSEP Presents - Axel - A Raider Companion
+- Doomsdayer - Surviving in Survival
+- eXofied Goodneighbor
+- F4SE Menu Framework
+- FO4 NPC Manager
+- FP Gunplay Overhaul
+- FRIENDS - Gotta Have Em
+- FYI - For Your Immersion
+- Goodneighbor Expanded
+- Heather Casdin - Animated Icon Addon
+- High FPS Physics Fix
+- Hit Those Objects
+- Icicles - A 2024 Merry Modding Days Mod
+- Improved America Rising 2 Enclave
+- Light Gobo Fix - F4SE
+- More Quest Animations and Icons
+- Necessity - Nexus Essentials Merged
+- New Equipment Overhaul (NEO) - RobCo Patcher Addon
+- NPCs Travel
+- Radio Reboot Menu
+- Random Encounter Framework Patch Hub
+- Reaper's Munitions Patches
+- RobCo Patcher
+- Safe Travels
+- Sniper Scope Overlay Overhaul
+- Steady Hands - F4SE
+- Survival Mode Overhaul
+- Tactical Flashlights - eXoPatch
+- TRUE - Elemental
+- TRUE - F76 Enemy Scaling RobCo
+- TRUE - F76 Resistances
+- TRUE - F76 Respawn Rate
+- We People Can Live In
+- WitCH - What in the Craftable Hell
+
+Removed:
+
+- **ALL AE BUNDLE RELATED MODS**
+- Barney Rook Lives
+- Bos Infantry Armor
+- BOS Infantry Armor -- CBBE - TWB - 3BBB - ATOMIC - BodySlides
+- Caliente's Beautiful Bodies Enhancer -CBBE
+- Cohesion - All Together Now
+- Encounter Zone Recalculation AE (F4SE)
+- Fusion Cell Retexure - Wattz Microfusion Plus
+- Hina's Previs Patches
+- Looks Menu Customization Compendium Fix
+- Lootable Crates
+- Lootable Crates - Reduced Loot
+- Lootable Crates - Steel Vault-Tec Container to Metal Container
+- No Pip-Boy Light
+- Nuka-World Immersion Enhancements
+- The Yangtze's Captain - Captain Zao Companion Mod
+- TRUE Elemental Resistances
+- TRUE - Legendaries
+- TRUE - Power Armor
+- ZPs Dog Armor
+- ZP's Weapons AIO
+
+Added:
+
+- .22 PDW - Calico M100
+- .45 Machine Pistol - Enfield MP-45
+- 12.7mm SMG - Fallout New Vegas
+- 25mm Grenade APW - HaBCR Patch
+- 7 Glowing Sea Settlements - 2025 Update
+- Angel Extra Icons Edit
+- Angel's Companion Tagging
+- Angel's Ingestible Sorting Enhancements
+- Angel's OMOD Tagging
+- Atom's Cats Warriors
+- AutoMeta - Mod ID and Version from Archive Name (MO2 Plugin)
+- Bullpup Sniper Rifle - Walther WA2000
+- Caliente's Beautiful Bodies Enhancer -CBBE SFW Edition-
+- Cannabis Commonwealth
+- Cannabis Commonwealth - No AWKCR-AE and SKE patch
+- Classic Holstered Weapons System - Wattz Night Vision Scopes Fix
+- Crafting Menu Stuttering Fix - F4SE
+- CW Service Rifle Tactical Reload Patch
+- Diverse Child Settlers
+- Encounter Zone Recalculation (Continuous Level Scaling)
+- Enhanced Battle Rifle - An M14 Mod
+- Extended Fake Interiors - Commonwealth buildings fixes
+- Fallout names for Cannabis Commonwealth strains
+- FO4 Stereo Spatial Fix
+- Grenade APW (25mm Grenade Launcher)
+- Headpart Extended
+- Hunting Shotgun - A New Vegas Classic - Remington 870
+- Intentional Stealing - F4SE
+- Interior DALC Fix
+- Juggernaut__Tactical Power Armor
+- Pip-Boy Light Battery
+- Pip-Boy W.S.
+- Pip-Boy W.S. Vault 111 Rusty Appearance
+- PreVisiBow - Pretty Little PRP Patches
+- Reapers Munitions Additional Ammo Redux Patches
+- Reaper's Robco Munitions Patches
+- Retextures for Sanctuary - Seen Some Shit Edition
+- Selective Looting - Loot with Courtesy - F4SE
+- Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15
+- Small Commonwealth Weaponry Tactical Reload Patch Repository
+- Smooth Cell Loading - F4SE
+- Smooth Headtracking
+- Sons of Steel - Brotherhood Infantry Armor
+- Spadey and Pizza's Additional Stocks (SPAS)
+- Stuck LOD Fix - F4SE
+- Survival Mode Overhaul - Colorful Survival Icons Compatibility Patch
+- The Light Machine Gun - Fallout New Vegas LMG
+- The Varmint Rifle (Fallout New Vegas)
+- The Vim Project
+- To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
+- TRUE - F76 Health
+- Wakey Wakey - NPCS Wake on Gunfire (F4SE)
+- Weapon Subgraph Accelerator - F4SE
+- Zetans - Frogbert as Essential Patch
+- ZP's Blue Hills Research Facility Visual Overhaul
+- ZP's Zetamorphs Visual Overhaul
+
+
+Version 1.2.9 - Another hotfix...
+
+Updated:
+
+- Acoustic Occlusion - F4SE
+- Commonwealth Camera - F4SE
+- FO4 Crash Log Auto Scanner And Setup Integrity Checker (CLASSIC)
+- Mod Switch Framework
+
+Added:
+
+- Seasons Framework
+
 
 Version 1.2.8 - HOTFIX
 

@@ -55,3 +55,5 @@ Merge Plugins Tool (z-Edit - Override Mod Limit): https://www.nexusmods.com/newv
 JPEXS Free Flash Decompiler﻿: https://github.com/jindrapetrik/jpexs-decompiler/releases
 
 Python: https://www.python.org/downloads/
+
+Fallout 4 Style Map Creator: https://docs.google.com/document/d/1QiLwFYTwWnkj0SNp6uTPuZ0Yn82wZhO3QmyaN6j3qVY/edit?tab=t.0
