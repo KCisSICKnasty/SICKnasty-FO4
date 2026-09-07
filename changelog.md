@@ -51,6 +51,7 @@ Updated:
 - Garden of Eden Papyrus Script Extender
 - Grab At Camera
 - Havok Aware Bullet Counted Reload (HaBCR)
+- High FPS Physics Fix
 - Indirect Fire
 - In Water Pickup Fix
 - KARMA
@@ -134,7 +135,6 @@ Removed:
 - Faster Decompression
 - Hellstorm Missile Launcher TWEAKED
 - Helmet Popper
-- High FPS Physics Fix
 - Hunting Rifle Animation Replacer
 - Immersive Bullet Time SFX
 - INDOMITABLE
@@ -278,7 +278,6 @@ Added:
 - Hammers to BOS
 - Hawaiian Shirts
 - Headcase's Mini Nuke
-- High FPS Fix
 - High Tech Trashcans to BOS
 - HiTech Benches to BOS
 - Hitech and Office Desks to BOS
@@ -337,7 +336,6 @@ Added:
 - Paintcans and Paintbrushes to BOS
 - ParkBenches to BOS
 - Pet Food Bowls to BOS
-- Physics Fixes
 - Pip-Boy Companion App Enabler (AE)
 - Pistol Bash Recoil Animation Fix
 - Player Face Target Fixes and Optional Improvements - F4SE
