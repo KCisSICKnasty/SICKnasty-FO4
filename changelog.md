@@ -123,7 +123,6 @@ Removed:
 - Better Weapon Diversity for CHW - RobCo Patcher
 - BodySlide OSP Base Generator (Automatic SliderSet Template Tool)
 - CBP Physics for Anniversary Edition
-- Cell Offset Generator
 - Classic Holstered Weapons System (CHW)
 - CROSS Gore Crits - Skeleton flicker FIX
 - cVc Dead Wasteland World Edit Remover Patch
