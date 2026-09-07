@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.3.0**
+**CURRENT VERSION: 1.3.1**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 
@@ -49,8 +49,7 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Acquaint yourself with MCM. I include many ways to make this list more or less modular, but it's up to you to explore those options. At the very least, before you throw your controller, give MCM a once over. Turn off what's making you mad, or turn on an option that would make the game more fun to you.
 - AFT+ includes a multi-companion feature that scales with your CHR stat. The more points, the more friends you can have at once!
 - Watch what you do! KARMA like in FO3/NV is a thing you'll have to manage.
-- Throw your mines like frisbees!
-- Baseball Grenades detonate on hit, so pitch those fastballs from a distance!
+- Throw your mines like frisbees, mini-nukes like footballs, and your baseball grenades like...baseballs (they detonate on hit)!
 
 **UNINSTALLING/REINSTALLING FALLOUT 4:**
 
@@ -125,29 +124,11 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 - Zip up the updated files (not the ones with the backup extension or the .vcdiff files) and install the new mod through MO2 and make sure it's loaded as early as possible, even before UFO4P or any audio replacers
 
 
-**High FPS Physics Fix:**
-
-***NOTE: I provide a pre-configured version of HFPSPF's ini, though the InGameFPS is set for a Fixed Refresh rate of 60. If that setup doesn't fit yours, you'll have to follow the steps below to tailor it to your rig. Otherwise, you can skip this step.***
-
-***Bonus:*** The Midnight Ride has a calculator specifically for HFPSPF: https://themidnightride.moddinglinked.com/utilities.html (scroll down halfway)
-
-Instructions:
-
-- Double click "The SICKnasty Suite - A Wabbajack Experience - Config" in MO2 under the "SICKnasty Suite" separator
-- Navigate to the "INI Files" tab
-- Click on "F4SE\plugins\HighFPSPhysicsFix.ini"
-- If you use VRR, set InGameFPS (line 59) to a number you can reach across the majority of the game[3], it has to be between 48[4] and refresh rate - (refresh rate x 6.8%)
-- If you use fixed refresh rate (meaning no VRR), set InGameFPS (line 59) to your refresh rate - 0.005 or fractions of your refresh rate. For example on 60hz you can lock to 59.995 or 30. Just like on VRR, choose whether to lock to a fraction or RR-0.005 based on which is closest to your lowest FPS
-- If you've set a value that's higher than 60, do the following as well:
-	- Set DynamicUpdateBudget to true (line 291)
-	- Set BudgetMaxFPS to the same value as InGameFPS (line 310)
-
-
 **Place Everywhere:**
 
 Instructions:
 
-- Double click "The SICKnasty Suite - A Wabbajack Experience - Config" in MO2 under the "SICKnasty Suite" separator
+- Double click "The SICKnasty Suite - A Wabbajack Experience - Config" in MO2 under the "Staging" separator
 - Set hotkeys to your liking (or don't if you choose not to use the mod)
 - In game, press F8 to activate "place-everywhere" mode (off by default)
 
@@ -163,7 +144,7 @@ Instructions:
 
 **DISCLAIMER!!!**
 
-*This mod list is ***VERY*** big. You'll probably be confused if you try to launch the game without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
+*This mod list is ***VERY*** large. You'll probably be confused if you try to launch the game without reading this. Like, "Why didn't I wait forever for the menu to load? Why is the game not letting me start?" We sacrifice the infinite darkness of waiting for the game to start & show the Bethesda logo in exchange for what I'd like to call, "watching the Audio load". Once the main menu opens, and you can navigate to settings, do so and you'll notice that you can alter any of them except for "Audio", which has a loading wheel next to it. When that finishes, only then may you start. It is going to take a long time to load. It is a large list with many large mods in Loose Files format. The only downside to this is you gotta "watch the Audio load". But it's cool, right?*
 
 
 *Mod Configuration Menu*
@@ -171,7 +152,6 @@ Instructions:
 After leaving the vault, you'll want to actually open up MCM for the first time:
 
 - In your pause menu, choose "MCM" (first time will load for a long time while it builds cache)
-- Set VAFS hotkey (I recommend replacing the pipboy light key, since I've disabled its function)
 - Set Configurable Hotkeys
 - Turn True Storms on
 - Turn Bullet Counted Reload on
@@ -179,7 +159,10 @@ After leaving the vault, you'll want to actually open up MCM for the first time:
 	- set "Fly in Workshop Mode" to "OFF" and set hotkeys (or remember to NEVER use a jetpack in Workshop Mode, *or else*)
 - In Power Armor Handling Improvements - Retain Armor Buffs:
 	- Set "Remove Armor on PA Entry but keep buffs" (or Auto if Survival) or Carryweight is doubled
-
+- In Ultimate Hacking:
+	- Disable "Terminal Security Detection"
+- In Upscaling:
+	- Choose your preset (use the Upscaling table from The Midnight Ride's "Visuals" step: https://themidnightride.moddinglinked.com/visuals.html)
 
 **A note on lore:**
 
@@ -199,9 +182,7 @@ Only enable the following plugins if you're prepared to use them (details on usa
 - **PersonalRadio2.esp**
 - **PersonalRadio2Receiver.esp**
 - **CBS_PR2_Patch.esp**
-- **Music76in4Continued.esp:** https://www.nexusmods.com/fallout4/mods/84798
 - **Face Ripper Presets.esp:** https://www.nexusmods.com/fallout4/mods/3878
-- **AutoCellDisplay.esp:** https://www.nexusmods.com/fallout4/mods/69978
 - **Dummy Plugin.esp:** https://www.nexusmods.com/fallout4/mods/33484
 - **Facegen_RealHD_SDK.esp:** https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=332037&game_id=1151&nmm=1
 
