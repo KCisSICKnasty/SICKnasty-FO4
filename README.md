@@ -41,6 +41,7 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 ***Doomsdayer -*** quality of life survival mode additions and tweaks
 ***Plugins Dubbed ESL -*** a bunch of ESL flagged plugins
 ***PreVisiBow -*** PRP patches built against Fallout 4 DLC Consistency Patch
+***Cohesion -*** *Allllll together now...* **ALL TOGETHER NOW!!!**
 
 *Spoilers: (if you enjoy diving into a list completely blind, skip this)*
 

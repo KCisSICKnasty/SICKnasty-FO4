@@ -2,16 +2,21 @@
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
 
-Version 1.3.1 - FO4 1.11.240 UPDATE!!!
+Version 1.3.1 - FO4 1.11.240 UPDATE!!! (re-uploaded after redoing LOD and everything)
 
 Updated:
 
 - 2 the TEETH - armed that is
 - Acoustic Occlusion - F4SE
+- Actor Widgets - Dynamic Health Bars and Actor Information - F4SE
+- Adaptive NPC Aim - F4SE
+- Addictol
 - Address Library for F4SE Plugins
 - Amazing FollowerTweaks Plus (AFT Plus)
 - Ambitious - An Overhaul Overhaul
 - America Rising 2 - Legacy of the Enclave
+- Backpacks of the Commonwealth
+- Barter Menu Lag Fix - F4SE
 - Bastion - A Power Armor Overhaul
 - Better Fusion Core Management - F4SE
 - Boston Riot Armor
@@ -20,10 +25,11 @@ Updated:
 - Common Description
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Camera - F4SE
+- Community Fixes Merged
 - Companion Status Enhanced
 - Crafting Highlight Fix
-- Crafting Menu Stuttering Fix - F4SE
 - Creation Engine Tweaks for Fallout 4
+- Creation Kit Platform Extended for Fallout 4
 - CRITTERS - A Wholotovum
 - Customizable Combat AI Nearby Object Search - F4SE
 - Deadeye
@@ -39,20 +45,28 @@ Updated:
 - Extensible Commands
 - F4SE Menu Framework
 - Facial Expression and Eyetracking Engine Fixes - F4SE
+- Faction Workshop Manager 2
 - Fallout 4 Script Extender (F4SE)
 - Fix Radio Subtitle
+- FO4 Fixes for Mod Compressor Tool for MO2
 - FO4 NPC Manager
 - FO4 - Wardrobe Manager
 - FO4StringUtils
 - Follower AI Approach Reaction Fix - F4SE
 - FP Gunplay Overhaul
 - FRIENDS - Gotta Have Em
+- FWM2 Faction - Atom Cats
+- FWM2 Faction - Enclave
+- FWM2 Faction - Rust Devils
+- FWM2 Faction - Trappers
 - FYI - For Your Immersion
 - Garden of Eden Papyrus Script Extender
 - Grab At Camera
 - Havok Aware Bullet Counted Reload (HaBCR)
-- High FPS Physics Fix
+- High Quality Pip-Boy Map - Alignment Fix
+- Humanoid Getting up Fix - AE
 - Indirect Fire
+- Intentional Stealing - F4SE
 - In Water Pickup Fix
 - KARMA
 - KC's SICKnasty Patch Pit
@@ -62,8 +76,10 @@ Updated:
 - Light Gobo Fix - F4SE
 - LooksMenu
 - Looks Menu Console Extend
+- LOST Audio Tweaks
 - Lucky Rabbits Foot Charm for Dak's .38 Machine Pistol
 - Magic Effect and Spell Engine Fixes - F4SE
+- MCM Booster AE
 - Mod Configuration Menu
 - Mod Switch Framework
 - More Quest Animations and Icons
@@ -78,6 +94,7 @@ Updated:
 - Place Everywhere
 - Plots Extended
 - Precombine And Previs Guardian - F4SE
+- Previsibines Repair Pack Stable Branch - PRP
 - PreVisiBow - Pretty Little PRP Patches
 - Prisma UI - NG and OG Web UI Framework Fallout 4
 - Rain Bug Fix - F4SE
@@ -86,7 +103,9 @@ Updated:
 - Register Image For HUD
 - Remove Ammo from Dropped Guns
 - Rename Anything
+- Repairable Sanctuary Bridge
 - RobCo Patcher
+- Scrap And Shrapnel - A Makeshift Handmade Grenade Pack
 - Selective Looting - Loot with Courtesy - F4SE
 - Show All Armors and Outfits - F4SE
 - Sim Settlements 2
@@ -95,17 +114,20 @@ Updated:
 - Smooth Cell Loading - F4SE
 - Smooth Headtracking
 - Sons of Steel - Brotherhood Infantry Armor
-- Sprint Stuttering Fix
 - Steady Hands - F4SE
 - Stuck LOD Fix - F4SE
 - Survival Mode Overhaul
 - Toggle Aim (F4SE)
 - Transfer Inventories - F4SE
-- TRUE - Elemental
+- Transfer Settlements - Shareable Settlement Blueprints
+- TRUE - Difficulty
+- TRUE - Elemental - Cryo Fire Poison Radiation Bleed
 - TRUE - F76 Enemy Scaling RobCo
 - TRUE - F76 Resistances - Armor Rebalance
 - TRUE - F76 Respawn Rate
+- TRUE - Legendaries
 - TRUE - Tweaks
+- Tumbajamba Armors CBBE Conversions
 - Unofficial Fallout 4 Patch - UFO4P
 - Unscaled Movement
 - Vile - Ambience Lain to Waste
@@ -120,23 +142,33 @@ Removed:
 - 4estGimp - Weapon Death Drop Fix
 - Additional Attributes
 - Adjustable VATS - F4SE
+- Armor Penetration Bug Fix - F4SE
 - Better Weapon Diversity for CHW - RobCo Patcher
 - BodySlide OSP Base Generator (Automatic SliderSet Template Tool)
 - CBP Physics for Anniversary Edition
+- Cell Offset Generator
 - Classic Holstered Weapons System (CHW)
+- Crafting Menu Stuttering Fix - F4SE
 - CROSS Gore Crits - Skeleton flicker FIX
 - cVc Dead Wasteland World Edit Remover Patch
+- Decal Fix
 - ESC to Menu Close
+- F4z Ro D-oh - Silent Voice
 - FallHook - Runtime xTranslator XML Loader
+- Fallout4.exe Process Icon Fix
 - Fallout 4 Audio Switch Support - F4SE
 - Fallout 4 Data Structures
 - Fallout 76 Music Continued
+- FallUi Icons patch for RAP
 - Faster Decompression
+- Fix Automatron Headlight and ShockClaw effects
 - Hellstorm Missile Launcher TWEAKED
 - Helmet Popper
+- High FPS Physics Fix
 - Hunting Rifle Animation Replacer
 - Immersive Bullet Time SFX
 - INDOMITABLE
+- Jetpack Water Physics Fix - F4SE
 - Juggernaut__Tactical Power Armor
 - Kill Tips and Hit Indicator Sound
 - Kill Tips for female Silver Shroud
@@ -144,19 +176,32 @@ Removed:
 - Load Time Profiler
 - Locations and Regions display
 - Looks Menu Temp Scroll
+- Moderm FOV Changer - Works with MCM. OG and NG
 - Moon Direction Fix
 - Nested Hotkeys
+- No Console Spam
+- NPC Health Overflow Fix - F4SE
 - P71 In Game Shop Mod Explorer
 - Pey's Robco SCBA Patches
 - Reapers Munitions Additional Ammo Redux Patches
+- Replaceable Armor Plates
+- Replaceable Armor Plates aSW Patch
 - Right-handed Far Harbor Lever Action Replacer
 - Right-handed Nukaworld AK Replacer
 - Right-handed SubmachineGun
+- RobCo - Deathclaws and Alike Creatures Don't Take Fall Damage
+- RobCo - Deathclaws' Exploit and Rages
+- RobCo - Empowered Giants - Behemoth - Deathclaw etc.
+- RobCo - No AP-Cost Penalty from Scopes
+- RobCo - No AP-Cost Penalty from Stocks
+- RobCo Patcher - Cats Give Happiness
 - RobCo - Smarter Companions
 - RobCo - Smarter Player - Reduced Limb and Fall Damage
 - SCBA Breathing Framework
+- Sprint Stuttering Fix
 - String Attributes
 - Stuff to the BOS - a comprehensive Base Object Swapper mod
+- Survivalist's Bus - No Free Fusion Core
 - T-47R Quantum Steel Crash Fix
 - TAA Flicker Fixer Best Settings
 - Tactical Reload Patch Repository (DEPRECATED)
@@ -165,6 +210,7 @@ Removed:
 - TG'z East Boston Interiors
 - TG'z North End Interiors
 - TG'z West Cambridge Interiors
+- The Haunting
 - The Varmint Rifle (Fallout New Vegas)
 - TRUE - Performance
 - TRUE - Radiation
@@ -172,6 +218,8 @@ Removed:
 - VAFS Redux - Awareness perk fixes
 - VAFS Redux - Bullet Time and Manual Critical
 - VAFS Redux MAIM Patch
+- Vault-Tec Workshop Gear Door Fix
+- Vendors Have More Caps - RobCo
 - Vendors Sell Modded Weapons
 - Weapon Subgraph Accelerator - F4SE
 - Wet Effects
@@ -195,6 +243,7 @@ Added:
 - A-10 Warthog CAS
 - A Bundle of Tape - A weapons pack
 - AffinityHUD
+- Airborne Jetpack Footstep Fix F4SE
 - Alarm Clocks to BOS
 - Alcohol Remove Rads - RobCo Patcher
 - Alternative Activation Prompts
@@ -204,6 +253,7 @@ Added:
 - Automatically Lowered Weapons - F4SE
 - AutoMove Input Switch Fix - Gamepad AutoMove Preservation
 - Balls to BOS
+- Barter Menu Lag Fix - F4SE
 - Bathroom Mirrors to BOS
 - Behavior Graph Studio - Havok Tooling
 - Bethany Recruitable Settler (Also A Level 4 Surgery Center Vendor)
@@ -225,6 +275,7 @@ Added:
 - Casing Framework
 - CC Enclave Combat Armor Paint - Reimagined
 - Cell Coordinates
+- Cell Indexer
 - Chalks to BOS
 - Chemistry Stations to BOS
 - Chessboards to BOS
@@ -232,6 +283,10 @@ Added:
 - Classy Glass
 - Clipboards to BOS
 - Close Pip-Boy On Use - F4SE
+- COD Warzone - Armor Plates System
+- Cohesion - All Together Now
+- Commonwealth Encounter Director - F4SE
+- Commonwealth Goremites - Wasteland Workshop Cage
 - Commonwealth Intimidation - F4SE
 - Commonwealth Trashcans to BOS
 - Commonwealth Weaponry Vendors
@@ -250,10 +305,12 @@ Added:
 - Cut Content Recruitable Scribe Collins
 - Cut Content Recruitable The Watcher
 - Cut Content Recruitable Vikter
+- CW Infantry Battle Rifle - Tactical Reload Patch
 - CW Remington 870 and Auto-5 Enhanced BCR Support
 - CW The 12.7mm Carbine - Scope and Sights Fixes
 - Dak Police Shotgun - 3rd Person Power Armor Animations Fix
 - Dauntless Linked Workbenches
+- Dear Modding UI
 - Dense Natural Grass
 - Dinner and Cafeteria Trays to BOS
 - Disable Interior Fog
@@ -262,6 +319,7 @@ Added:
 - Enamel and Metal Buckets to BOS
 - Enclave Vertibird Corps - CBBE
 - Enhanced Console
+- Expanding Bullets Ammo Scarcity
 - Extra conversion mags (ECM) - HMAR attachment pack
 - F4FFMPEG
 - F4SE - Item Instance Data Framework
@@ -272,11 +330,13 @@ Added:
 - Fix Collection
 - Folders to BOS
 - Framework Status
+- FWM2 Faction - Nuka World Raiders
 - Ghost Mode Fix tweak
 - Goliath Prime - Male Automatron Voice Rework -
 - Hammers to BOS
 - Hawaiian Shirts
 - Headcase's Mini Nuke
+- High FPS Fix
 - High Tech Trashcans to BOS
 - HiTech Benches to BOS
 - Hitech and Office Desks to BOS
@@ -284,6 +344,7 @@ Added:
 - Hunting Carbine - AR-16 Colt Rangemaster Inspired
 - Hunting Rifle - Commonwealth Weaponry Addons
 - Ice Machines to BOS
+- Immersive Animation Framework - Chem Reanimations
 - Immersive Animation Framework (IAF) - Slow Time
 - Immersive Nail Polish
 - Improved Settlers
@@ -296,6 +357,7 @@ Added:
 - Intense Dark Nights
 - Involuntary Discharge F4SE
 - Iron Sights Fixes for Modded Weapons (plus other fixes and tweaks)
+- ITOv2 Secondary Relay Alpha Workshop CTD Fix
 - Jaggernaut__Tactical Power Armor
 - Lechmere Station Settlement
 - Lighting Fixes
@@ -327,14 +389,17 @@ Added:
 - N7kie's Tactical Reload patches - RobCo Patcher
 - Native SweetFX
 - News Stands to BOS
+- Nobody's Leaders 3 - Sim Settlements 2
 - No bonus XP for Survival Mode
 - NODE - Settlement Network Dashboard
 - No Objectives - A simple patch for LarannKiar's Recruitment Mods
 - Nuka World Trashcans to BOS
 - OCBP LPCE physics
+- Oswald The Outrageous - Companion Mod
 - Paintcans and Paintbrushes to BOS
 - ParkBenches to BOS
 - Pet Food Bowls to BOS
+- Physics Fixes
 - Pip-Boy Companion App Enabler (AE)
 - Pistol Bash Recoil Animation Fix
 - Player Face Target Fixes and Optional Improvements - F4SE
@@ -342,9 +407,12 @@ Added:
 - Police Pistol For Valentine
 - Police Shotgun (Remington 870)
 - Police Sidearm - (Smith and Wesson 39 59 Hush Puppy)
+- Police Sidearm Tactical Reload
+- Pointer Handle Limit Fix
 - Pots and Pans to BOS
 - Power Armor Permissions F4SE
 - Power Armor Stations to BOS
+- Power Armor Pip-Boy UI - F4SE
 - Preston Quest Transition Fix
 - Prime MK2 -Liberty Prime Voice Rework-
 - PRIME Plus - AI -
@@ -397,12 +465,12 @@ Added:
 - Recruit Tina De Luca - Bobby De Luca - Holt Combes
 - Recruit Trader Rylee as Settler
 - Recruit Virgil as Settler
-- Re-textures for Puddle replacing
 - Revolutionary Musket and Blunderbuss
 - Righty Triple Pack - Right Handed Weapon Animations
+- RobCo - Sentry Bots Can Stealth
+- Robotics Disposal brick in the car fix
 - Runtime Database
 - Safes to BOS
-- Seen Some Asphalt-Puddles-Rubble - DreadEye Edit
 - SetLevel Health Fix - F4SE
 - Settlement Radio Loudspeakers
 - Shield Animation Overhauls
@@ -430,12 +498,14 @@ Added:
 - The 12.7mm Carbine - A Commonwealth Weaponry Original
 - The 12.7mm Carbine - A Commonwealth Weaponry Original - Tactical Reload Patch
 - The 9mm Pistol (Browning Hi-Power) Fallout New Vegas
+- The Backrooms - The Poolrooms - A Liminal ASYNC Experience
 - The Marine Shotgun - Prototype SW Burst Shotgun
 - The Marine Shotgun Tactical Reload Patch
 - The Police Pistol (and Colt Python) - Fallout New Vegas
 - The Scrap Revolver - Rust Inspired
 - The Scrap Revolver - Rust Inspired - Tactical Reload Patch
 - The Shotgun Revolver - MGSV Inspired
+- The Train - RE-RAILED
 - The Varmint Revolver (Taurus Judge)
 - Tint Fix
 - Ultimate Hacking
@@ -443,6 +513,7 @@ Added:
 - Uneducated Reload
 - Unique Pack for Dak Weapons
 - Vault 111 - No more early 10mm Pistol
+- Vault 113 - The Lovecraftian Dungeon
 - Vertibird altitude fix for The Forest ver. 6.4
 - Vicious Canines
 - Visible Favorites - F4SE
@@ -455,13 +526,13 @@ Added:
 - Wade In Water - Immersive Water Movement - F4SE
 - Washers and Dryers to BOS
 - Weapon Workbenches to BOS
+- Workshop and Settlement Fixes
 - Workshop Workbenches to BOS
 - xCADAVVER 3rd Person Handmade Rifle Animations
 - Zombie Vertibird Fix - RobCo Patch
 - ZP's Brotherhood of Steel Piper Silver Shroud Outfits
 - ZP's Combat and Leather Armor
 - ZP's Next-Gen Weapons Creation Club
-- ZP's Sounds for the Wasteland
 - ZP's Synth Armor
 - ZP's Synths Valentine DiMA
 - ZP's Weapons AIO
