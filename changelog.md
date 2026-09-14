@@ -140,7 +140,6 @@ Updated:
 Removed:
 
 - 4estGimp - Weapon Death Drop Fix
-- Additional Attributes
 - Adjustable VATS - F4SE
 - Armor Penetration Bug Fix - F4SE
 - Better Weapon Diversity for CHW - RobCo Patcher
@@ -157,7 +156,6 @@ Removed:
 - FallHook - Runtime xTranslator XML Loader
 - Fallout4.exe Process Icon Fix
 - Fallout 4 Audio Switch Support - F4SE
-- Fallout 4 Data Structures
 - Fallout 76 Music Continued
 - FallUi Icons patch for RAP
 - Faster Decompression
@@ -199,7 +197,6 @@ Removed:
 - RobCo - Smarter Player - Reduced Limb and Fall Damage
 - SCBA Breathing Framework
 - Sprint Stuttering Fix
-- String Attributes
 - Stuff to the BOS - a comprehensive Base Object Swapper mod
 - Survivalist's Bus - No Free Fusion Core
 - T-47R Quantum Steel Crash Fix
