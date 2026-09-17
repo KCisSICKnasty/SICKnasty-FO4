@@ -20,6 +20,7 @@ Removed:
 - High FPS Fix
 - Physics Fixes
 - Shady Salesman AE Update
+- Sim Settlements 2 - Lexington Underground Bugfix
 
 Added:
 
@@ -29,6 +30,7 @@ Added:
 - High FPS Physics Fix
 - Kelly Manor - Delayed Start
 - Load Screens - Grammar Fixes Repository
+- Reload Fix AE (F4SE)
 - REPUTATION
 - SICKnasty - Merge INNR Conflicts - xEdit Script
 - The Kelly Manor Horror - Quest
