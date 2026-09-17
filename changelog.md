@@ -1,6 +1,39 @@
-**Current Version: 1.3.1*
+**Current Version: 1.3.2*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.3.2 - Quick fix for infinite loading on new game and CTD from Shady Salesman
+
+Updated:
+
+- Actor Widgets - Dynamic Health Bars and Actor Information - F4SE
+- COD Warzone - Armor Plates System
+- Community Fixes Merged
+- DirectHit
+- Oswald The Outrageous - Companion Mod
+- The Train - RE-RAILED
+- TRUE - 76 Resistances - Armor Rebalance
+- Vault-Tec Workshop Overhaul Redux (VTWOR)
+
+Removed:
+
+- High FPS Fix
+- Physics Fixes
+- Shady Salesman AE Update
+
+Added:
+
+- Creation Club Enclave Respawns Restored
+- Dynamic Cubemap F4
+- Gasmask Overhaul 2287
+- High FPS Physics Fix
+- Kelly Manor - Delayed Start
+- Load Screens - Grammar Fixes Repository
+- REPUTATION
+- SICKnasty - Merge INNR Conflicts - xEdit Script
+- The Kelly Manor Horror - Quest
+- The Preacher - A Faithful Follower
+
 
 Version 1.3.1 - FO4 1.11.240 UPDATE!!! (re-uploaded after redoing LOD and everything)
 
@@ -64,7 +97,7 @@ Updated:
 - Grab At Camera
 - Havok Aware Bullet Counted Reload (HaBCR)
 - High Quality Pip-Boy Map - Alignment Fix
-- Humanoid Getting up Fix - AE
+- House Rules
 - Indirect Fire
 - Intentional Stealing - F4SE
 - In Water Pickup Fix
@@ -311,6 +344,7 @@ Added:
 - Dense Natural Grass
 - Dinner and Cafeteria Trays to BOS
 - Disable Interior Fog
+- Discord Rich Presence
 - Dynamic Activation Key
 - Dynamic Grass
 - Enamel and Metal Buckets to BOS
