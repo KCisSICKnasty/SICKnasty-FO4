@@ -1,6 +1,6 @@
 # The SICKnasty Suite
 
-**CURRENT VERSION: 1.3.2**
+**CURRENT VERSION: 1.3.3**
 
 **Load Order Library: https://loadorderlibrary.com/lists/the-sicknasty-suite **
 
@@ -37,8 +37,10 @@ The SICKnasty Suite is the largest modlist you'll find. Mods included have been 
 ***Vile -*** the absolute worst looking visual overhaul you've ever seen
 ***For Your Immersion -*** a lore-friendly Commonwealth makeover
 ***We People Can Live In -*** Glitchfinder's People/We Can Live In series AiO
+***The Train - RE-RAILED -*** a ReDux of the Nexus classic "The Train"
 ***Face Factory -*** 2k FaceGen for EVERYONE
 ***Doomsdayer -*** quality of life survival mode additions and tweaks
+***P.A.L.A.D.I.N. -*** a ReDuxed version of Power Armor to the People
 ***Plugins Dubbed ESL -*** a bunch of ESL flagged plugins
 ***PreVisiBow -*** PRP patches built against Fallout 4 DLC Consistency Patch
 ***Cohesion -*** *Allllll together now...* **ALL TOGETHER NOW!!!**

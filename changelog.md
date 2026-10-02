@@ -1,6 +1,152 @@
-**Current Version: 1.3.2*
+**Current Version: 1.3.3*
 
 **NOTE:** Changelog does not show individual files added or removed if the list still contains a file from the same mod page.
+
+Version 1.3.3 - More fixing...
+
+Updated:
+
+- Actor Widgets - Dynamic Health Bars and Actor Information - F4SE
+- Automatically Lowered Weapons - F4SE
+- Baka Framework
+- Commonwealth Ballistics - Penetration System - F4SE
+- Commonwealth Camera - F4SE
+- Companion Status Enhanced
+- Configurable Hotkeys
+- Creation Engine Tweaks for Fallout 4
+- Dialogue Freeze Fix - F4SE
+- DirectHit
+- DKS Sniper Rifle - DKS-501 Sniper Rifle Redux
+- Dynamic Grass
+- Equipment and Crafting Overhaul (ECO) - Redux
+- Fallout 76 VATS - F4SE
+- Fix Collection
+- FO4 NPC Manager
+- FO4 - Wardrobe Manager
+- Full Body First Person - F4SE
+- Gasmask Overhaul 2287
+- Holy Framework
+- Hunter of the Commonwealth
+- Improved Brotherhood of Steel
+- Improved Hostile Factions
+- Involuntary Discharge F4SE
+- Lasers No Recoil - ESL
+- Legendary Effect Overhaul (LEO) - Crafting - Drops - Modifications - And More
+- Leveled Item Fixes (LIF)
+- Mini Map
+- Mod Configuration Menu - RD
+- More HUD Info
+- New Equipment Overhaul (NEO) - Armor And Clothing Tweaks
+- Nobody's Leaders 3 - Sim Settlements 2
+- NODE - Settlement Network Dashboard
+- Papyrus Compiler Patch (NoDox edition) - Fallout 4
+- Pip-Boy Light Detection Fix - F4SE
+- Prisma UI - NG and OG Web UI Framework Fallout 4
+- Reaper's Robco Munitions Patches
+- REPUTATION
+- Rivets And Rage - A Scrappy Raider Armor Overhaul
+- Shield Framework
+- Sim Settlements 2
+- Sim Settlements 2 - Chapter 2
+- Sim Settlements 2 - Chapter 3
+- Sim Settlements 2 Charity mod Add-ons
+- T60 Equipment Add On
+- Tactical Reload updated Vanilla and DLC patch
+- The Preacher - A Faithful Follower
+- Various SMM Patches
+- Visible Favorites - F4SE
+- Weapon Debris Crash Fix
+- Workshop Framework
+- ZP's Blue Hills Research Facility Visual Overhaul
+
+Removed:
+
+- 4estGimp - A Bundle of Tape Edit
+- 7 Glowing Sea Settlements - 2025 Update
+- A Bundle of Tape - A weapons pack
+- Classic Remnants Power Armor (Legacy)
+- Enclave and Minutemen Settlers at the Edge of the Glowing Sea
+- Enclave Settlers at Federal Supply Cache 84NE
+- F4NV Classic Recharger Weaponry
+- F4NV Recharger Weaponry - Noise Remover
+- HK G11 K2 - Kraut Space Magic
+- KC's INNR Patches (KIP)
+- KC's SICKnasty Patch Pit
+- Leveled Item Fixes Patches (LIFP)
+- Looted World Patches (LWP)
+- M1 Garand and SVT-40 - Lower Reload SFX Volume
+- More Legendary Effects (Fallout 76 and Beyond)
+- New Equipment Overhaul Patches (NEOP)
+- Pey's Tactical Reload Patch Repository - Robco Patcher Edition
+- Power Armor Pip-Boy UI - F4SE
+- Power Armor Repair Takes Skill (PARTS) - Visible Requirements
+- Power Armor to the Improved People
+- Power Armor to the People - LEO Patch
+- Power Armor to the People (Power Armored Enemies - Legendary Power Armor)
+
+Added:
+
+- 4estGimp - Doom Engine Compacted Edit
+- 4estGimp - Legion Power Armor Compacted
+- AC Units to BOS
+- America Rising 2 - Seasons Change Tree Fix
+- Animated World
+- Another Cubemap
+- AW - Cigarettes
+- AW - Knundrums Vanilla Patch
+- AW - Vulture Patch
+- Bobby Pins to BOS
+- Cardboard Boxes to BOS
+- Ceiling Fans to BOS
+- Chemfluence - AI Combat Dynamics
+- Classic Remnants Power Armor Redux
+- Cloth Hangers to BOS
+- Cloud Shadows
+- Console History - F4SE
+- Construction Barriers to BOS
+- CROSS Crit Gore Overhaul and America Rising 2 Integration Patch
+- Enhanced Blood Textures
+- Examine Lag Fix - F4SE
+- Fallout 4 Community Shaders - MEGA BETA
+- Faster Startups
+- First Person Rear Light Fix F4SE
+- FIS - Knundrum Library Addon
+- Full Body First Person - F4SE
+- Gurneys to BOS
+- HELA - Dungeon and Companion
+- Hologram Holotags
+- Horseman of the Apocalypse - War
+- KnightPowerArmor
+- Knights Of Shame - Medieval Armor And Weapons - Now with Power Armor
+- Laser Scan - M01 Power Armor by Pnoxi
+- Lawn Flamingos to BOS
+- Looks Menu Scrollbar
+- Minutemen General's Power Armor - M01
+- Modern Combat AI - F4SE
+- Natural Cubemaps
+- P.A.L.A.D.I.N. - Power Armor Legendaries Acquisition Durability Integration and Naming
+- Perk Conditions Framework (PCF)
+- Picture Frames to BOS
+- Plastic Pumpkins to BOS
+- Power Armor Stations by Pnoxi
+- Record Override Detector
+- Safe Scrap (UI configurable)
+- Sensible High Resolution Weapon Textures
+- Shrine Anchorite - Trench Crusade Inspired Power Armor and Holy Weapons
+- Smart Selection - Better Object Interaction - F4SE
+- The Battle Rifle - New Vegas M1 Garand
+- The Chopper - A Raider Melee Weapon
+- The Varmint Rifle (Fallout New Vegas)
+- Tires to BOS
+- TrapCans to BOS
+- Tricycles to BOS
+- True Knight Power Armor HD 4K
+- True Third Person AE - F4SE
+- V.I.S.C.E.R.A.L - Blood VFX Overhaul
+- V.I.S.C.E.R.A.L Darker Blood
+- VoiceFX Compatibility patches
+- Weapon Switch Stuttering Fix - F4SE
+
 
 Version 1.3.2 - Quick fix for infinite loading on new game and CTD from Shady Salesman
 
@@ -25,6 +171,7 @@ Removed:
 Added:
 
 - Creation Club Enclave Respawns Restored
+- Damage Widgets - Dynamic Combat Feedback - F4SE
 - Dynamic Cubemap F4
 - Gasmask Overhaul 2287
 - High FPS Physics Fix
